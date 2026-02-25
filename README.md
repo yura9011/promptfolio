@@ -1,120 +1,88 @@
-#  Promptfolio
+# Promptfolio
 
-Galería visual personal para documentar y explorar imágenes generadas por IA, mostrando el proceso creativo detrás de cada imagen (prompts, configuraciones, modelo usado).
+Galería minimalista para documentar imágenes generadas por IA con sus prompts completos y metadata técnica.
 
-** Demo**: https://yura9011.github.io/promptfolio/
+**Demo**: https://yura9011.github.io/promptfolio/
 
-##  Documentación
+## Características
 
-- ** [Quick Start](QUICKSTART.md)** - Pon tu galería online en 5 minutos
-- ** [Deploy Guide](DEPLOY.md)** - Guía completa de deployment
-- ** [Commands](COMMANDS.md)** - Referencia rápida de comandos
-- **� [Usage Guide](docs/USAGE.md)** - Guía detallada de uso
+- Galería full-screen estilo masonry (Pinterest)
+- Panel lateral con detalles completos de cada imagen
+- Almacenamiento 100% gratuito en GitHub Pages
+- Sistema de upload automatizado con numeración secuencial
+- Detección de duplicados por hash MD5
+- Compresión automática de imágenes >2MB
+- Backup automático de originales
+- Soporte para prompts XML complejos
 
----
+## Stack Técnico
 
-##  Características
--  Búsqueda y filtros por categoría
-- 🤖 Sistema de upload automatizado para agentes
--  Detección automática de duplicados
-- � Compresión automática de imágenes
--  Backup automático de originales
-- ☁ Almacenamiento en Cloudinary
+- HTML/CSS/JavaScript vanilla (sin frameworks)
+- GitHub Pages para hosting
+- JSON para metadata
+- Node.js para scripts de automatización
 
-##  Instalación
-
-### 1. Clonar el repositorio
-
-```bash
-git clone <repo-url>
-cd ai-image-gallery
-```
-
-### 2. Instalar dependencias
+## Instalación
 
 ```bash
+git clone https://github.com/yura9011/promptfolio.git
+cd promptfolio
 npm install
 ```
 
-### 3. Configurar Cloudinary
+## Uso
 
-1. Crear cuenta en [Cloudinary](https://cloudinary.com/) (gratis hasta 10GB)
-2. Copiar credenciales desde el dashboard
-3. Crear archivo `.env` basado en `.env.example`:
+### 1. Preparar imágenes
 
-```bash
-cp .env.example .env
-```
-
-4. Editar `.env` con tus credenciales:
-
-```env
-CLOUDINARY_CLOUD_NAME=tu_cloud_name
-CLOUDINARY_API_KEY=tu_api_key
-CLOUDINARY_API_SECRET=tu_api_secret
-```
-
-##  Uso - Subir Imágenes
-
-### Workflow Simple
-
-1. Crear carpeta con tus imágenes:
+Dejá tus imágenes y archivos .txt en la carpeta `uploads/`:
 
 ```
-/new-images/
-  ├── dragon001.png
-  ├── dragon001.txt
-  ├── cyberpunk-city.jpg
-  └── cyberpunk-city.txt
+uploads/
+  ├── mi-imagen.png
+  ├── mi-imagen.txt
+  ├── otra-imagen.jpg
+  └── otra-imagen.txt
 ```
 
-2. Crear archivo `.txt` para cada imagen con la metadata:
+### 2. Formato del archivo .txt
 
+El script detecta automáticamente el formato. Soporta:
+
+**Formato con MODEL/DIMENSIONS/SEED al final:**
 ```txt
-Prompt: A majestic dragon flying over mountains at sunset
-Model: Stable Diffusion XL
-Category: Dark Fantasy
-Achievement: yes
-Steps: 30
-CFG Scale: 7.5
-Sampler: DPM++ 2M Karras
-Seed: 123456789
-Notes: Primera versión exitosa
+Tu prompt completo aquí (puede ser XML o texto)
+
+MODEL
+Z-Image-Turbo
+
+DIMENSIONS
+1024 × 1024
+
+SEED
+868423990
+
+STEPS
+9
+
+SAMPLER
+res_multistep
+
+SCHEDULER
+simple
 ```
 
-3. Ejecutar el script:
-
-```bash
-npm run upload ./new-images
-```
-
-o directamente:
-
-```bash
-node scripts/upload-images.js ./new-images
-```
-
-### Formato del archivo .txt
-
-El parser es flexible y acepta varios formatos:
-
-**Formato estructurado** (recomendado):
+**Formato key:value:**
 ```txt
-Prompt: Tu prompt aquí
-Model: Stable Diffusion XL
-Category: Fotorealismo
-Achievement: yes
+prompt: A majestic dragon flying over mountains
+model: Stable Diffusion XL
+category: Dark Fantasy
+achievement: yes
+steps: 30
+cfg_scale: 7.5
+sampler: DPM++ 2M Karras
 ```
 
-**Formato libre** (también funciona):
-```txt
-Stable Diffusion XL
-Fotorealismo
-Un paisaje cyberpunk con neón
-Achievement
-```
-
-**Categorías disponibles**:
+**Categorías disponibles:**
 - Anime
 - Manga
 - Dark Fantasy
@@ -123,48 +91,65 @@ Achievement
 - Surrealismo
 - Otros
 
-## � Scripts Disponibles
+### 3. Subir imágenes
 
-### Upload de imágenes
 ```bash
-npm run upload ./carpeta-imagenes
+npm run upload
 ```
 
-### Validar datos
+El script automáticamente:
+- Calcula hash MD5 para detectar duplicados
+- Renombra a formato secuencial (img-001.png, img-002.png, etc.)
+- Comprime si pesa >2MB (manteniendo calidad)
+- Copia a `images/`
+- Actualiza `data/images.json`
+- Hace backup en `backup/`
+
+### 4. Deploy
+
 ```bash
-npm run validate
+git add .
+git commit -m "Add new images"
+git push
 ```
 
-### Modo dry-run (testing)
+GitHub Pages actualiza automáticamente en ~1 minuto.
+
+## Scripts Disponibles
+
 ```bash
-npm run test ./carpeta-imagenes
+npm run upload              # Procesar imágenes de uploads/
+npm run validate            # Validar data/images.json
 ```
 
-##  Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 /
 ├── index.html              # Galería web
-├── css/                    # Estilos
-├── js/                     # JavaScript frontend
+├── css/
+│   ├── main.css           # Estilos principales
+│   └── responsive.css     # Media queries
+├── js/
+│   ├── app.js             # Entry point
+│   ├── gallery.js         # Grid masonry
+│   └── modal.js           # Panel lateral
+├── images/                 # Imágenes (img-001.png, img-002.png...)
 ├── data/
-│   └── images.json        # Base de datos de imágenes
-├── scripts/               # Scripts de automatización
-│   ├── upload-images.js   # Script principal de upload
-│   ├── validate-data.js   # Validación de datos
-│   └── utils/             # Utilidades
-├── backup/                # Backup local (no en Git)
-└── docs/                  # Documentación adicional
+│   └── images.json        # Metadata
+├── uploads/                # Carpeta temporal para nuevas imágenes
+├── backup/                 # Backup de originales (no en Git)
+└── scripts/
+    ├── upload-local.js    # Script principal
+    └── utils/             # Utilidades (hash, parser, compressor)
 ```
 
-##  Configuración Avanzada
+## Límites
 
-Ver [docs/USAGE.md](docs/USAGE.md) para:
-- Uso avanzado de scripts
-- Troubleshooting
-- Configuración de agentes
-- Ejemplos completos
+- GitHub Pages: 1GB de repositorio total
+- Recomendado: comprimir imágenes a <500KB cada una
+- Con compresión, podés tener ~2000 imágenes
 
-##  Licencia
+## Licencia
 
 MIT
