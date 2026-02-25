@@ -8,12 +8,19 @@ export class Gallery {
     this.loadedCount = 0;
     this.batchSize = 20;
     this.isLoading = false;
+    this.observer = null;
+    this.sentinel = null;
   }
 
   render(images = this.filteredImages) {
     this.filteredImages = images;
     this.container.innerHTML = '';
     this.loadedCount = 0;
+
+    // Create sentinel for infinite scroll
+    this.sentinel = document.createElement('div');
+    this.sentinel.className = 'gallery__sentinel';
+    this.sentinel.style.height = '1px';
 
     if (images.length === 0) {
       this.showEmptyState();
@@ -25,7 +32,7 @@ export class Gallery {
     // Load first batch
     this.loadMoreImages();
 
-    // Setup infinite scroll
+    // Setup infinite scroll (single observer)
     this.setupInfiniteScroll();
   }
 
@@ -46,6 +53,11 @@ export class Gallery {
       this.container.appendChild(card);
     });
 
+    // Add sentinel at the end
+    if (this.sentinel && this.container.contains(this.sentinel)) {
+      this.container.appendChild(this.sentinel);
+    }
+
     this.loadedCount += nextBatch.length;
     this.isLoading = false;
 
@@ -54,32 +66,24 @@ export class Gallery {
   }
 
   setupInfiniteScroll() {
-    const observer = new IntersectionObserver((entries) => {
+    // Disconnect previous observer if exists
+    if (this.observer) {
+      this.observer.disconnect();
+    }
+
+    this.observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
         if (entry.isIntersecting && !this.isLoading) {
           this.loadMoreImages();
         }
       });
     }, {
-      rootMargin: '200px' // Start loading 200px before reaching the end
+      rootMargin: '200px'
     });
 
-    // Observe the last card
-    const observeLastCard = () => {
-      const cards = this.container.querySelectorAll('.gallery__card');
-      if (cards.length > 0) {
-        const lastCard = cards[cards.length - 1];
-        observer.observe(lastCard);
-      }
-    };
-
-    // Initial observation
-    observeLastCard();
-
-    // Re-observe after each batch load
-    this.container.addEventListener('DOMNodeInserted', () => {
-      setTimeout(observeLastCard, 100);
-    });
+    if (this.sentinel) {
+      this.observer.observe(this.sentinel);
+    }
   }
 
   createCard(image) {
@@ -87,46 +91,18 @@ export class Gallery {
     card.className = 'gallery__card';
     card.dataset.imageId = image.id;
 
-    const imageContainer = document.createElement('div');
-    imageContainer.className = 'gallery__image-container';
-
     const img = document.createElement('img');
     img.className = 'gallery__image';
     img.dataset.src = image.thumbnail || image.url;
-    img.alt = image.prompt || 'AI generated image';
+    img.alt = image.prompt ? image.prompt.substring(0, 100) : 'AI generated image';
     img.loading = 'lazy';
 
     // Achievement badge
     if (image.achievement) {
-      const badge = document.createElement('span');
-      badge.className = 'gallery__achievement';
-      badge.textContent = '⭐';
-      imageContainer.appendChild(badge);
+      card.innerHTML = '<span class="gallery__achievement">⭐</span>';
     }
 
-    imageContainer.appendChild(img);
-
-    const info = document.createElement('div');
-    info.className = 'gallery__info';
-
-    const category = document.createElement('span');
-    category.className = 'gallery__category';
-    category.textContent = image.category || 'Otros';
-
-    const prompt = document.createElement('p');
-    prompt.className = 'gallery__prompt';
-    prompt.textContent = image.prompt || 'Sin descripción';
-
-    const model = document.createElement('p');
-    model.className = 'gallery__model';
-    model.textContent = image.model || 'Desconocido';
-
-    info.appendChild(category);
-    info.appendChild(prompt);
-    info.appendChild(model);
-
-    card.appendChild(imageContainer);
-    card.appendChild(info);
+    card.appendChild(img);
 
     return card;
   }
@@ -142,7 +118,6 @@ export class Gallery {
           img.removeAttribute('data-src');
           observer.unobserve(img);
           
-          // Fade in animation
           img.style.opacity = '0';
           img.onload = () => {
             img.style.transition = 'opacity 0.3s ease';

@@ -186,7 +186,6 @@ body {
   border-radius: 0;
   overflow: hidden;
   cursor: pointer;
-  transition: all var(--transition-base);
 }
 
 .gallery__card:hover {
@@ -197,6 +196,23 @@ body {
   width: 100%;
   height: auto;
   display: block;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.gallery__achievement {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  z-index: 1;
 }
 
 .gallery__image-container {
