@@ -715,5 +715,221 @@
     },
     "notes": "",
     "created_at": "2026-02-25T12:18:40.908Z"
+  },
+  {
+    "id": "img-1772022023187-2h2qovfhn",
+    "hash": "44248a2bbb2e270aa80aebfa8e28e401",
+    "url": "images/img-033.png",
+    "thumbnail": "images/img-033.png",
+    "filename": "img-033.png",
+    "prompt": "A medium shot captures a young woman positioned in a narrow apartment hallway, framed from a slightly low angle that emphasizes her confident stance. She stands with one leg bent at the knee, creating an asymmetrical pose that adds dynamic energy to the composition. Her short black dress fits closely to her figure, the fabric appearing matte under the harsh direct flash illumination. The camera flash creates stark shadows behind her against the hallway walls, which show typical apartment corridor features - neutral beige paint, baseboards, and a glimpse of doorframes.The lighting is dominated by the camera's built-in flash, creating that characteristic early 2000s digital photography look with blown-out highlights on her skin and deep shadows in the background. Her hair appears deliberately tousled and messy, catching the flash with individual strands visible against the darker background. Her lips are coated in glossy lipstick that reflects the flash, creating bright highlights. Her gaze is direct and unwavering toward the camera, conveying confidence and attitude.The image quality shows the telltale signs of early digital camera technology - slightly pixelated edges, compressed color gradients, and that particular harsh contrast between flash-lit subjects and shadowed backgrounds. The hallway's linoleum or carpet flooring reflects some of the flash, while the walls show the typical texture of apartment building construction. The color palette is anchored by the deep black of her dress against the neutral tones of the hallway, with warm skin tones highlighted by the flash's cool-white illumination.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "361166702",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.187Z"
+  },
+  {
+    "id": "img-1772022023319-nn729bpzq",
+    "hash": "36ed445af3548bd7b76f0f73406da898",
+    "url": "images/img-034.png",
+    "thumbnail": "images/img-034.png",
+    "filename": "img-034.png",
+    "prompt": "An eye-level shot frames a woman seated on a kitchen counter, her legs dangling with red high heels visible in the foreground. She wears a vibrant red mini dress that contrasts sharply with the typical kitchen environment behind her. The composition is deliberately imperfect, with her positioned slightly off-center and the framing cutting off parts of the kitchen cabinets and appliances in the background. Her playful expression includes a genuine smile as she looks directly into the camera lens.The harsh camera flash dominates the lighting, creating that unmistakable early social media photography aesthetic with overexposed highlights on her face and dress, while casting deep shadows behind her against the kitchen cabinets. The flash reflects off the glossy surfaces of kitchen appliances - a refrigerator, microwave, and countertop materials show bright reflective spots. Her skin appears slightly washed out from the direct flash, typical of the retro digital camera look.The kitchen setting includes standard residential elements - white or light-colored cabinets, stainless steel appliances, and a tiled or laminate countertop surface. The woman's red dress appears almost luminous under the flash, while her heels add a bold fashion element against the domestic backdrop. The image shows the characteristic grain and compression artifacts of early digital photography, with slightly blown-out highlights and the particular color saturation that comes from direct flash photography. The overall mood captures that spontaneous, casual glamour typical of early 2000s social media posts.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "192779146",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.319Z"
+  },
+  {
+    "id": "img-1772022023444-memq3to1r",
+    "hash": "76479891d02b9a6722235a37e84b3ba6",
+    "url": "images/img-035.png",
+    "thumbnail": "images/img-035.png",
+    "filename": "img-035.png",
+    "prompt": "A horizontal composition captures a woman lying on her side across a bed, positioned in the foreground with the camera at bed level. She wears a flowing silk dress that drapes naturally across her body and the bedding. The pose is relaxed yet deliberately seductive, with her body creating elegant curves against the rumpled sheets and pillows. Her head is propped up slightly, and her gaze meets the camera with a sultry, confident expression.The lighting combines the harsh camera flash in the foreground with the ambient glow of city lights streaming through a large window in the background. The flash illuminates her face and the silk fabric of her dress, creating bright highlights and deep shadows that emphasize the texture of both the silk and the bedding. Through the window, blurred city lights create bokeh effects - points of warm yellow and cool white light that suggest a high-rise urban setting at night.The bedroom setting includes rumpled bedsheets and pillows in neutral tones, while the window reveals the geometric patterns of illuminated building windows in the distance. The silk dress catches the flash with a subtle sheen, and the fabric appears to flow naturally around her form. The image quality shows the grainy, slightly overexposed characteristics of early digital camera flash photography, with compressed shadows and that particular harsh contrast between the flash-lit subject and the darker room. The color palette balances the cool tones of the city lights with the warm highlights from the camera flash, while the silk dress adds textural interest through its reflective properties.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "37607101",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.444Z"
+  },
+  {
+    "id": "img-1772022023529-9k60kikpc",
+    "hash": "33d0a5447da965bd5acd43c8fd47ea92",
+    "url": "images/img-036.png",
+    "thumbnail": "images/img-036.png",
+    "filename": "img-036.png",
+    "prompt": "A straight-on view captures a woman standing directly in front of a bathroom mirror, with the camera positioned to show both her reflection and her actual figure. She wears a form-fitting party dress that hugs her silhouette, and one hand is raised to touch her hair in a casual, confident gesture. Her expression conveys self-assurance as she looks directly at the camera through the mirror. The bathroom setting is clearly visible with typical fixtures and surfaces.The camera flash creates a complex lighting situation with the mirror, producing a visible flash reflection that appears as a bright circular spot in the mirror surface. This creates the authentic early Tumblr aesthetic where flash reflections were common and often left uncorrected. The harsh flash illuminates her face and dress while casting shadows behind her against the bathroom wall. The mirror reflects additional light around the room, creating secondary illumination on bathroom fixtures.The bathroom environment includes standard elements - a medicine cabinet or mirror with visible edges, bathroom tiles or painted walls, and glimpses of typical bathroom accessories. The party dress appears sleek under the flash lighting, while her hair shows individual strands highlighted by the direct illumination. The image captures that characteristic early social media photography look with its imperfect technical execution, visible flash artifacts, and the particular grain and color compression of early digital cameras. The color palette is dominated by the neutral tones of the bathroom setting, the color of her dress, and the cool-white flash illumination that creates stark highlights and shadows.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "589823984",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.529Z"
+  },
+  {
+    "id": "img-1772022023651-j59vsqh0u",
+    "hash": "7392450948053a6ce4c4c6c9cf4a644a",
+    "url": "images/img-037.png",
+    "thumbnail": "images/img-037.png",
+    "filename": "img-037.png",
+    "prompt": "A low-angle shot captures a woman seated on the floor, positioned so the camera looks up at her from ground level. She wears a black leather jacket over a mini skirt, with her legs crossed in front of her creating geometric lines in the composition. Her posture is relaxed yet confident as she looks down at the camera with a bold, direct expression. The floor setting appears to be indoors, possibly a living room or bedroom with carpet or hardwood flooring visible.The camera flash provides stark, direct illumination from below, creating dramatic upward lighting that emphasizes her facial features and the texture of the leather jacket. The flash reflects off the leather surface, creating bright highlights and deep creases that show the material's worn, authentic character. Her skin appears slightly overexposed in the typical early digital camera fashion, while shadows fall upward behind her against furniture or walls in the background.The indoor setting includes glimpses of residential furniture - possibly a couch, coffee table, or other living space elements partially visible in the background shadows. The leather jacket shows realistic wear patterns and texture under the flash, while the mini skirt creates a strong silhouette against the floor. The casual glamour aesthetic is enhanced by the particular grain and color compression of early digital photography, with that characteristic harsh contrast between flash-lit subjects and shadowed backgrounds. The color palette centers on the black leather and dark tones of her outfit against the neutral colors of the indoor setting, with the cool-white flash creating stark highlights and deep shadows.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "542945875",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.651Z"
+  },
+  {
+    "id": "img-1772022023778-mz9sxgb0v",
+    "hash": "a9db59598fb213e4b4518a490eee2cc5",
+    "url": "images/img-038.png",
+    "thumbnail": "images/img-038.png",
+    "filename": "img-038.png",
+    "prompt": "A wide shot captures a woman standing on an apartment or hotel balcony at night, with the sprawling city lights creating a dramatic backdrop behind her. She wears a glitter dress that catches and reflects the camera flash, creating sparkles across the fabric surface. Her confident body language includes a straight posture and direct gaze toward the camera, embodying the early influencer photography style where urban nighttime settings were popular backdrops.The lighting combines the harsh camera flash in the foreground with the ambient glow of the city lights behind her. The flash illuminates her face and the glitter dress, causing the sequins or metallic elements to create bright reflective points across the fabric. The city lights in the background appear as warm yellow and cool white points of light, creating depth and urban atmosphere. The balcony railing and any outdoor furniture catch some of the flash illumination while remaining secondary to the main subject.The urban nighttime setting shows the geometric patterns of illuminated building windows, street lights, and possibly moving vehicle lights in the distance. The glitter dress appears almost luminous under the direct flash, with individual sparkles creating texture and visual interest. The balcony setting includes typical outdoor elements - metal or concrete railings, outdoor flooring, and the open night air. The image quality shows the characteristic early digital camera look with slightly blown-out highlights from the flash and the particular grain pattern of compressed digital files. The color palette balances the warm tones of city lights with the cool flash illumination, while the glitter dress adds dynamic reflective elements throughout the composition.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "796521170",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.778Z"
+  },
+  {
+    "id": "img-1772022023906-ej6rf1nfw",
+    "hash": "ecea3a543d2a5305e1c1262c731419bc",
+    "url": "images/img-039.png",
+    "thumbnail": "images/img-039.png",
+    "filename": "img-039.png",
+    "prompt": "A candid shot captures a woman mid-stride as she walks barefoot through an apartment, wearing an elegant dress that flows with her movement. The composition shows her caught in a natural walking motion, with one foot slightly raised and her body in a dynamic pose that suggests spontaneous movement rather than a static pose. Her facial expression is playful and genuine, as if she's been caught in a moment of natural joy or laughter.The camera flash provides direct illumination that freezes her motion, creating that characteristic early digital photography look where movement is captured with slight blur or grain. The flash highlights her face and dress while casting shadows behind her against apartment furnishings - possibly a couch, coffee table, or other residential furniture. Her bare feet on the floor add to the casual, intimate atmosphere of the indoor setting.The apartment environment includes typical residential elements visible in the background and periphery - furniture, possibly hardwood or carpet flooring, and the general lived-in quality of a home space. The elegant dress appears to be in motion, with fabric that suggests movement and flow. The imperfect composition adds to the authentic, spontaneous quality typical of early social media photography where technical perfection was less important than capturing genuine moments. The image shows the particular grain and color characteristics of early digital cameras, with slightly overexposed highlights from the direct flash and the compressed shadow detail typical of the era. The color palette includes the neutral tones of the apartment setting, the color of her dress, and the cool-white flash illumination that creates the characteristic harsh lighting of the period.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "718104878",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.906Z"
+  },
+  {
+    "id": "img-1772022024034-unyqpxx26",
+    "hash": "f778a73c21f5646be468bdd780247b2a",
+    "url": "images/img-040.png",
+    "thumbnail": "images/img-040.png",
+    "filename": "img-040.png",
+    "prompt": "A relaxed composition shows a woman reclining on a couch with one arm positioned over her head in a casual, comfortable pose. She wears a cocktail dress and looks sideways toward the camera with a relaxed expression that suggests ease and confidence. The couch setting appears residential, with typical living room furniture and decor visible in the background. Her pose conveys both elegance and approachability.The camera flash provides the primary lighting, creating the low-resolution digital camera aesthetic characteristic of early social media photography. The flash illuminates her face and dress while creating shadows behind her against the couch cushions and any background furniture. The lighting shows the typical overexposed highlights and compressed shadows of direct flash photography, with her skin appearing slightly washed out in the authentic early digital camera style.The living room setting includes the couch upholstery, possibly throw pillows or blankets, and glimpses of other furniture or decor in the background shadows. The cocktail dress catches the flash with varying degrees of reflection depending on the fabric type and color. The relaxed atmosphere is enhanced by the casual pose and the intimate indoor setting. The image quality deliberately shows the characteristics of early digital photography - pixelated edges, compressed color gradients, and that particular grain pattern that comes from lower resolution sensors and direct flash illumination. The color palette is anchored by the colors of the couch and dress, with neutral residential tones in the background and the cool-white flash creating stark contrasts throughout the composition.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "134689702",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:24.034Z"
+  },
+  {
+    "id": "img-1772022024154-sn2s8xb0q",
+    "hash": "b25fa0b861cec94cc85c5ce352d1beb5",
+    "url": "images/img-041.png",
+    "thumbnail": "images/img-041.png",
+    "filename": "img-041.png",
+    "prompt": "A confident portrait captures a woman standing in a bedroom setting, wearing a gold dress and heels that create an elegant silhouette. Behind her, an unmade bed with rumpled sheets and pillows suggests a casual, intimate environment. Her posture is straight and self-assured, with a direct gaze toward the camera that conveys confidence and attitude. The bedroom setting adds to the personal, intimate quality of the image.The strong camera flash dominates the lighting, creating that characteristic early digital photography look with harsh highlights and deep shadows. The flash illuminates her face and the gold dress, causing the metallic or shimmery fabric to reflect light and create bright highlights across the garment. The unmade bed behind her remains partially in shadow, with the bedding texture and rumpled quality visible under the secondary illumination from the flash.The bedroom environment includes typical residential elements - the bed with its disheveled sheets and pillows, possibly a nightstand or dresser, and other bedroom furniture partially visible in the background. The gold dress appears luminous under the direct flash, while her heels add a fashion-forward element to the composition. The fashion party aesthetic is enhanced by the combination of elegant clothing in a casual bedroom setting. The image shows the particular technical characteristics of early digital cameras - slightly overexposed highlights, compressed shadow detail, and the distinctive grain pattern of direct flash photography. The color palette is dominated by the warm gold tones of her dress against the neutral colors of the bedroom setting, with the cool-white flash creating stark contrasts and bright reflective highlights throughout the metallic fabric.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "77645630",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:24.154Z"
   }
 ]
