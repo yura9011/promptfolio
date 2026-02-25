@@ -595,5 +595,125 @@
     },
     "notes": "",
     "created_at": "2026-02-25T12:17:17.567Z"
+  },
+  {
+    "id": "img-1772021920488-egafswpxu",
+    "hash": "bad6c9c58c308ba8309f14ac435a3c8a",
+    "url": "images/img-028.png",
+    "thumbnail": "images/img-028.png",
+    "filename": "img-028.png",
+    "prompt": "Close-up portrait of a gorgeous 23-year-old Argentine morena woman with deep olive-bronze tan skin, long tousled wavy black hair framing her face, full glossy lips slightly parted, piercing dark eyes staring intensely at viewer, high cheekbones, natural glow with subtle sweat sheen, seductive half-smirk, soft golden hour side lighting, hyper-realistic skin pores and texture, no Asian features, sharp 85mm lens, shallow depth, photorealistic masterpiece",
+    "model": "Z-Image-Turbo",
+    "category": "Fotorealismo",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "877960622",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:18:40.488Z"
+  },
+  {
+    "id": "img-1772021920600-aky1jn95n",
+    "hash": "a2e5ba8f5ba33abeee851bee5d2c550e",
+    "url": "images/img-029.png",
+    "thumbnail": "images/img-029.png",
+    "filename": "img-029.png",
+    "prompt": "Stunning 24-year-old Latina woman of Argentine descent lying on white beach towel, sun-kissed caramel tan skin glistening with oil, long dark wavy hair spread out, wearing sheer black bikini top slipping off, toned stomach and cleavage visible, legs slightly bent seductively, looking at camera with bedroom eyes, soft morning sunlight, realistic skin details, tan lines, detailed fabric, erotic glamour shot, 8k, avoid pale Asian skin or straight hair",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "311659544",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:18:40.600Z"
+  },
+  {
+    "id": "img-1772021920733-lqc3i7xoi",
+    "hash": "5b56e9780ac730fbac9680803eaa85d9",
+    "url": "images/img-030.png",
+    "thumbnail": "images/img-030.png",
+    "filename": "img-030.png",
+    "prompt": "Photorealistic vertical shot of a seductive 22-year-old Argentine morena on small boat bow in red-rock canyon, rich bronze-olive tan skin, long messy dark wavy hair, looking back over shoulder with sultry smirk, wearing metallic bronze micro thong bikini, plump ass prominent, arched back, glistening skin, overcast soft light, emerald water, towering cliffs, realistic texture, pores, tan lines, eye-level wide-angle, erotic travel selfie, no Asian traits, sharp focus",
+    "model": "Z-Image-Turbo",
+    "category": "Fotorealismo",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "677193187",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:18:40.733Z"
+  },
+  {
+    "id": "img-1772021920811-dnj8fe6fp",
+    "hash": "c564742292e7ad4b7df77b63f6480c54",
+    "url": "images/img-031.png",
+    "thumbnail": "images/img-031.png",
+    "filename": "img-031.png",
+    "prompt": "Confident 25-year-old Buenos Aires woman with warm olive tan skin, long dark curly hair blowing in wind, wearing tight red off-shoulder mini dress hugging curves, standing on city rooftop at sunset, direct powerful gaze, hand on hip, dramatic golden hour rim light, sharp details, photorealistic vogue editorial, Latina features, avoid East Asian defaults",
+    "model": "Z-Image-Turbo",
+    "category": "Fotorealismo",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "864793873",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:18:40.811Z"
+  },
+  {
+    "id": "img-1772021920908-ev7ifzal3",
+    "hash": "007b31d7618bbe5f388f74fa166d913a",
+    "url": "images/img-032.png",
+    "thumbnail": "images/img-032.png",
+    "filename": "img-032.png",
+    "prompt": "Voluptuous 26-year-old Colombian-Latina woman with deep bronze skin, thick dark wavy hair, curvaceous body, full breasts and hips, posing seated on edge of bed in lingerie, sultry expression biting lip, soft indoor lighting, realistic skin texture with natural stretch marks subtle, detailed lace, erotic intimate portrait, hyper-detailed, no pale or Asian appearance",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "478282818",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:18:40.908Z"
   }
 ]
