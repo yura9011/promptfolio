@@ -1,10 +1,10 @@
-# 🚀 Mejoras Implementadas - Promptfolio
+#  Mejoras Implementadas - Promptfolio
 
 Este documento lista todas las mejoras adicionales implementadas más allá del MVP.
 
 ---
 
-## ✅ Implementado
+##  Implementado
 
 ### 1. PWA (Progressive Web App)
 - **Service Worker** (`sw.js`) para funcionamiento offline
@@ -75,41 +75,41 @@ Este documento lista todas las mejoras adicionales implementadas más allá del 
 
 ---
 
-## 📊 Comparación Antes/Después
+##  Comparación Antes/Después
 
 | Característica | Antes | Después |
 |----------------|-------|---------|
-| Instalable como app | ❌ | ✅ |
-| Funciona offline | ❌ | ✅ |
-| SEO optimizado | ⚠️ Básico | ✅ Completo |
-| Social media preview | ❌ | ✅ |
-| Favicon | ❌ | ✅ |
-| Analytics ready | ❌ | ✅ |
-| Custom domain ready | ❌ | ✅ |
+| Instalable como app |  |  |
+| Funciona offline |  |  |
+| SEO optimizado |  Básico |  Completo |
+| Social media preview |  |  |
+| Favicon |  |  |
+| Analytics ready |  |  |
+| Custom domain ready |  |  |
 | Performance score | 85 | 95+ |
 
 ---
 
-## 🎯 Impacto
+##  Impacto
 
 ### Performance
 - **Carga inicial**: ~500ms
 - **Carga repetida**: ~100ms (cache)
-- **Offline**: ✅ Funciona
+- **Offline**:  Funciona
 
 ### SEO
-- **Google indexable**: ✅
-- **Social media**: ✅
-- **Sitemap**: ✅
+- **Google indexable**: 
+- **Social media**: 
+- **Sitemap**: 
 
 ### UX
-- **Instalable**: ✅
-- **Offline**: ✅
-- **Rápido**: ✅
+- **Instalable**: 
+- **Offline**: 
+- **Rápido**: 
 
 ---
 
-## 🔮 Futuras Mejoras (Opcionales)
+## � Futuras Mejoras (Opcionales)
 
 ### Corto Plazo
 - [ ] Modo claro/oscuro toggle
@@ -131,7 +131,7 @@ Este documento lista todas las mejoras adicionales implementadas más allá del 
 
 ---
 
-## 📝 Notas Técnicas
+##  Notas Técnicas
 
 ### Service Worker
 - Cache strategy: Cache-first, network fallback
@@ -147,18 +147,18 @@ Este documento lista todas las mejoras adicionales implementadas más allá del 
 - Generados con Sharp
 - Formato: PNG (mejor compatibilidad)
 - Tamaños: 192x192, 512x512
-- Maskable: ✅
+- Maskable: 
 
 ---
 
-## 🎉 Resultado
+##  Resultado
 
 Tu Promptfolio ahora es:
-- ✅ Una PWA completa
-- ✅ SEO optimizado
-- ✅ Social media ready
-- ✅ Instalable
-- ✅ Offline-capable
-- ✅ Super rápido
+-  Una PWA completa
+-  SEO optimizado
+-  Social media ready
+-  Instalable
+-  Offline-capable
+-  Super rápido
 
 **Todo sin cambiar la funcionalidad core!**

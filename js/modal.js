@@ -10,11 +10,15 @@ export class Modal {
   setupEventListeners() {
     // Close button
     const closeBtn = this.modal.querySelector('.modal__close');
-    closeBtn.addEventListener('click', () => this.close());
+    if (closeBtn) {
+      closeBtn.addEventListener('click', () => this.close());
+    }
 
     // Overlay click
     const overlay = this.modal.querySelector('.modal__overlay');
-    overlay.addEventListener('click', () => this.close());
+    if (overlay) {
+      overlay.addEventListener('click', () => this.close());
+    }
 
     // ESC key
     document.addEventListener('keydown', (e) => {
@@ -29,15 +33,11 @@ export class Modal {
       }
     });
 
-    // Navigation buttons
-    const prevBtn = this.modal.querySelector('.modal__nav--prev');
-    const nextBtn = this.modal.querySelector('.modal__nav--next');
-    prevBtn.addEventListener('click', () => this.prev());
-    nextBtn.addEventListener('click', () => this.next());
-
     // Copy prompt button
     const copyBtn = document.getElementById('copyPrompt');
-    copyBtn.addEventListener('click', () => this.copyPrompt());
+    if (copyBtn) {
+      copyBtn.addEventListener('click', () => this.copyPrompt());
+    }
   }
 
   open(imageId) {

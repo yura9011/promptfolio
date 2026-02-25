@@ -1,10 +1,10 @@
-# 🚀 Guía de Deploy - Promptfolio
+#  Guía de Deploy - Promptfolio
 
 Esta guía te ayudará a deployar tu galería en GitHub Pages.
 
 ---
 
-## 📋 Pre-requisitos
+##  Pre-requisitos
 
 - Git instalado
 - Cuenta de GitHub
@@ -12,7 +12,7 @@ Esta guía te ayudará a deployar tu galería en GitHub Pages.
 
 ---
 
-## 🔧 Paso 1: Conectar el Repositorio Local
+##  Paso 1: Conectar el Repositorio Local
 
 Abre tu terminal en la carpeta del proyecto y ejecuta:
 
@@ -29,7 +29,7 @@ git push -u origin main
 
 ---
 
-## ⚙️ Paso 2: Configurar GitHub Pages
+## ⚙ Paso 2: Configurar GitHub Pages
 
 1. Ve a tu repositorio: https://github.com/yura9011/promptfolio
 2. Click en **Settings** (arriba a la derecha)
@@ -40,7 +40,7 @@ git push -u origin main
 
 ---
 
-## ✅ Paso 3: Verificar el Deploy
+##  Paso 3: Verificar el Deploy
 
 1. Ve a la pestaña **Actions** en tu repositorio
 2. Verás un workflow "Deploy to GitHub Pages" ejecutándose
@@ -51,7 +51,7 @@ git push -u origin main
 
 ---
 
-## 🔄 Actualizaciones Futuras
+##  Actualizaciones Futuras
 
 Cada vez que hagas cambios y los subas a GitHub, se deployará automáticamente:
 
@@ -69,7 +69,7 @@ El sitio se actualizará automáticamente en 1-2 minutos.
 
 ---
 
-## 📤 Subir Nuevas Imágenes
+##  Subir Nuevas Imágenes
 
 ### Opción 1: Usando el Script (Recomendado)
 
@@ -93,7 +93,7 @@ git push
 
 ---
 
-## 🎨 Personalización
+##  Personalización
 
 ### Cambiar Colores
 
@@ -113,13 +113,13 @@ Edita `css/main.css` y modifica las variables CSS:
 Edita `index.html`:
 
 ```html
-<h1 class="header__title">🎨 Tu Título Aquí</h1>
+<h1 class="header__title"> Tu Título Aquí</h1>
 <p class="header__subtitle">Tu descripción aquí</p>
 ```
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### El sitio no se ve
 - Espera 2-3 minutos después del primer deploy
@@ -138,7 +138,7 @@ Edita `index.html`:
 
 ---
 
-## 📝 Notas Importantes
+##  Notas Importantes
 
 1. **Cloudinary**: Asegúrate de tener configurado tu `.env` localmente para usar los scripts de upload
 2. **Git**: No commitees el archivo `.env` (ya está en .gitignore)
@@ -147,9 +147,9 @@ Edita `index.html`:
 
 ---
 
-## 🎉 ¡Listo!
+##  ¡Listo!
 
 Tu galería estará disponible en:
 **https://yura9011.github.io/promptfolio/**
 
-Comparte el link y disfruta tu galería de imágenes IA! 🚀
+Comparte el link y disfruta tu galería de imágenes IA! 

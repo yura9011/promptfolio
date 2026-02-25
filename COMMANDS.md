@@ -1,10 +1,10 @@
-# 📝 Comandos Rápidos - Promptfolio
+#  Comandos Rápidos - Promptfolio
 
 Referencia rápida de todos los comandos disponibles.
 
 ---
 
-## 🚀 Deploy
+##  Deploy
 
 ```bash
 # Primera vez - Conectar repositorio
@@ -20,7 +20,7 @@ git push
 
 ---
 
-## 📤 Upload de Imágenes
+##  Upload de Imágenes
 
 ```bash
 # Instalar dependencias (primera vez)
@@ -38,7 +38,7 @@ node scripts/upload-images.js D:/imagenes/nuevas
 
 ---
 
-## ✅ Validación
+##  Validación
 
 ```bash
 # Validar datos del JSON
@@ -47,7 +47,7 @@ npm run validate
 
 ---
 
-## 🔧 Desarrollo Local
+##  Desarrollo Local
 
 ```bash
 # Servidor local simple (Python)
@@ -61,7 +61,7 @@ npx http-server -p 8000
 
 ---
 
-## 📁 Estructura de Carpetas
+##  Estructura de Carpetas
 
 ```bash
 # Crear carpeta para nuevas imágenes
@@ -73,7 +73,7 @@ tree -L 2 -I 'node_modules|.git'
 
 ---
 
-## 🎨 Personalización
+##  Personalización
 
 ```bash
 # Editar colores
@@ -89,7 +89,7 @@ code scripts/utils/metadata-parser.js
 
 ---
 
-## 🐛 Debug
+##  Debug
 
 ```bash
 # Ver logs de Git
@@ -127,7 +127,7 @@ rm -rf backup/*
 
 ---
 
-## 📊 Estadísticas
+##  Estadísticas
 
 ```bash
 # Contar imágenes en JSON
@@ -142,7 +142,7 @@ cat data/images.json | grep '"created_at"' | tail -5
 
 ---
 
-## 🔐 Cloudinary
+##  Cloudinary
 
 ```bash
 # Verificar configuración
@@ -157,7 +157,7 @@ code .env
 
 ---
 
-## 📦 NPM Scripts
+##  NPM Scripts
 
 ```bash
 npm run upload    # Upload de imágenes
@@ -167,7 +167,7 @@ npm run test      # Dry-run upload
 
 ---
 
-## 🌐 URLs Útiles
+##  URLs Útiles
 
 - **Repositorio**: https://github.com/yura9011/promptfolio
 - **Sitio Web**: https://yura9011.github.io/promptfolio/
@@ -176,7 +176,7 @@ npm run test      # Dry-run upload
 
 ---
 
-## 💡 Tips
+##  Tips
 
 ```bash
 # Alias útiles (agregar a .bashrc o .zshrc)

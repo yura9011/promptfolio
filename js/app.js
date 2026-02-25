@@ -19,7 +19,6 @@ class App {
       // Initialize components
       this.gallery = new Gallery(this.images);
       this.modal = new Modal(this.images);
-      this.search = new Search(this.images, this.gallery);
       
       // Render initial gallery
       this.gallery.render();
@@ -53,34 +52,6 @@ class App {
         const imageId = card.dataset.imageId;
         this.modal.open(imageId);
       }
-    });
-
-    // Search input
-    const searchInput = document.getElementById('searchInput');
-    searchInput.addEventListener('input', (e) => {
-      this.search.handleSearch(e.target.value);
-    });
-
-    // Category filters
-    const filterButtons = document.querySelectorAll('.filter-btn');
-    filterButtons.forEach(btn => {
-      btn.addEventListener('click', (e) => {
-        filterButtons.forEach(b => b.classList.remove('active'));
-        e.target.classList.add('active');
-        this.search.handleCategoryFilter(e.target.dataset.category);
-      });
-    });
-
-    // Achievements only checkbox
-    const achievementsCheckbox = document.getElementById('achievementsOnly');
-    achievementsCheckbox.addEventListener('change', (e) => {
-      this.search.handleAchievementsFilter(e.target.checked);
-    });
-
-    // Sort order
-    const sortSelect = document.getElementById('sortOrder');
-    sortSelect.addEventListener('change', (e) => {
-      this.search.handleSort(e.target.value);
     });
   }
 

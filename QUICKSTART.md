@@ -1,10 +1,10 @@
-# ⚡ Quick Start - Promptfolio
+#  Quick Start - Promptfolio
 
 Guía rápida para poner tu galería online en 5 minutos.
 
 ---
 
-## 🚀 Deploy Rápido (3 comandos)
+##  Deploy Rápido (3 comandos)
 
 ```bash
 # 1. Conectar con GitHub
@@ -23,7 +23,7 @@ git push -u origin main
 
 ---
 
-## 📤 Subir Tu Primera Imagen
+##  Subir Tu Primera Imagen
 
 ### Paso 1: Configurar Cloudinary
 
@@ -72,13 +72,13 @@ git push
 
 ---
 
-## 🎨 Personalizar
+##  Personalizar
 
 ### Cambiar Título
 
 Edita `index.html` línea 32:
 ```html
-<h1 class="header__title">🎨 Tu Título</h1>
+<h1 class="header__title"> Tu Título</h1>
 ```
 
 ### Cambiar Colores
@@ -97,7 +97,7 @@ Edita `css/main.css` líneas 3-10:
 
 ---
 
-## 📚 Más Info
+##  Más Info
 
 - **Deploy completo**: Ver [DEPLOY.md](DEPLOY.md)
 - **Todos los comandos**: Ver [COMMANDS.md](COMMANDS.md)
@@ -105,7 +105,7 @@ Edita `css/main.css` líneas 3-10:
 
 ---
 
-## 🆘 Ayuda Rápida
+##  Ayuda Rápida
 
 **¿No se ven las imágenes?**
 - Verifica URLs en `data/images.json`
@@ -121,4 +121,4 @@ Edita `css/main.css` líneas 3-10:
 
 ---
 
-¡Disfruta tu galería! 🎉
+¡Disfruta tu galería! 

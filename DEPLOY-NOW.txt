@@ -1,22 +1,22 @@
 ═══════════════════════════════════════════════════════════════
-  🚀 PROMPTFOLIO - COMANDOS PARA DEPLOY
+   PROMPTFOLIO - COMANDOS PARA DEPLOY
 ═══════════════════════════════════════════════════════════════
 
-📋 PASO 1: Conectar con GitHub
+ PASO 1: Conectar con GitHub
 ───────────────────────────────────────────────────────────────
 git remote add origin https://github.com/yura9011/promptfolio.git
 git branch -M main
 git push -u origin main
 
 
-⚙️ PASO 2: Activar GitHub Pages
+⚙ PASO 2: Activar GitHub Pages
 ───────────────────────────────────────────────────────────────
 1. Ve a: https://github.com/yura9011/promptfolio/settings/pages
 2. En "Source", selecciona: GitHub Actions
 3. Guarda
 
 
-✅ PASO 3: Verificar Deploy
+ PASO 3: Verificar Deploy
 ───────────────────────────────────────────────────────────────
 1. Ve a: https://github.com/yura9011/promptfolio/actions
 2. Espera que termine el workflow (~2 minutos)
@@ -24,42 +24,42 @@ git push -u origin main
 
 
 ═══════════════════════════════════════════════════════════════
-  📤 SUBIR TUS PRIMERAS IMÁGENES
+   SUBIR TUS PRIMERAS IMÁGENES
 ═══════════════════════════════════════════════════════════════
 
-1️⃣ Configurar Cloudinary:
+1⃣ Configurar Cloudinary:
    cp .env.example .env
    code .env
    (Agregar tus credenciales de https://console.cloudinary.com/)
 
-2️⃣ Preparar imágenes:
+2⃣ Preparar imágenes:
    mkdir my-images
    (Copiar tus imágenes .png/.jpg y crear archivos .txt)
 
-3️⃣ Subir:
+3⃣ Subir:
    npm install
    npm run upload ./my-images
 
-4️⃣ Publicar:
+4⃣ Publicar:
    git add data/images.json
    git commit -m "Add my images"
    git push
 
 
 ═══════════════════════════════════════════════════════════════
-  📚 DOCUMENTACIÓN
+   DOCUMENTACIÓN
 ═══════════════════════════════════════════════════════════════
 
-⚡ Quick Start (5 min):  QUICKSTART.md
-🚀 Deploy completo:      DEPLOY.md
-📝 Comandos:             COMMANDS.md
-📖 Uso detallado:        docs/USAGE.md
+ Quick Start (5 min):  QUICKSTART.md
+ Deploy completo:      DEPLOY.md
+ Comandos:             COMMANDS.md
+� Uso detallado:        docs/USAGE.md
 
 
 ═══════════════════════════════════════════════════════════════
-  🎉 ¡LISTO!
+   ¡LISTO!
 ═══════════════════════════════════════════════════════════════
 
 Tu galería estará en: https://yura9011.github.io/promptfolio/
 
-¡Disfruta tu Promptfolio! 🎨
+¡Disfruta tu Promptfolio! 
