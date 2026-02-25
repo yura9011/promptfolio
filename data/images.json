@@ -1683,5 +1683,245 @@
     },
     "notes": "",
     "created_at": "2026-02-25T12:26:42.405Z"
+  },
+  {
+    "id": "img-1772022448368-gbezq36gq",
+    "hash": "c5b8575b7ab17df4a329f7628e129418",
+    "url": "images/img-073.png",
+    "thumbnail": "images/img-073.png",
+    "filename": "img-073.png",
+    "prompt": "A close-up shot captures a young woman in her early twenties positioned in front of a bedroom mirror, holding a compact digital camera at arm's length. The composition is framed from a slightly tilted angle, creating an off-kilter snapshot aesthetic typical of early 2000s photography. Her pose is deliberately exaggerated with one hip cocked and head tilted, embodying the confident yet amateur influencer style of the era. The camera's built-in flash fires directly at her face, creating harsh overexposure across her forehead and cheeks while casting deep shadows beneath her chin and around her eyes.The bedroom environment reveals authentic lived-in chaos with clothes draped over a wooden chair, band posters taped to cream-colored walls, and personal items scattered across surfaces. The mirror itself shows slight distortion and water spots, adding to the candid authenticity. The lighting is dominated by the camera's harsh white flash, which flattens facial features and creates stark contrast between illuminated and shadowed areas. The background falls into relative darkness beyond the flash's reach, with only hints of the messy room visible in the periphery.The image quality exhibits the characteristic limitations of early digital cameras including visible JPEG compression artifacts, slight motion blur from handheld shooting, and the distinctive harsh flash falloff. Colors appear slightly oversaturated in the flash-lit areas while maintaining the authentic amateur photography aesthetic that defined early social media culture.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "118783404",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.368Z"
+  },
+  {
+    "id": "img-1772022448462-mlu02glyk",
+    "hash": "104602e6be21c72e898cd1fe86389949",
+    "url": "images/img-074.png",
+    "thumbnail": "images/img-074.png",
+    "filename": "img-074.png",
+    "prompt": "A medium shot frames a teenager positioned in front of a small bathroom mirror, the composition capturing both the subject and the cramped domestic space. The viewpoint is straight-on at chest height, showing the figure from waist up with confident posture and direct eye contact with the camera. A single yellow incandescent bulb mounted above the mirror provides the primary ambient lighting, casting warm but unflattering shadows under the eyes and nose. The camera's flash fires simultaneously, creating a harsh white light that competes with the yellow ambient illumination.The bathroom setting reveals authentic details including a cracked corner of the mirror with spider-web fractures, a cluttered sink counter with toothbrush, soap dispenser, and various personal care items scattered about. The walls appear to be standard apartment bathroom tile in neutral tones, showing signs of age and water stains. The mirror surface has water spots and fingerprint smudges that catch the light.The photographic quality deliberately mimics early digital camera limitations with soft focus areas, digital noise in shadow regions, and the characteristic harsh contrast created by direct flash photography. The color temperature shifts between the warm yellow ambient light and cool white flash create an uneven lighting scenario typical of amateur photography. The overall aesthetic captures the raw, unpolished quality of early social media self-portraits with their technical imperfections and authentic domestic settings.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "766772559",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.463Z"
+  },
+  {
+    "id": "img-1772022448566-rxr1js2zh",
+    "hash": "012c1e8f4a964b05dc0859de597d4c31",
+    "url": "images/img-075.png",
+    "thumbnail": "images/img-075.png",
+    "filename": "img-075.png",
+    "prompt": "A low-angle shot captures a young person seated at a computer desk in a darkened room, the primary light source being the blue-white glow emanating from a computer monitor positioned just out of frame. The composition places the subject slightly off-center, creating an asymmetrical framing that suggests amateur webcam photography. Their pose is deliberately dramatic with chin raised and eyes gazing directly into the camera lens, embodying the confident yet awkward aesthetic of early internet culture.The desk environment reveals the chaos of digital life with tangled cables, a mechanical keyboard with visible wear on frequently used keys, and various electronic devices creating silhouettes in the dim lighting. The room beyond falls into deep shadow with only hints of furniture and personal items visible as dark shapes. The monitor's glow creates strong upward lighting on the subject's face, casting unusual shadows that hollow out eye sockets and emphasize facial structure in an unflattering but authentic way.The image quality exhibits the characteristic limitations of early webcam technology including visible digital noise throughout darker areas, compression artifacts, and the distinctive low-resolution aesthetic that defined early streaming and social media content. The color palette is dominated by cool blue tones from the screen with deep blacks in the unlit areas, creating high contrast that emphasizes the dramatic lighting setup typical of amateur digital photography from the early internet era.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "474857841",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.566Z"
+  },
+  {
+    "id": "img-1772022448722-dkzpdmqvl",
+    "hash": "d88493305ad92c927c5bc6918ac19fcb",
+    "url": "images/img-076.png",
+    "thumbnail": "images/img-076.png",
+    "filename": "img-076.png",
+    "prompt": "A wide-angle shot captures two friends positioned on a rooftop during the golden hour, with the urban skyline creating a dramatic backdrop of silhouetted buildings against the orange-pink sunset sky. The composition is slightly tilted, giving the image a casual snapshot quality. One figure stands confidently in the center frame making direct eye contact with the camera, while the second person is partially cropped at the frame edge, suggesting the spontaneous nature of the photograph.The rooftop setting shows weathered concrete surfaces with visible cracks and stains, metal ventilation equipment, and safety railings that catch the warm evening light. The city background reveals multiple layers of buildings receding into atmospheric haze, with scattered windows beginning to glow with interior lighting as evening approaches. The lighting combines the warm golden hour sun positioned low on the horizon with the cooler blue tones of the approaching twilight sky.The photographic quality deliberately mimics the limitations of early digital cameras in low-light conditions, showing visible grain and digital noise throughout the image, particularly in shadow areas. The dynamic range struggles to capture both the bright sky and darker foreground details, creating areas of blown-out highlights and crushed shadows. Colors appear slightly oversaturated with the characteristic digital camera processing of the era, while the overall sharpness varies across the frame due to the challenging lighting conditions and handheld camera movement.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "953958740",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.722Z"
+  },
+  {
+    "id": "img-1772022448838-mwp3vy5hq",
+    "hash": "26b6d88de84816fd07a1ecaabcf230b8",
+    "url": "images/img-077.png",
+    "thumbnail": "images/img-077.png",
+    "filename": "img-077.png",
+    "prompt": "A medium shot frames a teenager standing in their bedroom with arms crossed in a confident pose, the composition captured from slightly below eye level to emphasize their assertive stance. The viewpoint is straight-on, showing the figure from mid-thigh up against the backdrop of a typical adolescent bedroom. The camera's built-in flash provides harsh, direct illumination that flattens facial features and creates stark shadows behind the subject, while simultaneously overexposing areas closest to the camera.The bedroom environment authentically represents teenage living space with band posters taped to painted walls showing slight peeling at corners, an unmade bed with rumpled sheets and pillows, and personal items scattered across surfaces. The walls appear to be standard apartment paint in neutral tones, with visible nail holes and tape marks from frequently changed decorations. Clothing items are draped over furniture and the floor shows the casual disorder of daily life.The lighting is dominated by the camera's harsh white flash which creates the characteristic flat, overexposed look of early digital photography. The flash illumination drops off rapidly, leaving the room's corners in relative darkness and creating an uneven exposure typical of amateur photography. The image quality exhibits early digital camera limitations including visible JPEG compression artifacts, slight color fringing around high-contrast edges, and the distinctive harsh shadow patterns created by direct flash photography. The overall aesthetic captures the raw, unpolished quality of early social media self-portraits with their technical imperfections and authentic domestic settings.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "270683678",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.838Z"
+  },
+  {
+    "id": "img-1772022448931-08eiu451t",
+    "hash": "2f04e93c11a23f099cc10ee3a8871c1d",
+    "url": "images/img-078.png",
+    "thumbnail": "images/img-078.png",
+    "filename": "img-078.png",
+    "prompt": "A close-up shot captures a young person positioned in a small party bathroom, the composition framed to show them from chest up with confident posture despite visible fatigue in their expression. The viewpoint is at eye level, creating direct engagement with the camera while the bathroom's cramped quarters force an intimate framing. Colored light spills in from the hallway beyond, creating a mixture of artificial lighting that competes with the camera's harsh flash.The bathroom setting reveals the aftermath of social gathering with empty plastic cups scattered on the sink counter, paper towels unrolled, and general disarray typical of party environments. The mirror surface shows water spots, fingerprints, and reflects both the subject and the camera's flash creating a bright white hotspot. The walls appear to be standard rental property fixtures with basic tile work and standard bathroom hardware showing signs of heavy use.The lighting combines the camera's direct flash with ambient colored light filtering from the party space beyond, creating an uneven color temperature that shifts between cool white flash illumination and warmer party lighting. The flash reflection in the mirror creates a secondary light source that adds to the overall harsh contrast. The photographic quality exhibits the limitations of early digital cameras including compressed dynamic range, visible digital noise in shadow areas, and JPEG compression artifacts that were characteristic of early social media photography. The overall aesthetic captures the spontaneous, unpolished quality of candid party documentation with authentic environmental details and technical imperfections.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "718187012",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.932Z"
+  },
+  {
+    "id": "img-1772022449081-95u5wrqtf",
+    "hash": "3448a749ae538ecd751a73847ac8b11a",
+    "url": "images/img-079.png",
+    "thumbnail": "images/img-079.png",
+    "filename": "img-079.png",
+    "prompt": "A low-angle shot frames a person seated on concrete apartment staircase steps, the composition capturing them from a slightly below perspective that emphasizes their relaxed but posed positioning. The viewpoint looks up the stairwell, showing institutional architecture with painted concrete walls, metal handrails, and the geometric patterns created by the stair structure. The subject sits casually but deliberately, aware of being photographed and adopting a confident pose despite the mundane setting.The stairwell environment reveals authentic apartment building details including scratched and scuffed wall paint, worn concrete steps with visible chips and stains, and fluorescent lighting fixtures mounted in the ceiling. The walls show the accumulated wear of daily use with scuff marks, nail holes, and areas where paint has been touched up in slightly different shades. Metal handrails display surface rust and wear patterns from countless hands.The lighting is provided by overhead fluorescent tubes that cast even but unflattering illumination throughout the space, supplemented by the camera's direct flash which creates additional harsh shadows and overexposed areas on the subject. The fluorescent lighting creates a slight green color cast that competes with the flash's cooler white light. The photographic quality exhibits early digital camera characteristics including visible grain in shadow areas, slight motion blur from handheld shooting, and the tilted framing that suggests casual snapshot photography. The overall aesthetic captures the authentic urban environment with its institutional architecture and the unpolished quality of early social media documentation.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "917846942",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:29.081Z"
+  },
+  {
+    "id": "img-1772022449195-75gyubudf",
+    "hash": "bd4fe1ee019f06a2bf35c5648c05af6f",
+    "url": "images/img-080.png",
+    "thumbnail": "images/img-080.png",
+    "filename": "img-080.png",
+    "prompt": "A close-up shot captures a teenager photographing their own reflection in a large window at night, the composition showing the layered reflections and transparency that create a complex visual interplay. The viewpoint is from inside looking toward the window, with the subject's face partially visible through reflections while city lights create bokeh patterns in the background beyond the glass. The pose suggests self-documentation with the camera held at arm's length, creating the characteristic perspective of early selfie photography.The window setting reveals an urban nighttime environment with scattered lights from buildings, street lamps, and vehicles creating points of illumination against the dark cityscape. The glass surface shows fingerprints, water spots, and dust that catch and scatter light, adding texture to the reflective surface. Interior lighting from the room creates additional reflections that layer over the exterior view, creating a complex interplay of transparent and reflective elements.The lighting combines multiple sources including the camera's flash which creates harsh reflection directly back from the glass surface, ambient interior lighting that illuminates the subject from behind, and the scattered city lights that provide background illumination. This creates an uneven and challenging lighting scenario that results in motion blur, digital noise, and the characteristic harsh flash reflection that obscures portions of the image. The photographic quality exhibits early digital camera limitations including difficulty with mixed lighting conditions, visible compression artifacts, and the authentic amateur aesthetic of early social media self-portraiture with its technical imperfections and spontaneous composition.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "349687785",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:29.195Z"
+  },
+  {
+    "id": "img-1772022449317-b84irogk4",
+    "hash": "7335521018b70a7074cf073540702e92",
+    "url": "images/img-081.png",
+    "thumbnail": "images/img-081.png",
+    "filename": "img-081.png",
+    "prompt": "A medium shot frames a young woman standing in a residential kitchen at night, holding a colorful cereal box as an improvised prop with both hands positioned as if presenting a product. The composition is captured from chest height, showing her from waist up against the backdrop of a typical apartment kitchen with standard appliances and countertops. Her pose combines confidence with playful absurdity, embodying the experimental nature of early social media content creation where everyday objects became performance props.The kitchen environment reveals authentic late-night domestic life with the refrigerator door standing open, casting cool white LED light across nearby surfaces and creating secondary illumination. The countertop shows the casual disorder of daily living with dishes, utensils, and food items scattered about, while cabinet doors display fingerprints and wear marks typical of frequently used spaces. The refrigerator interior is partially visible, showing shelves stocked with typical household items and condiment bottles.The lighting combines the camera's harsh direct flash with the cool white illumination from the open refrigerator, creating competing color temperatures and uneven exposure across the scene. The flash dominates the subject's illumination, creating the characteristic overexposed areas and harsh shadows, while the refrigerator light provides fill illumination and adds visual interest to the background. The photographic quality exhibits early digital camera limitations including visible noise in shadow areas, JPEG compression artifacts, and the imperfect framing that suggests handheld amateur photography. The overall aesthetic captures the spontaneous, experimental quality of early influencer culture with its blend of confidence and technical imperfection.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "598466811",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:29.317Z"
+  },
+  {
+    "id": "img-1772022449444-p0x4nshz3",
+    "hash": "5c56a3e83ed9a6afd5f4628f24170a67",
+    "url": "images/img-082.png",
+    "thumbnail": "images/img-082.png",
+    "filename": "img-082.png",
+    "prompt": "A low-angle shot captures a teenager seated cross-legged on a bedroom floor, the composition framed from floor level looking slightly upward to emphasize their contemplative pose. Headphones rest around their neck like a casual accessory, while a spiral notebook with visible handwritten scribbles lies open beside them, suggesting creative or academic pursuits. The pose is deliberately dramatic with head tilted and eyes gazing pensively toward the camera, embodying the introspective aesthetic popular in early social media self-expression.The bedroom floor setting shows authentic teenage living space with carpet that displays wear patterns and scattered personal items including books, pens, and electronic devices. A desk lamp positioned nearby provides warm incandescent lighting that creates atmospheric mood lighting, while the camera's flash adds harsh white illumination that competes with the ambient warmth. The walls visible in the background show typical bedroom decorations and the casual disorder of adolescent personal space.The lighting combines the soft warm glow from the desk lamp with the camera's direct flash, creating an uneven mixture of color temperatures that shifts between golden ambient light and cool white flash illumination. This creates complex shadow patterns and highlights that emphasize the dramatic pose while maintaining the authentic amateur photography aesthetic. The photographic quality exhibits early digital camera characteristics including visible grain throughout the image, slight motion blur from handheld shooting, and the compressed dynamic range that struggles to balance the mixed lighting conditions. The overall aesthetic captures the authentic introspective quality of early social media self-documentation with its blend of artistic aspiration and technical limitation.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "735535742",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:29.444Z"
   }
 ]
