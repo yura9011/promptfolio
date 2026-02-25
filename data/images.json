@@ -931,5 +931,245 @@
     },
     "notes": "",
     "created_at": "2026-02-25T12:20:24.154Z"
+  },
+  {
+    "id": "img-1772022308494-1fgx14afw",
+    "hash": "4eaa1748f402bdd43d25fd6f7bc8f1d3",
+    "url": "images/img-042.png",
+    "thumbnail": "images/img-042.png",
+    "filename": "img-042.png",
+    "prompt": "A young woman stands alone in the center of an empty asphalt parking lot under the cover of night. The composition is captured from eye level with a handheld digital camera, creating slightly imperfect framing that places her off-center in the frame. She wears a simple black dress that falls to mid-thigh, paired with white canvas sneakers that create a stark contrast against the dark pavement. Her posture is naturally casual, with one hip slightly shifted and arms hanging loosely at her sides, suggesting an unguarded moment rather than a formal pose.The lighting is dominated by a harsh camera flash that creates a bright, flat illumination across her figure while casting sharp shadows directly behind her on the ground. The flash creates a stark contrast between the brightly lit subject and the deep black void of the night sky beyond. Her skin shows natural texture with visible pores and subtle imperfections, characteristic of early 2000s digital photography before heavy filtering became standard. The flash reflects off the wet asphalt surface, creating small bright spots and highlights that dot the parking lot around her feet.The background consists entirely of empty parking spaces marked by faded white lines on dark asphalt, with the edges of the frame dissolving into complete darkness. Street lamps are either absent or too distant to provide any ambient lighting. The color palette is severely limited - dominated by deep blacks, bright whites from the flash, and the neutral gray tones of the concrete surface. The woman's black dress absorbs most of the flash light while her pale skin and white sneakers create the brightest elements in the composition. The overall aesthetic captures the raw, unpolished quality of early digital photography with its characteristic harsh shadows and slightly pixelated texture.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "590241257",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:25:08.494Z"
+  },
+  {
+    "id": "img-1772022308656-hhml0grny",
+    "hash": "224f1026b410580a5164d73ce2a39aa4",
+    "url": "images/img-043.png",
+    "thumbnail": "images/img-043.png",
+    "filename": "img-043.png",
+    "prompt": "A woman sits on concrete stairs inside an apartment building stairwell, her legs crossed elegantly while her body turns to look sideways toward the camera. The framing is captured from a slightly low angle, creating a subtle dutch tilt that gives the composition an informal, candid quality. She wears a simple outfit consisting of dark jeans and a fitted sweater, with her hair falling naturally around her shoulders. Her expression is contemplative and distant, as if caught in an unguarded moment of thought.The lighting comes from a direct camera flash that illuminates her figure against the institutional beige walls of the stairwell. The flash creates harsh shadows behind her on the concrete steps and casts dramatic lighting across the textured walls. The stark illumination reveals the utilitarian architecture - painted concrete block walls, metal handrails with chipped paint, and worn rubber stair treads. The flash also picks up dust particles in the air and creates slight overexposure on the nearest surfaces.In the foreground, the concrete steps create leading lines that draw attention to her seated figure. The midground features her as the central subject, positioned on the middle section of the staircase. The background shows the continuation of the stairwell both above and below, with visible apartment doors and institutional lighting fixtures that remain unlit. The color palette consists of muted earth tones - beige and tan walls, gray concrete, and the darker colors of her clothing. The overall aesthetic captures the spontaneous quality of early 2000s fashion photography, with its characteristic direct flash and slightly tilted framing that suggests movement and authenticity.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "334894692",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:25:08.656Z"
+  },
+  {
+    "id": "img-1772022308756-ol5hmdulu",
+    "hash": "011b122c46a320651316476fbede1fc3",
+    "url": "images/img-044.png",
+    "thumbnail": "images/img-044.png",
+    "filename": "img-044.png",
+    "prompt": "A woman leans casually against a narrow hallway wall with her back pressed against the painted surface and her arms hanging relaxed at her sides. The composition is framed straight-on from eye level, creating a symmetrical view down the corridor with her positioned slightly off-center. She wears simple, everyday clothing and maintains a completely neutral facial expression, looking directly at the camera with neither smile nor frown. Her posture suggests complete comfort and naturalness, as if this moment was captured without any formal direction.The lighting is provided by harsh direct flash that creates flat, even illumination across her figure while casting a sharp shadow directly behind her on the wall. The flash reveals the institutional quality of the hallway - painted drywall with visible texture, baseboards with scuff marks, and a linoleum floor that reflects the camera flash in small bright spots. The harsh lighting also emphasizes the low resolution quality of the digital capture, with visible pixelation and slight digital noise throughout the image.The foreground shows the polished linoleum floor with its characteristic pattern and wear marks from foot traffic. The midground contains the woman as the focal point, positioned against the continuous wall surface. The background extends down the hallway, showing multiple doorways and the perspective lines of the corridor receding into darker areas beyond the flash range. The color palette is dominated by institutional beige and off-white walls, the darker tones of her clothing, and the cool gray of the linoleum flooring. The overall aesthetic perfectly captures the raw, unfiltered quality of early social media photography with its direct flash, low resolution, and completely candid composition that prioritizes authenticity over technical perfection.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "22180170",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:25:08.756Z"
+  },
+  {
+    "id": "img-1772022308883-ddhi421ed",
+    "hash": "9801575e7145e2a3ca066bffacad4dc1",
+    "url": "images/img-045.png",
+    "thumbnail": "images/img-045.png",
+    "filename": "img-045.png",
+    "prompt": "A woman walks alone on a concrete sidewalk during bright daylight, captured mid-stride with one foot lifted off the ground in natural walking motion. The composition is framed from a distance using what appears to be an accidental or spontaneous camera angle, creating an imperfect but authentic street photography moment. She wears an oversized denim jacket that hangs loosely over her frame, paired with casual pants and comfortable walking shoes. Her hair appears naturally tousled by wind, adding to the candid quality of the capture.Despite the daylight setting, a camera flash has fired, creating an unusual lighting situation where the natural sunlight mixes with the artificial flash illumination. This creates a slightly overexposed quality on her clothing and skin while casting unexpected shadows on the pavement around her feet. The flash also picks up airborne particles and creates a subtle halo effect around her silhouette. The lighting has the characteristic harsh quality of early digital camera flash systems that would fire automatically regardless of ambient light conditions.The foreground shows the textured concrete sidewalk with visible cracks, stains, and embedded aggregate stones. Small weeds grow through expansion joints, and scattered debris creates natural texture across the walking surface. The midground features the woman in motion as the central subject. The background reveals typical urban sidewalk environment - parked cars, building facades, street signs, and other pedestrian infrastructure, all slightly out of focus due to the camera's automatic settings. The color palette includes the warm gray tones of concrete, the faded blue of her denim jacket, and the varied colors of the urban environment. The overall aesthetic captures the unpolished, documentary quality of early 2000s digital photography with its automatic flash, imperfect framing, and emphasis on capturing authentic moments over technical perfection.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "260171125",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:25:08.883Z"
+  },
+  {
+    "id": "img-1772022308994-yap26wwve",
+    "hash": "87cd8ca07dd73f34f756576d1321c5b3",
+    "url": "images/img-046.png",
+    "thumbnail": "images/img-046.png",
+    "filename": "img-046.png",
+    "prompt": "A woman stands in a residential bedroom wearing an elegant evening dress, positioned near the foot of an unmade bed with rumpled sheets and pillows. The composition is captured from eye level with handheld camera stability, creating a slightly imperfect frame that includes both her full figure and portions of the bedroom environment. The evening dress appears to be a simple but sophisticated design in a dark color, contrasting with the casual disorder of the bedroom setting. Her posture is relaxed and natural, suggesting this is an unposed moment rather than a formal portrait.The lighting comes from direct camera flash that illuminates her figure while creating harsh shadows on the bedroom walls and furniture. The flash reveals intimate details of the personal space - unmade bedding with visible wrinkles and indentations, personal items scattered on surfaces, and the lived-in quality of a real bedroom rather than a styled set. A mirror on the wall or dresser catches the camera flash, creating a bright reflection that adds an additional light source and reveals a partial reflection of either the photographer or the room from another angle.The foreground includes the edge of the bed with its disheveled bedding and possibly clothing or personal items on the floor. The midground features the woman as the central subject standing in the available floor space. The background shows typical bedroom furniture - a dresser, nightstand, window with curtains or blinds, and wall decorations that remain partially visible in the flash illumination. The color palette consists of the warm, muted tones typical of residential interiors - beige or off-white walls, the varied colors of bedding and personal belongings, and the darker tone of her evening dress. The overall aesthetic captures the intimate, unguarded quality of early 2000s personal photography with its direct flash, casual framing, and emphasis on authentic moments in private spaces.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "107399002",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:25:08.994Z"
+  },
+  {
+    "id": "img-1772022309139-iznecez5s",
+    "hash": "04449fa6ad974232faa9da799ba5cbfc",
+    "url": "images/img-047.png",
+    "thumbnail": "images/img-047.png",
+    "filename": "img-047.png",
+    "prompt": "A woman sits casually on the edge of a kitchen table with her legs dangling, wearing an interesting combination of high heels and a simple t-shirt that creates an effortless contrast between formal and casual elements. The composition is framed from eye level, placing her as the central focus while including enough of the kitchen environment to establish the domestic setting. She looks directly at the camera with a completely neutral expression, neither smiling nor frowning, creating an authentic and unguarded moment. Her posture is relaxed and confident, with her hands resting naturally on the table surface beside her.The lighting is provided by strong direct flash that creates flat, even illumination across her figure while casting sharp shadows behind her on the kitchen cabinets and walls. The harsh flash reveals the practical details of the kitchen environment - cabinet hardware, countertop surfaces with their natural wear patterns, small appliances, and the everyday clutter of a functional cooking space. The flash also creates imperfect shadows that fall at odd angles, characteristic of early 2000s point-and-shoot camera flash systems.The foreground shows the kitchen table surface with its natural wood grain or laminate finish, possibly including everyday items like salt shakers, napkins, or other table accessories. The midground contains the woman as the focal point, positioned on the table edge. The background reveals typical kitchen elements - upper and lower cabinets, countertops, appliances, and possibly a window or backsplash, all rendered in the flat lighting of the camera flash. The color palette includes the warm wood tones or neutral colors of kitchen cabinetry, the varied colors of her casual clothing and heels, and the practical finishes typical of residential kitchens. The overall aesthetic perfectly captures the spontaneous, unpolished quality of early 2000s lifestyle photography with its direct flash, authentic domestic setting, and emphasis on natural, unposed moments.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "62866034",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:25:09.139Z"
+  },
+  {
+    "id": "img-1772022309299-vq6vaf7cx",
+    "hash": "f00e3d273adaaf4a5052a986364524cb",
+    "url": "images/img-048.png",
+    "thumbnail": "images/img-048.png",
+    "filename": "img-048.png",
+    "prompt": "A woman poses with deliberate awkwardness in front of a residential apartment door, creating an intentionally uncomfortable composition that suggests either inexperience with posing or a conscious rejection of traditional portrait conventions. She stands with one hand casually placed in her pocket while the other hangs at her side, creating an asymmetrical posture that feels natural yet uncertain. Her casual clothing consists of everyday items - jeans, a simple top, and comfortable shoes that emphasize the informal nature of the moment. The framing is noticeably unbalanced, with her positioned off-center in a way that creates visual tension.The lighting comes from direct camera flash that provides harsh, flat illumination across her figure while creating a sharp shadow directly behind her on the apartment door surface. The flash reveals the institutional details of apartment building architecture - a standard metal or wooden door with visible hardware, door frame molding, possibly a peephole or apartment number, and the textured walls of the hallway or entryway. The harsh lighting also emphasizes any imperfections in the paint or surface materials, creating the raw aesthetic typical of early digital photography.The foreground includes the threshold area with its door mat, floor surface, and any scattered items typical of apartment entryways. The midground features the woman as the central but awkwardly positioned subject against the door. The background shows the continuation of the hallway or entryway space, with visible architectural elements like baseboards, wall surfaces, and possibly other apartment doors or mailboxes. The color palette consists of the neutral institutional colors typical of apartment buildings - beige or off-white walls, the natural wood or painted metal of the door, and the casual colors of her everyday clothing. The overall aesthetic captures the authentic, unpolished quality of early 2000s personal photography with its direct flash, imperfect composition, and emphasis on genuine awkwardness over polished presentation.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "244333741",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:25:09.299Z"
+  },
+  {
+    "id": "img-1772022309432-j3dbivh0l",
+    "hash": "8052906f98bad777b946f8b3db87f64d",
+    "url": "images/img-049.png",
+    "thumbnail": "images/img-049.png",
+    "filename": "img-049.png",
+    "prompt": "A woman stands alone on a residential balcony at night with the sprawling city lights creating a bokeh backdrop behind her. The composition is framed from inside the apartment looking out, capturing her silhouette against the urban landscape. She wears casual evening clothing and maintains a relaxed posture while looking out toward the city view. The balcony railing and any outdoor furniture or plants create foreground elements that frame her figure within the architectural space.The lighting creates a dramatic contrast between the bright camera flash illuminating her face and upper body and the complete darkness of the night sky beyond the city lights. The flash provides harsh, direct illumination that reveals the details of her clothing and facial features while casting sharp shadows on the balcony floor and any furniture behind her. The city lights in the background remain as small points of warm and cool colored light, creating depth and urban atmosphere without competing with the flash-lit subject.The foreground includes the balcony floor surface, possibly outdoor furniture, potted plants, or the sliding door threshold leading from the apartment interior. The midground features the woman as the central subject positioned against the balcony railing. The background consists entirely of the nighttime cityscape with its scattered lights from windows, street lamps, and commercial signage creating a tapestry of small bright points against the dark sky. The color palette is dominated by the stark contrast between the bright whites and skin tones created by the camera flash and the warm amber and cool blue points of light from the distant city. The overall aesthetic captures the intimate yet urban quality of early 2000s night photography with its characteristic harsh flash against dark backgrounds and minimal, authentic composition.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "32435558",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:25:09.432Z"
+  },
+  {
+    "id": "img-1772022309571-vvinnwehm",
+    "hash": "e998a168f7f780298e3f46671f9a826a",
+    "url": "images/img-050.png",
+    "thumbnail": "images/img-050.png",
+    "filename": "img-050.png",
+    "prompt": "A woman sits on the carpeted floor with her back against a fabric couch, her legs extended and crossed at the ankles. She wears a dress paired with tall boots that create an interesting contrast between feminine and edgy styling elements. Her body is angled away from the camera while her head turns to look in a different direction, creating a natural, contemplative pose that suggests she was captured in an unguarded moment of thought or distraction. The composition is framed from a slightly elevated angle, looking down at her seated position.The lighting comes from harsh direct camera flash that creates flat, bright illumination across her figure while casting sharp shadows on the carpet and couch surfaces around her. The flash reveals the domestic details of the living room environment - the texture and weave of the couch fabric, the carpet pile and any visible wear patterns, and possibly coffee table legs, magazines, or other casual living room items scattered nearby. The harsh lighting also emphasizes the grainy texture characteristic of early digital cameras, with visible digital noise and slight pixelation throughout the image.The foreground shows the carpeted floor surface with its texture and any small personal items like books, remote controls, or shoes that might be scattered in the immediate area. The midground contains the woman as the central subject positioned against the couch base. The background includes the lower portion of the couch with its cushions and fabric details, and possibly the legs of a coffee table or other living room furniture. The color palette consists of the warm, muted tones typical of residential interiors - beige or brown carpet, neutral couch fabric, the darker colors of her dress and boots, and any accent colors from throw pillows or decorations. The overall aesthetic perfectly captures the candid, unpolished quality of early 2000s fashion photography with its direct flash, grainy texture, and emphasis on authentic, unposed moments in intimate domestic spaces.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "26508034",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:25:09.571Z"
+  },
+  {
+    "id": "img-1772022309674-1w82lu639",
+    "hash": "2f821244af4e8f87e2078487dc14a6d6",
+    "url": "images/img-051.png",
+    "thumbnail": "images/img-051.png",
+    "filename": "img-051.png",
+    "prompt": "A woman stands alone in an empty room near a large window that provides the primary light source, creating a soft, natural illumination that contrasts with the artificial flash photography aesthetic of the previous images. The composition is framed from eye level with slightly imperfect camera positioning that suggests handheld capture rather than tripod stability. She wears a carefully chosen fashion outfit that appears intentional yet effortless, and maintains a casual, relaxed posture that feels natural rather than posed. Her positioning near the window creates interesting lighting dynamics across her figure.The lighting is dominated by soft, diffused daylight streaming through the window, creating gentle shadows and natural skin tones that differ markedly from harsh flash photography. However, the image maintains a slightly blurred quality and low contrast that suggests early digital camera limitations in handling mixed lighting conditions. The window light creates subtle rim lighting around her silhouette while providing even illumination across her clothing and facial features. The natural light also reveals the architectural details of the empty room - wall surfaces, flooring materials, and the window frame itself.The foreground includes the flooring surface, which could be hardwood, tile, or carpet, showing natural wear patterns and the way light falls across its surface from the window. The midground features the woman as the central subject positioned in the available natural light. The background consists of the empty room's walls, the window with its frame and possibly visible exterior elements like trees or buildings, and any architectural details like baseboards, light switches, or electrical outlets. The color palette is softer and more natural than flash photography - warm skin tones, the natural colors of her fashion outfit, neutral wall colors, and the cool or warm tones of the daylight depending on time of day and weather conditions. The overall aesthetic captures the transitional quality of early 2000s digital photography moving toward more natural lighting while maintaining the slightly soft focus and low contrast characteristics of consumer digital cameras of that era.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "387599504",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:25:09.674Z"
   }
 ]
