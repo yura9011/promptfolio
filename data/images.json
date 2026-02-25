@@ -1,114 +1,5 @@
 [
   {
-    "id": "img-1708876800-abc123",
-    "hash": "e2d1af657f494acdbe49fa137bf076b9",
-    "url": "https://picsum.photos/800/800?random=1",
-    "thumbnail": "https://picsum.photos/300/300?random=1",
-    "filename": "anime-girl.png",
-    "prompt": "Anime girl with blue hair in school uniform, detailed eyes, soft lighting, high quality",
-    "model": "NovelAI Diffusion",
-    "category": "Anime",
-    "achievement": false,
-    "settings": {
-      "steps": 28,
-      "cfg_scale": 11,
-      "sampler": "Euler a"
-    },
-    "notes": "",
-    "created_at": "2026-02-20T10:30:00Z"
-  },
-  {
-    "id": "img-1708963200-def456",
-    "hash": "faad04b25dd95a89b0eba6276af14b3d",
-    "url": "https://picsum.photos/800/800?random=2",
-    "thumbnail": "https://picsum.photos/300/300?random=2",
-    "filename": "dragon.png",
-    "prompt": "A majestic dragon flying over mountains at sunset, epic fantasy art, detailed scales, dramatic lighting",
-    "model": "Stable Diffusion XL",
-    "category": "Dark Fantasy",
-    "achievement": true,
-    "settings": {
-      "steps": 30,
-      "cfg_scale": 7.5,
-      "sampler": "DPM++ 2M Karras",
-      "seed": "123456789",
-      "size": "1024x1024"
-    },
-    "notes": "Primera versión exitosa después de varios intentos",
-    "created_at": "2026-02-21T14:20:00Z"
-  },
-  {
-    "id": "img-1709049600-ghi789",
-    "hash": "f5df9fa036bfecf1d94b3570a4f5be2d",
-    "url": "https://picsum.photos/800/800?random=3",
-    "thumbnail": "https://picsum.photos/300/300?random=3",
-    "filename": "cyberpunk-city.jpg",
-    "prompt": "A cyberpunk city at night with neon lights reflecting on wet streets, futuristic architecture, rain",
-    "model": "Stable Diffusion XL",
-    "category": "Fotorealismo",
-    "achievement": true,
-    "settings": {
-      "steps": 35,
-      "cfg_scale": 8,
-      "sampler": "DPM++ 2M Karras",
-      "seed": "987654321"
-    },
-    "notes": "Inspirado en Blade Runner",
-    "created_at": "2026-02-22T09:15:00Z"
-  },
-  {
-    "id": "img-1709136000-jkl012",
-    "hash": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6",
-    "url": "https://picsum.photos/800/800?random=4",
-    "thumbnail": "https://picsum.photos/300/300?random=4",
-    "filename": "manga-character.png",
-    "prompt": "Manga style character portrait, black and white, dynamic pose, action lines",
-    "model": "NovelAI Diffusion",
-    "category": "Manga",
-    "achievement": false,
-    "settings": {
-      "steps": 25,
-      "cfg_scale": 10,
-      "sampler": "Euler"
-    },
-    "notes": "",
-    "created_at": "2026-02-23T16:45:00Z"
-  },
-  {
-    "id": "img-1709222400-mno345",
-    "hash": "q1w2e3r4t5y6u7i8o9p0a1s2d3f4g5h6",
-    "url": "https://picsum.photos/800/800?random=5",
-    "thumbnail": "https://picsum.photos/300/300?random=5",
-    "filename": "rpg-warrior.png",
-    "prompt": "Fantasy RPG warrior with glowing sword, medieval armor, epic pose, dramatic background",
-    "model": "Midjourney v6",
-    "category": "RPG/Fantasy",
-    "achievement": true,
-    "settings": {
-      "steps": 40,
-      "cfg_scale": 7,
-      "sampler": "DPM++ SDE"
-    },
-    "notes": "Diseño para personaje de juego",
-    "created_at": "2026-02-24T11:30:00Z"
-  },
-  {
-    "id": "img-1709308800-pqr678",
-    "hash": "z1x2c3v4b5n6m7l8k9j0h1g2f3d4s5a6",
-    "url": "https://picsum.photos/800/800?random=6",
-    "thumbnail": "https://picsum.photos/300/300?random=6",
-    "filename": "surreal-landscape.jpg",
-    "prompt": "Surreal landscape with floating islands, impossible geometry, dreamlike atmosphere, vibrant colors",
-    "model": "DALL-E 3",
-    "category": "Surrealismo",
-    "achievement": false,
-    "settings": {
-      "size": "1024x1024"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T08:00:00Z"
-  },
-  {
     "id": "img-1772005286473-z844jf9y1",
     "hash": "3517769f69a7a2147fe69553a4d80689",
     "url": "images/img-001.png",
@@ -258,7 +149,7 @@
       "sampler": "res_multistep"
     },
     "notes": "",
-    "created_at": "2026-02-25T12:14:50.630Z"
+    "created_at": "2026-02-25T12:14:50.63Z"
   },
   {
     "id": "img-1772021690722-l4snqidyi",
@@ -378,7 +269,7 @@
       "sampler": "res_multistep"
     },
     "notes": "",
-    "created_at": "2026-02-25T12:14:51.210Z"
+    "created_at": "2026-02-25T12:14:51.21Z"
   },
   {
     "id": "img-1772021836691-v9do5g5ts",
@@ -522,7 +413,7 @@
       "sampler": "res_multistep"
     },
     "notes": "",
-    "created_at": "2026-02-25T12:17:17.210Z"
+    "created_at": "2026-02-25T12:17:17.21Z"
   },
   {
     "id": "img-1772021837323-hxfgkbj7d",
@@ -642,7 +533,7 @@
       "sampler": "res_multistep"
     },
     "notes": "",
-    "created_at": "2026-02-25T12:18:40.600Z"
+    "created_at": "2026-02-25T12:18:40.6Z"
   },
   {
     "id": "img-1772021920733-lqc3i7xoi",
@@ -1633,7 +1524,7 @@
       "sampler": "res_multistep"
     },
     "notes": "",
-    "created_at": "2026-02-25T12:26:42.140Z"
+    "created_at": "2026-02-25T12:26:42.14Z"
   },
   {
     "id": "img-1772022402293-7eon00w0c",
