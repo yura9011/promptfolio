@@ -17,11 +17,6 @@ export class Gallery {
     this.container.innerHTML = '';
     this.loadedCount = 0;
 
-    // Create sentinel for infinite scroll
-    this.sentinel = document.createElement('div');
-    this.sentinel.className = 'gallery__sentinel';
-    this.sentinel.style.height = '1px';
-
     if (images.length === 0) {
       this.showEmptyState();
       return;
@@ -32,7 +27,7 @@ export class Gallery {
     // Load first batch
     this.loadMoreImages();
 
-    // Setup infinite scroll (single observer)
+    // Setup infinite scroll
     this.setupInfiniteScroll();
   }
 
@@ -53,12 +48,26 @@ export class Gallery {
       this.container.appendChild(card);
     });
 
-    // Add sentinel at the end
-    if (this.sentinel && this.container.contains(this.sentinel)) {
-      this.container.appendChild(this.sentinel);
+    this.loadedCount += nextBatch.length;
+
+    // Remove old sentinel if exists
+    if (this.sentinel && this.sentinel.parentNode) {
+      this.sentinel.parentNode.removeChild(this.sentinel);
     }
 
-    this.loadedCount += nextBatch.length;
+    // Add sentinel at the end if there are more images
+    if (this.loadedCount < this.filteredImages.length) {
+      this.sentinel = document.createElement('div');
+      this.sentinel.className = 'gallery__sentinel';
+      this.sentinel.style.height = '1px';
+      this.container.appendChild(this.sentinel);
+      
+      // Observe the new sentinel
+      if (this.observer) {
+        this.observer.observe(this.sentinel);
+      }
+    }
+
     this.isLoading = false;
 
     // Setup lazy loading for new images
