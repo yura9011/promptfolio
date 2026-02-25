@@ -1,13 +1,11 @@
 // Main application entry point
 import { Gallery } from './gallery.js';
 import { Modal } from './modal.js';
-import { Search } from './search.js';
 
 class App {
   constructor() {
     this.gallery = null;
     this.modal = null;
-    this.search = null;
     this.images = [];
   }
 
