@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Master_Blueprint>
+<Global_Concept>
+<Theme>Urban Solitude and Emotional Depletion - A Moment of Unguarded Vulnerability</Theme>
+<Atmosphere>Melancholic, introspective, psychologically heavy; the weight of isolation and mental exhaustion captured in a private unobserved moment. Stale apartment air, accumulated neglect, digital disconnection despite phone proximity. Sense of time standing still in a small confined space. Emotionally raw without theatrical performance.</Atmosphere>
+<Lighting_Style>Dim, diffused natural light filtering through apartment window in late afternoon or early evening; cool-tinted daylight creating soft shadows with minimal contrast. No artificial lighting visible; reliance on single natural window source creating gradual tonal falloff from illuminated side to deep shadow. Phone screen provides localized blue-tinted glow casting thin illumination across nearby floor and partial subject profile. Shadows pool naturally in corners and under subject's frame without dramatic chiaroscuro. Overall luminance suggests overcast day or late-afternoon sun angle.</Lighting_Style>
+<Art_Style>Raw observational documentary; photojournalistic aesthetic capturing unfiltered human reality. Unflinching focus on authentic emotional states without editorial intervention. Natural film grain, subtle lens imperfections, honest texture preservation. Inspired by intimate portraiture and social documentary photography traditions. Deliberately anti-glamorous, anti-posed, authentically imperfect.</Art_Style>
+</Global_Concept>
+<Composition>
+<Shot_Type>Wide medium shot capturing full seated figure within apartment spatial context; environmental portraiture emphasizing isolation within confined domestic space</Shot_Type>
+<Camera_Angle>Slightly elevated from seated eye level, approximately 20-25 degrees above horizontal; positioned to show subject's face profile, full torso, legs extended, surrounding floor details, and window light source simultaneously. Camera placement suggests observer standing or kneeling at moderate distance, not directly confrontational but present.</Camera_Angle>
+<Focus>Medium depth of field with soft focus concentration on subject's face and upper body; floor details and background wall gradually soften toward edges. Phone screen remains slightly sharper than extreme background, maintaining subtle visual hierarchy. Cigarette smoke and ash particles capture minimal detail blur where suspended in air, creating atmospheric depth.</Focus>
+<Framing_Guide>Intentionally imperfect, asymmetrical composition; subject positioned off-center toward frame left, with negative space of empty wall taking right side of frame. Top of head slightly cut by frame edge suggesting candid documentary cropping rather than deliberate portraiture. Floor plane occupies lower third; wall and window occupy upper two-thirds. Unpretentious spatial arrangement emphasizing psychological isolation through compositional emptiness.</Framing_Guide>
+</Composition>
+<Region_Map>
+<Region id="window_ambient_light_source">
+<Coordinates>x=65, y=5, w=35, h=40</Coordinates>
+<Content>Diffused apartment window providing primary natural light source; cool-toned daylight (5500-6500K) filtering through partially transparent glass, possibly with light curtains or shade creating soft diffusion. Window frame barely visible but heavily out of focus. Overcast or late-day quality to light. Subtle window pane divisions suggested but unfocused. Creates directional but soft light across entire scene without hard shadow edges.</Content>
+</Region>
+<Region id="subject_seated_figure">
+<Coordinates>x=5, y=30, w=45, h=55</Coordinates>
+<Content>Young man, mid-20s to early 30s, sitting on apartment floor with back against wall. Posture collapsed and resigned; spine curved against wall, legs extended forward in casual but emotionally weighted positioning. Dark casual clothing (hoodie, sweatshirt, or jacket half-unzipped revealing t-shirt underneath). Shoes still worn—lace-up boots or casual shoes—suggesting either just arrived or lack of energy to remove them. Hair somewhat unkempt, potentially uncombed or disheveled. Face in three-quarter profile view showing unfocused, blank stare directed toward middle distance or downward. Eyes appear glazed, unfocused, emotionally absent. Natural facial hair stubble visible on jawline and chin. Skin shows realistic texture without retouching; potential minor imperfections, tired-looking eye area with subtle under-eye darkness. Hands resting on lap or against legs; one hand holding cigarette with visible smoke rising.</Content>
+</Region>
+<Region id="cigarette_and_smoke">
+<Coordinates>x=35, y=45, w=15, h=20</Coordinates>
+<Content>Lit cigarette held in subject's right hand (left hand from viewer perspective); visible glowing orange-red tip and thin smoke stream rising vertically from burning end. Smoke creates subtle atmospheric haze and depth cues in surrounding air. Realistic smoke rendering with natural dispersion and turbulence. Cigarette held at naturalistic angle not posed artificially. Visible hand holding cigarette shows realistic finger positioning and cigarette orientation.</Content>
+</Region>
+<Region id="floor_ash_scattered">
+<Coordinates>x=0, y=60, w=50, h=25</Coordinates>
+<Content>Apartment floor (tile, worn linoleum, or stained concrete) scattered with cigarette ash accumulation; irregular ash distribution on floor surface near subject showing careless flicking or direct dropping. Multiple ash particles visible as gray-white dust scattered randomly, not swept or cleaned. Suggests either current session or accumulated neglect. Floor shows realistic wear patterns, dirt, minor stains, discoloration from daily use. Texture and surface imperfections visible in cool window light. No attempt at cleanliness evident.</Content>
+</Region>
+<Region id="empty_cup_forgotten">
+<Coordinates>x=25, y=70, w=12, h=10</Coordinates>
+<Content>Empty ceramic or paper cup lying on floor slightly away from subject's immediate position; abandoned casually without deliberate placement. Cup shows interior emptiness, possibly with residual stain ring from previous liquid. Casting subtle shadow on floor. Positioned to suggest forgotten object in scene of disorganization and neglect. Out of primary focus but narratively important detail.</Content>
+</Region>
+<Region id="phone_screen_glow">
+<Coordinates>x=45, y=75, w=20, h=12</Coordinates>
+<Content>Smartphone lying on floor beside subject's leg; screen illuminated with bright blue-white light characteristic of active mobile device interface (social media, messaging, news feed, or idle standby with notifications). Screen casting localized glow onto adjacent floor surface and creating thin blue-tinted illumination on nearby surfaces and subject's lower leg. Device positioned casually, not held, suggesting passive disengagement or compulsive placement nearby despite emotional non-engagement. Screen detail unfocused but glow effect sharp and visible.</Content>
+</Region>
+<Region id="wall_and_background_space">
+<Coordinates>x=0, y=0, w=100, h=60</Coordinates>
+<Content>Bare apartment wall serving as primary background; neutral tone (cream, off-white, pale gray, or light beige) showing realistic age-related discoloration, minor stains, dust accumulation at baseboard level, and surface imperfections. No posters, decorations, or personal touches visible—emphasizing emptiness and emotional desolation. Soft shadow gradation from window light creates subtle tonal variation across wall. Wall texture shows realistic paint imperfections, minor cracks, or scuffs from wear. Contributes to overall sense of confined, neglected domestic space.</Content>
+</Region>
+<Region id="corner_shadow_depth">
+<Coordinates>x=50, y=40, w=50, h=40</Coordinates>
+<Content>Deep shadow areas in room corner and away from window light; rich dark gray-blue tones from lack of direct illumination. Shadows maintain realistic soft edges from diffuse window source rather than sharp umbra/penumbra definition. Creates atmospheric depth and sense of room volume. Background becomes increasingly undefined and dark as distance from window increases.</Content>
+</Region>
+</Region_Map>
+<Visual_Description>
+<Main_Subject>
+<Description>Young man appearing mid-20s to early 30s, seated on apartment floor with posture suggesting emotional and physical exhaustion. Realistic facial structure with natural proportions; three-quarter profile view revealing unfocused, vacant stare indicating emotional absence or dissociation. Dark-toned skin (depicting diverse ethnicity) with natural texture variation, subtle pores, and realistic skin surface quality. Visible stubble on jawline and lower face suggesting unshaven state or deliberate minimal grooming. Fine facial hair details visible in soft ambient light. Eyes appear glazed and unfocused, potentially with slight puffiness or darkness under eyes suggesting fatigue, poor sleep, or emotional strain. Eyebrows and facial features show natural asymmetry and imperfection. No visible makeup or artificial enhancement. Hair appears somewhat unkempt, potentially unwashed or uncombed; realistic hair texture with natural shine variation and organic styling suggesting genuine neglect rather than styled messiness.</Description>
+<Action>Seated position against wall with legs extended forward in resigned posture; spine curved against wall surface in collapsed position suggesting physical and emotional weight. Right hand (visible from viewer left) holding cigarette with realistic grip and finger positioning; smoke rising naturally from burning tip. Left arm resting across body or against legs in relaxed but withdrawn positioning. Overall body language communicates disconnection, exhaustion, and absence of active engagement despite environmental stimuli (phone nearby). Unfocused stare directed vaguely toward middle distance or downward, not making eye contact with implied observer. Posture shows no dynamic movement; static, waiting quality to positioning.</Action>
+<Clothing>Casual worn clothing consistent with extended indoor time and emotional depletion: dark hoodie or sweatshirt with half-unzipped jacket revealing plain t-shirt underneath; fabric shows realistic creasing, wrinkles, and worn appearance suggesting garment worn for extended period without changing. Colors dark and muted (charcoal, dark gray, or deep navy) contributing to overall somber visual tonality. Shoes remain on—lace-up casual boots or worn sneakers showing realistic signs of age and use. Clothing shows honest wear patterns, potential stains or discoloration, and genuine texture rather than styled vintage aesthetic. Overall appearance unmade and authentically disheveled.</Clothing>
+</Main_Subject>
+<Background>
+<Setting>Small residential apartment interior, sparse and emotionally austere; minimal furnishings visible or implied. Single window providing primary natural illumination during late afternoon or overcast day. Confined space emphasizing isolation and psychological weight of solitude. Bare walls, worn floor surfaces, accumulated neglect evident in minor clutter and ash distribution. No decorative elements, personal touches, or signs of active life engagement visible. Space feels abandoned despite subject's occupation, as though it exists outside normal temporal flow. Room temperature appears cool from window proximity; ambient quality is stale and disengaged from external world.</Setting>
+<Details>Worn apartment floor (tile, linoleum, or aged concrete) showing realistic surface variations, minor stains, dust accumulation, and wear patterns from foot traffic and time. Scattered cigarette ash distributed irregularly on floor near subject—gray-white particles visible on surface without active cleanup evident. Empty ceramic or paper cup abandoned on floor slightly distant from subject, showing interior emptiness and lip stain ring from previous contents. Phone screen glowing blue-white on floor beside subject's leg, providing technological presence despite emotional disengagement from device. Window frame barely visible but heavily out-of-focus, providing soft diffused light source without sharp architectural definition. Wall surface shows realistic age: minor discoloration, dust accumulation at baseboard, subtle stains, microscopic cracks, and surface imperfections from years of domestic use. Overall environmental detail emphasizes lived-in desolation and passage of time without active intervention.</Details>
+</Background>
+<Color_Palette>
+<Primary>Cool gray-blue tones from overcast window light dominating overall illumination; pale cream, off-white, or light gray walls under diffuse daylight creating cool overall tonality. Dark charcoal and navy from subject's clothing providing visual weight and emotional gravity to composition center.</Primary>
+<Secondary>Warm orange-red glow from cigarette tip creating localized warm accent against cool ambient environment. Blue-white screen glow from phone providing secondary cool light source with slightly higher color temperature. Subtle warm undertones in shadows where indirect light reflects from ambient surfaces.</Secondary>
+<Accent>Deep shadow blues and blue-grays in background corner regions creating atmospheric depth. Warm red-orange cigarette smoke and burning tip contrasting with cool environmental palette. Subtle brown-gray ash particles scattered on floor. Natural skin tones providing warm organic element against cool architectural space.</Accent>
+</Color_Palette>
+</Visual_Description>
+<Technical_Specs>
+<Spec>4K to 8K resolution maintaining fine detail in facial texture, stubble definition, smoke particle rendering, and floor surface imperfections without clinical over-sharpening</Spec>
+<Spec>Medium depth of field; focus concentration on subject's face and upper torso with gradual soft-focus transition to background wall and corner shadows; phone screen and floor details in transitional focus zone</Spec>
+<Spec>Natural film grain and sensor noise consistent with ISO 800-1600 sensitivity in low-light apartment environment; grain structure should show slight color noise variation reflecting realistic photographic capture in dim conditions</Spec>
+<Spec>Realistic chromatic aberration at high-contrast edges (subject profile against wall, cigarette smoke edges, phone screen boundary) simulating optical lens characteristics without exaggeration</Spec>
+<Spec>Subtle lens vignetting darkening frame periphery and corners, particularly pronounced in shadow regions away from window light; creates natural focus pull toward subject</Spec>
+<Spec>Cigarette smoke rendered with physically accurate volumetric properties; visible suspended particles dispersing naturally through air, showing realistic opacity, turbulence, and light interaction without excessive stylization</Spec>
+<Spec>Natural color temperature handling: cool 5500-6500K window daylight creating dominant tonality; warm orange-red cigarette tip glow; blue-white phone screen light creating secondary color temperature gradient; no artificial white balance correction—maintain cool overall cast</Spec>
+<Spec>Realistic motion blur on cigarette smoke suggesting natural air movement and subtle environmental air currents; minimal motion blur on stationary subject elements</Spec>
+<Spec>Ray-traced global illumination and soft shadow definition without artificial flatness; natural light bounce from floor and wall surfaces creating subtle environmental fill without studio lighting appearance</Spec>
+<Spec>High-fidelity material properties: realistic skin texture with subtle subsurface scattering and micro-surface variation; worn fabric showing appropriate light absorption and wrinkle shadow definition; floor surfaces with realistic reflectivity variation and aged patina; glass phone screen with realistic specular reflection and Fresnel properties</Spec>
+<Spec>Cigarette ash rendering with realistic particle-level detail; individual ash flakes visible on floor with natural light interaction and slight shadow casting</Spec>
+<Spec>Minimalist post-processing approach; avoid excessive clarity, contrast enhancement, or saturation boost; maintain organic, unretouched documentary quality consistent with observational photography aesthetic</Spec>
+<Spec>No watermarks, logos, text, signatures, or digital artifacts visible anywhere in frame</Spec>
+<Spec>Anatomically correct hand and finger positioning with realistic proportions; cigarette held at natural angle with proper digit arrangement showing no distortion or extra appendages</Spec>
+</Technical_Specs>
+</Master_Blueprint>
+
+MODEL
+Z-Image-Turbo
+
+DIMENSIONS
+1024 × 1024
+
+SEED
+528567353
+
+STEPS
+9
+
+SAMPLER
+res_multistep
+
+SCHEDULER
+simple
