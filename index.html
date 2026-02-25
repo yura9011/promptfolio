@@ -52,6 +52,20 @@
     <link rel="stylesheet" href="css/responsive.css">
 </head>
 <body>
+    <!-- Search Bar -->
+    <div id="searchContainer" class="search-bar">
+        <div class="search-bar__wrapper">
+            <div id="popularTags" class="popular-tags"></div>
+            <input 
+                type="text" 
+                id="searchInput" 
+                class="search-input" 
+                placeholder="🔍 Buscar por tags o palabras..."
+                autocomplete="off"
+            >
+        </div>
+    </div>
+
     <!-- Gallery -->
     <main class="gallery">
         <div class="gallery__container">
@@ -99,6 +113,11 @@
                     <div class="modal__section">
                         <h3 class="modal__section-title">Modelo</h3>
                         <p id="modalModel" class="modal__model"></p>
+                    </div>
+                    
+                    <div class="modal__section" id="modalTagsSection" style="display: none;">
+                        <h3 class="modal__section-title">Tags</h3>
+                        <div id="modalTags" class="modal__tags"></div>
                     </div>
                     
                     <div class="modal__section" id="modalSettingsSection">

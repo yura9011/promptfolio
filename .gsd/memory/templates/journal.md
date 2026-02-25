@@ -26,10 +26,8 @@ Things that worked smoothly:
 
 Difficulties encountered:
 - 
-- 
 
 How they were resolved:
-- 
 - 
 
 ---
@@ -46,14 +44,11 @@ New technical knowledge gained:
 
 Patterns noticed in user behavior/preferences:
 - 
-- 
 
 Communication style:
 - 
-- 
 
 What the user values:
-- 
 - 
 
 ---
@@ -62,10 +57,8 @@ What the user values:
 
 Thoughts about how the work went:
 - 
-- 
 
 What could be improved:
-- 
 - 
 
 ---
@@ -74,10 +67,8 @@ What could be improved:
 
 Tips for agents working with this user or on this project:
 - 
-- 
 
 Things to watch out for:
-- 
 - 
 
 ---
@@ -86,14 +77,12 @@ Things to watch out for:
 
 Free-form reflection (be honest):
 - 
-- 
 
 ---
 
 ## Simulated Emotional State
 
 If you were human, how would you feel about this session?
-- 
 - 
 
 ---
@@ -102,10 +91,8 @@ If you were human, how would you feel about this session?
 
 What should be tackled next:
 - 
-- 
 
 Context to remember:
-- 
 - 
 
 ---

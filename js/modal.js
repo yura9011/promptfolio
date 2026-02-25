@@ -88,6 +88,9 @@ export class Modal {
     // Model
     document.getElementById('modalModel').textContent = image.model || 'Desconocido';
 
+    // Tags
+    this.renderTags(image.tags || []);
+
     // Settings
     this.renderSettings(image.settings || {});
 
@@ -165,6 +168,34 @@ export class Modal {
       'size': 'Size'
     };
     return labels[key] || key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+  }
+
+  renderTags(tags) {
+    const tagsSection = document.getElementById('modalTagsSection');
+    const tagsContainer = document.getElementById('modalTags');
+    
+    if (!tags || tags.length === 0) {
+      tagsSection.style.display = 'none';
+      return;
+    }
+
+    tagsSection.style.display = 'block';
+    tagsContainer.innerHTML = tags.map(tag => 
+      `<span class="tag-chip" data-tag="${tag}">#${tag}</span>`
+    ).join('');
+
+    tagsContainer.querySelectorAll('.tag-chip').forEach(chip => {
+      chip.addEventListener('click', () => {
+        const tag = chip.dataset.tag;
+        this.close();
+        // Dispatch event for search to handle
+        const searchInput = document.getElementById('searchInput');
+        if (searchInput) {
+          searchInput.value = tag;
+          searchInput.dispatchEvent(new Event('input'));
+        }
+      });
+    });
   }
 
   async copyPrompt() {

@@ -1,11 +1,13 @@
 // Main application entry point
 import { Gallery } from './gallery.js';
 import { Modal } from './modal.js';
+import { Search } from './search.js';
 
 class App {
   constructor() {
     this.gallery = null;
     this.modal = null;
+    this.search = null;
     this.images = [];
   }
 
@@ -17,9 +19,13 @@ class App {
       // Initialize components
       this.gallery = new Gallery(this.images);
       this.modal = new Modal(this.images);
+      this.search = new Search(this.images, this.gallery);
       
       // Render initial gallery
       this.gallery.render();
+      
+      // Render popular tags
+      this.search.renderPopularTags();
       
       // Setup event listeners
       this.setupEventListeners();
@@ -51,6 +57,14 @@ class App {
         this.modal.open(imageId);
       }
     });
+
+    // Search input
+    const searchInput = document.getElementById('searchInput');
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        this.search.handleSearch(e.target.value);
+      });
+    }
   }
 
   showError(message) {

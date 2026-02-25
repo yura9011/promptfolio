@@ -1,4 +1,3 @@
-// Search and filter component
 export class Search {
   constructor(images, gallery) {
     this.allImages = images;
@@ -7,13 +6,19 @@ export class Search {
       search: '',
       category: 'all',
       achievementsOnly: false,
-      sort: 'date-desc'
+      sort: 'date-desc',
+      activeTag: null
     };
+    this.debounceTimer = null;
+    this.tagsContainer = document.getElementById('popularTags');
   }
 
   handleSearch(query) {
-    this.filters.search = query.toLowerCase();
-    this.applyFilters();
+    clearTimeout(this.debounceTimer);
+    this.debounceTimer = setTimeout(() => {
+      this.filters.search = query.toLowerCase().trim();
+      this.applyFilters();
+    }, 300);
   }
 
   handleCategoryFilter(category) {
@@ -31,38 +36,67 @@ export class Search {
     this.applyFilters();
   }
 
+  handleTagClick(tag) {
+    if (this.filters.activeTag === tag) {
+      this.filters.activeTag = null;
+    } else {
+      this.filters.activeTag = tag;
+    }
+    this.applyFilters();
+    this.updateTagStyles();
+  }
+
+  updateTagStyles() {
+    if (!this.tagsContainer) return;
+    const chips = this.tagsContainer.querySelectorAll('.tag-chip');
+    chips.forEach(chip => {
+      if (chip.dataset.tag === this.filters.activeTag) {
+        chip.classList.add('active');
+      } else {
+        chip.classList.remove('active');
+      }
+    });
+  }
+
   applyFilters() {
     let filtered = [...this.allImages];
 
-    // Search filter
-    if (this.filters.search) {
+    if (this.filters.search || this.filters.activeTag) {
+      const searchText = this.filters.search.toLowerCase();
+      
       filtered = filtered.filter(img => {
-        const searchText = [
-          img.prompt,
-          img.model,
-          img.category,
-          img.notes,
-          img.filename
-        ].join(' ').toLowerCase();
+        const tagsMatch = img.tags && img.tags.some(tag => 
+          tag.toLowerCase().includes(searchText)
+        );
         
-        return searchText.includes(this.filters.search);
+        const promptMatch = img.prompt && 
+          img.prompt.toLowerCase().includes(searchText);
+        
+        const modelMatch = img.model && 
+          img.model.toLowerCase().includes(searchText);
+        
+        const categoryMatch = img.category && 
+          img.category.toLowerCase().includes(searchText);
+        
+        const tagFilterMatch = this.filters.activeTag ? 
+          (img.tags && img.tags.some(tag => 
+            tag.toLowerCase() === this.filters.activeTag.toLowerCase()
+          )) : true;
+
+        return (tagsMatch || promptMatch || modelMatch || categoryMatch) && tagFilterMatch;
       });
     }
 
-    // Category filter
     if (this.filters.category !== 'all') {
       filtered = filtered.filter(img => img.category === this.filters.category);
     }
 
-    // Achievements filter
     if (this.filters.achievementsOnly) {
       filtered = filtered.filter(img => img.achievement === true);
     }
 
-    // Sort
     filtered = this.sortImages(filtered, this.filters.sort);
 
-    // Render
     this.gallery.render(filtered);
   }
 
@@ -86,5 +120,40 @@ export class Search {
     }
 
     return sorted;
+  }
+
+  renderPopularTags() {
+    if (!this.tagsContainer) return;
+    
+    const tagCounts = {};
+    this.allImages.forEach(image => {
+      if (image.tags) {
+        image.tags.forEach(tag => {
+          tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+        });
+      }
+    });
+
+    const sortedTags = Object.entries(tagCounts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 20)
+      .map(([tag]) => tag);
+
+    this.popularTags = sortedTags;
+
+    this.tagsContainer.innerHTML = sortedTags.map(tag => 
+      `<span class="tag-chip" data-tag="${tag}">#${tag}</span>`
+    ).join('');
+
+    this.tagsContainer.querySelectorAll('.tag-chip').forEach(chip => {
+      chip.addEventListener('click', () => {
+        this.handleTagClick(chip.dataset.tag);
+      });
+    });
+  }
+
+  updateImages(images) {
+    this.allImages = images;
+    this.renderPopularTags();
   }
 }

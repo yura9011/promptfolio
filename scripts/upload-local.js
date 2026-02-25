@@ -12,6 +12,63 @@ const SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.webp'];
 const BACKUP_DIR = 'backup';
 const IMAGES_DIR = 'images';
 
+const STOP_WORDS = new Set([
+  'a', 'an', 'the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with',
+  'by', 'from', 'as', 'is', 'was', 'are', 'were', 'been', 'be', 'have', 'has', 'had',
+  'do', 'does', 'did', 'will', 'would', 'could', 'should', 'may', 'might', 'must',
+  'shall', 'can', 'need', 'dare', 'ought', 'used', 'it', 'its', 'this', 'that',
+  'these', 'those', 'i', 'you', 'he', 'she', 'we', 'they', 'what', 'which', 'who',
+  'whom', 'whose', 'where', 'when', 'why', 'how', 'all', 'each', 'every', 'both',
+  'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own',
+  'same', 'so', 'than', 'too', 'very', 'just', 'also', 'now', 'here', 'there', 'then',
+  'once', 'if', 'because', 'until', 'while', 'about', 'against', 'between', 'into',
+  'through', 'during', 'before', 'after', 'above', 'below', 'up', 'down', 'out', 'off',
+  'over', 'under', 'again', 'further', 'being', 'having', 'doing', 'get', 'got',
+  'showing', 'capturing', 'featuring', 'depicting', 'displaying',
+  'com', 'www', 'http', 'https', 'jpg', 'png', 'image', 'photo', 'photograph',
+  'picture', 'shot', 'taken', 'camera', 'lens', 'looking', 'seen', 'view',
+  'scene', 'type', 'style', 'aesthetic', 'vibe', 'one', 'two', 'three', 'four',
+  'five', 'using', 'with', 'without', 'based', 'inspired', 'render', 'generated',
+  'created', 'made', 'digital', 'art', 'artwork', 'illustration', 'portrait',
+  'background', 'foreground', 'middle', 'center', 'side', 'left', 'right',
+  'top', 'bottom', 'front', 'back', 'behind', 'around', 'near', 'close', 'far'
+]);
+
+function extractTags(prompt) {
+  let text = prompt;
+  
+  if (prompt.includes('<') && prompt.includes('>')) {
+    text = text.replace(/<[^>]+>/g, ' ');
+    text = text.replace(/\{[^}]+\}/g, ' ');
+    text = text.replace(/<\?[^>]+\?>/g, ' ');
+    text = text.replace(/&\w+;/g, ' ');
+  }
+  
+  text = text.toLowerCase();
+  text = text.replace(/[^\w\s#-]/g, ' ');
+  text = text.replace(/\d+/g, ' ');
+  
+  const words = text.split(/\s+/).filter(w => w.length > 2);
+  const keywords = [];
+  const seen = new Set();
+  
+  for (const word of words) {
+    const cleaned = word.trim().toLowerCase();
+    if (cleaned.length < 3) continue;
+    if (STOP_WORDS.has(cleaned)) continue;
+    if (seen.has(cleaned)) continue;
+    if (cleaned.startsWith('-year') || cleaned.startsWith('-star') || cleaned.startsWith('--')) continue;
+    
+    const isNumeric = /^\d+$/.test(cleaned);
+    if (isNumeric) continue;
+    
+    seen.add(cleaned);
+    keywords.push(cleaned);
+  }
+  
+  return keywords.slice(0, 10);
+}
+
 // Parse command line arguments
 const args = process.argv.slice(2);
 const sourceDir = args[0] || 'uploads';
@@ -142,6 +199,10 @@ async function processImage(imagePath, existingImages, stats) {
     console.log(chalk.gray(`   Category: ${metadata.category}`));
     console.log(chalk.gray(`   Model: ${metadata.model}`));
 
+    // Extract tags from prompt
+    const tags = extractTags(metadata.prompt || '');
+    console.log(chalk.gray(`   Tags: ${tags.slice(0, 5).join(', ')}${tags.length > 5 ? '...' : ''}`));
+
     // Create image entry
     const imageEntry = {
       id: `img-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
@@ -149,6 +210,7 @@ async function processImage(imagePath, existingImages, stats) {
       url: `images/${finalFilename}`,
       thumbnail: `images/${finalFilename}`,
       filename: finalFilename,
+      tags,
       ...metadata,
       created_at: new Date().toISOString()
     };
