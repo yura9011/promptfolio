@@ -1,0 +1,22 @@
+============================================================
+IMAGE GENERATION METADATA
+============================================================
+
+Platform: opensourcegen
+
+PROMPT:
+------------------------------------------------------------
+Raw vertical Instagram photo of a 29-year-old Argentine alt girl , shoulder-length black hair with blunt bangs and red streaks, freckles across nose, dark lined eyes, slim athletic build, wearing oversized black hoodie half-zipped showing black lace bralette, fishnet sleeves, sitting on concrete stairs in Buenos Aires at dusk, looking at camera with bored-sexy expression, film grain, soft purple street light, indie sleaze aesthetic
+
+GENERATION PARAMETERS:
+------------------------------------------------------------
+MODEL: Z-Image-Turbo
+DIMENSIONS: 1024 × 1024
+SEED: 995904705
+STEPS: 14
+SAMPLER: res_multistep
+SCHEDULER: simple
+
+============================================================
+Generated with: opensourcegen
+============================================================

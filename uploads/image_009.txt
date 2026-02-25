@@ -1,0 +1,22 @@
+============================================================
+IMAGE GENERATION METADATA
+============================================================
+
+Platform: opensourcegen
+
+PROMPT:
+------------------------------------------------------------
+Street-style Instagram shot of 27-year-old tall Argentine woman with warm tan skin, shaved side + long top dark hair, wearing oversized leather jacket over sports bra, baggy cargo pants, standing against subway wall in Buenos Aires, hands in pockets, cool detached expression, raw urban indie
+
+GENERATION PARAMETERS:
+------------------------------------------------------------
+MODEL: Z-Image-Turbo
+DIMENSIONS: 1024 × 1024
+SEED: 105851186
+STEPS: 14
+SAMPLER: res_multistep
+SCHEDULER: simple
+
+============================================================
+Generated with: opensourcegen
+============================================================

@@ -1,0 +1,22 @@
+============================================================
+IMAGE GENERATION METADATA
+============================================================
+
+Platform: opensourcegen
+
+PROMPT:
+------------------------------------------------------------
+Vibrant vertical shot of 21-year-old slim Argentine girl, long wavy hair half neon-pink half black, multiple ear piercings, wearing crochet halter top and cargo pants low on hips, dancing lightly at sunset desert rave, colorful lights in background, indie festival aesthetic, glowing skin with glitter
+
+GENERATION PARAMETERS:
+------------------------------------------------------------
+MODEL: Z-Image-Turbo
+DIMENSIONS: 1024 × 1024
+SEED: 281378060
+STEPS: 14
+SAMPLER: res_multistep
+SCHEDULER: simple
+
+============================================================
+Generated with: opensourcegen
+============================================================

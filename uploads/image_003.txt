@@ -1,0 +1,22 @@
+============================================================
+IMAGE GENERATION METADATA
+============================================================
+
+Platform: opensourcegen
+
+PROMPT:
+------------------------------------------------------------
+Cinematic Instagram photo of a 38-year-old Argentine woman, straight black hair in low messy bun, sharp cheekbones, wearing vintage brown cardigan unbuttoned over black corset top, thick glasses, sitting in old library with books everywhere, golden window light, intellectual seductive alt vibe, subtle smirk
+
+GENERATION PARAMETERS:
+------------------------------------------------------------
+MODEL: Z-Image-Turbo
+DIMENSIONS: 1024 × 1024
+SEED: 957624150
+STEPS: 14
+SAMPLER: res_multistep
+SCHEDULER: simple
+
+============================================================
+Generated with: opensourcegen
+============================================================

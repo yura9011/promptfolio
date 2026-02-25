@@ -53,7 +53,8 @@ async function main() {
     duplicates: 0,
     compressed: 0,
     errors: 0,
-    totalSavedBytes: 0
+    totalSavedBytes: 0,
+    currentImageNumber: existingImages.length
   };
 
   for (const imageFile of imageFiles) {
@@ -105,14 +106,20 @@ async function processImage(imagePath, existingImages, stats) {
     await backupImage(imagePath);
     console.log(chalk.gray(`   ✓ Backed up to ${BACKUP_DIR}/`));
 
+    // Generate sequential filename
+    stats.currentImageNumber++;
+    const imageNumber = stats.currentImageNumber;
+    const ext = path.extname(imagePath);
+    const newFilename = `img-${String(imageNumber).padStart(3, '0')}${ext}`;
+    
     // Check if compression needed
     let finalImagePath = imagePath;
-    let finalFilename = filename;
+    let finalFilename = newFilename;
     
     if (await needsCompression(imagePath)) {
       console.log(chalk.yellow(`   🗜️  Image > 2MB, compressing...`));
       
-      const compressedFilename = path.basename(imagePath, path.extname(imagePath)) + '.webp';
+      const compressedFilename = `img-${String(imageNumber).padStart(3, '0')}.webp`;
       const compressedPath = path.join(IMAGES_DIR, compressedFilename);
       const compressionStats = await compressImage(imagePath, compressedPath);
       
@@ -123,11 +130,11 @@ async function processImage(imagePath, existingImages, stats) {
       stats.compressed++;
       stats.totalSavedBytes += compressionStats.savedBytes;
     } else {
-      // Copy image to images directory
-      const destPath = path.join(IMAGES_DIR, filename);
+      // Copy image to images directory with new name
+      const destPath = path.join(IMAGES_DIR, newFilename);
       await fs.copyFile(imagePath, destPath);
       finalImagePath = destPath;
-      console.log(chalk.gray(`   ✓ Copied to ${IMAGES_DIR}/`));
+      console.log(chalk.gray(`   ✓ Copied to ${IMAGES_DIR}/ as ${newFilename}`));
     }
 
     // Read metadata from .txt file
