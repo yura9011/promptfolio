@@ -1923,5 +1923,174 @@
     },
     "notes": "",
     "created_at": "2026-02-25T12:27:29.444Z"
+  },
+  {
+    "id": "img-1772022484001-t8dqagxqq",
+    "hash": "613413903c4e880a0fbce3289c201132",
+    "url": "images/img-083.png",
+    "thumbnail": "images/img-083.png",
+    "filename": "img-083.png",
+    "prompt": "An eye-level street photography shot captures a young woman sitting casually on concrete urban stairs, photographed with an early digital camera that produces the soft, slightly blurred quality characteristic of 2007-era consumer electronics. The composition places her off-center in the frame, with the camera positioned at a comfortable social distance to create an intimate yet respectful documentary feel. She sits with one leg crossed over the other, wearing a simple fitted cardigan over dark jeans, her posture relaxed and natural as she gazes to the side with a subtle, genuine expression.The lighting is entirely natural, coming from overcast daylight that creates soft, even illumination without harsh shadows. This diffused light produces the gentle contrast and muted tones typical of early digital photography before advanced processing became standard. The urban environment shows weathered concrete steps with visible wear patterns, metal handrails with surface oxidation, and background elements that fade into soft focus due to the camera's limited depth of field capabilities.The image quality displays the characteristic soft noise and slight motion blur of compact digital cameras from this era, with colors that appear naturally desaturated rather than artificially filtered. The overall aesthetic captures the candid-yet-conscious posing style that emerged in early social media, where subjects appeared natural while still being aware of the camera. The color palette consists of muted earth tones - grey concrete, faded denim blue, and warm beige from her cardigan - all rendered with the slightly washed-out quality that defined pre-smartphone digital photography.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "988870251",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.002Z"
+  },
+  {
+    "id": "img-1772022484105-jgp1ts04j",
+    "hash": "2527e1f73971490065be7f51464462e0",
+    "url": "images/img-084.png",
+    "thumbnail": "images/img-084.png",
+    "filename": "img-084.png",
+    "prompt": "A direct frontal portrait taken at night on an urban street, shot with a compact digital camera's built-in flash creating the harsh, unforgiving lighting characteristic of early 2000s street photography. The composition is straightforward and confrontational, with the subject positioned centrally in the frame, looking directly into the camera lens with an unguarded expression. The flash creates a dramatic chiaroscuro effect, with the subject's face and upper body brightly illuminated against the deep black background of the nighttime street.The harsh lighting produces strong, defined shadows that fall sharply behind the subject, while reflective surfaces like wet pavement and metal street fixtures create bright specular highlights. The subject wears casual urban clothing - a dark hoodie or jacket - with fabric textures clearly visible under the direct flash illumination. The background reveals fragments of the street environment: portions of storefronts, street signs, and urban infrastructure, all rendered in deep shadows with occasional bright spots where the flash catches reflective elements.The image quality shows the low megapixel resolution typical of early consumer digital cameras, with visible compression artifacts and the slightly pixelated edges that characterized this era of photography. The color palette is dominated by stark contrasts between the bright white-blue flash illumination and the deep black shadows, with occasional warm yellow tones from distant street lighting. This raw, unprocessed aesthetic captures the authentic grittiness of early social media photography, where technical limitations created an accidentally artistic documentary style that defined a generation's visual language.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "a direct frontal portrait taken at night on an urban street, shot with a compact digital camera's built-in flash creating the harsh, unforgiving lighting characteristic of early 2000s street photography. the composition is straightforward and confrontational, with the subject positioned centrally in the frame, looking directly into the camera lens with an unguarded expression. the flash creates a dramatic chiaroscuro effect, with the subject's face and upper body brightly illuminated against the deep black background of the nighttime street.the harsh lighting produces strong, defined shadows that fall sharply behind the subject, while reflective surfaces like wet pavement and metal street fixtures create bright specular highlights. the subject wears casual urban clothing - a dark hoodie or jacket - with fabric textures clearly visible under the direct flash illumination. the background reveals fragments of the street environment": "portions of storefronts, street signs, and urban infrastructure, all rendered in deep shadows with occasional bright spots where the flash catches reflective elements.The image quality shows the low megapixel resolution typical of early consumer digital cameras, with visible compression artifacts and the slightly pixelated edges that characterized this era of photography. The color palette is dominated by stark contrasts between the bright white-blue flash illumination and the deep black shadows, with occasional warm yellow tones from distant street lighting. This raw, unprocessed aesthetic captures the authentic grittiness of early social media photography, where technical limitations created an accidentally artistic documentary style that defined a generation's visual language.",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "527573111",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.105Z"
+  },
+  {
+    "id": "img-1772022484191-d0t63cc5w",
+    "hash": "1cf43a8fc1992fe202cfda597745d2dd",
+    "url": "images/img-085.png",
+    "thumbnail": "images/img-085.png",
+    "filename": "img-085.png",
+    "prompt": "A bathroom mirror selfie captured with an early 2000s compact digital camera, framed from chest level as the subject holds the camera at arm's length toward the medicine cabinet mirror. The composition shows the classic bathroom selfie setup with the camera's built-in flash creating a bright circular reflection in the mirror's center, partially obscuring the subject's face with overexposed white light. The subject poses casually with one hand holding the small silver camera while maintaining a relaxed, everyday expression.The bathroom environment is authentically lived-in, with a cluttered sink counter displaying various toiletries, bottles, and personal care items scattered across the surface. A towel hangs from a hook or bar in the background, showing natural wrinkles and casual placement. The mirror itself shows typical wear with slight water spots and the accumulated patina of daily use. The lighting is entirely from the camera's direct flash, creating the harsh, flat illumination that washes out skin tones and creates stark shadows behind objects.The image quality displays the characteristic soft blur and low resolution of early consumer digital cameras, with visible compression artifacts and the slightly washed-out colors typical of automatic white balance systems from this era. The overall aesthetic captures the intimate, unguarded quality of private space photography that became central to early social media culture. The color palette consists of neutral bathroom tones - white fixtures, beige or pale blue walls, and the warm skin tones rendered with typical digital camera color processing, all unified by the cool-white flash illumination that defines the nostalgic internet photo aesthetic.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "248149211",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.191Z"
+  },
+  {
+    "id": "img-1772022484285-plbce1920",
+    "hash": "28475b64e9019aaebc18f8be102d8a29",
+    "url": "images/img-086.png",
+    "thumbnail": "images/img-086.png",
+    "filename": "img-086.png",
+    "prompt": "A three-quarter view portrait captures a young woman posing against a plain interior wall, photographed with a compact digital camera positioned at chest level to create a slightly upward angle. The composition places her centrally in the frame with careful attention to posing - one shoulder angled toward the camera, head tilted slightly, and hands positioned naturally at her sides or gently touching the wall behind her. She wears a simple, fitted outfit consisting of a solid-colored top and dark jeans, representing the understated fashion choices that characterized early influencer aesthetics before brand partnerships became prevalent.The lighting comes from a nearby window, creating soft, directional illumination that produces gentle shadows and natural contrast without the harshness of flash photography. This natural light setup results in the even, flattering illumination that early content creators learned to seek out, though the camera's limited dynamic range still produces some blown highlights near the light source. The wall behind serves as a clean, neutral backdrop with subtle texture from paint or wallpaper, showing minor imperfections and lived-in character.The image quality demonstrates the characteristic low contrast and soft focus of mid-2000s consumer digital cameras, with slight motion blur from the camera's slower autofocus system and the subject's natural micro-movements during the shot. Colors appear naturally muted rather than enhanced, with the camera's automatic processing creating the slightly flat, desaturated look that defined pre-filter photography. The overall aesthetic captures the transitional moment between casual snapshot photography and the more polished content that would emerge later, showing both intentional composition and the technical limitations that created an accidentally authentic visual style. The color palette consists of soft, muted tones - neutral wall colors, natural skin tones, and the subdued fabric colors of simple clothing, all rendered with the gentle, unprocessed quality of early digital photography.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "161161811",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.285Z"
+  },
+  {
+    "id": "img-1772022484431-9f2vkrk42",
+    "hash": "9bbaf02935c0009b047e446314782ff6",
+    "url": "images/img-087.png",
+    "thumbnail": "images/img-087.png",
+    "filename": "img-087.png",
+    "prompt": "An intimate medium shot captures a person sitting on the edge of an unmade bed, holding a handwritten note or letter toward the camera, photographed with an early digital camera's built-in flash creating dramatic, emotional lighting. The composition is centered but slightly unstable, suggesting the handheld, spontaneous nature of the moment. The subject's posture conveys vulnerability - shoulders slightly hunched, head tilted downward, with the paper held prominently in the foreground as a key narrative element.The bedroom environment appears personal and lived-in, with rumpled bedding in dark colors, personal items scattered on nearby surfaces, and the intimate clutter of private space. The lighting is dominated by the camera's direct flash, creating the harsh contrast between bright illumination on the subject and deep shadows in the room's corners. This dramatic lighting emphasizes the emotional weight of the scene while producing the technical characteristics of early digital photography - overexposed highlights on skin and paper, with the flash creating a slight red-eye effect or unnatural skin tones.The image quality shows the low resolution and compression artifacts typical of early 2000s consumer cameras, with visible noise in darker areas and the slightly pixelated edges that characterized this technology. The handwritten text on the paper remains partially legible, showing personal handwriting in blue or black ink. The overall aesthetic captures the raw, unfiltered emotional expression that defined early social media culture, where technical imperfection enhanced rather than detracted from authentic human moments. The color palette is dominated by the cool-white flash illumination against warm bedroom tones, with the white paper serving as a bright focal point that draws attention to the written message and the emotional narrative it represents.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "351989505",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.431Z"
+  },
+  {
+    "id": "img-1772022484556-0g4052pf0",
+    "hash": "946e15f2c5d269bb09795ed5c5ad0b94",
+    "url": "images/img-088.png",
+    "thumbnail": "images/img-088.png",
+    "filename": "img-088.png",
+    "prompt": "A wide-angle group shot captures friends gathered in a house party setting, photographed with a compact digital camera held at arm's length by one of the participants. The composition is chaotic and energetic, with multiple people crowded into the frame at various distances from the camera, some faces partially cut off by the frame edges due to the spontaneous, handheld nature of the shot. The camera's built-in flash illuminates the immediate foreground while creating dramatic falloff toward the background, producing the characteristic uneven lighting of early party photography.The indoor environment shows typical house party elements - a living room or kitchen space with furniture pushed aside, drinks and party supplies visible on surfaces, and the casual disorder of social gathering. Some subjects pose deliberately while others are caught mid-conversation or movement, creating natural motion blur that adds to the authentic, candid atmosphere. The flash creates harsh shadows behind people and overexposes faces closest to the camera while leaving background figures in relative darkness.The image quality displays all the hallmarks of early 2000s consumer digital photography - low resolution, compression artifacts, and the slightly blurred edges from camera shake and subject movement. Colors appear warm and saturated due to the tungsten indoor lighting mixed with the camera's daylight-balanced flash, creating the golden-orange color cast typical of this era's party photography. The overall aesthetic captures the spontaneous, unguarded joy of social gatherings before smartphones made photography ubiquitous, when taking pictures required deliberate action and created more precious, memorable moments. The color palette combines warm interior lighting tones with the cool flash illumination, creating a nostalgic mix of golden yellows and cool whites that defined early social media party documentation.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "585172826",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.556Z"
+  },
+  {
+    "id": "img-1772022484655-x49xilglk",
+    "hash": "9917f5a87eeca11a24fdc4227482f31e",
+    "url": "images/img-089.png",
+    "thumbnail": "images/img-089.png",
+    "filename": "img-089.png",
+    "prompt": "A moody portrait captures a solitary figure positioned near a window in a dimly lit room, photographed with an early digital camera that struggles with the low-light conditions, producing the characteristic noise and soft focus of consumer electronics pushed beyond their optimal range. The composition places the subject off-center, with the window serving as the primary light source creating dramatic side lighting that illuminates half the face while leaving the other half in deep shadow. The subject's pose suggests contemplation or melancholy, with their gaze directed toward the window or slightly away from the camera.The room environment appears deliberately atmospheric - dark walls, minimal lighting, and personal items that suggest an artistic or alternative lifestyle. Posters, books, or creative materials may be visible in the shadowed areas, though the camera's limited dynamic range renders these details as dark, mysterious shapes. The window light creates a strong contrast between the bright exterior and the dim interior, producing the kind of dramatic chiaroscuro effect that early internet artists sought to achieve with basic equipment.The image quality shows significant digital noise in the shadow areas, with the camera's automatic settings struggling to balance the extreme contrast between light and dark areas. Colors appear desaturated and slightly shifted due to the mixed lighting conditions and the camera's limited color processing capabilities. The overall aesthetic captures the experimental, artistic ambitions of early internet photography communities like DeviantArt, where technical limitations were embraced as part of the creative process. The color palette is dominated by cool blue-grey tones from the window light contrasted against warm, muted colors in the shadowed interior spaces, creating the melancholic, introspective mood that defined early digital art photography and alternative online communities.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "204202597",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.655Z"
   }
 ]
