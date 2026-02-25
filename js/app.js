@@ -35,6 +35,8 @@ class App {
       
     } catch (error) {
       console.error('Error initializing app:', error);
+      // Make sure scroll is enabled even on error
+      document.body.style.overflow = '';
       this.showError('Error al cargar las imágenes. Por favor, recarga la página.');
     }
   }

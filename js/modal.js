@@ -43,6 +43,8 @@ export class Modal {
   }
 
   open(imageId) {
+    if (!this.modal || !this.images) return;
+    
     const index = this.images.findIndex(img => img.id === imageId);
     if (index === -1) return;
 
@@ -53,6 +55,10 @@ export class Modal {
   }
 
   close() {
+    if (!this.modal) {
+      document.body.style.overflow = '';
+      return;
+    }
     this.modal.classList.remove('active');
     document.body.style.overflow = '';
   }
