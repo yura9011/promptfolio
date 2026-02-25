@@ -379,5 +379,221 @@
     },
     "notes": "",
     "created_at": "2026-02-25T12:14:51.210Z"
+  },
+  {
+    "id": "img-1772021836691-v9do5g5ts",
+    "hash": "26dedde1d235d557d663b2fc90a0e56e",
+    "url": "images/img-019.png",
+    "thumbnail": "images/img-019.png",
+    "filename": "img-019.png",
+    "prompt": "Professional vertical Instagram photo of a stunning 23-year-old Argentine travel influencer with rich olive-bronze tan skin, long messy wavy dark hair blowing in the wind, wearing tight white off-shoulder crop top and high-waist jeans, standing on rooftop terrace at golden hour with Buenos Aires skyline behind, one hand on hip, looking back over shoulder with confident smile, warm sunset rim light, city lights starting to glow, trending lifestyle aesthetic, photorealistic, sharp details",
+    "model": "Z-Image-Turbo",
+    "category": "Fotorealismo",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "871516347",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:16.691Z"
+  },
+  {
+    "id": "img-1772021836799-bxza5vvyj",
+    "hash": "65084deddd88c6b568c2ecd462878f96",
+    "url": "images/img-020.png",
+    "thumbnail": "images/img-020.png",
+    "filename": "img-020.png",
+    "prompt": "Professional Instagram shot of gorgeous 24-year-old Argentine influencer on luxury yacht bow in turquoise water, sun-kissed tan skin, long wavy dark hair, wearing metallic bronze bikini with cover-up shirt open and sliding off shoulders, sitting cross-legged looking at camera with relaxed smile, Santorini-style white cliffs in background, bright daylight, luxury travel vibe, high engagement pose",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "299508350",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:16.799Z"
+  },
+  {
+    "id": "img-1772021836902-k3wa56d1z",
+    "hash": "f748f5f97573fe8a38e7f809174f51cb",
+    "url": "images/img-021.png",
+    "thumbnail": "images/img-021.png",
+    "filename": "img-021.png",
+    "prompt": "Vertical Instagram photo of beautiful 22-year-old Buenos Aires influencer on 5-star hotel balcony overlooking ocean, wearing silky cream slip dress with thin straps falling off one shoulder, long dark wavy hair, leaning on railing looking at camera with soft seductive smile, soft morning light, tropical plants around, luxury travel aesthetic",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "941992743",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:16.902Z"
+  },
+  {
+    "id": "img-1772021837013-n1jx9yzr0",
+    "hash": "419a3aa54f64661fd310772479d9281e",
+    "url": "images/img-022.png",
+    "thumbnail": "images/img-022.png",
+    "filename": "img-022.png",
+    "prompt": "Candid Instagram photo of gorgeous Argentine influencer sitting at outdoor table in Palermo Soho, tan olive skin, long dark messy hair, wearing oversized white shirt unbuttoned showing lace bralette underneath, holding iced coffee, looking up at camera with playful smirk, sunny afternoon, European café vibe, lifestyle content",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "298636488",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.013Z"
+  },
+  {
+    "id": "img-1772021837122-j3jcbqwor",
+    "hash": "34e0233a40ac6ed38d059a96b034261f",
+    "url": "images/img-023.png",
+    "thumbnail": "images/img-023.png",
+    "filename": "img-023.png",
+    "prompt": "Professional shot of 24-year-old Latina influencer walking on beach at golden hour, long wavy dark hair flowing, wearing white bikini and open linen shirt blowing in wind, hand in hair, confident smile to camera, warm sunset light reflecting on wet sand, Maldives-style water behind, travel influencer aesthetic",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "620295670",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.122Z"
+  },
+  {
+    "id": "img-1772021837210-e5w8dn8l6",
+    "hash": "2f35e4654b094fff5e71b2c045352070",
+    "url": "images/img-024.png",
+    "thumbnail": "images/img-024.png",
+    "filename": "img-024.png",
+    "prompt": "Glam Instagram photo of stunning morena influencer on rooftop at night, wearing tight black mini dress with deep neckline, long dark hair with soft waves, standing with city lights bokeh behind, one leg slightly bent, looking at camera with intense confident gaze, neon + city glow lighting, high fashion vibe",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "298912237",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.210Z"
+  },
+  {
+    "id": "img-1772021837323-hxfgkbj7d",
+    "hash": "73775be7812635da20743f50ee3928b1",
+    "url": "images/img-025.png",
+    "thumbnail": "images/img-025.png",
+    "filename": "img-025.png",
+    "prompt": "Vertical Instagram photo of Argentine influencer by infinity pool on cliff, tan skin glistening, long dark wet hair, wearing emerald green micro bikini, sitting on edge with legs in water, leaning back on hands, looking at camera with relaxed sexy smile, turquoise water and cliffs behind, luxury resort aesthetic",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "450897040",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.323Z"
+  },
+  {
+    "id": "img-1772021837433-m1yl9dslh",
+    "hash": "a2b4415a307cee887d89ed93af4d7aab",
+    "url": "images/img-026.png",
+    "thumbnail": "images/img-026.png",
+    "filename": "img-026.png",
+    "prompt": "Professional travel influencer shot of beautiful 23-year-old Argentine morena in narrow red-rock canyon like Lake Powell, wearing metallic copper bikini top + denim shorts, sitting on rock with legs crossed, wind in long dark wavy hair, looking at camera with adventurous confident smile, soft overcast light, epic scale, adventure content",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "65112339",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.433Z"
+  },
+  {
+    "id": "img-1772021837567-h6h2reu1t",
+    "hash": "f79004c36b45aa0fd70d9c7c6d354007",
+    "url": "images/img-027.png",
+    "thumbnail": "images/img-027.png",
+    "filename": "img-027.png",
+    "prompt": "Cozy Instagram photo of stunning Latina influencer in modern apartment, morning light through big windows, wearing oversized boyfriend shirt only (nothing underneath visible but teasing), sitting on kitchen counter with coffee, long dark hair messy, smiling softly at camera, warm natural light, relatable luxury lifestyle vibe",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "723857619",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.567Z"
   }
 ]
