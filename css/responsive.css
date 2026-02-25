@@ -3,14 +3,14 @@
 /* Desktop Large (>1400px) */
 @media (min-width: 1400px) {
   .gallery__grid {
-    grid-template-columns: repeat(4, 1fr);
+    column-count: 5;
   }
 }
 
 /* Desktop (1024px - 1400px) */
 @media (min-width: 1024px) and (max-width: 1399px) {
   .gallery__grid {
-    grid-template-columns: repeat(3, 1fr);
+    column-count: 4;
   }
 }
 
@@ -34,26 +34,25 @@
   }
   
   .gallery__grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--spacing-md);
+    column-count: 3;
   }
   
-  .modal__body {
-    grid-template-columns: 1fr;
+  .modal__content {
+    width: 400px;
   }
   
   .modal__nav {
     width: 40px;
     height: 40px;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
   
   .modal__nav--prev {
-    left: var(--spacing-xs);
+    left: var(--spacing-sm);
   }
   
   .modal__nav--next {
-    right: var(--spacing-xs);
+    right: 420px;
   }
 }
 
@@ -94,22 +93,20 @@
   }
   
   .gallery__grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: var(--spacing-sm);
+    column-count: 2;
   }
   
   .modal__content {
-    width: 95%;
-    max-height: 95vh;
+    width: 100%;
+    max-width: 100%;
   }
   
   .modal__body {
     padding: var(--spacing-md);
-    gap: var(--spacing-md);
   }
   
-  .modal__filename {
-    font-size: 1.25rem;
+  .modal__details {
+    padding: var(--spacing-md);
   }
   
   .modal__settings {
@@ -117,9 +114,13 @@
   }
   
   .modal__close {
-    width: 35px;
-    height: 35px;
-    font-size: 1.25rem;
+    width: 32px;
+    height: 32px;
+    font-size: 1.125rem;
+  }
+  
+  .modal__nav {
+    display: none;
   }
 }
 
@@ -143,11 +144,7 @@
   }
   
   .gallery__grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .modal__nav {
-    display: none;
+    column-count: 1;
   }
 }
 
