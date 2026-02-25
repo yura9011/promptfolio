@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yura9011.github.io/promptfolio/sitemap.xml

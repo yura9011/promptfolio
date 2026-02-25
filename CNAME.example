@@ -1,0 +1,17 @@
+# Si querés usar un dominio custom, renombrá este archivo a "CNAME" (sin extensión)
+# y reemplazá con tu dominio:
+
+# promptfolio.com
+
+# Instrucciones:
+# 1. Comprar dominio en Namecheap, GoDaddy, etc.
+# 2. Configurar DNS:
+#    - Tipo: A
+#    - Host: @
+#    - Value: 185.199.108.153
+#    - Agregar también: 185.199.109.153, 185.199.110.153, 185.199.111.153
+# 3. Tipo: CNAME
+#    - Host: www
+#    - Value: yura9011.github.io
+# 4. Renombrar este archivo a "CNAME" y hacer commit
+# 5. En GitHub Settings → Pages, agregar tu dominio custom

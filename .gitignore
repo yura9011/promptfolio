@@ -19,6 +19,7 @@ processed/
 # Test files
 test-images/
 create-test-images.js
+create-icons.js
 
 # OS files
 .DS_Store
