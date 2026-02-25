@@ -1,0 +1,11 @@
+# Carpeta para imágenes a subir
+
+Dejá acá:
+- Las imágenes (.jpg, .png, etc.)
+- Los archivos .txt con el mismo nombre
+
+Ejemplo:
+  dragon.png
+  dragon.txt
+
+Luego ejecutá: npm run upload
