@@ -1,15 +1,19 @@
-// Gallery component - handles rendering of image grid
+// Gallery component - handles rendering of image grid with infinite scroll
 export class Gallery {
   constructor(images) {
     this.allImages = images;
     this.filteredImages = images;
     this.container = document.getElementById('galleryGrid');
     this.emptyState = document.getElementById('emptyState');
+    this.loadedCount = 0;
+    this.batchSize = 20;
+    this.isLoading = false;
   }
 
   render(images = this.filteredImages) {
     this.filteredImages = images;
     this.container.innerHTML = '';
+    this.loadedCount = 0;
 
     if (images.length === 0) {
       this.showEmptyState();
@@ -18,13 +22,64 @@ export class Gallery {
 
     this.hideEmptyState();
 
-    images.forEach(image => {
+    // Load first batch
+    this.loadMoreImages();
+
+    // Setup infinite scroll
+    this.setupInfiniteScroll();
+  }
+
+  loadMoreImages() {
+    if (this.isLoading || this.loadedCount >= this.filteredImages.length) {
+      return;
+    }
+
+    this.isLoading = true;
+
+    const nextBatch = this.filteredImages.slice(
+      this.loadedCount,
+      this.loadedCount + this.batchSize
+    );
+
+    nextBatch.forEach(image => {
       const card = this.createCard(image);
       this.container.appendChild(card);
     });
 
-    // Setup lazy loading
+    this.loadedCount += nextBatch.length;
+    this.isLoading = false;
+
+    // Setup lazy loading for new images
     this.setupLazyLoading();
+  }
+
+  setupInfiniteScroll() {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting && !this.isLoading) {
+          this.loadMoreImages();
+        }
+      });
+    }, {
+      rootMargin: '200px' // Start loading 200px before reaching the end
+    });
+
+    // Observe the last card
+    const observeLastCard = () => {
+      const cards = this.container.querySelectorAll('.gallery__card');
+      if (cards.length > 0) {
+        const lastCard = cards[cards.length - 1];
+        observer.observe(lastCard);
+      }
+    };
+
+    // Initial observation
+    observeLastCard();
+
+    // Re-observe after each batch load
+    this.container.addEventListener('DOMNodeInserted', () => {
+      setTimeout(observeLastCard, 100);
+    });
   }
 
   createCard(image) {
