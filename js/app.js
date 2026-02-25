@@ -58,6 +58,19 @@ class App {
       }
     });
 
+    // Search toggle button
+    const searchToggle = document.getElementById('searchToggle');
+    const searchContainer = document.getElementById('searchContainer');
+    if (searchToggle && searchContainer) {
+      searchToggle.addEventListener('click', () => {
+        searchContainer.classList.toggle('active');
+        if (searchContainer.classList.contains('active')) {
+          const searchInput = document.getElementById('searchInput');
+          if (searchInput) searchInput.focus();
+        }
+      });
+    }
+
     // Search input
     const searchInput = document.getElementById('searchInput');
     if (searchInput) {

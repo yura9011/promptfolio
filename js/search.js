@@ -11,6 +11,7 @@ export class Search {
     };
     this.debounceTimer = null;
     this.tagsContainer = document.getElementById('popularTags');
+    this.searchInput = document.getElementById('searchInput');
   }
 
   handleSearch(query) {

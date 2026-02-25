@@ -4,18 +4,20 @@ export class Modal {
     this.images = images;
     this.currentIndex = 0;
     this.modal = document.getElementById('imageModal');
-    this.setupEventListeners();
+    if (this.modal) {
+      this.setupEventListeners();
+    }
   }
 
   setupEventListeners() {
     // Close button
-    const closeBtn = this.modal.querySelector('.modal__close');
+    const closeBtn = this.modal?.querySelector('.modal__close');
     if (closeBtn) {
       closeBtn.addEventListener('click', () => this.close());
     }
 
     // Overlay click
-    const overlay = this.modal.querySelector('.modal__overlay');
+    const overlay = this.modal?.querySelector('.modal__overlay');
     if (overlay) {
       overlay.addEventListener('click', () => this.close());
     }
