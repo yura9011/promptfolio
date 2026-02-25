@@ -1,25 +1,7 @@
 /* ===== Responsive Styles ===== */
 
-/* Desktop Large (>1400px) */
-@media (min-width: 1400px) {
-  .gallery__grid {
-    column-count: 6;
-  }
-}
-
-/* Desktop (1024px - 1400px) */
-@media (min-width: 1024px) and (max-width: 1399px) {
-  .gallery__grid {
-    column-count: 5;
-  }
-}
-
 /* Tablet (768px - 1023px) */
 @media (max-width: 1023px) {
-  .gallery__grid {
-    column-count: 4;
-  }
-  
   .modal__content {
     width: 400px;
   }
@@ -32,7 +14,7 @@
 /* Mobile (480px - 767px) */
 @media (max-width: 767px) {
   .gallery__grid {
-    column-count: 2;
+    grid-template-columns: repeat(2, 1fr);
   }
   
   .modal__content {
@@ -62,7 +44,7 @@
 /* Small Mobile (<480px) */
 @media (max-width: 479px) {
   .gallery__grid {
-    column-count: 1;
+    grid-template-columns: 1fr;
   }
 }
 
@@ -90,11 +72,6 @@
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
   }
-}
-
-/* Dark Mode (already default, but explicit) */
-@media (prefers-color-scheme: dark) {
-  /* Already using dark theme by default */
 }
 
 /* High Contrast */
