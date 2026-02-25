@@ -1,27 +1,27 @@
-# 🎨 Promptfolio
+#  Promptfolio
 
 Galería visual personal para documentar y explorar imágenes generadas por IA, mostrando el proceso creativo detrás de cada imagen (prompts, configuraciones, modelo usado).
 
-**🌐 Demo**: https://yura9011.github.io/promptfolio/
+** Demo**: https://yura9011.github.io/promptfolio/
 
-## 📚 Documentación
+##  Documentación
 
-- **⚡ [Quick Start](QUICKSTART.md)** - Pon tu galería online en 5 minutos
-- **🚀 [Deploy Guide](DEPLOY.md)** - Guía completa de deployment
-- **📝 [Commands](COMMANDS.md)** - Referencia rápida de comandos
-- **📖 [Usage Guide](docs/USAGE.md)** - Guía detallada de uso
+- ** [Quick Start](QUICKSTART.md)** - Pon tu galería online en 5 minutos
+- ** [Deploy Guide](DEPLOY.md)** - Guía completa de deployment
+- ** [Commands](COMMANDS.md)** - Referencia rápida de comandos
+- **� [Usage Guide](docs/USAGE.md)** - Guía detallada de uso
 
 ---
 
-## ✨ Características
-- 🔍 Búsqueda y filtros por categoría
+##  Características
+-  Búsqueda y filtros por categoría
 - 🤖 Sistema de upload automatizado para agentes
-- 🔄 Detección automática de duplicados
-- 🗜️ Compresión automática de imágenes
-- 💾 Backup automático de originales
-- ☁️ Almacenamiento en Cloudinary
+-  Detección automática de duplicados
+- � Compresión automática de imágenes
+-  Backup automático de originales
+- ☁ Almacenamiento en Cloudinary
 
-## 🚀 Instalación
+##  Instalación
 
 ### 1. Clonar el repositorio
 
@@ -54,7 +54,7 @@ CLOUDINARY_API_KEY=tu_api_key
 CLOUDINARY_API_SECRET=tu_api_secret
 ```
 
-## 📤 Uso - Subir Imágenes
+##  Uso - Subir Imágenes
 
 ### Workflow Simple
 
@@ -123,7 +123,7 @@ Achievement
 - Surrealismo
 - Otros
 
-## 🛠️ Scripts Disponibles
+## � Scripts Disponibles
 
 ### Upload de imágenes
 ```bash
@@ -140,7 +140,7 @@ npm run validate
 npm run test ./carpeta-imagenes
 ```
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 /
@@ -157,7 +157,7 @@ npm run test ./carpeta-imagenes
 └── docs/                  # Documentación adicional
 ```
 
-## 🔧 Configuración Avanzada
+##  Configuración Avanzada
 
 Ver [docs/USAGE.md](docs/USAGE.md) para:
 - Uso avanzado de scripts
@@ -165,6 +165,6 @@ Ver [docs/USAGE.md](docs/USAGE.md) para:
 - Configuración de agentes
 - Ejemplos completos
 
-## 📝 Licencia
+##  Licencia
 
 MIT
