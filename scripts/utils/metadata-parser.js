@@ -1,6 +1,7 @@
 /**
  * Parse metadata from a .txt file
- * Supports flexible formats: key:value, key=value, XML tags, or free text
+ * Supports flexible formats: key:value, key=value, or free text
+ * If content has XML/structured format, keeps it as-is in prompt
  * @param {string} content - Content of the .txt file
  * @returns {Object} Parsed metadata
  */
@@ -14,10 +15,38 @@ export function parseMetadata(content) {
     notes: ''
   };
 
-  // Try to extract from XML-like format first
-  const xmlData = extractFromXML(content);
-  if (xmlData) {
-    return { ...metadata, ...xmlData };
+  // Check if content has MODEL/DIMENSIONS/SEED/STEPS at the end (common AI format)
+  const hasMetadataSection = /MODEL\s*\n|DIMENSIONS\s*\n|SEED\s*\n|STEPS\s*\n|SAMPLER\s*\n/i.test(content);
+  
+  if (hasMetadataSection) {
+    // Split content into prompt and metadata sections
+    const parts = content.split(/\n(?=MODEL|DIMENSIONS|SEED|STEPS|SAMPLER|SCHEDULER)/i);
+    
+    // First part is the prompt (keep it complete)
+    metadata.prompt = parts[0].trim();
+    
+    // Parse metadata from remaining parts
+    const metadataText = parts.slice(1).join('\n');
+    
+    const modelMatch = metadataText.match(/MODEL\s*\n\s*([^\n]+)/i);
+    if (modelMatch) metadata.model = modelMatch[1].trim();
+    
+    const dimensionsMatch = metadataText.match(/DIMENSIONS\s*\n\s*([^\n]+)/i);
+    if (dimensionsMatch) metadata.settings.size = dimensionsMatch[1].trim();
+    
+    const seedMatch = metadataText.match(/SEED\s*\n\s*([^\n]+)/i);
+    if (seedMatch) metadata.settings.seed = seedMatch[1].trim();
+    
+    const stepsMatch = metadataText.match(/STEPS\s*\n\s*([^\n]+)/i);
+    if (stepsMatch) metadata.settings.steps = parseInt(stepsMatch[1].trim()) || stepsMatch[1].trim();
+    
+    const samplerMatch = metadataText.match(/SAMPLER\s*\n\s*([^\n]+)/i);
+    if (samplerMatch) metadata.settings.sampler = samplerMatch[1].trim();
+    
+    const schedulerMatch = metadataText.match(/SCHEDULER\s*\n\s*([^\n]+)/i);
+    if (schedulerMatch) metadata.settings.scheduler = schedulerMatch[1].trim();
+    
+    return metadata;
   }
 
   const lines = content.split('\n').map(line => line.trim()).filter(line => line);
@@ -156,87 +185,4 @@ function extractPromptFromFreeText(lines) {
   });
   
   return textLines.join(' ') || 'Sin descripción';
-}
-
-/**
- * Extract metadata from XML-like format
- */
-function extractFromXML(content) {
-  // Check if content has XML-like structure
-  if (!content.includes('<') || !content.includes('>')) {
-    return null;
-  }
-
-  const metadata = {
-    prompt: '',
-    model: 'Desconocido',
-    category: 'Otros',
-    achievement: false,
-    settings: {},
-    notes: ''
-  };
-
-  // Extract Theme as prompt
-  const themeMatch = content.match(/<Theme>([^<]+)<\/Theme>/);
-  if (themeMatch) {
-    metadata.prompt = themeMatch[1].trim();
-  }
-
-  // Extract Atmosphere as notes
-  const atmosphereMatch = content.match(/<Atmosphere>([^<]+)<\/Atmosphere>/);
-  if (atmosphereMatch) {
-    metadata.notes = atmosphereMatch[1].trim();
-  }
-
-  // Extract MODEL
-  const modelMatch = content.match(/MODEL\s*\n\s*([^\n]+)/);
-  if (modelMatch) {
-    metadata.model = modelMatch[1].trim();
-  }
-
-  // Extract DIMENSIONS
-  const dimensionsMatch = content.match(/DIMENSIONS\s*\n\s*([^\n]+)/);
-  if (dimensionsMatch) {
-    metadata.settings.size = dimensionsMatch[1].trim();
-  }
-
-  // Extract SEED
-  const seedMatch = content.match(/SEED\s*\n\s*([^\n]+)/);
-  if (seedMatch) {
-    metadata.settings.seed = seedMatch[1].trim();
-  }
-
-  // Extract STEPS
-  const stepsMatch = content.match(/STEPS\s*\n\s*([^\n]+)/);
-  if (stepsMatch) {
-    metadata.settings.steps = parseInt(stepsMatch[1].trim()) || stepsMatch[1].trim();
-  }
-
-  // Extract SAMPLER
-  const samplerMatch = content.match(/SAMPLER\s*\n\s*([^\n]+)/);
-  if (samplerMatch) {
-    metadata.settings.sampler = samplerMatch[1].trim();
-  }
-
-  // Extract SCHEDULER
-  const schedulerMatch = content.match(/SCHEDULER\s*\n\s*([^\n]+)/);
-  if (schedulerMatch) {
-    metadata.settings.scheduler = schedulerMatch[1].trim();
-  }
-
-  // Detect category from content
-  const lower = content.toLowerCase();
-  if (lower.includes('anime')) metadata.category = 'Anime';
-  else if (lower.includes('manga')) metadata.category = 'Manga';
-  else if (lower.includes('fantasy')) metadata.category = 'Dark Fantasy';
-  else if (lower.includes('fotorealismo') || lower.includes('photorealistic')) metadata.category = 'Fotorealismo';
-  else if (lower.includes('rpg')) metadata.category = 'RPG/Fantasy';
-  else if (lower.includes('surreal')) metadata.category = 'Surrealismo';
-
-  // Only return if we found at least a prompt or model
-  if (metadata.prompt || metadata.model !== 'Desconocido') {
-    return metadata;
-  }
-
-  return null;
 }
