@@ -1,0 +1,7 @@
+Prompt: Anime girl with blue hair in school uniform
+Model: NovelAI Diffusion
+Category: Anime
+Achievement: no
+Steps: 28
+CFG Scale: 11
+Sampler: Euler a

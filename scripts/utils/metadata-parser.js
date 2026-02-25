@@ -58,6 +58,33 @@ export function parseMetadata(content) {
 
   // If no structured data found, try to extract from free text
   if (!metadata.prompt) {
+    // Try to detect model from lines
+    for (const line of lines) {
+      const lower = line.toLowerCase();
+      if (lower.includes('stable diffusion') || lower.includes('sd')) {
+        metadata.model = line;
+      } else if (lower.includes('midjourney')) {
+        metadata.model = 'Midjourney';
+      } else if (lower.includes('dall-e') || lower.includes('dalle')) {
+        metadata.model = 'DALL-E';
+      } else if (lower.includes('novelai')) {
+        metadata.model = 'NovelAI';
+      }
+      
+      // Try to detect category
+      if (lower.includes('anime')) metadata.category = 'Anime';
+      else if (lower.includes('manga')) metadata.category = 'Manga';
+      else if (lower.includes('fantasy')) metadata.category = 'Dark Fantasy';
+      else if (lower.includes('fotorealismo') || lower.includes('photorealistic')) metadata.category = 'Fotorealismo';
+      else if (lower.includes('rpg')) metadata.category = 'RPG/Fantasy';
+      else if (lower.includes('surreal')) metadata.category = 'Surrealismo';
+      
+      // Try to detect achievement
+      if (lower.includes('achievement') || lower.includes('logro')) {
+        metadata.achievement = true;
+      }
+    }
+    
     metadata.prompt = extractPromptFromFreeText(lines);
   }
 
@@ -100,9 +127,27 @@ function parseBoolean(value) {
  * Extract prompt from free text (fallback)
  */
 function extractPromptFromFreeText(lines) {
-  // Find the longest line as likely prompt
+  // Try to find the longest line as likely prompt
   const longestLine = lines.reduce((longest, line) => 
     line.length > longest.length ? line : longest, '');
   
-  return longestLine || 'Sin descripción';
+  // If we found a long line, use it
+  if (longestLine.length > 20) {
+    return longestLine;
+  }
+  
+  // Otherwise, join all lines that don't look like metadata
+  const textLines = lines.filter(line => {
+    const lower = line.toLowerCase();
+    return !lower.includes('stable diffusion') && 
+           !lower.includes('midjourney') &&
+           !lower.includes('dall-e') &&
+           !lower.includes('achievement') &&
+           !lower.includes('anime') &&
+           !lower.includes('manga') &&
+           !lower.includes('fantasy') &&
+           !lower.includes('fotorealismo');
+  });
+  
+  return textLines.join(' ') || 'Sin descripción';
 }

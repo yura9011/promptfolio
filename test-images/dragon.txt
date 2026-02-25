@@ -1,0 +1,9 @@
+Prompt: A majestic dragon flying over mountains at sunset, epic fantasy art, detailed scales
+Model: Stable Diffusion XL
+Category: Dark Fantasy
+Achievement: yes
+Steps: 30
+CFG Scale: 7.5
+Sampler: DPM++ 2M Karras
+Seed: 123456789
+Notes: Primera versión exitosa después de varios intentos
