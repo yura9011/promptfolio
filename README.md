@@ -1,10 +1,12 @@
-# 🎨 Galería de Imágenes IA
+# 🎨 Promptfolio
 
 Galería visual personal para documentar y explorar imágenes generadas por IA, mostrando el proceso creativo detrás de cada imagen (prompts, configuraciones, modelo usado).
 
-## ✨ Características
+**🌐 Demo**: https://yura9011.github.io/promptfolio/
 
-- 📸 Galería responsive con vista de cuadrícula
+---
+
+## ✨ Características
 - 🔍 Búsqueda y filtros por categoría
 - 🤖 Sistema de upload automatizado para agentes
 - 🔄 Detección automática de duplicados
