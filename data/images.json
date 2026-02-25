@@ -107,5 +107,25 @@
     },
     "notes": "",
     "created_at": "2026-02-25T08:00:00Z"
+  },
+  {
+    "id": "img-1772005146968-uuxs5duny",
+    "hash": "3517769f69a7a2147fe69553a4d80689",
+    "url": "images/generated-image-1772004735018.png",
+    "thumbnail": "images/generated-image-1772004735018.png",
+    "filename": "generated-image-1772004735018.png",
+    "prompt": "Domestic Interruption - A Candid Moment of Distraction",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "size": "1024 × 1024",
+      "seed": "868423990",
+      "steps": 9,
+      "sampler": "res_multistep",
+      "scheduler": "simple"
+    },
+    "notes": "Intimate, naturalistic, slightly melancholic; the quietness of a solitary kitchen moment disrupted by modern technology. Warm domestic comfort tinged with absent-mindedness and the intrusion of digital connectivity.",
+    "created_at": "2026-02-25T07:39:06.968Z"
   }
 ]

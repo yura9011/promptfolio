@@ -5,9 +5,10 @@
   "main": "index.html",
   "type": "module",
   "scripts": {
-    "upload": "node scripts/upload-images.js",
+    "upload": "node scripts/upload-local.js",
+    "upload-cloudinary": "node scripts/upload-images.js",
     "validate": "node scripts/validate-data.js",
-    "test": "node scripts/upload-images.js --dry-run"
+    "test": "node scripts/upload-local.js --dry-run"
   },
   "keywords": [
     "ai",
