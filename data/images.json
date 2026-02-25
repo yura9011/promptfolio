@@ -1171,5 +1171,245 @@
     },
     "notes": "",
     "created_at": "2026-02-25T12:25:09.674Z"
+  },
+  {
+    "id": "img-1772022366402-39j7sbvca",
+    "hash": "92887d5578ed0c2e0d74d772e1449fef",
+    "url": "images/img-052.png",
+    "thumbnail": "images/img-052.png",
+    "filename": "img-052.png",
+    "prompt": "A medium shot captures a woman seated on the edge of a pristine hotel bed, photographed from a slightly elevated angle that emphasizes the room's spacious emptiness. She wears an elegant charcoal wool dress with subtle texture, paired with black leather pumps that remain firmly on her feet. Her posture suggests a momentary pause - spine straight but shoulders carrying an almost imperceptible weight, hands resting naturally on her knees. The unopened suitcase sits nearby on the carpeted floor, its hard shell surface reflecting the ambient light.Soft, diffused daylight filters through sheer curtains covering a large window, creating gentle illumination that wraps around her figure without harsh shadows. The light has a cool, overcast quality that suggests late afternoon. The hotel room features neutral tones - cream walls, beige carpet, and white bedding that remains undisturbed. Her skin shows natural texture and subtle variations in tone, with makeup applied but not perfect, suggesting the end of a long day.The foreground includes the textured hotel carpet and the corner of the suitcase. The midground centers on her figure against the bed's white linens. The background reveals the window with its filtered light and hints of the room's minimal decor. The color palette consists of muted grays and beiges, with the deep charcoal of her dress providing contrast against the lighter surroundings. Her expression appears contemplative but not melancholic, eyes focused on some middle distance beyond the camera's view.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "409256881",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:06.402Z"
+  },
+  {
+    "id": "img-1772022366524-974eicyym",
+    "hash": "c2b19d1280440968cf5108b6df366ac0",
+    "url": "images/img-053.png",
+    "thumbnail": "images/img-053.png",
+    "filename": "img-053.png",
+    "prompt": "A low-angle shot frames a woman leaning against a kitchen counter in complete darkness except for the refrigerator's interior light. The open appliance door creates a dramatic key light source, casting cool blue-white illumination across the left side of her face while leaving the right side in deep shadow. She wears a burgundy cocktail dress with a subtle sheen that catches the refrigerator light, the fabric appearing rich and luxurious despite the unconventional lighting.Her makeup shows signs of a long evening - lipstick slightly worn, mascara intact but not fresh, foundation settling naturally into her skin's texture. She leans casually with one elbow on the counter, her body language relaxed and unguarded. The kitchen remains mostly invisible in the darkness, with only hints of stainless steel appliances and granite countertops catching occasional reflections from the refrigerator light.The foreground shows the kitchen floor tiles partially illuminated by the spilled light. The midground features her figure as the central focus, dramatically lit against the dark kitchen. The background disappears into shadow with only the faintest suggestion of cabinets and appliances. The color palette is dominated by the cool blue-white of the refrigerator light contrasting with the warm burgundy of her dress and the golden undertones of her skin. The atmosphere suggests an intimate, unguarded moment captured in cinematic realism.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "425457648",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:06.524Z"
+  },
+  {
+    "id": "img-1772022366607-t3rdns4tp",
+    "hash": "2b4c5bd39085a31f58ad0456e8fdea5c",
+    "url": "images/img-054.png",
+    "thumbnail": "images/img-054.png",
+    "filename": "img-054.png",
+    "prompt": "A three-quarter view captures a woman's reflection in a bathroom mirror, photographed from an angle that shows both her profile and the mirror image simultaneously. She stands sideways to the mirror, not posing or taking a selfie, with a white towel draped casually over her shoulders. Her eyes appear unfocused, gazing past her own reflection with a distant expression. The composition is deliberately minimal, emphasizing negative space and clean lines.Warm, soft lighting emanates from vanity bulbs around the mirror's perimeter, creating even illumination that flatters her natural skin texture without harsh shadows. The light has a golden quality that suggests tungsten bulbs rather than harsh fluorescents. Her skin shows realistic texture and natural variations, with no artificial perfection. The bathroom features clean, modern fixtures with white subway tiles and brushed nickel accents.The foreground includes the edge of a marble vanity counter with subtle veining. The midground centers on her reflection and profile, creating an interesting visual dialogue between the two views. The background shows the continuation of the bathroom's minimal design with hints of additional fixtures. The color palette consists of warm whites and soft golds from the lighting, with neutral grays from the fixtures and the pure white of the towel providing clean contrast. The overall mood suggests a quiet, contemplative moment in an everyday setting.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "672654495",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:06.607Z"
+  },
+  {
+    "id": "img-1772022366734-1871b2ax1",
+    "hash": "99ad30558e600c2592df3fb32bef55a4",
+    "url": "images/img-055.png",
+    "thumbnail": "images/img-055.png",
+    "filename": "img-055.png",
+    "prompt": "A wide shot captures a woman walking alone on a rain-slicked city street, photographed from a low angle that emphasizes the wet pavement's reflective surface. She carries her high heels in one hand while walking barefoot, her feet making contact with the cool, wet asphalt. The street appears recently washed by rain, with puddles reflecting the warm glow of street lamps and neon signs from nearby establishments.The lighting comes from multiple urban sources - street lamps creating pools of warm yellow light, neon signs casting colored glows in pink and blue, and the distant headlights of sparse traffic creating streaks of white and red. The atmosphere is calm and peaceful despite the urban setting, with a light mist in the air that softens the harsh edges of the cityscape. Her expression remains neutral and composed, suggesting comfort with solitude rather than distress.The foreground features the wet pavement with its complex pattern of reflections and surface textures. The midground shows her figure moving through the scene, creating a sense of motion and purpose. The background reveals the urban environment with its mix of storefronts, street furniture, and architectural details fading into atmospheric perspective. The color palette combines warm amber from street lighting with cool blues and purples from neon signs, while the wet surfaces create mirror-like reflections that double the visual complexity of the scene.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "519861794",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:06.734Z"
+  },
+  {
+    "id": "img-1772022366857-spiwc9tij",
+    "hash": "5e89cf624e08b2ab0f0731c19df48318",
+    "url": "images/img-056.png",
+    "thumbnail": "images/img-056.png",
+    "filename": "img-056.png",
+    "prompt": "A medium shot captures a woman lying sideways on a plush sofa, photographed from a slightly elevated angle that shows the full length of her relaxed form. She wears an elegant navy blue dress with subtle texture, the fabric draping naturally across her body as she reclines. Her phone lies abandoned on the hardwood floor beside the couch, suggesting a moment of disconnection from digital distractions. Her gaze is directed upward toward the ceiling, eyes unfocused in contemplation.Soft afternoon light filters through gauzy curtains, creating gentle illumination that wraps around the room without harsh contrasts. The light has a warm, golden quality that suggests late day sun, casting subtle shadows that define the room's architectural details. The living space features neutral tones with a cream-colored sofa, warm wood floors, and muted wall colors that create a serene environment.The foreground includes the dropped phone and the texture of the wooden floor. The midground centers on her reclining figure against the sofa's soft upholstery. The background shows hints of the room's decor with curtained windows and minimal furnishings. The color palette consists of warm creams and soft golds from the natural lighting, with the deep navy of her dress providing elegant contrast. Her posture suggests complete relaxation rather than melancholy, embodying a moment of peaceful boredom that feels aesthetically pleasing rather than negative.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "753081705",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:06.857Z"
+  },
+  {
+    "id": "img-1772022367017-inok2eut2",
+    "hash": "96d091bb6004c14cae1cf272f39fa2ff",
+    "url": "images/img-057.png",
+    "thumbnail": "images/img-057.png",
+    "filename": "img-057.png",
+    "prompt": "A symmetrical composition frames a woman standing in a long hotel corridor, photographed from eye level to emphasize the hallway's vanishing point perspective. She leans against the wall with arms crossed, her posture casual yet elegant. The corridor stretches endlessly in both directions, lined with identical doors and punctuated by warm tungsten lighting fixtures that create pools of golden illumination along the carpeted floor.The lighting comes from overhead fixtures spaced regularly along the ceiling, casting warm yellow light that creates a rhythmic pattern of illumination and shadow. The atmosphere has a cinematic quality reminiscent of classic hotel interiors, with rich burgundy carpet and cream-colored walls that absorb and reflect the warm light. Her expression remains neutral and composed, neither inviting nor dismissive.The foreground shows the detailed texture of the hotel carpet with its intricate pattern. The midground features her figure as the central focal point against the geometric repetition of the hallway. The background extends the corridor's perspective toward a distant vanishing point, creating depth and architectural drama. The color palette is dominated by warm golds and deep burgundies, with cream and beige tones providing balance. The symmetrical composition and warm lighting create an atmosphere of subtle sophistication and quiet elegance.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "691921913",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:07.017Z"
+  },
+  {
+    "id": "img-1772022367116-pny3yiju5",
+    "hash": "196c86b5a899bae9f118956e771d8086",
+    "url": "images/img-058.png",
+    "thumbnail": "images/img-058.png",
+    "filename": "img-058.png",
+    "prompt": "A backlit silhouette captures a woman seated on a window ledge, photographed from inside the room as sunset light streams through the glass behind her. Only portions of her face catch the warm light, creating a dramatic interplay between illumination and shadow. She sits with one leg drawn up, arms wrapped casually around her knee in a relaxed, contemplative pose. The window frame creates a natural border around her silhouette.The lighting is dominated by the setting sun positioned directly behind her, creating strong rim lighting that outlines her form while leaving facial details partially obscured. The warm, golden light has the quality of late afternoon sun, creating atmospheric haze and soft lens flares. The interior space remains mostly in shadow, with only hints of room details visible in the darker areas.The foreground includes the window sill and interior architectural details. The midground centers on her silhouetted figure against the bright window. The background shows the exterior view with suggestions of landscape or cityscape beyond the glass. The color palette is dominated by warm golds and oranges from the sunset, contrasting with deep blues and purples in the shadowed interior spaces. The minimal environment focuses attention entirely on her form and the quality of light, creating a mood of quiet introspection.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "470367004",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:07.116Z"
+  },
+  {
+    "id": "img-1772022367232-z0qdt2upr",
+    "hash": "fce7ffe30bc5f1c45ad086583938fb6f",
+    "url": "images/img-059.png",
+    "thumbnail": "images/img-059.png",
+    "filename": "img-059.png",
+    "prompt": "A medium shot captures a woman in a dressing room, photographed from a natural eye-level angle that emphasizes the intimate, behind-the-scenes quality of the moment. She sits on a small bench with one black pump on her foot while the other shoe lies on the floor beside her. Her gaze is directed downward, creating a sense of private contemplation. The dressing room features the classic setup of mirror lights creating bright, even illumination.The lighting comes from a series of incandescent bulbs arranged around a large mirror, providing the bright, shadowless illumination typical of theatrical dressing rooms. The light has a warm, slightly harsh quality that reveals natural skin texture and creates subtle shadows in the room's corners. The space includes typical dressing room elements - a makeup counter, clothing hooks, and a cushioned bench.The foreground shows the discarded shoe and the textured floor of the dressing room. The midground features her partially dressed figure as she pauses in her routine. The background includes the mirror with its surrounding lights and hints of hanging garments. The color palette consists of warm whites and golds from the mirror lights, with neutral tones from the room's fixtures and the black accent of her shoes. The unposed quality of the moment creates authenticity within the polished environment of the dressing room.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "240492828",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:07.232Z"
+  },
+  {
+    "id": "img-1772022367336-3ke4jj9u3",
+    "hash": "e8b931440b52de75d4fbca59e634c0ff",
+    "url": "images/img-060.png",
+    "thumbnail": "images/img-060.png",
+    "filename": "img-060.png",
+    "prompt": "A soft, natural light photograph captures a woman sitting on the edge of an unmade bed, shot from a medium distance that shows both her relaxed posture and the bedroom environment. She wears an oversized white cotton shirt that drapes loosely over her form, the fabric catching and diffusing the gentle daylight. Her hair appears naturally tousled, suggesting she has just awakened or is in a state of casual undress. Her expression is calm and neutral, eyes focused on something beyond the camera's view.Daylight streams through a nearby window, creating soft, diffused illumination that fills the room with gentle brightness. The light has the clean, cool quality of morning or early afternoon sun, creating minimal shadows and even exposure across the scene. The bedroom features simple, elegant furnishings with white bedding, natural wood furniture, and minimal decoration that emphasizes cleanliness and simplicity.The foreground includes the rumpled bed linens with their natural texture and soft shadows. The midground centers on her seated figure against the bed's white sheets. The background shows hints of the bedroom's minimal decor and the light-filled window. The color palette is dominated by soft whites and creams, with warm wood tones providing natural contrast. The overall atmosphere suggests peaceful morning light and the quiet intimacy of private space, captured with the clarity and composition of professional fashion photography.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "117131528",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:07.336Z"
+  },
+  {
+    "id": "img-1772022367415-em2jh7yf6",
+    "hash": "3677092b4507a73db0b48b639a8142a8",
+    "url": "images/img-061.png",
+    "thumbnail": "images/img-061.png",
+    "filename": "img-061.png",
+    "prompt": "A wide shot captures a woman standing on a balcony at night, photographed from inside the room looking out through glass doors. She wears a flowing silk dress that catches the subtle night breeze, the fabric moving gently around her form. Her arms rest naturally on the balcony railing as she gazes out at the distant city lights that twinkle like scattered stars across the urban landscape. The composition uses shallow depth of field to keep her in sharp focus while the background lights blur into soft bokeh.The lighting is minimal and natural, coming primarily from the ambient city glow and perhaps a subtle interior light source behind the camera. The night atmosphere creates a romantic, cinematic quality with deep blues and purples dominating the color palette. The distant city lights provide warm points of gold and white that contrast beautifully with the cooler night tones.The foreground includes the interior space with hints of the room's furnishings visible at the frame's edges. The midground features her silhouetted figure against the night sky and city vista. The background shows the sprawling urban landscape with its pattern of lights extending to the horizon. The color palette combines deep midnight blues with warm golden points of light, while the silk dress catches subtle highlights that define its flowing movement. The overall mood suggests contemplative solitude and urban romance, captured with the cinematic realism of professional night photography.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "807007571",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:07.415Z"
   }
 ]
