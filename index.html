@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Galería personal de imágenes generadas por IA con prompts, settings y metadata completa">
+    <title>AI Image Gallery - Galería de Imágenes IA</title>
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <h1 class="header__title">🎨 AI Image Gallery</h1>
+            <p class="header__subtitle">Galería personal de imágenes generadas por IA</p>
+        </div>
+    </header>
+
+    <!-- Search and Filters -->
+    <section class="filters">
+        <div class="container">
+            <div class="filters__search">
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    class="search-input" 
+                    placeholder="Buscar por prompt, modelo, notas..."
+                >
+            </div>
+            
+            <div class="filters__categories">
+                <button class="filter-btn active" data-category="all">Todas</button>
+                <button class="filter-btn" data-category="Anime">Anime</button>
+                <button class="filter-btn" data-category="Manga">Manga</button>
+                <button class="filter-btn" data-category="Dark Fantasy">Dark Fantasy</button>
+                <button class="filter-btn" data-category="Fotorealismo">Fotorealismo</button>
+                <button class="filter-btn" data-category="RPG/Fantasy">RPG/Fantasy</button>
+                <button class="filter-btn" data-category="Surrealismo">Surrealismo</button>
+                <button class="filter-btn" data-category="Otros">Otros</button>
+            </div>
+            
+            <div class="filters__options">
+                <label class="checkbox-label">
+                    <input type="checkbox" id="achievementsOnly">
+                    <span>Solo logros ⭐</span>
+                </label>
+                
+                <select id="sortOrder" class="sort-select">
+                    <option value="date-desc">Más recientes</option>
+                    <option value="date-asc">Más antiguas</option>
+                    <option value="alpha">Alfabético</option>
+                </select>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery -->
+    <main class="gallery">
+        <div class="container">
+            <div id="galleryGrid" class="gallery__grid">
+                <!-- Images will be loaded here by JavaScript -->
+            </div>
+            
+            <div id="emptyState" class="empty-state" style="display: none;">
+                <p>No se encontraron imágenes</p>
+            </div>
+            
+            <div id="loadingState" class="loading-state">
+                <div class="spinner"></div>
+                <p>Cargando imágenes...</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Modal for Image Detail -->
+    <div id="imageModal" class="modal">
+        <div class="modal__overlay"></div>
+        <div class="modal__content">
+            <button class="modal__close" aria-label="Cerrar">&times;</button>
+            
+            <div class="modal__body">
+                <div class="modal__image-container">
+                    <img id="modalImage" src="" alt="" class="modal__image">
+                </div>
+                
+                <div class="modal__details">
+                    <div class="modal__header">
+                        <h2 id="modalFilename" class="modal__filename"></h2>
+                        <div class="modal__badges">
+                            <span id="modalCategory" class="badge badge--category"></span>
+                            <span id="modalAchievement" class="badge badge--achievement" style="display: none;">⭐ Logro</span>
+                        </div>
+                    </div>
+                    
+                    <div class="modal__section">
+                        <h3 class="modal__section-title">Prompt</h3>
+                        <p id="modalPrompt" class="modal__prompt"></p>
+                        <button id="copyPrompt" class="btn btn--small">Copiar</button>
+                    </div>
+                    
+                    <div class="modal__section">
+                        <h3 class="modal__section-title">Modelo</h3>
+                        <p id="modalModel" class="modal__model"></p>
+                    </div>
+                    
+                    <div class="modal__section" id="modalSettingsSection">
+                        <h3 class="modal__section-title">Settings</h3>
+                        <div id="modalSettings" class="modal__settings"></div>
+                    </div>
+                    
+                    <div class="modal__section" id="modalNotesSection" style="display: none;">
+                        <h3 class="modal__section-title">Notas</h3>
+                        <p id="modalNotes" class="modal__notes"></p>
+                    </div>
+                    
+                    <div class="modal__footer">
+                        <span id="modalDate" class="modal__date"></span>
+                    </div>
+                </div>
+            </div>
+            
+            <button class="modal__nav modal__nav--prev" aria-label="Anterior">‹</button>
+            <button class="modal__nav modal__nav--next" aria-label="Siguiente">›</button>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>AI Image Gallery - Galería personal de imágenes generadas por IA</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
