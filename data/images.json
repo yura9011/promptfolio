@@ -3475,5 +3475,155 @@
       "fantasy",
       "slightly"
     ]
+  },
+  {
+    "id": "img-1772144482525-cookgc5vm",
+    "hash": "f32c7d7255278e7798f95b13b1f09c41",
+    "url": "images/img-100.jpg",
+    "thumbnail": "images/img-100.jpg",
+    "filename": "img-100.jpg",
+    "tags": [
+      "variant_group",
+      "cosmic-ring-sun"
+    ],
+    "prompt": "variant_group: cosmic-ring-sun",
+    "model": "Grok",
+    "category": "Otros",
+    "achievement": false,
+    "variant_group": null,
+    "variant_index": null,
+    "settings": {
+      "size": "1024 × 1024",
+      "steps": 9,
+      "sampler": "res_multistep",
+      "scheduler": "simple"
+    },
+    "notes": "",
+    "created_at": "2026-02-26T22:21:22.525Z"
+  },
+  {
+    "id": "img-1772144482577-yas1men8i",
+    "hash": "5fe0066c164a0cd73a81e513c1dbc8d2",
+    "url": "images/img-101.png",
+    "thumbnail": "images/img-101.png",
+    "filename": "img-101.png",
+    "tags": [
+      "variant_group",
+      "cosmic-ring-sun"
+    ],
+    "prompt": "variant_group: cosmic-ring-sun",
+    "model": "Image FX",
+    "category": "Otros",
+    "achievement": false,
+    "variant_group": null,
+    "variant_index": null,
+    "settings": {
+      "size": "1024 × 1024",
+      "steps": 9,
+      "sampler": "res_multistep",
+      "scheduler": "simple"
+    },
+    "notes": "",
+    "created_at": "2026-02-26T22:21:22.577Z"
+  },
+  {
+    "id": "img-1772144482788-1lxrezpte",
+    "hash": "7a1847b24e0f3f131149166352df48e5",
+    "url": "images/img-102.png",
+    "thumbnail": "images/img-102.png",
+    "filename": "img-102.png",
+    "tags": [
+      "variant_group",
+      "cosmic-ring-sun"
+    ],
+    "prompt": "variant_group: cosmic-ring-sun",
+    "model": "Krea",
+    "category": "Otros",
+    "achievement": false,
+    "variant_group": null,
+    "variant_index": null,
+    "settings": {
+      "size": "1024 × 1024",
+      "steps": 9,
+      "sampler": "res_multistep",
+      "scheduler": "simple"
+    },
+    "notes": "",
+    "created_at": "2026-02-26T22:21:22.788Z"
+  },
+  {
+    "id": "img-1772144482858-0092rgj0p",
+    "hash": "a42cefb624980e39dd9d2f87c8b55b17",
+    "url": "images/img-103.jpeg",
+    "thumbnail": "images/img-103.jpeg",
+    "filename": "img-103.jpeg",
+    "tags": [
+      "variant_group",
+      "cosmic-ring-sun"
+    ],
+    "prompt": "variant_group: cosmic-ring-sun",
+    "model": "Nano Banana Pro 2",
+    "category": "Otros",
+    "achievement": false,
+    "variant_group": null,
+    "variant_index": null,
+    "settings": {
+      "size": "1024 × 1024",
+      "steps": 9,
+      "sampler": "res_multistep",
+      "scheduler": "simple"
+    },
+    "notes": "",
+    "created_at": "2026-02-26T22:21:22.858Z"
+  },
+  {
+    "id": "img-1772144482936-2x412ilc3",
+    "hash": "a4dce4f7d21b81064e215dd9f3dc3e79",
+    "url": "images/img-104.jpeg",
+    "thumbnail": "images/img-104.jpeg",
+    "filename": "img-104.jpeg",
+    "tags": [
+      "variant_group",
+      "cosmic-ring-sun"
+    ],
+    "prompt": "variant_group: cosmic-ring-sun",
+    "model": "Nano Banana Pro",
+    "category": "Otros",
+    "achievement": false,
+    "variant_group": null,
+    "variant_index": null,
+    "settings": {
+      "size": "1024 × 1024",
+      "steps": 9,
+      "sampler": "res_multistep",
+      "scheduler": "simple"
+    },
+    "notes": "",
+    "created_at": "2026-02-26T22:21:22.936Z"
+  },
+  {
+    "id": "img-1772144483086-lf8qnnw6w",
+    "hash": "5c3f92c511cebe2bd267287fd4ad65da",
+    "url": "images/img-105.png",
+    "thumbnail": "images/img-105.png",
+    "filename": "img-105.png",
+    "tags": [
+      "variant_group",
+      "cosmic-ring-sun"
+    ],
+    "prompt": "variant_group: cosmic-ring-sun",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "variant_group": null,
+    "variant_index": null,
+    "settings": {
+      "size": "1024 × 1024",
+      "steps": 9,
+      "sampler": "res_multistep",
+      "scheduler": "simple"
+    },
+    "notes": "",
+    "created_at": "2026-02-26T22:21:23.086Z"
   }
 ]
