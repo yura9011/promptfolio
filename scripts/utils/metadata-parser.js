@@ -58,6 +58,8 @@ export function parseMetadata(content) {
   }
 
   const lines = content.split('\n').map(line => line.trim()).filter(line => line);
+  const promptLines = [];
+  let foundMetadata = false;
 
   // Try to parse as key:value or key=value format
   for (const line of lines) {
@@ -73,34 +75,55 @@ export function parseMetadata(content) {
       // Map known fields
       if (key === 'prompt' || key === 'description' || key === 'desc') {
         metadata.prompt = value;
+        foundMetadata = true;
       } else if (key === 'model' || key === 'modelo') {
         metadata.model = value;
+        foundMetadata = true;
       } else if (key === 'variant_group' || key === 'variant-group' || key === 'group') {
         metadata.variant_group = value;
+        foundMetadata = true;
       } else if (key === 'variant_index' || key === 'variant-index' || key === 'index') {
         metadata.variant_index = parseInt(value) || value;
+        foundMetadata = true;
       } else if (key === 'category' || key === 'categoria' || key === 'categoría') {
         metadata.category = normalizeCategory(value);
+        foundMetadata = true;
       } else if (key === 'achievement' || key === 'logro') {
         metadata.achievement = parseBoolean(value);
+        foundMetadata = true;
       } else if (key === 'notes' || key === 'notas') {
         metadata.notes = value;
+        foundMetadata = true;
       } else if (key === 'steps') {
         metadata.settings.steps = parseInt(value) || value;
+        foundMetadata = true;
       } else if (key === 'cfg scale' || key === 'cfg_scale' || key === 'cfg') {
         metadata.settings.cfg_scale = parseFloat(value) || value;
+        foundMetadata = true;
       } else if (key === 'sampler') {
         metadata.settings.sampler = value;
+        foundMetadata = true;
       } else if (key === 'seed') {
         metadata.settings.seed = value;
+        foundMetadata = true;
       } else if (key === 'size' || key === 'resolution') {
         metadata.settings.size = value;
+        foundMetadata = true;
       } else {
         // Unknown field, store in settings.otros
         if (!metadata.settings.otros) metadata.settings.otros = {};
         metadata.settings.otros[key] = value;
+        foundMetadata = true;
       }
+    } else {
+      // Not a key:value line, might be part of prompt
+      promptLines.push(line);
     }
+  }
+
+  // If we found metadata but no explicit prompt, use the non-metadata lines as prompt
+  if (foundMetadata && !metadata.prompt && promptLines.length > 0) {
+    metadata.prompt = promptLines.join(' ');
   }
 
   // If no structured data found, try to extract from free text

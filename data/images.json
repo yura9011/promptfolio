@@ -3384,68 +3384,6 @@
     ]
   },
   {
-    "id": "img-1772027775031-vaq6fev87",
-    "hash": "9639e225bd9cc901db79258605e5cb7d",
-    "url": "images/img-103.jpeg",
-    "thumbnail": "images/img-103.jpeg",
-    "filename": "img-103.jpeg",
-    "prompt": "Subject: {Type: Scene, Action: Spellcasting}; Characters: {Primary: Necromancer (hooded, gaunt), Secondary: Skeletal Warriors (rising from ground)}; Environment: {Setting: Ancient Graveyard, Detail: Broken Tombstones, Fog, Dead Trees, Full Moon}; Lighting: {Type: Unholy Green Glow, Source: Spell Effect, Moonlight}; Mood: {Atmosphere: Dark, Corrupting, Powerful, Eerie}; Color Palette: {Primary: Dark Grays, Greens, Bone White, Accents: Glowing Sickly Green}; Style: {Aesthetic: Magic the Gathering Card Art, Dark Fantasy, Illustration, Painterly}; Action: {Process: Transform, Animate, Corrupt}; Negative: {Avoid: Friendly Skeletons, Bright Colors, Heroic}; Technical: {Resolution: 8k, Detail: High}; 10000steps~",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T13:56:15.031Z",
-    "tags": [
-      "dark",
-      "bright",
-      "subject",
-      "spellcasting",
-      "characters",
-      "primary",
-      "necromancer",
-      "secondary",
-      "skeletal",
-      "warriors"
-    ]
-  },
-  {
-    "id": "img-1772027775274-p861040kj",
-    "hash": "2a10485276097b9bf1e1e38fe49909d2",
-    "url": "images/img-104.jpeg",
-    "thumbnail": "images/img-104.jpeg",
-    "filename": "img-104.jpeg",
-    "prompt": "Subject: {Type: Scene, Action: Epic Fantasy}; Environment: {Setting: Dark Fantasy World, Detail: Atmospheric, Dramatic}; Lighting: {Type: Cinematic, Shadows: Deep}; Mood: {Atmosphere: Powerful, Mysterious}; Color Palette: {Primary: Dark with vibrant accents}; Style: {Aesthetic: High Fantasy Art, Detail: High}; Technical: {Resolution: 8k, Detail: Photorealistic}; 10000steps~",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T13:56:15.274Z",
-    "tags": [
-      "dark",
-      "atmospheric",
-      "dramatic",
-      "cinematic",
-      "vibrant",
-      "subject",
-      "fantasy",
-      "environment",
-      "setting",
-      "lighting"
-    ]
-  },
-  {
     "id": "img-1772027775393-74yovvj6a",
     "hash": "8421f6bec9111c65d1f7479cdf377145",
     "url": "images/img-105.jpeg",
@@ -3477,153 +3415,108 @@
     ]
   },
   {
-    "id": "img-1772144482525-cookgc5vm",
-    "hash": "f32c7d7255278e7798f95b13b1f09c41",
-    "url": "images/img-100.jpg",
-    "thumbnail": "images/img-100.jpg",
-    "filename": "img-100.jpg",
+    "id": "variant-cosmic-ring-sun",
+    "variant_group": "cosmic-ring-sun",
+    "prompt": "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. In the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. The sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. Below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. Deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. Masterful shading, no text, no typography, no white borders. --ar 9:16",
+    "category": "Dark Fantasy",
     "tags": [
-      "variant_group",
-      "cosmic-ring-sun"
+      "dark",
+      "cosmic",
+      "fantasy",
+      "vintage",
+      "paperback",
+      "cover",
+      "full",
+      "bleed",
+      "edge-to-edge",
+      "filling"
     ],
-    "prompt": "variant_group: cosmic-ring-sun",
-    "model": "Grok",
-    "category": "Otros",
-    "achievement": false,
-    "variant_group": null,
-    "variant_index": null,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-26T22:21:22.525Z"
-  },
-  {
-    "id": "img-1772144482577-yas1men8i",
-    "hash": "5fe0066c164a0cd73a81e513c1dbc8d2",
-    "url": "images/img-101.png",
-    "thumbnail": "images/img-101.png",
-    "filename": "img-101.png",
-    "tags": [
-      "variant_group",
-      "cosmic-ring-sun"
-    ],
-    "prompt": "variant_group: cosmic-ring-sun",
-    "model": "Image FX",
-    "category": "Otros",
-    "achievement": false,
-    "variant_group": null,
-    "variant_index": null,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-26T22:21:22.577Z"
-  },
-  {
-    "id": "img-1772144482788-1lxrezpte",
-    "hash": "7a1847b24e0f3f131149166352df48e5",
-    "url": "images/img-102.png",
-    "thumbnail": "images/img-102.png",
-    "filename": "img-102.png",
-    "tags": [
-      "variant_group",
-      "cosmic-ring-sun"
-    ],
-    "prompt": "variant_group: cosmic-ring-sun",
-    "model": "Krea",
-    "category": "Otros",
-    "achievement": false,
-    "variant_group": null,
-    "variant_index": null,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-26T22:21:22.788Z"
-  },
-  {
-    "id": "img-1772144482858-0092rgj0p",
-    "hash": "a42cefb624980e39dd9d2f87c8b55b17",
-    "url": "images/img-103.jpeg",
-    "thumbnail": "images/img-103.jpeg",
-    "filename": "img-103.jpeg",
-    "tags": [
-      "variant_group",
-      "cosmic-ring-sun"
-    ],
-    "prompt": "variant_group: cosmic-ring-sun",
-    "model": "Nano Banana Pro 2",
-    "category": "Otros",
-    "achievement": false,
-    "variant_group": null,
-    "variant_index": null,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-26T22:21:22.858Z"
-  },
-  {
-    "id": "img-1772144482936-2x412ilc3",
-    "hash": "a4dce4f7d21b81064e215dd9f3dc3e79",
-    "url": "images/img-104.jpeg",
-    "thumbnail": "images/img-104.jpeg",
-    "filename": "img-104.jpeg",
-    "tags": [
-      "variant_group",
-      "cosmic-ring-sun"
-    ],
-    "prompt": "variant_group: cosmic-ring-sun",
-    "model": "Nano Banana Pro",
-    "category": "Otros",
-    "achievement": false,
-    "variant_group": null,
-    "variant_index": null,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-26T22:21:22.936Z"
-  },
-  {
-    "id": "img-1772144483086-lf8qnnw6w",
-    "hash": "5c3f92c511cebe2bd267287fd4ad65da",
-    "url": "images/img-105.png",
-    "thumbnail": "images/img-105.png",
-    "filename": "img-105.png",
-    "tags": [
-      "variant_group",
-      "cosmic-ring-sun"
-    ],
-    "prompt": "variant_group: cosmic-ring-sun",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "variant_group": null,
-    "variant_index": null,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-26T22:21:23.086Z"
+    "created_at": "2026-02-26T22:33:43.073Z",
+    "variants": [
+      {
+        "id": "img-1772145223072-x51ba529l",
+        "hash": "f32c7d7255278e7798f95b13b1f09c41",
+        "url": "images/img-098.jpg",
+        "thumbnail": "images/img-098.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {
+          "otros": {
+            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
+          }
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772145223127-nky35spz5",
+        "hash": "5fe0066c164a0cd73a81e513c1dbc8d2",
+        "url": "images/img-099.png",
+        "thumbnail": "images/img-099.png",
+        "model": "Image FX",
+        "variant_index": 2,
+        "settings": {
+          "otros": {
+            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
+          }
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772145223304-b0tbu51zm",
+        "hash": "7a1847b24e0f3f131149166352df48e5",
+        "url": "images/img-100.png",
+        "thumbnail": "images/img-100.png",
+        "model": "Krea",
+        "variant_index": 3,
+        "settings": {
+          "otros": {
+            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
+          }
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772145223387-hz7rrr9ol",
+        "hash": "a42cefb624980e39dd9d2f87c8b55b17",
+        "url": "images/img-101.jpeg",
+        "thumbnail": "images/img-101.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {
+          "otros": {
+            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
+          }
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772145223453-0z14g6c1b",
+        "hash": "a4dce4f7d21b81064e215dd9f3dc3e79",
+        "url": "images/img-102.jpeg",
+        "thumbnail": "images/img-102.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 5,
+        "settings": {
+          "otros": {
+            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
+          }
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772145223603-i7h7q3nqe",
+        "hash": "5c3f92c511cebe2bd267287fd4ad65da",
+        "url": "images/img-103.png",
+        "thumbnail": "images/img-103.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 6,
+        "settings": {
+          "otros": {
+            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
+          }
+        },
+        "notes": ""
+      }
+    ]
   }
 ]
