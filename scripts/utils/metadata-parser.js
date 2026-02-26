@@ -11,16 +11,18 @@ export function parseMetadata(content) {
     model: 'Desconocido',
     category: 'Otros',
     achievement: false,
+    variant_group: null,
+    variant_index: null,
     settings: {},
     notes: ''
   };
 
   // Check if content has MODEL/DIMENSIONS/SEED/STEPS at the end (common AI format)
-  const hasMetadataSection = /MODEL\s*\n|DIMENSIONS\s*\n|SEED\s*\n|STEPS\s*\n|SAMPLER\s*\n/i.test(content);
+  const hasMetadataSection = /MODEL\s*\n|DIMENSIONS\s*\n|SEED\s*\n|STEPS\s*\n|SAMPLER\s*\n|VARIANT_GROUP\s*\n/i.test(content);
   
   if (hasMetadataSection) {
     // Split content into prompt and metadata sections
-    const parts = content.split(/\n(?=MODEL|DIMENSIONS|SEED|STEPS|SAMPLER|SCHEDULER)/i);
+    const parts = content.split(/\n(?=MODEL|DIMENSIONS|SEED|STEPS|SAMPLER|SCHEDULER|VARIANT_GROUP|VARIANT_INDEX)/i);
     
     // First part is the prompt (keep it complete)
     metadata.prompt = parts[0].trim();
@@ -45,6 +47,12 @@ export function parseMetadata(content) {
     
     const schedulerMatch = metadataText.match(/SCHEDULER\s*\n\s*([^\n]+)/i);
     if (schedulerMatch) metadata.settings.scheduler = schedulerMatch[1].trim();
+
+    const groupMatch = metadataText.match(/VARIANT_GROUP\s*\n\s*([^\n]+)/i);
+    if (groupMatch) metadata.variant_group = groupMatch[1].trim();
+
+    const indexMatch = metadataText.match(/VARIANT_INDEX\s*\n\s*([^\n]+)/i);
+    if (indexMatch) metadata.variant_index = parseInt(indexMatch[1].trim()) || indexMatch[1].trim();
     
     return metadata;
   }
@@ -67,6 +75,10 @@ export function parseMetadata(content) {
         metadata.prompt = value;
       } else if (key === 'model' || key === 'modelo') {
         metadata.model = value;
+      } else if (key === 'variant_group' || key === 'variant-group' || key === 'group') {
+        metadata.variant_group = value;
+      } else if (key === 'variant_index' || key === 'variant-index' || key === 'index') {
+        metadata.variant_index = parseInt(value) || value;
       } else if (key === 'category' || key === 'categoria' || key === 'categoría') {
         metadata.category = normalizeCategory(value);
       } else if (key === 'achievement' || key === 'logro') {

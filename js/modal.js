@@ -73,53 +73,120 @@ export class Modal {
     this.render();
   }
 
-  render() {
-    const image = this.images[this.currentIndex];
+  render(variantIndex = 0) {
+    const item = this.images[this.currentIndex];
+    if (!item) return;
+
+    const isGroup = !!item.variants && item.variants.length > 0;
+    const variant = isGroup ? item.variants[variantIndex] : item;
 
     // Image
-    document.getElementById('modalImage').src = image.url;
-    document.getElementById('modalImage').alt = image.prompt || 'AI generated image';
+    const modalImage = document.getElementById('modalImage');
+    if (modalImage) {
+      modalImage.src = variant.url;
+      modalImage.alt = item.prompt || 'AI generated image';
+    }
 
     // Filename
-    document.getElementById('modalFilename').textContent = image.filename || 'Imagen';
+    const filenameEl = document.getElementById('modalFilename');
+    if (filenameEl) {
+      filenameEl.textContent = variant.filename || item.filename || 'Imagen';
+    }
 
     // Category
-    document.getElementById('modalCategory').textContent = image.category || 'Otros';
+    const categoryEl = document.getElementById('modalCategory');
+    if (categoryEl) {
+      categoryEl.textContent = item.category || 'Otros';
+    }
 
     // Achievement badge
     const achievementBadge = document.getElementById('modalAchievement');
-    achievementBadge.style.display = image.achievement ? 'inline-block' : 'none';
+    if (achievementBadge) {
+      achievementBadge.style.display = (item.achievement || variant.achievement) ? 'inline-block' : 'none';
+    }
 
     // Prompt
-    document.getElementById('modalPrompt').textContent = image.prompt || 'Sin descripción';
+    const promptEl = document.getElementById('modalPrompt');
+    if (promptEl) {
+      promptEl.textContent = item.prompt || 'Sin descripción';
+    }
 
     // Model
-    document.getElementById('modalModel').textContent = image.model || 'Desconocido';
+    const modelEl = document.getElementById('modalModel');
+    if (modelEl) {
+      modelEl.textContent = variant.model || item.model || 'Desconocido';
+    }
+
+    // Variants section
+    this.renderVariants(item, variantIndex);
 
     // Tags
-    this.renderTags(image.tags || []);
+    this.renderTags(item.tags || []);
 
     // Settings
-    this.renderSettings(image.settings || {});
+    this.renderSettings(variant.settings || item.settings || {});
 
     // Notes
     const notesSection = document.getElementById('modalNotesSection');
     const notesText = document.getElementById('modalNotes');
-    if (image.notes && image.notes.trim()) {
-      notesSection.style.display = 'block';
-      notesText.textContent = image.notes;
-    } else {
-      notesSection.style.display = 'none';
+    if (notesSection && notesText) {
+      const notes = variant.notes || item.notes;
+      if (notes && notes.trim()) {
+        notesSection.style.display = 'block';
+        notesText.textContent = notes;
+      } else {
+        notesSection.style.display = 'none';
+      }
     }
 
     // Date
-    const date = new Date(image.created_at);
-    document.getElementById('modalDate').textContent = 
-      `Creado: ${date.toLocaleDateString('es-ES', { 
-        year: 'numeric', 
-        month: 'long', 
-        day: 'numeric' 
-      })}`;
+    const dateEl = document.getElementById('modalDate');
+    if (dateEl) {
+      const date = new Date(item.created_at || variant.created_at);
+      dateEl.textContent = 
+        `Creado: ${date.toLocaleDateString('es-ES', { 
+          year: 'numeric', 
+          month: 'long', 
+          day: 'numeric' 
+        })}`;
+    }
+  }
+
+  renderVariants(item, activeIndex) {
+    const container = document.getElementById('modalVariantsSection');
+    const list = document.getElementById('modalVariantsList');
+    
+    if (!container || !list) return;
+
+    if (!item.variants || item.variants.length <= 1) {
+      container.style.display = 'none';
+      return;
+    }
+
+    container.style.display = 'block';
+    list.innerHTML = '';
+
+    item.variants.forEach((variant, index) => {
+      const thumb = document.createElement('div');
+      thumb.className = `variant-thumb ${index === activeIndex ? 'active' : ''}`;
+      
+      const img = document.createElement('img');
+      img.src = variant.thumbnail || variant.url;
+      img.alt = `Variant ${index + 1}`;
+      
+      const modelLabel = document.createElement('span');
+      modelLabel.className = 'variant-thumb__model';
+      modelLabel.textContent = variant.model || 'Unknown';
+      
+      thumb.appendChild(img);
+      thumb.appendChild(modelLabel);
+      
+      thumb.addEventListener('click', () => {
+        this.render(index);
+      });
+      
+      list.appendChild(thumb);
+    });
   }
 
   renderSettings(settings) {

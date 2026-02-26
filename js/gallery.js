@@ -100,20 +100,72 @@ export class Gallery {
     card.className = 'gallery__card';
     card.dataset.imageId = image.id;
 
+    // Check if it's a variant collection
+    const isVariant = !!image.variants && image.variants.length > 0;
+    const initialVariant = isVariant ? image.variants[0] : image;
+
     const img = document.createElement('img');
     img.className = 'gallery__image';
-    img.dataset.src = image.thumbnail || image.url;
+    img.dataset.src = initialVariant.thumbnail || initialVariant.url;
     img.alt = image.prompt ? image.prompt.substring(0, 100) : 'AI generated image';
     img.loading = 'lazy';
 
     // Achievement badge
-    if (image.achievement) {
-      card.innerHTML = '<span class="gallery__achievement">⭐</span>';
+    const hasAchievement = image.achievement || (isVariant && image.variants.some(v => v.achievement));
+    if (hasAchievement) {
+      const badge = document.createElement('span');
+      badge.className = 'gallery__achievement';
+      badge.textContent = '⭐';
+      badge.style.display = 'flex'; // Ensure it's visible if hidden in CSS
+      card.appendChild(badge);
     }
 
     card.appendChild(img);
 
+    // Add dots for variants
+    if (isVariant && image.variants.length > 1) {
+      const dotsContainer = document.createElement('div');
+      dotsContainer.className = 'gallery__dots';
+      
+      image.variants.forEach((variant, index) => {
+        const dot = document.createElement('span');
+        dot.className = `gallery__dot ${index === 0 ? 'active' : ''}`;
+        dot.dataset.index = index;
+        
+        dot.addEventListener('click', (e) => {
+          e.stopPropagation(); // Don't open modal when clicking dot
+          this.switchVariant(card, image.variants[index], index);
+        });
+        
+        dotsContainer.appendChild(dot);
+      });
+      
+      card.appendChild(dotsContainer);
+    }
+
     return card;
+  }
+
+  switchVariant(card, variant, index) {
+    const img = card.querySelector('.gallery__image');
+    const dots = card.querySelectorAll('.gallery__dot');
+    
+    // Update active dot
+    dots.forEach((dot, i) => {
+      dot.classList.toggle('active', i === index);
+    });
+    
+    // Switch image with fade effect
+    img.style.opacity = '0.5';
+    const newSrc = variant.thumbnail || variant.url;
+    
+    // Preload image
+    const tempImg = new Image();
+    tempImg.src = newSrc;
+    tempImg.onload = () => {
+      img.src = newSrc;
+      img.style.opacity = '1';
+    };
   }
 
   setupLazyLoading() {

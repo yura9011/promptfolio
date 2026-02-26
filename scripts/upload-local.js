@@ -6,7 +6,7 @@ import chalk from 'chalk';
 import { calculateImageHash, findDuplicateByHash } from './utils/image-hash.js';
 import { needsCompression, compressImage, formatFileSize } from './utils/compressor.js';
 import { parseMetadata } from './utils/metadata-parser.js';
-import { readImagesData, addImageEntry } from './utils/json-manager.js';
+import { readImagesData, addImageEntry, writeImagesData } from './utils/json-manager.js';
 
 const SUPPORTED_EXTENSIONS = ['.png', '.jpg', '.jpeg', '.webp'];
 const BACKUP_DIR = 'backup';
@@ -114,12 +114,115 @@ async function main() {
     currentImageNumber: existingImages.length
   };
 
+  const newEntries = [];
   for (const imageFile of imageFiles) {
-    await processImage(imageFile, existingImages, stats);
+    const entry = await processImage(imageFile, existingImages, stats);
+    if (entry) {
+      newEntries.push(entry);
+    }
+  }
+
+  // After processing all new images, group and save
+  if (newEntries.length > 0) {
+    console.log(chalk.blue(`\n📦 Grouping and saving ${newEntries.length} new entries...`));
+    await groupAndSave(existingImages, newEntries);
   }
 
   // Show summary
   showSummary(stats);
+}
+
+/**
+ * Group flat entries into variant collections and save
+ */
+async function groupAndSave(existingItems, newEntries) {
+  const groups = {};
+  const finalItems = [];
+
+  // 1. Identify existing groups and ungrouped items with variant_group
+  for (const item of existingItems) {
+    if (item.variants && item.variant_group) {
+      // It's already a group
+      groups[item.variant_group] = item;
+    } else if (item.variant_group) {
+      // It's a flat item that SHOULD be in a group
+      if (!groups[item.variant_group]) {
+        groups[item.variant_group] = createGroupTemplate(item);
+      }
+      // Only add if not already in the group (by hash)
+      if (!groups[item.variant_group].variants.some(v => v.hash === item.hash)) {
+        groups[item.variant_group].variants.push(createVariantFromItem(item));
+      }
+    } else {
+      // Regular item, no variant_group
+      finalItems.push(item);
+    }
+  }
+
+  // 2. Add new entries
+  for (const item of newEntries) {
+    if (item.variant_group) {
+      if (!groups[item.variant_group]) {
+        groups[item.variant_group] = createGroupTemplate(item);
+      }
+      
+      // Check if already in group
+      if (!groups[item.variant_group].variants.some(v => v.hash === item.hash)) {
+        groups[item.variant_group].variants.push(createVariantFromItem(item));
+      }
+    } else {
+      finalItems.push(item);
+    }
+  }
+
+  // 3. Add all groups to finalItems and sort variants
+  for (const groupName in groups) {
+    const group = groups[groupName];
+    // Sort variants by index (if available) or default to creation time/index
+    group.variants.sort((a, b) => {
+      const idxA = a.variant_index !== undefined && a.variant_index !== null ? a.variant_index : 999;
+      const idxB = b.variant_index !== undefined && b.variant_index !== null ? b.variant_index : 999;
+      return idxA - idxB;
+    });
+    
+    // Update group timestamp if new variants added
+    // (Could be sophisticated but let's keep it simple)
+    finalItems.push(group);
+  }
+
+  // 4. Save to JSON
+  await writeImagesData(finalItems);
+}
+
+/**
+ * Create a template for a variant group
+ */
+function createGroupTemplate(item) {
+  return {
+    id: `variant-${item.variant_group}`,
+    variant_group: item.variant_group,
+    prompt: item.prompt,
+    category: item.category,
+    tags: item.tags,
+    created_at: item.created_at || new Date().toISOString(),
+    variants: []
+  };
+}
+
+/**
+ * Create a variant sub-item from a flat item
+ */
+function createVariantFromItem(item) {
+  return {
+    id: item.id,
+    hash: item.hash,
+    url: item.url,
+    thumbnail: item.thumbnail,
+    model: item.model,
+    variant_index: item.variant_index,
+    settings: item.settings,
+    notes: item.notes
+  };
 }
 
 /**
@@ -215,14 +318,13 @@ async function processImage(imagePath, existingImages, stats) {
       created_at: new Date().toISOString()
     };
 
-    // Add to JSON
-    await addImageEntry(imageEntry);
-    console.log(chalk.green(`   ✓ Added to database`));
-
+    console.log(chalk.green(`   ✓ Processed: ${finalFilename}`));
     stats.uploaded++;
+    return imageEntry;
   } catch (error) {
     console.error(chalk.red(`   ❌ Error: ${error.message}`));
     stats.errors++;
+    return null;
   }
 }
 
