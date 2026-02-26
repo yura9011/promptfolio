@@ -3322,68 +3322,6 @@
     ]
   },
   {
-    "id": "img-1772027774728-g92k1ukm8",
-    "hash": "11455f2de1a4167913899c41384f0d25",
-    "url": "images/img-101.jpeg",
-    "thumbnail": "images/img-101.jpeg",
-    "filename": "img-101.jpeg",
-    "prompt": "Subject: {Type: Castle, Feature: Skull, Material: Stone}; Environment: {Detail: Lava, Fire, Ruins}; Lighting: {Type: Dramatic, Source: Fire, Shadows: Deep}; Mood: {Atmosphere: Ominous, Dark, Powerful}; Color Palette: {Primary: Black, Red, Orange}; Style: {Aesthetic: Dark Fantasy, Detail: High}; Action: {Process: Transform, Amplify, Intensify}; Negative: {Avoid: Bright, Cheerful, Cartoonish}; Technical: {Resolution: 8k, Detail: Photorealistic}; 10000steps~",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T13:56:14.728Z",
-    "tags": [
-      "dramatic",
-      "dark",
-      "bright",
-      "subject",
-      "feature",
-      "material",
-      "environment",
-      "lighting",
-      "shadows",
-      "atmosphere"
-    ]
-  },
-  {
-    "id": "img-1772027774837-wf60pl3a4",
-    "hash": "c0155ef81ccc5436a1af9ac73beef3fc",
-    "url": "images/img-102.jpeg",
-    "thumbnail": "images/img-102.jpeg",
-    "filename": "img-102.jpeg",
-    "prompt": "Subject: {Type: Landscape, Feature: Fantasy Environment}; Environment: {Detail: Mystical, Atmospheric, Epic Scale}; Lighting: {Type: Dramatic, Mood: Dark Fantasy}; Color Palette: {Primary: Dark tones with vibrant accents}; Style: {Aesthetic: High Fantasy, Detail: Photorealistic}; Technical: {Resolution: 8k, Detail: High}; 10000steps~",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T13:56:14.837Z",
-    "tags": [
-      "atmospheric",
-      "dramatic",
-      "dark",
-      "vibrant",
-      "subject",
-      "landscape",
-      "feature",
-      "fantasy",
-      "environment",
-      "mystical"
-    ]
-  },
-  {
     "id": "img-1772027775393-74yovvj6a",
     "hash": "8421f6bec9111c65d1f7479cdf377145",
     "url": "images/img-105.jpeg",
