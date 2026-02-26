@@ -193,27 +193,36 @@ export class Modal {
     const container = document.getElementById('modalSettings');
     container.innerHTML = '';
 
-    // Common settings
-    const commonSettings = ['steps', 'cfg_scale', 'sampler', 'seed', 'size'];
+    // Common settings that are actually useful
+    const commonSettings = ['steps', 'cfg_scale', 'sampler', 'seed', 'size', 'scheduler'];
+    let hasValidSettings = false;
     
     commonSettings.forEach(key => {
-      if (settings[key] !== undefined) {
+      if (settings[key] !== undefined && settings[key] !== null && settings[key] !== '') {
         const item = this.createSettingItem(this.formatSettingLabel(key), settings[key]);
         container.appendChild(item);
+        hasValidSettings = true;
       }
     });
 
-    // Other settings
+    // Skip "otros" - usually contains garbage from parsing errors
+    // If you want to show otros, uncomment this:
+    /*
     if (settings.otros) {
       Object.entries(settings.otros).forEach(([key, value]) => {
-        const item = this.createSettingItem(this.formatSettingLabel(key), value);
-        container.appendChild(item);
+        // Skip if key or value looks like part of a prompt (too long)
+        if (key.length < 50 && value.toString().length < 100) {
+          const item = this.createSettingItem(this.formatSettingLabel(key), value);
+          container.appendChild(item);
+          hasValidSettings = true;
+        }
       });
     }
+    */
 
-    // Hide section if no settings
+    // Hide section if no valid settings
     const settingsSection = document.getElementById('modalSettingsSection');
-    settingsSection.style.display = container.children.length > 0 ? 'block' : 'none';
+    settingsSection.style.display = hasValidSettings ? 'block' : 'none';
   }
 
   createSettingItem(label, value) {

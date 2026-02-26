@@ -68,7 +68,8 @@ export function parseMetadata(content) {
     
     const match = colonMatch || equalsMatch;
     
-    if (match) {
+    // Only treat as key:value if the key is short (likely a metadata field)
+    if (match && match[1].trim().length < 50) {
       const key = match[1].trim().toLowerCase();
       const value = match[2].trim();
 
@@ -109,14 +110,22 @@ export function parseMetadata(content) {
       } else if (key === 'size' || key === 'resolution') {
         metadata.settings.size = value;
         foundMetadata = true;
-      } else {
-        // Unknown field, store in settings.otros
-        if (!metadata.settings.otros) metadata.settings.otros = {};
-        metadata.settings.otros[key] = value;
+      } else if (key === 'scheduler') {
+        metadata.settings.scheduler = value;
         foundMetadata = true;
+      } else {
+        // Unknown short key - might be a valid setting, but skip if value is too long (likely prompt fragment)
+        if (value.length < 100) {
+          if (!metadata.settings.otros) metadata.settings.otros = {};
+          metadata.settings.otros[key] = value;
+          foundMetadata = true;
+        } else {
+          // Long value, treat as prompt line
+          promptLines.push(line);
+        }
       }
     } else {
-      // Not a key:value line, might be part of prompt
+      // Not a key:value line, or key is too long - part of prompt
       promptLines.push(line);
     }
   }
