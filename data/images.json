@@ -3043,182 +3043,6 @@
     ]
   },
   {
-    "id": "variant-cosmic-ring-sun",
-    "variant_group": "cosmic-ring-sun",
-    "prompt": "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. In the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. The sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. Below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. Deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. Masterful shading, no text, no typography, no white borders. --ar 9:16",
-    "category": "Dark Fantasy",
-    "tags": [
-      "dark",
-      "cosmic",
-      "fantasy",
-      "vintage",
-      "paperback",
-      "cover",
-      "full",
-      "bleed",
-      "edge-to-edge",
-      "filling"
-    ],
-    "created_at": "2026-02-26T22:33:43.073Z",
-    "variants": [
-      {
-        "id": "img-1772145223072-x51ba529l",
-        "hash": "f32c7d7255278e7798f95b13b1f09c41",
-        "url": "images/img-098.jpg",
-        "thumbnail": "images/img-098.jpg",
-        "model": "Grok",
-        "variant_index": 1,
-        "settings": {
-          "otros": {
-            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
-          }
-        },
-        "notes": ""
-      },
-      {
-        "id": "img-1772145223127-nky35spz5",
-        "hash": "5fe0066c164a0cd73a81e513c1dbc8d2",
-        "url": "images/img-099.png",
-        "thumbnail": "images/img-099.png",
-        "model": "Image FX",
-        "variant_index": 2,
-        "settings": {
-          "otros": {
-            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
-          }
-        },
-        "notes": ""
-      },
-      {
-        "id": "img-1772145223304-b0tbu51zm",
-        "hash": "7a1847b24e0f3f131149166352df48e5",
-        "url": "images/img-100.png",
-        "thumbnail": "images/img-100.png",
-        "model": "Krea",
-        "variant_index": 3,
-        "settings": {
-          "otros": {
-            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
-          }
-        },
-        "notes": ""
-      },
-      {
-        "id": "img-1772145223387-hz7rrr9ol",
-        "hash": "a42cefb624980e39dd9d2f87c8b55b17",
-        "url": "images/img-101.jpeg",
-        "thumbnail": "images/img-101.jpeg",
-        "model": "Nano Banana Pro 2",
-        "variant_index": 4,
-        "settings": {
-          "otros": {
-            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
-          }
-        },
-        "notes": ""
-      },
-      {
-        "id": "img-1772145223453-0z14g6c1b",
-        "hash": "a4dce4f7d21b81064e215dd9f3dc3e79",
-        "url": "images/img-102.jpeg",
-        "thumbnail": "images/img-102.jpeg",
-        "model": "Nano Banana Pro",
-        "variant_index": 5,
-        "settings": {
-          "otros": {
-            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
-          }
-        },
-        "notes": ""
-      },
-      {
-        "id": "img-1772145223603-i7h7q3nqe",
-        "hash": "5c3f92c511cebe2bd267287fd4ad65da",
-        "url": "images/img-103.png",
-        "thumbnail": "images/img-103.png",
-        "model": "Z-Image-Turbo",
-        "variant_index": 6,
-        "settings": {
-          "otros": {
-            "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. in the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. the sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. masterful shading, no text, no typography, no white borders. --ar 9": "16"
-          }
-        },
-        "notes": ""
-      }
-    ]
-  },
-  {
-    "id": "variant-cathedral-leviathan",
-    "variant_group": "cathedral-leviathan",
-    "prompt": "1970s surreal dark fantasy illustration, masterpiece, full bleed edge-to-edge artwork, no frames, no borders. A colossal, pale gothic cathedral physically built inside and fusing with the exposed, colossal ribcage of a dormant cosmic leviathan. The ancient bone and carved stone merge seamlessly. From the cathedral's massive chimneys, a thick, incense-like smoke billows out, which is actually the slow, dying breath of the leviathan. In the foreground, microscopic pilgrims in rust-colored robes kneel on a landscape of petrified flesh. Muted color palette of bone white, oxidized copper, and sickly lavender sky. Heavy impasto texture, analog vintage aesthetic, solemn and oppressive dread. Pure illustration, no text, no canvas edges. --ar 9:16",
-    "category": "Otros",
-    "tags": [
-      "surreal",
-      "dark",
-      "fantasy",
-      "masterpiece",
-      "full",
-      "bleed",
-      "edge-to-edge",
-      "frames",
-      "borders",
-      "colossal"
-    ],
-    "created_at": "2026-02-27T03:30:11.532Z",
-    "variants": [
-      {
-        "id": "img-1772163011532-ntzyzlrlh",
-        "hash": "7d6fc46adfac5f526aedf60623179ffb",
-        "url": "images/img-097.jpg",
-        "thumbnail": "images/img-097.jpg",
-        "model": "Grok",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772163011647-bhackyign",
-        "hash": "0c2922115520b157b759277ccbdd966f",
-        "url": "images/img-098.png",
-        "thumbnail": "images/img-098.png",
-        "model": "Image FX",
-        "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772163011836-xoo7m6h7v",
-        "hash": "99524745a83c43679387e689b44732da",
-        "url": "images/img-099.png",
-        "thumbnail": "images/img-099.png",
-        "model": "Krea",
-        "variant_index": 3,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772163014052-4iun61bbs",
-        "hash": "0691f4ae5b59d44710705e23f7cfa4d2",
-        "url": "images/img-100.webp",
-        "thumbnail": "images/img-100.webp",
-        "model": "Nano Banana Pro 2",
-        "variant_index": 4,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772163014238-ab6090q24",
-        "hash": "0cb421215d135ff8ce668d9e16d6063e",
-        "url": "images/img-101.png",
-        "thumbnail": "images/img-101.png",
-        "model": "Z-Image-Turbo",
-        "variant_index": 5,
-        "settings": {},
-        "notes": ""
-      }
-    ]
-  },
-  {
     "id": "variant-glass-desert-nomads",
     "variant_group": "glass-desert-nomads",
     "prompt": "1970s sci-fantasy illustration, Heavy Metal magazine aesthetic, style of Moebius, full bleed edge-to-edge artwork, no frames. A vast, surreal desert where the dunes are made entirely of pulverized, shimmering turquoise glass. Tall, impossibly thin, stilt-legged beasts walk across the glass sea. Riding them are enigmatic nomads casting long, glowing golden nets down into the glass dunes, fishing for holographic, luminescent echoes of ancient memories trapped below. A massive, pale ringed planet dominates the dusty orange horizon. Clean but vintage linework, flat pastel colors with vibrant neon accents, airbrush texture, surreal tranquility. Pure artwork, no text, no borders. --ar 9:16",
@@ -3235,53 +3059,53 @@
       "frames",
       "vast"
     ],
-    "created_at": "2026-02-27T03:34:30.786Z",
+    "created_at": "2026-02-27T04:48:06.176Z",
     "variants": [
       {
-        "id": "img-1772163270910-jd1gyztxp",
+        "id": "img-1772167688952-zwmg8ay8e",
         "hash": "084b7b1e635961c5999001ba4d7a3c0b",
-        "url": "images/img-099.jpg",
-        "thumbnail": "images/img-099.jpg",
+        "url": "images/img-106.jpg",
+        "thumbnail": "images/img-106.jpg",
         "model": "Grok",
         "variant_index": 1,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772163271020-oopfyjjn8",
+        "id": "img-1772167690025-f426hxa6a",
         "hash": "d0dd0e52fc296e1b7ee74a9677528aec",
-        "url": "images/img-100.png",
-        "thumbnail": "images/img-100.png",
+        "url": "images/img-116.png",
+        "thumbnail": "images/img-116.png",
         "model": "Image FX",
         "variant_index": 2,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772163271206-s5fdjhcqg",
+        "id": "img-1772167691397-ehhtgce3p",
         "hash": "0f0028185d81e70983063646d59016c6",
-        "url": "images/img-101.png",
-        "thumbnail": "images/img-101.png",
+        "url": "images/img-124.png",
+        "thumbnail": "images/img-124.png",
         "model": "Krea",
         "variant_index": 3,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772163270786-nqderjeir",
+        "id": "img-1772167686168-es5a8t78g",
         "hash": "5f582dfcdd41b3678c46419a1a5dbd05",
-        "url": "images/img-098.webp",
-        "thumbnail": "images/img-098.webp",
+        "url": "images/img-086.webp",
+        "thumbnail": "images/img-086.webp",
         "model": "Nano Banana Pro 2",
         "variant_index": 4,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772163271360-00ok2t2td",
+        "id": "img-1772167696754-ryxes100f",
         "hash": "e841f7fda75a1516fab10dbfba750d3e",
-        "url": "images/img-102.png",
-        "thumbnail": "images/img-102.png",
+        "url": "images/img-144.png",
+        "thumbnail": "images/img-144.png",
         "model": "Z-Image-Turbo",
         "variant_index": 5,
         "settings": {},
@@ -3290,161 +3114,70 @@
     ]
   },
   {
-    "id": "variant-hand-labyrinth",
-    "variant_group": "hand-labyrinth",
-    "prompt": "1970s surreal dark fantasy painting, style of Michael Whelan and Boris Vallejo. A lone, heavily armored medieval knight walking cautiously through a massive, claustrophobic labyrinth. The walls of the labyrinth are made of giant, intertwined, petrified human hands and agonizing faces. A sickly yellow fog permeates the ground. Eerie, psychological horror, silent dread. Muted olive greens, sickly yellows, and bone-white palette. Gritty, textured analog painting, masterful shading. Full bleed image, edge-to-edge, no frame, no borders, no text. --ar 9:16",
+    "id": "variant-necromancer-mutation",
+    "variant_group": "necromancer-mutation",
+    "prompt": "1970s dark fantasy illustration, traditional heavy oil painting in the style of Frank Frazetta and Boris Vallejo. A hunched, agonizing necromancer in a desolate wasteland of twisted obsidian rocks. The sorcerer's arm is violently mutating, flesh fusing with glowing red volcanic stone and pulsating veins. Lurid crimson and toxic yellow magical aura bleeding into the air. Vintage analog aesthetic, visible canvas texture, heavy impasto brushstrokes, grainy, muddy browns and charcoal palette, dramatic chiaroscuro lighting. Pure artwork, no text, no fonts, no letters, no words. --ar 9:16",
     "category": "Otros",
     "tags": [
-      "surreal",
       "dark",
       "fantasy",
+      "traditional",
+      "heavy",
+      "oil",
       "painting",
-      "michael",
-      "whelan",
-      "boris",
-      "vallejo",
-      "lone",
-      "heavily"
-    ],
-    "created_at": "2026-02-27T03:39:13.096Z",
-    "variants": [
-      {
-        "id": "img-1772163553096-z0bx0ahwv",
-        "hash": "8fe8fb521f52434c8c86d356378145cc",
-        "url": "images/img-099.jpg",
-        "thumbnail": "images/img-099.jpg",
-        "model": "Grok",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772163553172-1ruch6rx2",
-        "hash": "1aaaa58ab5eed5038bbe2fd6c32f7340",
-        "url": "images/img-100.png",
-        "thumbnail": "images/img-100.png",
-        "model": "Image FX",
-        "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772163553399-npl5l3cjs",
-        "hash": "783403792827e23194b80fb650c52d82",
-        "url": "images/img-101.png",
-        "thumbnail": "images/img-101.png",
-        "model": "Krea",
-        "variant_index": 3,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772163553489-gawhuzul7",
-        "hash": "7cc48e44fcbf91b865c070ee0fe4fd34",
-        "url": "images/img-102.jpeg",
-        "thumbnail": "images/img-102.jpeg",
-        "model": "Nano Banana Pro 2",
-        "variant_index": 4,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772163553610-dpz47cc7w",
-        "hash": "9b402a6dc40bff3b6da182359bbe8d2f",
-        "url": "images/img-103.jpeg",
-        "thumbnail": "images/img-103.jpeg",
-        "model": "Nano Banana Pro",
-        "variant_index": 5,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772163554025-2rcete8dp",
-        "hash": "63845f199f6cd1686f15f51582dbb5e3",
-        "url": "images/img-104.png",
-        "thumbnail": "images/img-104.png",
-        "model": "Z-Image-Turbo",
-        "variant_index": 6,
-        "settings": {},
-        "notes": ""
-      }
-    ]
-  },
-  {
-    "id": "variant-anglerfish-sky",
-    "variant_group": "anglerfish-sky",
-    "prompt": "1970s vintage dark fantasy illustration, style of Frank Frazetta and John Harris. A nightmarish, colossal stone anglerfish floating through a stormy, blood-red sky above a ruined, jagged gothic city. The creature's lure is a blindingly bright captured star illuminating the dark ruins below. Ominous, oppressive atmosphere, impending doom. Chiaroscuro lighting, deep shadows, crimson and pitch-black palette with a single point of blinding white light. Rough canvas texture, expressive brushstrokes, analog feel. Full bleed image, edge-to-edge, no frame, no borders, no text. --ar 9:16",
-    "category": "Otros",
-    "tags": [
-      "vintage",
-      "dark",
-      "fantasy",
       "frank",
       "frazetta",
-      "john",
-      "harris",
-      "nightmarish",
-      "colossal",
-      "stone"
+      "boris",
+      "vallejo"
     ],
-    "created_at": "2026-02-27T03:41:53.609Z",
+    "created_at": "2026-02-27T04:48:06.302Z",
     "variants": [
       {
-        "id": "img-1772163713609-dolq09h0e",
-        "hash": "6f7cd6d4753d64787a89b294a30ed470",
-        "url": "images/img-100.jpg",
-        "thumbnail": "images/img-100.jpg",
+        "id": "img-1772167688286-a8egbvkmm",
+        "hash": "3a8508d52cb52ae17c279a1c5b8de50f",
+        "url": "images/img-101.jpg",
+        "thumbnail": "images/img-101.jpg",
         "model": "Grok",
         "variant_index": 1,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772163713713-1qzufkvg4",
-        "hash": "7de2a59d306b8d721c6417828c779687",
-        "url": "images/img-101.png",
-        "thumbnail": "images/img-101.png",
-        "model": "Image FX",
-        "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772163714249-d3u64x3jf",
-        "hash": "84ad39a628266d7ec7e26ae0a48e8768",
-        "url": "images/img-102.webp",
-        "thumbnail": "images/img-102.webp",
+        "id": "img-1772167690790-qwo1o63ap",
+        "hash": "3cc01d0b1aeeec541f58e5dfb13d4d2c",
+        "url": "images/img-122.png",
+        "thumbnail": "images/img-122.png",
         "model": "Krea",
         "variant_index": 3,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772163714538-p0iyz9gf6",
-        "hash": "b46c6f44b46698cde583bd00a0a475f8",
-        "url": "images/img-104.jpeg",
-        "thumbnail": "images/img-104.jpeg",
-        "model": "Nano Banana Pro 2",
+        "id": "img-1772167687075-0lx7nh33g",
+        "hash": "3d757e1ed20c3f94f90e47cc66a4d940",
+        "url": "images/img-093.jpeg",
+        "thumbnail": "images/img-093.jpeg",
+        "model": "NanoBananaPro2",
         "variant_index": 4,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772163714417-novxomgy7",
-        "hash": "32def34e034ccf965e2c606d5f670824",
-        "url": "images/img-103.jpeg",
-        "thumbnail": "images/img-103.jpeg",
-        "model": "Nano Banana Pro",
+        "id": "img-1772167686302-cevkxogtr",
+        "hash": "5458296c4bf17890b928dc784479622b",
+        "url": "images/img-087.jpeg",
+        "thumbnail": "images/img-087.jpeg",
+        "model": "NanoBananaPro",
         "variant_index": 5,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772163714723-3e6jlixka",
-        "hash": "4c6869d7d5879f5ef5c5946f2d5ea200",
-        "url": "images/img-105.png",
-        "thumbnail": "images/img-105.png",
-        "model": "Z-Image-Turbo",
+        "id": "img-1772167698438-ccefr4fyk",
+        "hash": "0148eeebd0df18996dd02e6e6e12be41",
+        "url": "images/img-152.png",
+        "thumbnail": "images/img-152.png",
+        "model": "Z-Image",
         "variant_index": 6,
         "settings": {},
         "notes": ""
@@ -3468,136 +3201,65 @@
       "decaying",
       "biomechanical"
     ],
-    "created_at": "2026-02-27T03:46:49.192Z",
+    "created_at": "2026-02-27T04:48:06.445Z",
     "variants": [
       {
-        "id": "img-1772164009433-irc1jrg7e",
+        "id": "img-1772167688084-ckf1rkof5",
         "hash": "fcdfce601a8b51cbb0a5bd94d0f0ed01",
-        "url": "images/img-103.jpg",
-        "thumbnail": "images/img-103.jpg",
+        "url": "images/img-100.jpg",
+        "thumbnail": "images/img-100.jpg",
         "model": "Grok",
         "variant_index": 1,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772164009724-iumc6qq8z",
+        "id": "img-1772167690319-erikz2ljq",
         "hash": "a9404f2a9a63208df141da06351531fb",
-        "url": "images/img-106.png",
-        "thumbnail": "images/img-106.png",
+        "url": "images/img-119.png",
+        "thumbnail": "images/img-119.png",
         "model": "Image FX",
         "variant_index": 2,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772164010429-c8xpntdjk",
+        "id": "img-1772167691230-09y2zsbau",
         "hash": "69afa17c259b897451756e400970ddaa",
-        "url": "images/img-107.webp",
-        "thumbnail": "images/img-107.webp",
+        "url": "images/img-123.webp",
+        "thumbnail": "images/img-123.webp",
         "model": "Krea",
         "variant_index": 3,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772164009305-ua7behrb1",
+        "id": "img-1772167687203-4prt1d4ub",
         "hash": "d893e5670a27d430b82fecaf41f3c190",
-        "url": "images/img-102.jpeg",
-        "thumbnail": "images/img-102.jpeg",
+        "url": "images/img-094.jpeg",
+        "thumbnail": "images/img-094.jpeg",
         "model": "Nano Banana Pro 2",
         "variant_index": 4,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772164009192-n8xwixtw6",
+        "id": "img-1772167686445-0i5ls0sa7",
         "hash": "9e1ee5ff680e0de481d76bc2a80687bf",
-        "url": "images/img-101.jpeg",
-        "thumbnail": "images/img-101.jpeg",
+        "url": "images/img-088.jpeg",
+        "thumbnail": "images/img-088.jpeg",
         "model": "Nano Banana Pro",
         "variant_index": 5,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772164011531-ww2sofcxp",
+        "id": "img-1772167698280-nruc48a21",
         "hash": "a63e27b3b26fa748d69c3ef94e339749",
-        "url": "images/img-112.png",
-        "thumbnail": "images/img-112.png",
+        "url": "images/img-151.png",
+        "thumbnail": "images/img-151.png",
         "model": "Z-Image-Turbo",
         "variant_index": 6,
-        "settings": {},
-        "notes": ""
-      }
-    ]
-  },
-  {
-    "id": "variant-necromancer-mutation",
-    "variant_group": "necromancer-mutation",
-    "prompt": "1970s dark fantasy illustration, traditional heavy oil painting in the style of Frank Frazetta and Boris Vallejo. A hunched, agonizing necromancer in a desolate wasteland of twisted obsidian rocks. The sorcerer's arm is violently mutating, flesh fusing with glowing red volcanic stone and pulsating veins. Lurid crimson and toxic yellow magical aura bleeding into the air. Vintage analog aesthetic, visible canvas texture, heavy impasto brushstrokes, grainy, muddy browns and charcoal palette, dramatic chiaroscuro lighting. Pure artwork, no text, no fonts, no letters, no words. --ar 9:16",
-    "category": "Otros",
-    "tags": [
-      "dark",
-      "fantasy",
-      "traditional",
-      "heavy",
-      "oil",
-      "painting",
-      "frank",
-      "frazetta",
-      "boris",
-      "vallejo"
-    ],
-    "created_at": "2026-02-27T03:55:52.605Z",
-    "variants": [
-      {
-        "id": "img-1772164553158-jte95rzo7",
-        "hash": "3a8508d52cb52ae17c279a1c5b8de50f",
-        "url": "images/img-106.jpg",
-        "thumbnail": "images/img-106.jpg",
-        "model": "Grok",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772164553653-lzvbjy0ax",
-        "hash": "3cc01d0b1aeeec541f58e5dfb13d4d2c",
-        "url": "images/img-109.png",
-        "thumbnail": "images/img-109.png",
-        "model": "Krea",
-        "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772164552862-31wezu490",
-        "hash": "3d757e1ed20c3f94f90e47cc66a4d940",
-        "url": "images/img-104.jpeg",
-        "thumbnail": "images/img-104.jpeg",
-        "model": "Nano Banana Pro 2",
-        "variant_index": 3,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772164552605-1pg3f4kew",
-        "hash": "5458296c4bf17890b928dc784479622b",
-        "url": "images/img-102.jpeg",
-        "thumbnail": "images/img-102.jpeg",
-        "model": "Nano Banana Pro",
-        "variant_index": 4,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772164554197-49en0tuhh",
-        "hash": "0148eeebd0df18996dd02e6e6e12be41",
-        "url": "images/img-111.png",
-        "thumbnail": "images/img-111.png",
-        "model": "Z-Image-Turbo",
-        "variant_index": 5,
         "settings": {},
         "notes": ""
       }
@@ -3620,145 +3282,64 @@
       "colossal",
       "shattered"
     ],
-    "created_at": "2026-02-27T03:55:52.722Z",
+    "created_at": "2026-02-27T04:48:06.590Z",
     "variants": [
       {
-        "id": "img-1772164553314-ztf90zqf1",
+        "id": "img-1772167688531-mbexknatw",
         "hash": "96e6f523c9959a0e5cb6fded9a7359fa",
-        "url": "images/img-107.jpg",
-        "thumbnail": "images/img-107.jpg",
+        "url": "images/img-103.jpg",
+        "thumbnail": "images/img-103.jpg",
         "model": "Grok",
         "variant_index": 1,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772164553377-53x9wxcos",
+        "id": "img-1772167690427-xzruyp18y",
         "hash": "59b16281a6a20f5b11aa01d5c2d058da",
-        "url": "images/img-108.png",
-        "thumbnail": "images/img-108.png",
-        "model": "Image FX",
+        "url": "images/img-120.png",
+        "thumbnail": "images/img-120.png",
+        "model": "ImageFX",
         "variant_index": 2,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772164553981-eum6tsqj4",
+        "id": "img-1772167692313-6o0sarg9u",
         "hash": "cc91415325ab2187acfe85da9d2a8575",
-        "url": "images/img-110.png",
-        "thumbnail": "images/img-110.png",
+        "url": "images/img-127.png",
+        "thumbnail": "images/img-127.png",
         "model": "Krea",
         "variant_index": 3,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772164552969-982hwl15v",
+        "id": "img-1772167687353-xc5augoe8",
         "hash": "d32762bd0da77633895c5509e2e06cb5",
-        "url": "images/img-105.jpeg",
-        "thumbnail": "images/img-105.jpeg",
-        "model": "Nano Banana Pro 2",
+        "url": "images/img-095.jpeg",
+        "thumbnail": "images/img-095.jpeg",
+        "model": "NanoBananaPro2",
         "variant_index": 4,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772164552721-ug4vgqogc",
+        "id": "img-1772167686590-phkf7y7ds",
         "hash": "e1f6ed6e2644586803b195dd8e5a8097",
-        "url": "images/img-103.jpeg",
-        "thumbnail": "images/img-103.jpeg",
-        "model": "Nano Banana Pro",
+        "url": "images/img-089.jpeg",
+        "thumbnail": "images/img-089.jpeg",
+        "model": "NanoBananaPro",
         "variant_index": 5,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772164554411-babxdki9a",
+        "id": "img-1772167698661-2fmq2vxww",
         "hash": "a5d2b0e47ae2dd1e26f71e0d13e6478d",
-        "url": "images/img-112.png",
-        "thumbnail": "images/img-112.png",
-        "model": "Z-Image-Turbo",
-        "variant_index": 6,
-        "settings": {},
-        "notes": ""
-      }
-    ]
-  },
-  {
-    "id": "variant-pre-rendered-knight",
-    "variant_group": "pre-rendered-knight",
-    "prompt": "The Pre-Rendered Knight: Fantasy knight in overly complex, slightly bulky armor with unnecessary spikes and belts, posing dramatically. Rendered in the style of an early 2000s pre-rendered CG cutscene. Slightly plastic-looking textures, high contrast lighting with noticeable bloom. Moody castle backdrop. --ar 3:4 --style raw --s 600 --v 5.2",
-    "category": "Otros",
-    "tags": [
-      "pre-rendered",
-      "knight",
-      "fantasy",
-      "overly",
-      "complex",
-      "slightly",
-      "bulky",
-      "armor",
-      "unnecessary",
-      "spikes"
-    ],
-    "created_at": "2026-02-27T04:06:13.489Z",
-    "variants": [
-      {
-        "id": "img-1772165173653-f7v9elvry",
-        "hash": "53ab4cf7b38858ff818f3f83ed76db7b",
-        "url": "images/img-106.jpg",
-        "thumbnail": "images/img-106.jpg",
-        "model": "Grok",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772165173709-j75a3aorb",
-        "hash": "4d3ef9c679bdd0bcda8531494151699d",
-        "url": "images/img-107.png",
-        "thumbnail": "images/img-107.png",
-        "model": "Image FX",
-        "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772165173830-el5wjs4rn",
-        "hash": "335f5c5c0473cabc881f1f1d9c168130",
-        "url": "images/img-108.png",
-        "thumbnail": "images/img-108.png",
-        "model": "Krea",
-        "variant_index": 3,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772165173588-z5m38vuiu",
-        "hash": "702d5bbaf3fdc58723027ecd8182728d",
-        "url": "images/img-105.jpeg",
-        "thumbnail": "images/img-105.jpeg",
-        "model": "Nano Banana Pro 2",
-        "variant_index": 4,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772165173489-b4va3jici",
-        "hash": "b95d4512db567cdef46a9508db257429",
-        "url": "images/img-104.jpeg",
-        "thumbnail": "images/img-104.jpeg",
-        "model": "Nano Banana Pro",
-        "variant_index": 5,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772165174008-0ix6n5pxb",
-        "hash": "3f638933034b6b6a3ee7680d2fb119bc",
-        "url": "images/img-109.png",
-        "thumbnail": "images/img-109.png",
-        "model": "Z-Image-Turbo",
+        "url": "images/img-153.png",
+        "thumbnail": "images/img-153.png",
+        "model": "Z-Image",
         "variant_index": 6,
         "settings": {},
         "notes": ""
@@ -3782,64 +3363,145 @@
       "lava",
       "fire"
     ],
-    "created_at": "2026-02-27T04:07:21.802Z",
+    "created_at": "2026-02-27T04:48:06.705Z",
     "variants": [
       {
-        "id": "img-1772165242169-8loo4c8ww",
+        "id": "img-1772167689179-qpe0elllc",
         "hash": "ea7d184b63ae0cb467a58b6ce9217a46",
-        "url": "images/img-110.jpg",
-        "thumbnail": "images/img-110.jpg",
+        "url": "images/img-108.jpg",
+        "thumbnail": "images/img-108.jpg",
         "model": "Grok",
         "variant_index": 1,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165242258-sk0ye7tac",
+        "id": "img-1772167689609-1txmhghda",
         "hash": "699bb3eb60d8c7cec25e56757783524e",
         "url": "images/img-112.png",
         "thumbnail": "images/img-112.png",
-        "model": "Image FX",
+        "model": "ImageFX",
         "variant_index": 2,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165242367-nvk4tr0dz",
+        "id": "img-1772167692719-sog0upwji",
         "hash": "a1603c9a4fcdacc664da2ee44d638ca7",
-        "url": "images/img-113.png",
-        "thumbnail": "images/img-113.png",
+        "url": "images/img-129.png",
+        "thumbnail": "images/img-129.png",
         "model": "Krea",
         "variant_index": 3,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165241957-j5ixetwv4",
+        "id": "img-1772167687503-z5eoxafp5",
         "hash": "601215c417b3c2fe13be43f1cfb7ecc7",
-        "url": "images/img-107.jpeg",
-        "thumbnail": "images/img-107.jpeg",
-        "model": "Nano Banana Pro 2",
+        "url": "images/img-096.jpeg",
+        "thumbnail": "images/img-096.jpeg",
+        "model": "NanoBananaPro2",
         "variant_index": 4,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165241802-ivb8m5y6f",
+        "id": "img-1772167686705-ezldwu02a",
         "hash": "32ff5fb180871435f4237fe443ab0532",
-        "url": "images/img-105.jpeg",
-        "thumbnail": "images/img-105.jpeg",
-        "model": "Nano Banana Pro",
+        "url": "images/img-090.jpeg",
+        "thumbnail": "images/img-090.jpeg",
+        "model": "NanoBananaPro",
         "variant_index": 5,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165242758-vgnb3u5ab",
+        "id": "img-1772167697348-odgglu6jv",
         "hash": "78a6933ad78444c5f91cee7b60d3be09",
-        "url": "images/img-116.png",
-        "thumbnail": "images/img-116.png",
-        "model": "Z-Image-Turbo",
+        "url": "images/img-147.png",
+        "thumbnail": "images/img-147.png",
+        "model": "Z-Image",
+        "variant_index": 6,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-pre-rendered-knight",
+    "variant_group": "pre-rendered-knight",
+    "prompt": "The Pre-Rendered Knight: Fantasy knight in overly complex, slightly bulky armor with unnecessary spikes and belts, posing dramatically. Rendered in the style of an early 2000s pre-rendered CG cutscene. Slightly plastic-looking textures, high contrast lighting with noticeable bloom. Moody castle backdrop. --ar 3:4 --style raw --s 600 --v 5.2",
+    "category": "Otros",
+    "tags": [
+      "pre-rendered",
+      "knight",
+      "fantasy",
+      "overly",
+      "complex",
+      "slightly",
+      "bulky",
+      "armor",
+      "unnecessary",
+      "spikes"
+    ],
+    "created_at": "2026-02-27T04:48:06.817Z",
+    "variants": [
+      {
+        "id": "img-1772167688388-5talrxyzi",
+        "hash": "53ab4cf7b38858ff818f3f83ed76db7b",
+        "url": "images/img-102.jpg",
+        "thumbnail": "images/img-102.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167689522-imy2dsu3s",
+        "hash": "4d3ef9c679bdd0bcda8531494151699d",
+        "url": "images/img-111.png",
+        "thumbnail": "images/img-111.png",
+        "model": "ImageFX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167693066-do9lgpe0o",
+        "hash": "335f5c5c0473cabc881f1f1d9c168130",
+        "url": "images/img-131.png",
+        "thumbnail": "images/img-131.png",
+        "model": "Krea",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167687615-rldsf3i3t",
+        "hash": "702d5bbaf3fdc58723027ecd8182728d",
+        "url": "images/img-097.jpeg",
+        "thumbnail": "images/img-097.jpeg",
+        "model": "NanoBananaPro2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167686817-ahe2yk1dd",
+        "hash": "b95d4512db567cdef46a9508db257429",
+        "url": "images/img-091.jpeg",
+        "thumbnail": "images/img-091.jpeg",
+        "model": "NanoBananaPro",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167696599-6pfxx78a1",
+        "hash": "3f638933034b6b6a3ee7680d2fb119bc",
+        "url": "images/img-143.png",
+        "thumbnail": "images/img-143.png",
+        "model": "Z-Image",
         "variant_index": 6,
         "settings": {},
         "notes": ""
@@ -3863,55 +3525,136 @@
       "secondary",
       "skeletal"
     ],
-    "created_at": "2026-02-27T04:09:54.463Z",
+    "created_at": "2026-02-27T04:48:06.950Z",
     "variants": [
       {
-        "id": "img-1772165394463-ssw6dr4kd",
-        "hash": "e4b7734382d23eecbab59366e1db2134",
-        "url": "images/img-108.jpeg",
-        "thumbnail": "images/img-108.jpeg",
-        "model": "Nano Banana Pro",
+        "id": "img-1772167688840-ncs54wt8c",
+        "hash": "048040d396c5586b200b150c2ef25d81",
+        "url": "images/img-105.jpg",
+        "thumbnail": "images/img-105.jpg",
+        "model": "Grok",
         "variant_index": 1,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165394733-btpd7bbq7",
-        "hash": "d9621ca89454b39949417bde1ec55f21",
-        "url": "images/img-111.jpeg",
-        "thumbnail": "images/img-111.jpeg",
-        "model": "Nano Banana Pro 2",
-        "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772165394900-xayhbgcxp",
-        "hash": "048040d396c5586b200b150c2ef25d81",
-        "url": "images/img-113.jpg",
-        "thumbnail": "images/img-113.jpg",
-        "model": "Grok",
+        "id": "img-1772167692927-6qkpoek4s",
+        "hash": "cd9ee934422d345c312f0c095f7ae128",
+        "url": "images/img-130.png",
+        "thumbnail": "images/img-130.png",
+        "model": "Krea",
         "variant_index": 3,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165395392-21rmnrhy9",
-        "hash": "cd9ee934422d345c312f0c095f7ae128",
-        "url": "images/img-118.png",
-        "thumbnail": "images/img-118.png",
-        "model": "Krea",
+        "id": "img-1772167687783-6lwkytztw",
+        "hash": "d9621ca89454b39949417bde1ec55f21",
+        "url": "images/img-098.jpeg",
+        "thumbnail": "images/img-098.jpeg",
+        "model": "NanoBananaPro2",
         "variant_index": 4,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165395888-zw6dlrg37",
-        "hash": "6fad53fe61d5b1dd207adfa47d6464c1",
-        "url": "images/img-122.png",
-        "thumbnail": "images/img-122.png",
-        "model": "Z-Image-Turbo",
+        "id": "img-1772167686950-a2ky2ruzj",
+        "hash": "e4b7734382d23eecbab59366e1db2134",
+        "url": "images/img-092.jpeg",
+        "thumbnail": "images/img-092.jpeg",
+        "model": "NanoBananaPro",
         "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167697600-0281wjiv5",
+        "hash": "6fad53fe61d5b1dd207adfa47d6464c1",
+        "url": "images/img-148.png",
+        "thumbnail": "images/img-148.png",
+        "model": "Z-Image",
+        "variant_index": 6,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-hand-labyrinth",
+    "variant_group": "hand-labyrinth",
+    "prompt": "1970s surreal dark fantasy painting, style of Michael Whelan and Boris Vallejo. A lone, heavily armored medieval knight walking cautiously through a massive, claustrophobic labyrinth. The walls of the labyrinth are made of giant, intertwined, petrified human hands and agonizing faces. A sickly yellow fog permeates the ground. Eerie, psychological horror, silent dread. Muted olive greens, sickly yellows, and bone-white palette. Gritty, textured analog painting, masterful shading. Full bleed image, edge-to-edge, no frame, no borders, no text. --ar 9:16",
+    "category": "Otros",
+    "tags": [
+      "surreal",
+      "dark",
+      "fantasy",
+      "painting",
+      "michael",
+      "whelan",
+      "boris",
+      "vallejo",
+      "lone",
+      "heavily"
+    ],
+    "created_at": "2026-02-27T04:48:07.888Z",
+    "variants": [
+      {
+        "id": "img-1772167687888-76nt9gtmq",
+        "hash": "8fe8fb521f52434c8c86d356378145cc",
+        "url": "images/img-099.jpg",
+        "thumbnail": "images/img-099.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167690091-gjf31fwwp",
+        "hash": "1aaaa58ab5eed5038bbe2fd6c32f7340",
+        "url": "images/img-117.png",
+        "thumbnail": "images/img-117.png",
+        "model": "Image FX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167691629-cvhd4stgb",
+        "hash": "783403792827e23194b80fb650c52d82",
+        "url": "images/img-125.png",
+        "thumbnail": "images/img-125.png",
+        "model": "Krea",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167690549-zc4ue3srz",
+        "hash": "7cc48e44fcbf91b865c070ee0fe4fd34",
+        "url": "images/img-121.jpeg",
+        "thumbnail": "images/img-121.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167696198-ng0kosafo",
+        "hash": "9b402a6dc40bff3b6da182359bbe8d2f",
+        "url": "images/img-141.jpeg",
+        "thumbnail": "images/img-141.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167696899-a44n6zpcd",
+        "hash": "63845f199f6cd1686f15f51582dbb5e3",
+        "url": "images/img-145.png",
+        "thumbnail": "images/img-145.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 6,
         "settings": {},
         "notes": ""
       }
@@ -3934,65 +3677,298 @@
       "fused",
       "clunky"
     ],
-    "created_at": "2026-02-27T04:10:24.131Z",
+    "created_at": "2026-02-27T04:48:08.640Z",
     "variants": [
       {
-        "id": "img-1772165425203-8h17nt8ka",
-        "hash": "41be407d7e3668427d29bbf9d3c5dbed",
-        "url": "images/img-124.jpeg",
-        "thumbnail": "images/img-124.jpeg",
-        "model": "Nano Banana Pro",
+        "id": "img-1772167688640-juz6qygb5",
+        "hash": "00f51db909fdd2678d814de8bc1a7006",
+        "url": "images/img-104.jpg",
+        "thumbnail": "images/img-104.jpg",
+        "model": "Grok",
         "variant_index": 1,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165425554-knekowaq1",
-        "hash": "2c820b3b538282729b79354ea0890c2c",
-        "url": "images/img-125.jpeg",
-        "thumbnail": "images/img-125.jpeg",
-        "model": "Nano Banana Pro 2",
+        "id": "img-1772167689698-ocrn83y9z",
+        "hash": "91e3230520f79a1cf722ea3a690a6ed6",
+        "url": "images/img-113.png",
+        "thumbnail": "images/img-113.png",
+        "model": "ImageFX",
         "variant_index": 2,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165424131-vfax108n2",
-        "hash": "00f51db909fdd2678d814de8bc1a7006",
-        "url": "images/img-114.jpg",
-        "thumbnail": "images/img-114.jpg",
-        "model": "Grok",
+        "id": "img-1772167692510-lojeu7fnt",
+        "hash": "68e0357a4a8687742cc2603cdebb17ac",
+        "url": "images/img-128.png",
+        "thumbnail": "images/img-128.png",
+        "model": "Krea",
         "variant_index": 3,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165424657-8yxrsisk8",
-        "hash": "68e0357a4a8687742cc2603cdebb17ac",
-        "url": "images/img-120.png",
-        "thumbnail": "images/img-120.png",
-        "model": "Krea",
+        "id": "img-1772167696096-f7pc80tr9",
+        "hash": "2c820b3b538282729b79354ea0890c2c",
+        "url": "images/img-140.jpeg",
+        "thumbnail": "images/img-140.jpeg",
+        "model": "NanoBananaPro2",
         "variant_index": 4,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165424486-0h732s08b",
-        "hash": "91e3230520f79a1cf722ea3a690a6ed6",
-        "url": "images/img-119.png",
-        "thumbnail": "images/img-119.png",
-        "model": "Image FX",
+        "id": "img-1772167695731-6g6u9nh49",
+        "hash": "41be407d7e3668427d29bbf9d3c5dbed",
+        "url": "images/img-137.jpeg",
+        "thumbnail": "images/img-137.jpeg",
+        "model": "NanoBananaPro",
         "variant_index": 5,
         "settings": {},
         "notes": ""
       },
       {
-        "id": "img-1772165426288-1b38e7c6p",
+        "id": "img-1772167697797-2r2urxpfk",
         "hash": "84aea6e1c25a45ecf777f20d70451620",
-        "url": "images/img-129.png",
-        "thumbnail": "images/img-129.png",
+        "url": "images/img-149.png",
+        "thumbnail": "images/img-149.png",
+        "model": "Z-Image",
+        "variant_index": 6,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-anglerfish-sky",
+    "variant_group": "anglerfish-sky",
+    "prompt": "1970s vintage dark fantasy illustration, style of Frank Frazetta and John Harris. A nightmarish, colossal stone anglerfish floating through a stormy, blood-red sky above a ruined, jagged gothic city. The creature's lure is a blindingly bright captured star illuminating the dark ruins below. Ominous, oppressive atmosphere, impending doom. Chiaroscuro lighting, deep shadows, crimson and pitch-black palette with a single point of blinding white light. Rough canvas texture, expressive brushstrokes, analog feel. Full bleed image, edge-to-edge, no frame, no borders, no text. --ar 9:16",
+    "category": "Otros",
+    "tags": [
+      "vintage",
+      "dark",
+      "fantasy",
+      "frank",
+      "frazetta",
+      "john",
+      "harris",
+      "nightmarish",
+      "colossal",
+      "stone"
+    ],
+    "created_at": "2026-02-27T04:48:09.074Z",
+    "variants": [
+      {
+        "id": "img-1772167689074-u71nh7wsn",
+        "hash": "6f7cd6d4753d64787a89b294a30ed470",
+        "url": "images/img-107.jpg",
+        "thumbnail": "images/img-107.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167690200-5qj4c1tgl",
+        "hash": "7de2a59d306b8d721c6417828c779687",
+        "url": "images/img-118.png",
+        "thumbnail": "images/img-118.png",
+        "model": "Image FX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167692062-7mlizuv4f",
+        "hash": "84ad39a628266d7ec7e26ae0a48e8768",
+        "url": "images/img-126.webp",
+        "thumbnail": "images/img-126.webp",
+        "model": "Krea",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167695995-4a6gnbijo",
+        "hash": "b46c6f44b46698cde583bd00a0a475f8",
+        "url": "images/img-139.jpeg",
+        "thumbnail": "images/img-139.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167695637-kb0vnn0d5",
+        "hash": "32def34e034ccf965e2c606d5f670824",
+        "url": "images/img-136.jpeg",
+        "thumbnail": "images/img-136.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167697082-wus3zi0rg",
+        "hash": "4c6869d7d5879f5ef5c5946f2d5ea200",
+        "url": "images/img-146.png",
+        "thumbnail": "images/img-146.png",
         "model": "Z-Image-Turbo",
         "variant_index": 6,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-cosmic-ring-sun",
+    "variant_group": "cosmic-ring-sun",
+    "prompt": "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. In the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. The sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. Below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. Deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. Masterful shading, no text, no typography, no white borders. --ar 9:16",
+    "category": "Otros",
+    "tags": [
+      "dark",
+      "cosmic",
+      "fantasy",
+      "vintage",
+      "paperback",
+      "cover",
+      "full",
+      "bleed",
+      "edge-to-edge",
+      "filling"
+    ],
+    "created_at": "2026-02-27T04:48:09.337Z",
+    "variants": [
+      {
+        "id": "img-1772167689337-ozovoavrf",
+        "hash": "f32c7d7255278e7798f95b13b1f09c41",
+        "url": "images/img-109.jpg",
+        "thumbnail": "images/img-109.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167689786-6ho2gyfsy",
+        "hash": "5fe0066c164a0cd73a81e513c1dbc8d2",
+        "url": "images/img-114.png",
+        "thumbnail": "images/img-114.png",
+        "model": "Image FX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167693363-zrqro3d0m",
+        "hash": "7a1847b24e0f3f131149166352df48e5",
+        "url": "images/img-132.png",
+        "thumbnail": "images/img-132.png",
+        "model": "Krea",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167693726-1dpus8ez4",
+        "hash": "a42cefb624980e39dd9d2f87c8b55b17",
+        "url": "images/img-134.jpeg",
+        "thumbnail": "images/img-134.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167695872-c7ccdtkby",
+        "hash": "a4dce4f7d21b81064e215dd9f3dc3e79",
+        "url": "images/img-138.jpeg",
+        "thumbnail": "images/img-138.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167698064-72lfi582l",
+        "hash": "5c3f92c511cebe2bd267287fd4ad65da",
+        "url": "images/img-150.png",
+        "thumbnail": "images/img-150.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 6,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-cathedral-leviathan",
+    "variant_group": "cathedral-leviathan",
+    "prompt": "1970s surreal dark fantasy illustration, masterpiece, full bleed edge-to-edge artwork, no frames, no borders. A colossal, pale gothic cathedral physically built inside and fusing with the exposed, colossal ribcage of a dormant cosmic leviathan. The ancient bone and carved stone merge seamlessly. From the cathedral's massive chimneys, a thick, incense-like smoke billows out, which is actually the slow, dying breath of the leviathan. In the foreground, microscopic pilgrims in rust-colored robes kneel on a landscape of petrified flesh. Muted color palette of bone white, oxidized copper, and sickly lavender sky. Heavy impasto texture, analog vintage aesthetic, solemn and oppressive dread. Pure illustration, no text, no canvas edges. --ar 9:16",
+    "category": "Otros",
+    "tags": [
+      "surreal",
+      "dark",
+      "fantasy",
+      "masterpiece",
+      "full",
+      "bleed",
+      "edge-to-edge",
+      "frames",
+      "borders",
+      "colossal"
+    ],
+    "created_at": "2026-02-27T04:48:09.444Z",
+    "variants": [
+      {
+        "id": "img-1772167689444-046ebe4nw",
+        "hash": "7d6fc46adfac5f526aedf60623179ffb",
+        "url": "images/img-110.jpg",
+        "thumbnail": "images/img-110.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167689907-difsf2d7c",
+        "hash": "0c2922115520b157b759277ccbdd966f",
+        "url": "images/img-115.png",
+        "thumbnail": "images/img-115.png",
+        "model": "Image FX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167693591-hayfrsasm",
+        "hash": "99524745a83c43679387e689b44732da",
+        "url": "images/img-133.png",
+        "thumbnail": "images/img-133.png",
+        "model": "Krea",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167695471-w9l1u8j21",
+        "hash": "0691f4ae5b59d44710705e23f7cfa4d2",
+        "url": "images/img-135.webp",
+        "thumbnail": "images/img-135.webp",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772167696417-gfta0op9f",
+        "hash": "0cb421215d135ff8ce668d9e16d6063e",
+        "url": "images/img-142.png",
+        "thumbnail": "images/img-142.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 5,
         "settings": {},
         "notes": ""
       }

@@ -1,0 +1,5 @@
+variant_group: shattered-moon
+variant_index: 6
+model: Z-Image
+
+1970s vintage science fantasy illustration, airbrush art style of Moebius and Heavy Metal magazine. A colossal, shattered moon dominating the entire sky, raining massive meteor debris down upon a desolate ash wasteland. On a small cliff in the foreground, a microscopic lone warrior stands holding a curved, faintly glowing blade, looking up at the cosmic destruction. Existential dread, awe-inspiring scale. Desaturated indigo and ash gray palette with psychedelic cyan and magenta accents in the fractured sky. Analog film grain, rough texture, masterpiece painting. No text, no fonts, typography. --ar 9:16

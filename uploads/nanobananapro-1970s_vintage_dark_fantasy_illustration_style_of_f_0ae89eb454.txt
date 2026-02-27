@@ -1,0 +1,5 @@
+variant_group: anglerfish-sky
+variant_index: 5
+model: Nano Banana Pro
+
+1970s vintage dark fantasy illustration, style of Frank Frazetta and John Harris. A nightmarish, colossal stone anglerfish floating through a stormy, blood-red sky above a ruined, jagged gothic city. The creature's lure is a blindingly bright captured star illuminating the dark ruins below. Ominous, oppressive atmosphere, impending doom. Chiaroscuro lighting, deep shadows, crimson and pitch-black palette with a single point of blinding white light. Rough canvas texture, expressive brushstrokes, analog feel. Full bleed image, edge-to-edge, no frame, no borders, no text. --ar 9:16

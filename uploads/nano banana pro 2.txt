@@ -1,0 +1,5 @@
+variant_group: cosmic-ring-sun
+variant_index: 4
+model: Nano Banana Pro 2
+
+1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork filling the screen, no frames. In the sky, a colossal, rusted biomechanical ring structure is aggressively clamped around a dying sun, siphoning its energy. The sun appears to be bleeding trails of liquid gold and bright magenta into the machine's dark machinery. Below, on a jagged, barren peak, a circle of silent, elongated figures in featureless obsidian cloaks stare upwards in religious awe. Deep, velvety shadows, stark lighting, grainy vintage film texture, sense of cosmic insignificance and technological dread. Masterful shading, no text, no typography, no white borders. --ar 9:16

@@ -1,5 +1,5 @@
 variant_group: skull-castle
 variant_index: 6
-model: Z-Image-Turbo
+model: Z-Image
 
 Subject: {Type: Castle, Feature: Skull, Material: Stone}; Environment: {Detail: Lava, Fire, Ruins}; Lighting: {Type: Dramatic, Source: Fire, Shadows: Deep}; Mood: {Atmosphere: Ominous, Dark, Powerful}; Color Palette: {Primary: Black, Red, Orange}; Style: {Aesthetic: Dark Fantasy, Detail: High}; Action: {Process: Transform, Amplify, Intensify}; Negative: {Avoid: Bright, Cheerful, Cartoonish}; Technical: {Resolution: 8k, Detail: Photorealistic}; 10000steps~
