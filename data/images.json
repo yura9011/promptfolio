@@ -1,37 +1,5 @@
 [
   {
-    "id": "img-1772006078768-c7zrjm6r0",
-    "hash": "0189505020d0fe50f798f8ed15a17488",
-    "url": "images/img-003.png",
-    "thumbnail": "images/img-003.png",
-    "filename": "img-003.png",
-    "prompt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<Master_Blueprint>\r\n<Global_Concept>\r\n<Theme>Solitary Introspection - Moment of Private Contemplation in Public Space</Theme>\r\n<Atmosphere>Pensive, meditative, quietly observant; a fleeting moment of personal reflection within the everyday urban landscape. Sense of calm melancholy mixed with wonder. The subject is absorbed in thought, disconnected from surroundings yet fully present in the sensory experience of dappled light and natural elements.</Atmosphere>\r\n<Lighting_Style>Late afternoon golden-hour sunlight filtering fragmentarily through tree canopy, creating dappled light patterns across the subject's face, neck, and upper body. Uneven illumination with pronounced chiaroscuro: bright sunlit patches on one side of face (typically left or upper plane), deeper shadow areas on opposite side. No fill light; natural shadow falloff creates dimensional modeling. Warm color temperature (3500-4200K) from low sun angle. Subtle lens flare or glint where direct sunlight grazes lens. Ambient park lighting remains soft and diffused beneath tree cover.</Lighting_Style>\r\n<Art_Style>Observational street photography aesthetic; candid documentary realism with photojournalistic integrity. Unguarded moment captured without subject awareness of camera presence. Authentic imperfections: realistic film grain, lens aberrations, subtle motion artifacts. Natural skin rendering without retouching or beautification. Inspired by humanist photography tradition emphasizing genuine emotion and light over technical perfection.</Art_Style>\r\n</Global_Concept>\r\n<Composition>\r\n<Shot_Type>Medium close-up framing from approximately waist to top of head; environmental context of tree and park visible but secondary. Camera positioned at approximately subject's eye height or slightly lower, creating intimate proximity while capturing upward gaze direction.</Shot_Type>\r\n<Camera_Angle>Slightly low eye-level angle, approximately 5-10 degrees below horizontal, allowing upward gaze to appear naturally elevated toward canopy while maintaining frontal face visibility. Intentionally imperfect framing with slight asymmetry suggesting candid moment rather than composed portraiture. Frame edge crops shoulder or arm unexpectedly, emphasizing documentary capture over deliberate composition.</Camera_Angle>\r\n<Focus>Shallow depth of field with focal plane on subject's eyes and face plane; precise focus on whichever facial region receives strongest sunlight illumination. Hair, shoulders, and background foliage transition quickly into soft bokeh. Subtle focus breathing or micro-shift suggesting handheld camera and natural breathing/movement during exposure. Not razor-sharp; maintains organic softness of 35-50mm prime lens rendering.</Focus>\r\n<Framing_Guide>Deliberately off-center composition using natural asymmetry of dappled light and shadow rather than rule-of-thirds geometry. Imperfect frame edges suggest accidental crop—head positioned slightly off-center, shoulders not evenly balanced within frame edges. Upper frame space shows tree canopy; lower frame includes partial torso and clothing. Overall impression of unplanned moment captured rather than carefully composed shot.</Framing_Guide>\r\n</Composition>\r\n<Region_Map>\r\n<Region id=\"tree_canopy_overhead\">\r\n<Coordinates>x=0, y=0, w=100, h=40</Coordinates>\r\n<Content>Dense tree foliage filtered against late afternoon sky. Green-gold leaf masses with backlit translucency creating glowing halo effect around edges. Dappled pattern of sunlight penetrating canopy creates intricate light-and-shadow texture. Bokeh circles of light and shadow suggesting depth of leafy layers. Sky visible in fragmented patches between branches, rendered warm golden-amber from sun angle. Overall soft, out-of-focus atmospheric region providing contextual environment.</Content>\r\n</Region>\r\n<Region id=\"face_sunlit_plane\">\r\n<Coordinates>x=25, y=35, w=35, h=25</Coordinates>\r\n<Content>Subject's face illuminated by direct late-afternoon sunlight filtered through minimal leaf interference. Warm golden-honey illumination falling across forehead, upper cheekbone, eye area, and one side of nose. Realistic skin texture rendered in fine detail: natural pore structure, subtle skin variation in tone, freckles or beauty marks visible in warm light, fine facial hair if present, natural skin luminosity. Eyes reflecting filtered sunlight with natural wet appearance. Expression contemplative and slightly upturned, eyes directed toward canopy above. No smile; neutral or subtly pensive expression. Natural eyebrow and eyelash detail.</Content>\r\n</Region>\r\n<Region id=\"face_shadow_plane\">\r\n<Coordinates>x=30, y=40, w=25, h=20</Coordinates>\r\n<Content>Opposite side of face remaining in softer shadow cast by tree canopy and subject's own head position. Shadow area shows cooler color temperature (slight blue undertone from sky light filling shadow) while maintaining natural skin tone. Shadow edge is soft and gradual rather than hard-edged, creating dimensional modeling. Subtle details visible in shadow region: jawline definition, cheek structure, neck contour. Shadow demonstrates natural light falloff without artificial fill.</Content>\r\n</Region>\r\n<Region id=\"hair_movement\">\r\n<Coordinates>x=20, y=25, w=40, h=20</Coordinates>\r\n<Content>Hair illuminated by dappled sunlight, showing texture and movement from gentle wind. Strands catching scattered light creating highlights and subtle motion blur on individual hairs. Hair positioned asymmetrically around face, some strands partially obscuring face or eye region, adding to candid unguarded quality. Hair color rendered naturally with subtle variation in tone from light and shadow; texture shows realistic strand definition and volume. Slight wind-induced blur on peripheral hair strands suggesting gentle motion during exposure.</Content>\r\n</Region>\r\n<Region id=\"clothing_upper_body\">\r\n<Coordinates>x=0, y=55, w=100, h=35</Coordinates>\r\n<Content>Upper torso and shoulders visible, clothed in ordinary casual garment (t-shirt, lightweight sweater, or simple shirt in muted neutral tone—gray, cream, olive, or soft blue). Fabric shows natural drape and subtle wrinkles from movement and relaxed posture. Dappled light creates pattern of illumination across clothing matching tree-filtered light pattern. Slight wind-induced fabric movement creates subtle motion blur in mid-exposure. Clothing appears worn and lived-in rather than styled; no logos, graphics, or attention-drawing details. Natural shoulder line and neck angle consistent with upward gaze and contemplative posture.</Content>\r\n</Region>\r\n<Region id=\"park_background_bokeh\">\r\n<Coordinates>x=50, y=45, w=50, h=35</Coordinates>\r\n<Content>Out-of-focus park environment serving as atmospheric background; blurred tree trunks, grass, distant park features rendered as soft bokeh shapes in warm afternoon light. No sharp environmental detail; purely impressionistic representation of ordinary urban park setting. Warm golden-green tones from late afternoon light. Depth created through bokeh rendering emphasizing shallow depth of field and subject separation from environment.</Content>\r\n</Region>\r\n</Region_Map>\r\n<Visual_Description>\r\n<Main_Subject>\r\n<Description>Person of indeterminate exact age but appearing young adult (20s-30s); rendered with complete naturalistic authenticity. Realistic facial proportions and skin characteristics: natural complexion with honest skin texture including pores, slight variations in tone, natural skin undulation across planes. Visible freckles, natural beauty marks, or subtle skin characteristics appropriate to authentic human appearance. Eyes rendered with natural depth, including subtle redness in eye corners from actual eye physiology. Eyebrows and eyelashes show natural definition and texture. Hair rendered with individual strand visibility in lit areas, natural color variation, and realistic volume. No cosmetic enhancement, filter softening, or beauty-editing evident. Expression is genuine and internally focused: eyes directed upward toward canopy, gaze suggesting wonder or quiet contemplation rather than posed emotion. Mouth relaxed, neither smiling nor frowning; subtle naturalistic expression suggesting absorbed thought.</Description>\r\n<Action>Standing beneath tree with head tilted slightly upward, eyes directed toward filtering sunlight and foliage above. Body posture relaxed and open, suggesting calm stationary contemplation. Arms at sides or hands in pockets (if visible, rendered with anatomically correct finger structure and natural hand proportions). Weight distributed naturally on both feet. Gentle wind-induced movement in hair and clothing suggesting living presence and moment in time rather than static pose. Overall sense of unguarded, unselfconscious moment—person unaware of observation, absorbed in internal experience and sensory perception of light, trees, and quiet.</Action>\r\n<Clothing>Casual everyday wear appropriate to park visit; unpretentious and functional rather than styled. Simple t-shirt, lightweight sweater, or casual button shirt in muted neutral tone (gray, cream, sage, soft blue, or warm tan). Fabric shows natural wear and minor wrinkles from body movement. Clothing fits naturally without excessive tailoring or fashion-forward styling. No visible logos, graphic prints, or text. Possibly visible lower garment (jeans, casual trousers, or athletic wear) in photograph's lower frame edge. Overall presentation suggests ordinary person during everyday moment, not curated or dressed for observation.</Clothing>\r\n</Main_Subject>\r\n<Background>\r\n<Setting>Urban park during late afternoon golden hour. Beneath mature tree providing natural canopy. Park setting visible but out-of-focus: grass areas, additional trees at distance, possible park furniture or architectural elements rendered as soft bokeh forms. Ordinary public green space—neither pristine botanical garden nor neglected park, but typical well-maintained city park. Afternoon light quality suggests 3-4 hours before sunset, warm color temperature with long shadows and directional light characteristic of golden hour. Quiet, peaceful atmosphere despite urban location.</Setting>\r\n<Details>Tree canopy creating intricate dappled light pattern across all visible surfaces. Sunlight penetrating foliage creates bokeh circles of light, glowing leaf edges, and complex shadow texture. Scattered leaves visible in frame, some out-of-focus, some showing translucent illumination. Subtle lens flare or light artifacts where direct sunlight approaches lens optical plane. Park surface (grass, pavement, or natural ground) visible in frame periphery, rendered soft and unfocused. Possible distant park elements (benches, lampposts, other people rendered as blurred shapes) visible as context but not clearly defined. Wind-suggested movement in hair and fabric; no other obvious action or distraction in scene. Quiet, undramatic environment emphasizing internal emotional focus rather than external event.</Details>\r\n</Background>\r\n<Color_Palette>\r\n<Primary>Warm golden-amber late-afternoon sunlight dominating illuminated portions; honey-toned skin in lit areas; warm pale yellow-green leaf highlights from backlighting. These warm colors create primary visual temperature across composition.</Primary>\r\n<Secondary>Cool blue-green shadows and shade areas; soft cool tone in shadow-side of face from sky light; muted greens of foliage in shadow regions. Creates gentle color temperature contrast with warm primary tones without harsh distinction.</Secondary>\r\n<Accent>Rich golden-green in backlit leaf edges; natural skin tone variation in warm light showing peachy-golden undertones; warm neutral grays and taupes in shadowed fabric areas; subtle warm gray-browns of tree bark visible in background bokeh.</Accent>\r\n</Color_Palette>\r\n</Visual_Description>\r\n<Technical_Specs>\r\n<Spec>4K to 8K resolution; sufficient pixel density to render natural skin texture pores, hair strand definition, and foliage detail without noise or artifact prominence at normal viewing distance</Spec>\r\n<Spec>Shallow depth of field simulation consistent with 50-85mm portrait prime lens at f/1.4 to f/2.0 aperture equivalent; rapid focus falloff creates bokeh background separation emphasizing subject isolation</Spec>\r\n<Spec>Realistic film grain and sensor noise structure simulating 35mm film stock (ISO 400-800 equivalent) or full-frame digital camera at native ISO. Grain variation appropriate to color channel and exposure level; grain should be visible in shadow areas but not overwhelm detail in lit regions</Spec>\r\n<Spec>Subtle organic motion blur on hair strands and fabric edges suggesting handheld camera and gentle subject movement during exposure; motion blur primarily directional toward wind-suggested motion direction, not omnidirectional</Spec>\r\n<Spec>Natural chromatic aberration at high-contrast edges (hair against bright sky, shadow-light boundaries on face) suggesting real optical lens properties; subtle color fringing in blue and red channels particularly visible on backlit hair edges</Spec>\r\n<Spec>Realistic lens vignetting darkening frame corners and edges, particularly pronounced in shadow regions; vignetting more subtle in bright sunlit areas creating natural exposure falloff</Spec>\r\n<Spec>Warm color temperature rendering with slight tungsten color balance (3500-4200K) reflecting late afternoon direct sunlight; cool tones in shadows showing natural sky fill without color-cast correction</Spec>\r\n<Spec>Realistic bokeh character consistent with single-focal-length prime lens; circular bokeh in tree canopy background with natural aperture blade definition (8-10 blades); bokeh circles slightly elongated in peripheral areas suggesting natural lens optics</Spec>\r\n<Spec>Ray-traced global illumination with complex light scattering through tree canopy; dappled light pattern computed through foliage depth showing realistic translucency and shadow variation</Spec>\r\n<Spec>High-fidelity material properties: skin rendered with realistic subsurface scattering showing natural translucency in lit ear and nose regions; eyes show natural wet surface with subtle specular highlight; hair shows realistic anisotropic shading and strand-level detail; foliage shows natural light transmission and shadow depth</Spec>\r\n<Spec>Natural lens flare or glow where direct sunlight approaches lens axis; subtle ghosting or bloom without obvious artificial lens effect; appears as natural optical phenomenon rather than stylistic filter</Spec>\r\n<Spec>Post-processing restraint: avoid excessive sharpening, clarity enhancement, or saturation boost; maintain organic soft-focus aesthetic consistent with film photography rather than clinical digital rendering. Slight subtle lift in shadow detail to suggest natural film latitude</Spec>\r\n<Spec>Absolutely no watermarks, logos, text, signatures, or digital overlays visible in frame</Spec>\r\n<Spec>Hand and finger anatomy perfectly proportionate and natural; if visible, hands show realistic proportions, natural finger count (five per hand), anatomically correct finger positioning and joint definition</Spec>\r\n<Spec>No cartoon, anime, illustration, CGI artifacting, or 3D render visual characteristics; maintain photographic realism throughout with natural imperfections</Spec>\r\n</Technical_Specs>\r\n</Master_Blueprint>",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "size": "1024 × 1024",
-      "seed": "913382112",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T07:54:38.768Z",
-    "tags": [
-      "light",
-      "natural",
-      "golden-hour",
-      "bright",
-      "warm",
-      "soft",
-      "realistic",
-      "close-up",
-      "eye-level",
-      "micro-shift"
-    ]
-  },
-  {
     "id": "img-1772006218143-eozzdeyvg",
     "hash": "dba1a4dd46b1659992522ee7fcab3baa",
     "url": "images/img-004.png",
@@ -4180,6 +4148,85 @@
         "model": "Nano Banana Pro 2",
         "variant_index": 4,
         "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-solitary-introspection",
+    "variant_group": "solitary-introspection",
+    "prompt": "<Master_Blueprint> <Global_Concept> <Theme>Solitary Introspection - Moment of Private Contemplation in Public Space</Theme> <Atmosphere>Pensive, meditative, quietly observant; a fleeting moment of personal reflection within the everyday urban landscape.</Atmosphere> </Global_Concept> </Master_Blueprint>",
+    "category": "Otros",
+    "tags": [
+      "solitary",
+      "introspection",
+      "moment",
+      "private",
+      "contemplation",
+      "public",
+      "space",
+      "pensive",
+      "meditative",
+      "quietly"
+    ],
+    "created_at": "2026-02-27T19:54:34.660Z",
+    "variants": [
+      {
+        "id": "img-1772006078768-c7zrjm6r0",
+        "hash": "0189505020d0fe50f798f8ed15a17488",
+        "url": "images/img-003.png",
+        "thumbnail": "images/img-003.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "size": "1024 × 1024",
+          "seed": "913382112",
+          "steps": 9,
+          "sampler": "res_multistep",
+          "scheduler": "simple"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772222074807-0qoc289dq",
+        "hash": "89eb23683463ea1f7e994e0561ea9c94",
+        "url": "images/img-099.png",
+        "thumbnail": "images/img-099.png",
+        "model": "Krea",
+        "variant_index": 1,
+        "settings": {
+          "otros": {
+            "<?xml version": "\"1.0\" encoding=\"UTF-8\"?>"
+          }
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772222074694-p7ejxckwx",
+        "hash": "d334f12f35a30f5ef6b1c4481300a45b",
+        "url": "images/img-098.png",
+        "thumbnail": "images/img-098.png",
+        "model": "ImageFX",
+        "variant_index": 2,
+        "settings": {
+          "otros": {
+            "<?xml version": "\"1.0\" encoding=\"UTF-8\"?>"
+          }
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772222074660-xibcm2glw",
+        "hash": "8b88ab1f4895a2070e1f62edccf3bdb7",
+        "url": "images/img-097.jpg",
+        "thumbnail": "images/img-097.jpg",
+        "model": "Grok",
+        "variant_index": 3,
+        "settings": {
+          "otros": {
+            "<?xml version": "\"1.0\" encoding=\"UTF-8\"?>"
+          }
+        },
         "notes": ""
       }
     ]
