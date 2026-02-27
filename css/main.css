@@ -393,8 +393,9 @@ body {
   align-items: center;
   justify-content: center;
   background-color: #000;
-  padding: var(--spacing-xl);
+  padding: 40px;
   overflow: hidden;
+  min-width: 0;
   min-height: 0;
 }
 
@@ -405,10 +406,13 @@ body {
   height: auto;
   object-fit: contain;
   display: block;
+  margin: auto;
 }
 
 .modal__details {
-  width: 500px;
+  width: 450px;
+  min-width: 450px;
+  max-width: 450px;
   flex-shrink: 0;
   padding: var(--spacing-xl);
   overflow-y: auto;
