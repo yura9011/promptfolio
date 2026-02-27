@@ -1,0 +1,5 @@
+variant_group: glass-desert-nomads
+variant_index: 1
+model: Grok
+
+1970s sci-fantasy illustration, Heavy Metal magazine aesthetic, style of Moebius, full bleed edge-to-edge artwork, no frames. A vast, surreal desert where the dunes are made entirely of pulverized, shimmering turquoise glass. Tall, impossibly thin, stilt-legged beasts walk across the glass sea. Riding them are enigmatic nomads casting long, glowing golden nets down into the glass dunes, fishing for holographic, luminescent echoes of ancient memories trapped below. A massive, pale ringed planet dominates the dusty orange horizon. Clean but vintage linework, flat pastel colors with vibrant neon accents, airbrush texture, surreal tranquility. Pure artwork, no text, no borders. --ar 9:16
