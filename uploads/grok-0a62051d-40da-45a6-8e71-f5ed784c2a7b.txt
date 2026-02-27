@@ -1,5 +1,0 @@
-variant_group: hand-labyrinth
-variant_index: 1
-model: Grok
-
-1970s surreal dark fantasy painting, style of Michael Whelan and Boris Vallejo. A lone, heavily armored medieval knight walking cautiously through a massive, claustrophobic labyrinth. The walls of the labyrinth are made of giant, intertwined, petrified human hands and agonizing faces. A sickly yellow fog permeates the ground. Eerie, psychological horror, silent dread. Muted olive greens, sickly yellows, and bone-white palette. Gritty, textured analog painting, masterful shading. Full bleed image, edge-to-edge, no frame, no borders, no text. --ar 9:16
