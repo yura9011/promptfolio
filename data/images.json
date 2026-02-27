@@ -1724,43 +1724,6 @@
     ]
   },
   {
-    "id": "img-1772022401155-t49usp567",
-    "hash": "2491ce264bb59dca98ce56e94a8c656b",
-    "url": "images/img-062.png",
-    "thumbnail": "images/img-062.png",
-    "filename": "img-062.png",
-    "prompt": "A close-up view captures a teenager taking a mirror selfie in a cluttered bedroom, shot from a slightly tilted angle that emphasizes the casual, unposed nature of the moment. The composition is framed through the reflection in a dirty mirror with visible smudges, fingerprints, and water spots across its surface. A bright camera flash creates a harsh circular bloom of white light in the center of the mirror, partially obscuring the teenager's face and creating stark shadows that fall unevenly across the room.The teenager stands in a relaxed pose with one arm extended holding an early 2000s digital camera, their expression caught mid-blink from the sudden flash. Their skin shows realistic texture with slight imperfections, natural color variation, and the harsh lighting creates unflattering shadows under the eyes and nose. They wear casual clothing - a wrinkled t-shirt and jeans that appear lived-in.The bedroom behind them reveals authentic teenage chaos: band posters with curling edges where the tape has lost adhesion, creating small triangular shadows where corners lift from the wall. Clothes are scattered across the carpeted floor in natural piles - a hoodie draped over a chair, jeans crumpled near the bed, socks in random locations. The lighting comes from a single overhead fixture that creates the harsh flash reflection, while ambient room light provides dim, warm illumination that barely reaches the corners.The mirror itself shows signs of age and use - small scratches in the silvering, a hairline crack near one corner, and the accumulated grime of daily use. The camera's LCD screen glows faintly in the dim room. The overall image quality has the characteristic low resolution and slight digital noise of early consumer digital cameras, with slightly oversaturated colors and the particular grain pattern of CCD sensors. The framing is imperfect and spontaneous, cutting off part of the room and creating an authentic snapshot aesthetic that captures the unguarded moment of adolescent self-documentation.",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "otros": {
-        "platform": "opensourcegen",
-        "a close-up view captures a teenager taking a mirror selfie in a cluttered bedroom, shot from a slightly tilted angle that emphasizes the casual, unposed nature of the moment. the composition is framed through the reflection in a dirty mirror with visible smudges, fingerprints, and water spots across its surface. a bright camera flash creates a harsh circular bloom of white light in the center of the mirror, partially obscuring the teenager's face and creating stark shadows that fall unevenly across the room.the teenager stands in a relaxed pose with one arm extended holding an early 2000s digital camera, their expression caught mid-blink from the sudden flash. their skin shows realistic texture with slight imperfections, natural color variation, and the harsh lighting creates unflattering shadows under the eyes and nose. they wear casual clothing - a wrinkled t-shirt and jeans that appear lived-in.the bedroom behind them reveals authentic teenage chaos": "band posters with curling edges where the tape has lost adhesion, creating small triangular shadows where corners lift from the wall. Clothes are scattered across the carpeted floor in natural piles - a hoodie draped over a chair, jeans crumpled near the bed, socks in random locations. The lighting comes from a single overhead fixture that creates the harsh flash reflection, while ambient room light provides dim, warm illumination that barely reaches the corners.The mirror itself shows signs of age and use - small scratches in the silvering, a hairline crack near one corner, and the accumulated grime of daily use. The camera's LCD screen glows faintly in the dim room. The overall image quality has the characteristic low resolution and slight digital noise of early consumer digital cameras, with slightly oversaturated colors and the particular grain pattern of CCD sensors. The framing is imperfect and spontaneous, cutting off part of the room and creating an authentic snapshot aesthetic that captures the unguarded moment of adolescent self-documentation.",
-        "dimensions": "1024 × 1024",
-        "scheduler": "simple",
-        "generated with": "opensourcegen"
-      },
-      "seed": "747430531",
-      "steps": 14,
-      "sampler": "res_multistep"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T12:26:41.155Z",
-    "tags": [
-      "close-up",
-      "bright",
-      "light",
-      "mid-blink",
-      "realistic",
-      "natural",
-      "t-shirt",
-      "lived-in",
-      "warm",
-      "self-documentation"
-    ]
-  },
-  {
     "id": "img-1772022401247-4k58nfiar",
     "hash": "a1c02acfcb185c675f9f30a1442fc1d4",
     "url": "images/img-063.png",
@@ -4271,6 +4234,68 @@
         "thumbnail": "images/img-100.webp",
         "model": "Nano Banana Pro 2",
         "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-mirror-selfie-teen",
+    "variant_group": "mirror-selfie-teen",
+    "prompt": "A close-up view captures a teenager taking a mirror selfie in a cluttered bedroom, shot from a slightly tilted angle that emphasizes the casual, unposed nature of the moment. The composition is framed through the reflection in a dirty mirror with visible smudges, fingerprints, and water spots across",
+    "category": "Otros",
+    "tags": [
+      "close-up",
+      "captures",
+      "teenager",
+      "taking",
+      "mirror",
+      "selfie",
+      "cluttered",
+      "bedroom",
+      "slightly",
+      "tilted"
+    ],
+    "created_at": "2026-02-27T20:01:24.474Z",
+    "variants": [
+      {
+        "id": "img-1772022401155-t49usp567",
+        "hash": "2491ce264bb59dca98ce56e94a8c656b",
+        "url": "images/img-062.png",
+        "thumbnail": "images/img-062.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "otros": {
+            "platform": "opensourcegen",
+            "a close-up view captures a teenager taking a mirror selfie in a cluttered bedroom, shot from a slightly tilted angle that emphasizes the casual, unposed nature of the moment. the composition is framed through the reflection in a dirty mirror with visible smudges, fingerprints, and water spots across its surface. a bright camera flash creates a harsh circular bloom of white light in the center of the mirror, partially obscuring the teenager's face and creating stark shadows that fall unevenly across the room.the teenager stands in a relaxed pose with one arm extended holding an early 2000s digital camera, their expression caught mid-blink from the sudden flash. their skin shows realistic texture with slight imperfections, natural color variation, and the harsh lighting creates unflattering shadows under the eyes and nose. they wear casual clothing - a wrinkled t-shirt and jeans that appear lived-in.the bedroom behind them reveals authentic teenage chaos": "band posters with curling edges where the tape has lost adhesion, creating small triangular shadows where corners lift from the wall. Clothes are scattered across the carpeted floor in natural piles - a hoodie draped over a chair, jeans crumpled near the bed, socks in random locations. The lighting comes from a single overhead fixture that creates the harsh flash reflection, while ambient room light provides dim, warm illumination that barely reaches the corners.The mirror itself shows signs of age and use - small scratches in the silvering, a hairline crack near one corner, and the accumulated grime of daily use. The camera's LCD screen glows faintly in the dim room. The overall image quality has the characteristic low resolution and slight digital noise of early consumer digital cameras, with slightly oversaturated colors and the particular grain pattern of CCD sensors. The framing is imperfect and spontaneous, cutting off part of the room and creating an authentic snapshot aesthetic that captures the unguarded moment of adolescent self-documentation.",
+            "dimensions": "1024 × 1024",
+            "scheduler": "simple",
+            "generated with": "opensourcegen"
+          },
+          "seed": "747430531",
+          "steps": 14,
+          "sampler": "res_multistep"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772222484474-fszsba0h0",
+        "hash": "cb64bc33a22ab2fafd755fdb52e81463",
+        "url": "images/img-097.png",
+        "thumbnail": "images/img-097.png",
+        "model": "ImageFX",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772222487223-dyjg0un6y",
+        "hash": "e3f7b0f746c8d494ce2c37365fa30855",
+        "url": "images/img-098.webp",
+        "thumbnail": "images/img-098.webp",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 2,
         "settings": {},
         "notes": ""
       }
