@@ -34,3 +34,20 @@ Thumbs.db
 # Logs
 logs/
 *.log
+
+# Project documentation (keep private)
+.gsd/
+.planning/
+.summaries/
+docs/
+SPEC.md
+ROADMAP.md
+STATE.md
+COMMANDS.md
+DEPLOY.md
+DEPLOY-NOW.txt
+ENHANCEMENTS.md
+MILESTONE-TAGS.md
+PROJECT-COMPLETE.md
+QUICKSTART.md
+uploads/

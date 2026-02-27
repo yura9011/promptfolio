@@ -1,5 +1,5 @@
 // Service Worker for PWA
-const CACHE_NAME = 'promptfolio-v3';
+const CACHE_NAME = 'promptfolio-v4';
 const urlsToCache = [
   '/promptfolio/',
   '/promptfolio/index.html',

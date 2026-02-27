@@ -69,9 +69,6 @@ export class Gallery {
     }
 
     this.isLoading = false;
-
-    // Setup lazy loading for new images
-    this.setupLazyLoading();
   }
 
   setupInfiniteScroll() {
@@ -106,7 +103,7 @@ export class Gallery {
 
     const img = document.createElement('img');
     img.className = 'gallery__image';
-    img.dataset.src = initialVariant.thumbnail || initialVariant.url;
+    img.src = initialVariant.thumbnail || initialVariant.url;
     img.alt = image.prompt ? image.prompt.substring(0, 100) : 'AI generated image';
     img.loading = 'lazy';
 
@@ -166,29 +163,6 @@ export class Gallery {
       img.src = newSrc;
       img.style.opacity = '1';
     };
-  }
-
-  setupLazyLoading() {
-    const images = this.container.querySelectorAll('img[data-src]');
-    
-    const imageObserver = new IntersectionObserver((entries, observer) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          const img = entry.target;
-          img.src = img.dataset.src;
-          img.removeAttribute('data-src');
-          observer.unobserve(img);
-          
-          img.style.opacity = '0';
-          img.onload = () => {
-            img.style.transition = 'opacity 0.3s ease';
-            img.style.opacity = '1';
-          };
-        }
-      });
-    });
-
-    images.forEach(img => imageObserver.observe(img));
   }
 
   showEmptyState() {
