@@ -4155,5 +4155,76 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "id": "variant-necromancer-graveyard",
+    "variant_group": "necromancer-graveyard",
+    "prompt": "Subject: {Type: Scene, Action: Spellcasting}; Characters: {Primary: Necromancer (hooded, gaunt), Secondary: Skeletal Warriors (rising from ground)}; Environment: {Setting: Ancient Graveyard, Detail: Broken Tombstones, Fog, Dead Trees, Full Moon}; Lighting: {Type: Unholy Green Glow, Source: Spell Effect, Moonlight}; Mood: {Atmosphere: Dark, Corrupting, Powerful, Eerie}; Color Palette: {Primary: Dark Grays, Greens, Bone White, Accents: Glowing Sickly Green}; Style: {Aesthetic: Magic the Gathering Card Art, Dark Fantasy, Illustration, Painterly}; Action: {Process: Transform, Animate, Corrupt}; Negative: {Avoid: Friendly Skeletons, Bright Colors, Heroic}; Technical: {Resolution: 8k, Detail: High}; 10000steps~",
+    "category": "Otros",
+    "tags": [
+      "subject",
+      "action",
+      "spellcasting",
+      "characters",
+      "primary",
+      "necromancer",
+      "hooded",
+      "gaunt",
+      "secondary",
+      "skeletal"
+    ],
+    "created_at": "2026-02-27T04:09:54.463Z",
+    "variants": [
+      {
+        "id": "img-1772165394463-ssw6dr4kd",
+        "hash": "e4b7734382d23eecbab59366e1db2134",
+        "url": "images/img-108.jpeg",
+        "thumbnail": "images/img-108.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165394733-btpd7bbq7",
+        "hash": "d9621ca89454b39949417bde1ec55f21",
+        "url": "images/img-111.jpeg",
+        "thumbnail": "images/img-111.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165394900-xayhbgcxp",
+        "hash": "048040d396c5586b200b150c2ef25d81",
+        "url": "images/img-113.jpg",
+        "thumbnail": "images/img-113.jpg",
+        "model": "Grok",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165395392-21rmnrhy9",
+        "hash": "cd9ee934422d345c312f0c095f7ae128",
+        "url": "images/img-118.png",
+        "thumbnail": "images/img-118.png",
+        "model": "Krea",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165395888-zw6dlrg37",
+        "hash": "6fad53fe61d5b1dd207adfa47d6464c1",
+        "url": "images/img-122.png",
+        "thumbnail": "images/img-122.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      }
+    ]
   }
 ]

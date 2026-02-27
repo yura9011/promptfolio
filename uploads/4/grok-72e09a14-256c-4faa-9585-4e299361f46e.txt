@@ -1,0 +1,5 @@
+variant_group: neo-gothic-y2k
+variant_index: 3
+model: Grok
+
+Neo-Gothic Cityscape (Millennium Bug Mix): Sprawling gothic city fused with clunky, Y2K-era technology. Cables snake across ancient stone, flickering CRT monitors embedded in walls display arcane symbols, neon lights buzz alongside gargoyles. Dark, oppressive atmosphere. Mix of medieval and retro-futuristic tech. --ar 16:9 --s 700 --chaos 5 --v 5.2
