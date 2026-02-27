@@ -3760,5 +3760,86 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "id": "variant-dead-god-scavengers",
+    "variant_group": "dead-god-scavengers",
+    "prompt": "1970s dark science fantasy illustration, style of Moebius and Zdzisław Beksiński. A colossal, decaying biomechanical god-face half-buried in a vast wasteland of rust-colored sand. Tiny human scavengers in ragged cloaks are extracting glowing, toxic green fluid from the god's massive, dead eye. Monumental scale, cosmic insignificance, eerie and quiet atmosphere. Earthy browns, rusted orange, and vibrant psychedelic green palette. Heavy impasto brushstrokes, analog texture, grainy, masterpiece. Full bleed image, edge-to-edge, no frame, no borders, no canvas edges, no text, no typography. --ar 9:16",
+    "category": "Otros",
+    "tags": [
+      "dark",
+      "science",
+      "fantasy",
+      "moebius",
+      "zdzis",
+      "beksi",
+      "ski",
+      "colossal",
+      "decaying",
+      "biomechanical"
+    ],
+    "created_at": "2026-02-27T03:46:49.192Z",
+    "variants": [
+      {
+        "id": "img-1772164009433-irc1jrg7e",
+        "hash": "fcdfce601a8b51cbb0a5bd94d0f0ed01",
+        "url": "images/img-103.jpg",
+        "thumbnail": "images/img-103.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164009724-iumc6qq8z",
+        "hash": "a9404f2a9a63208df141da06351531fb",
+        "url": "images/img-106.png",
+        "thumbnail": "images/img-106.png",
+        "model": "Image FX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164010429-c8xpntdjk",
+        "hash": "69afa17c259b897451756e400970ddaa",
+        "url": "images/img-107.webp",
+        "thumbnail": "images/img-107.webp",
+        "model": "Krea",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164009305-ua7behrb1",
+        "hash": "d893e5670a27d430b82fecaf41f3c190",
+        "url": "images/img-102.jpeg",
+        "thumbnail": "images/img-102.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164009192-n8xwixtw6",
+        "hash": "9e1ee5ff680e0de481d76bc2a80687bf",
+        "url": "images/img-101.jpeg",
+        "thumbnail": "images/img-101.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164011531-ww2sofcxp",
+        "hash": "a63e27b3b26fa748d69c3ef94e339749",
+        "url": "images/img-112.png",
+        "thumbnail": "images/img-112.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 6,
+        "settings": {},
+        "notes": ""
+      }
+    ]
   }
 ]
