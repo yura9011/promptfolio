@@ -395,6 +395,7 @@ body {
   background-color: #000;
   padding: var(--spacing-xl);
   overflow: hidden;
+  min-height: 0;
 }
 
 .modal__image {

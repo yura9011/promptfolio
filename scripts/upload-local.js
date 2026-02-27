@@ -162,6 +162,7 @@ async function groupAndSave(existingItems, newEntries) {
   // 2. Add new entries
   for (const item of newEntries) {
     if (item.variant_group) {
+      // Skip individual entry - only add to group
       if (!groups[item.variant_group]) {
         groups[item.variant_group] = createGroupTemplate(item);
       }

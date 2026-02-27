@@ -18,7 +18,7 @@
   }
   
   .modal__details {
-    width: 400px;
+    width: 350px;
   }
   
   .modal__variants-list {
@@ -47,7 +47,7 @@
   }
   
   .modal__image-container {
-    max-height: 50vh;
+    max-height: 60vh;
     padding: var(--spacing-md);
   }
   
@@ -85,6 +85,10 @@
 @media (max-width: 479px) {
   .gallery__grid {
     grid-template-columns: 1fr;
+  }
+  
+  .modal__image-container {
+    max-height: 50vh;
   }
   
   .modal__variants-list {
