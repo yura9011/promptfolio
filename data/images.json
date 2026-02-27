@@ -3993,5 +3993,86 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "id": "variant-pre-rendered-knight",
+    "variant_group": "pre-rendered-knight",
+    "prompt": "The Pre-Rendered Knight: Fantasy knight in overly complex, slightly bulky armor with unnecessary spikes and belts, posing dramatically. Rendered in the style of an early 2000s pre-rendered CG cutscene. Slightly plastic-looking textures, high contrast lighting with noticeable bloom. Moody castle backdrop. --ar 3:4 --style raw --s 600 --v 5.2",
+    "category": "Otros",
+    "tags": [
+      "pre-rendered",
+      "knight",
+      "fantasy",
+      "overly",
+      "complex",
+      "slightly",
+      "bulky",
+      "armor",
+      "unnecessary",
+      "spikes"
+    ],
+    "created_at": "2026-02-27T04:06:13.489Z",
+    "variants": [
+      {
+        "id": "img-1772165173653-f7v9elvry",
+        "hash": "53ab4cf7b38858ff818f3f83ed76db7b",
+        "url": "images/img-106.jpg",
+        "thumbnail": "images/img-106.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165173709-j75a3aorb",
+        "hash": "4d3ef9c679bdd0bcda8531494151699d",
+        "url": "images/img-107.png",
+        "thumbnail": "images/img-107.png",
+        "model": "Image FX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165173830-el5wjs4rn",
+        "hash": "335f5c5c0473cabc881f1f1d9c168130",
+        "url": "images/img-108.png",
+        "thumbnail": "images/img-108.png",
+        "model": "Krea",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165173588-z5m38vuiu",
+        "hash": "702d5bbaf3fdc58723027ecd8182728d",
+        "url": "images/img-105.jpeg",
+        "thumbnail": "images/img-105.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165173489-b4va3jici",
+        "hash": "b95d4512db567cdef46a9508db257429",
+        "url": "images/img-104.jpeg",
+        "thumbnail": "images/img-104.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165174008-0ix6n5pxb",
+        "hash": "3f638933034b6b6a3ee7680d2fb119bc",
+        "url": "images/img-109.png",
+        "thumbnail": "images/img-109.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 6,
+        "settings": {},
+        "notes": ""
+      }
+    ]
   }
 ]
