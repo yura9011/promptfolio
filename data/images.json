@@ -4226,5 +4226,86 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "id": "variant-neo-gothic-y2k",
+    "variant_group": "neo-gothic-y2k",
+    "prompt": "Neo-Gothic Cityscape (Millennium Bug Mix): Sprawling gothic city fused with clunky, Y2K-era technology. Cables snake across ancient stone, flickering CRT monitors embedded in walls display arcane symbols, neon lights buzz alongside gargoyles. Dark, oppressive atmosphere. Mix of medieval and retro-futuristic tech. --ar 16:9 --s 700 --chaos 5 --v 5.2",
+    "category": "Otros",
+    "tags": [
+      "neo-gothic",
+      "cityscape",
+      "millennium",
+      "bug",
+      "mix",
+      "sprawling",
+      "gothic",
+      "city",
+      "fused",
+      "clunky"
+    ],
+    "created_at": "2026-02-27T04:10:24.131Z",
+    "variants": [
+      {
+        "id": "img-1772165425203-8h17nt8ka",
+        "hash": "41be407d7e3668427d29bbf9d3c5dbed",
+        "url": "images/img-124.jpeg",
+        "thumbnail": "images/img-124.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165425554-knekowaq1",
+        "hash": "2c820b3b538282729b79354ea0890c2c",
+        "url": "images/img-125.jpeg",
+        "thumbnail": "images/img-125.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165424131-vfax108n2",
+        "hash": "00f51db909fdd2678d814de8bc1a7006",
+        "url": "images/img-114.jpg",
+        "thumbnail": "images/img-114.jpg",
+        "model": "Grok",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165424657-8yxrsisk8",
+        "hash": "68e0357a4a8687742cc2603cdebb17ac",
+        "url": "images/img-120.png",
+        "thumbnail": "images/img-120.png",
+        "model": "Krea",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165424486-0h732s08b",
+        "hash": "91e3230520f79a1cf722ea3a690a6ed6",
+        "url": "images/img-119.png",
+        "thumbnail": "images/img-119.png",
+        "model": "Image FX",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165426288-1b38e7c6p",
+        "hash": "84aea6e1c25a45ecf777f20d70451620",
+        "url": "images/img-129.png",
+        "thumbnail": "images/img-129.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 6,
+        "settings": {},
+        "notes": ""
+      }
+    ]
   }
 ]
