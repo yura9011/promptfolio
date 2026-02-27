@@ -2981,37 +2981,6 @@
     ]
   },
   {
-    "id": "img-1772027774267-gq5nvte4k",
-    "hash": "a3083c98ec8b7aba29a93dea5a7997d5",
-    "url": "images/img-098.jpeg",
-    "thumbnail": "images/img-098.jpeg",
-    "filename": "img-098.jpeg",
-    "prompt": "Angelic battle, early CG style. A dramatic confrontation between celestial warriors with glowing weapons and armor. Dynamic action pose, high contrast lighting with noticeable bloom effects. Epic fantasy atmosphere with clouds and divine light.",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T13:56:14.267Z",
-    "tags": [
-      "dramatic",
-      "light",
-      "angelic",
-      "confrontation",
-      "celestial",
-      "warriors",
-      "glowing",
-      "weapons",
-      "dynamic",
-      "contrast"
-    ]
-  },
-  {
     "id": "img-1772027774415-xdn70vlko",
     "hash": "2974c76a7872ce4169246c5d0e6ff9d4",
     "url": "images/img-099.jpeg",
@@ -3071,37 +3040,6 @@
       "--chaos",
       "--v",
       "cityscape"
-    ]
-  },
-  {
-    "id": "img-1772027775393-74yovvj6a",
-    "hash": "8421f6bec9111c65d1f7479cdf377145",
-    "url": "images/img-105.jpeg",
-    "thumbnail": "images/img-105.jpeg",
-    "filename": "img-105.jpeg",
-    "prompt": "The Pre-Rendered Knight: Fantasy knight in overly complex, slightly bulky armor with unnecessary spikes and belts, posing dramatically. Rendered in the style of an early 2000s pre-rendered CG cutscene. Slightly plastic-looking textures, high contrast lighting with noticeable bloom. Moody castle backdrop. --ar 3:4 --style raw --s 600 --v 5.2 (Keywords: pre-rendered CG cutscene, early 2000s, bulky armor, spikes, belts, plastic texture, bloom)",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "size": "1024 × 1024",
-      "steps": 9,
-      "sampler": "res_multistep",
-      "scheduler": "simple"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T13:56:15.393Z",
-    "tags": [
-      "pre-rendered",
-      "complex",
-      "plastic-looking",
-      "moody",
-      "--ar",
-      "--style",
-      "--s",
-      "--v",
-      "fantasy",
-      "slightly"
     ]
   },
   {
