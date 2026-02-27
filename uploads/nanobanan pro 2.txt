@@ -1,5 +1,0 @@
-variant_group: cathedral-leviathan
-variant_index: 4
-model: Nano Banana Pro 2
-
-1970s surreal dark fantasy illustration, masterpiece, full bleed edge-to-edge artwork, no frames, no borders. A colossal, pale gothic cathedral physically built inside and fusing with the exposed, colossal ribcage of a dormant cosmic leviathan. The ancient bone and carved stone merge seamlessly. From the cathedral's massive chimneys, a thick, incense-like smoke billows out, which is actually the slow, dying breath of the leviathan. In the foreground, microscopic pilgrims in rust-colored robes kneel on a landscape of petrified flesh. Muted color palette of bone white, oxidized copper, and sickly lavender sky. Heavy impasto texture, analog vintage aesthetic, solemn and oppressive dread. Pure illustration, no text, no canvas edges. --ar 9:16

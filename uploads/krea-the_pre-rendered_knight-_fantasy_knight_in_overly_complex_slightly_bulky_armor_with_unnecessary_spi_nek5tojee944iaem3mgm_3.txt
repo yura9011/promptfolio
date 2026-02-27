@@ -1,5 +1,0 @@
-variant_group: pre-rendered-knight
-variant_index: 3
-model: Krea
-
-The Pre-Rendered Knight: Fantasy knight in overly complex, slightly bulky armor with unnecessary spikes and belts, posing dramatically. Rendered in the style of an early 2000s pre-rendered CG cutscene. Slightly plastic-looking textures, high contrast lighting with noticeable bloom. Moody castle backdrop. --ar 3:4 --style raw --s 600 --v 5.2

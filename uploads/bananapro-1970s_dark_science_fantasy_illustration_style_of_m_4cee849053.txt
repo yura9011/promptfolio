@@ -1,5 +1,0 @@
-variant_group: dead-god-scavengers
-variant_index: 5
-model: Nano Banana Pro
-
-1970s dark science fantasy illustration, style of Moebius and Zdzisław Beksiński. A colossal, decaying biomechanical god-face half-buried in a vast wasteland of rust-colored sand. Tiny human scavengers in ragged cloaks are extracting glowing, toxic green fluid from the god's massive, dead eye. Monumental scale, cosmic insignificance, eerie and quiet atmosphere. Earthy browns, rusted orange, and vibrant psychedelic green palette. Heavy impasto brushstrokes, analog texture, grainy, masterpiece. Full bleed image, edge-to-edge, no frame, no borders, no canvas edges, no text, no typography. --ar 9:16
