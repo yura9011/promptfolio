@@ -64,42 +64,6 @@
     ]
   },
   {
-    "id": "img-1772021690630-01gbfveaw",
-    "hash": "913619e163c5fc4efc6219edc8dd308a",
-    "url": "images/img-013.png",
-    "thumbnail": "images/img-013.png",
-    "filename": "img-013.png",
-    "prompt": "Cinematic Instagram photo of a 38-year-old Argentine woman, straight black hair in low messy bun, sharp cheekbones, wearing vintage brown cardigan unbuttoned over black corset top, thick glasses, sitting in old library with books everywhere, golden window light, intellectual seductive alt vibe, subtle smirk",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "otros": {
-        "platform": "opensourcegen",
-        "dimensions": "1024 × 1024",
-        "scheduler": "simple",
-        "generated with": "opensourcegen"
-      },
-      "seed": "957624150",
-      "steps": 14,
-      "sampler": "res_multistep"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T12:14:50.63Z",
-    "tags": [
-      "cinematic",
-      "-year-old",
-      "vintage",
-      "light",
-      "instagram",
-      "argentine",
-      "straight",
-      "cheekbones",
-      "wearing",
-      "cardigan"
-    ]
-  },
-  {
     "id": "img-1772021690722-l4snqidyi",
     "hash": "0f06912e68f68dfd7665970d5b1a09d2",
     "url": "images/img-014.png",
@@ -4130,6 +4094,87 @@
       {
         "id": "img-1772221583410-pvqjr6jo5",
         "hash": "5adfdae33c7f77d6300a603ebf6d8b01",
+        "url": "images/img-100.webp",
+        "thumbnail": "images/img-100.webp",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-library-intellectual",
+    "variant_group": "library-intellectual",
+    "prompt": "Cinematic Instagram photo of a 38-year-old Argentine woman, straight black hair in low messy bun, sharp cheekbones, wearing vintage brown cardigan unbuttoned over black corset top, thick glasses, sitting in old library with books everywhere, golden window light, intellectual seductive alt vibe",
+    "category": "Otros",
+    "tags": [
+      "cinematic",
+      "instagram",
+      "argentine",
+      "woman",
+      "straight",
+      "black",
+      "hair",
+      "low",
+      "messy",
+      "bun"
+    ],
+    "created_at": "2026-02-27T19:50:21.751Z",
+    "variants": [
+      {
+        "id": "img-1772021690630-01gbfveaw",
+        "hash": "913619e163c5fc4efc6219edc8dd308a",
+        "url": "images/img-013.png",
+        "thumbnail": "images/img-013.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "otros": {
+            "platform": "opensourcegen",
+            "dimensions": "1024 × 1024",
+            "scheduler": "simple",
+            "generated with": "opensourcegen"
+          },
+          "seed": "957624150",
+          "steps": 14,
+          "sampler": "res_multistep"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772221822903-oa6cjnvyx",
+        "hash": "e8236ac8fd44aa53b2318221b8e92ec5",
+        "url": "images/img-099.png",
+        "thumbnail": "images/img-099.png",
+        "model": "Krea",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772221822119-jvq2ddrcw",
+        "hash": "3c4c7e32a86f9eeeaa5b5f2270141fa6",
+        "url": "images/img-098.png",
+        "thumbnail": "images/img-098.png",
+        "model": "ImageFX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772221821751-khboxj9wl",
+        "hash": "0857e042fdcf63df5b200efb24f1eb3f",
+        "url": "images/img-097.jpg",
+        "thumbnail": "images/img-097.jpg",
+        "model": "Grok",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772221826736-ii8te947x",
+        "hash": "37d190e9fed4223180186629453cb875",
         "url": "images/img-100.webp",
         "thumbnail": "images/img-100.webp",
         "model": "Nano Banana Pro 2",
