@@ -3841,5 +3841,157 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "id": "variant-necromancer-mutation",
+    "variant_group": "necromancer-mutation",
+    "prompt": "1970s dark fantasy illustration, traditional heavy oil painting in the style of Frank Frazetta and Boris Vallejo. A hunched, agonizing necromancer in a desolate wasteland of twisted obsidian rocks. The sorcerer's arm is violently mutating, flesh fusing with glowing red volcanic stone and pulsating veins. Lurid crimson and toxic yellow magical aura bleeding into the air. Vintage analog aesthetic, visible canvas texture, heavy impasto brushstrokes, grainy, muddy browns and charcoal palette, dramatic chiaroscuro lighting. Pure artwork, no text, no fonts, no letters, no words. --ar 9:16",
+    "category": "Otros",
+    "tags": [
+      "dark",
+      "fantasy",
+      "traditional",
+      "heavy",
+      "oil",
+      "painting",
+      "frank",
+      "frazetta",
+      "boris",
+      "vallejo"
+    ],
+    "created_at": "2026-02-27T03:55:52.605Z",
+    "variants": [
+      {
+        "id": "img-1772164553158-jte95rzo7",
+        "hash": "3a8508d52cb52ae17c279a1c5b8de50f",
+        "url": "images/img-106.jpg",
+        "thumbnail": "images/img-106.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164553653-lzvbjy0ax",
+        "hash": "3cc01d0b1aeeec541f58e5dfb13d4d2c",
+        "url": "images/img-109.png",
+        "thumbnail": "images/img-109.png",
+        "model": "Krea",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164552862-31wezu490",
+        "hash": "3d757e1ed20c3f94f90e47cc66a4d940",
+        "url": "images/img-104.jpeg",
+        "thumbnail": "images/img-104.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164552605-1pg3f4kew",
+        "hash": "5458296c4bf17890b928dc784479622b",
+        "url": "images/img-102.jpeg",
+        "thumbnail": "images/img-102.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164554197-49en0tuhh",
+        "hash": "0148eeebd0df18996dd02e6e6e12be41",
+        "url": "images/img-111.png",
+        "thumbnail": "images/img-111.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-shattered-moon",
+    "variant_group": "shattered-moon",
+    "prompt": "1970s vintage science fantasy illustration, airbrush art style of Moebius and Heavy Metal magazine. A colossal, shattered moon dominating the entire sky, raining massive meteor debris down upon a desolate ash wasteland. On a small cliff in the foreground, a microscopic lone warrior stands holding a curved, faintly glowing blade, looking up at the cosmic destruction. Existential dread, awe-inspiring scale. Desaturated indigo and ash gray palette with psychedelic cyan and magenta accents in the fractured sky. Analog film grain, rough texture, masterpiece painting. No text, no fonts, typography. --ar 9:16",
+    "category": "Otros",
+    "tags": [
+      "vintage",
+      "science",
+      "fantasy",
+      "airbrush",
+      "moebius",
+      "heavy",
+      "metal",
+      "magazine",
+      "colossal",
+      "shattered"
+    ],
+    "created_at": "2026-02-27T03:55:52.722Z",
+    "variants": [
+      {
+        "id": "img-1772164553314-ztf90zqf1",
+        "hash": "96e6f523c9959a0e5cb6fded9a7359fa",
+        "url": "images/img-107.jpg",
+        "thumbnail": "images/img-107.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164553377-53x9wxcos",
+        "hash": "59b16281a6a20f5b11aa01d5c2d058da",
+        "url": "images/img-108.png",
+        "thumbnail": "images/img-108.png",
+        "model": "Image FX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164553981-eum6tsqj4",
+        "hash": "cc91415325ab2187acfe85da9d2a8575",
+        "url": "images/img-110.png",
+        "thumbnail": "images/img-110.png",
+        "model": "Krea",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164552969-982hwl15v",
+        "hash": "d32762bd0da77633895c5509e2e06cb5",
+        "url": "images/img-105.jpeg",
+        "thumbnail": "images/img-105.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164552721-ug4vgqogc",
+        "hash": "e1f6ed6e2644586803b195dd8e5a8097",
+        "url": "images/img-103.jpeg",
+        "thumbnail": "images/img-103.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772164554411-babxdki9a",
+        "hash": "a5d2b0e47ae2dd1e26f71e0d13e6478d",
+        "url": "images/img-112.png",
+        "thumbnail": "images/img-112.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 6,
+        "settings": {},
+        "notes": ""
+      }
+    ]
   }
 ]

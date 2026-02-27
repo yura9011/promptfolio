@@ -1,0 +1,5 @@
+variant_group: necromancer-mutation
+variant_index: 5
+model: Z-Image-Turbo
+
+1970s dark fantasy illustration, traditional heavy oil painting in the style of Frank Frazetta and Boris Vallejo. A hunched, agonizing necromancer in a desolate wasteland of twisted obsidian rocks. The sorcerer's arm is violently mutating, flesh fusing with glowing red volcanic stone and pulsating veins. Lurid crimson and toxic yellow magical aura bleeding into the air. Vintage analog aesthetic, visible canvas texture, heavy impasto brushstrokes, grainy, muddy browns and charcoal palette, dramatic chiaroscuro lighting. Pure artwork, no text, no fonts, no letters, no words. --ar 9:16
