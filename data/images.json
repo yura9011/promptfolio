@@ -4074,5 +4074,86 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "id": "variant-skull-castle",
+    "variant_group": "skull-castle",
+    "prompt": "Subject: {Type: Castle, Feature: Skull, Material: Stone}; Environment: {Detail: Lava, Fire, Ruins}; Lighting: {Type: Dramatic, Source: Fire, Shadows: Deep}; Mood: {Atmosphere: Ominous, Dark, Powerful}; Color Palette: {Primary: Black, Red, Orange}; Style: {Aesthetic: Dark Fantasy, Detail: High}; Action: {Process: Transform, Amplify, Intensify}; Negative: {Avoid: Bright, Cheerful, Cartoonish}; Technical: {Resolution: 8k, Detail: Photorealistic}; 10000steps~",
+    "category": "Otros",
+    "tags": [
+      "subject",
+      "castle",
+      "feature",
+      "skull",
+      "material",
+      "stone",
+      "environment",
+      "detail",
+      "lava",
+      "fire"
+    ],
+    "created_at": "2026-02-27T04:07:21.802Z",
+    "variants": [
+      {
+        "id": "img-1772165242169-8loo4c8ww",
+        "hash": "ea7d184b63ae0cb467a58b6ce9217a46",
+        "url": "images/img-110.jpg",
+        "thumbnail": "images/img-110.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165242258-sk0ye7tac",
+        "hash": "699bb3eb60d8c7cec25e56757783524e",
+        "url": "images/img-112.png",
+        "thumbnail": "images/img-112.png",
+        "model": "Image FX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165242367-nvk4tr0dz",
+        "hash": "a1603c9a4fcdacc664da2ee44d638ca7",
+        "url": "images/img-113.png",
+        "thumbnail": "images/img-113.png",
+        "model": "Krea",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165241957-j5ixetwv4",
+        "hash": "601215c417b3c2fe13be43f1cfb7ecc7",
+        "url": "images/img-107.jpeg",
+        "thumbnail": "images/img-107.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165241802-ivb8m5y6f",
+        "hash": "32ff5fb180871435f4237fe443ab0532",
+        "url": "images/img-105.jpeg",
+        "thumbnail": "images/img-105.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772165242758-vgnb3u5ab",
+        "hash": "78a6933ad78444c5f91cee7b60d3be09",
+        "url": "images/img-116.png",
+        "thumbnail": "images/img-116.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 6,
+        "settings": {},
+        "notes": ""
+      }
+    ]
   }
 ]
