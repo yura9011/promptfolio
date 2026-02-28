@@ -680,42 +680,6 @@
     ]
   },
   {
-    "id": "img-1772022023187-2h2qovfhn",
-    "hash": "44248a2bbb2e270aa80aebfa8e28e401",
-    "url": "images/img-033.png",
-    "thumbnail": "images/img-033.png",
-    "filename": "img-033.png",
-    "prompt": "A medium shot captures a young woman positioned in a narrow apartment hallway, framed from a slightly low angle that emphasizes her confident stance. She stands with one leg bent at the knee, creating an asymmetrical pose that adds dynamic energy to the composition. Her short black dress fits closely to her figure, the fabric appearing matte under the harsh direct flash illumination. The camera flash creates stark shadows behind her against the hallway walls, which show typical apartment corridor features - neutral beige paint, baseboards, and a glimpse of doorframes.The lighting is dominated by the camera's built-in flash, creating that characteristic early 2000s digital photography look with blown-out highlights on her skin and deep shadows in the background. Her hair appears deliberately tousled and messy, catching the flash with individual strands visible against the darker background. Her lips are coated in glossy lipstick that reflects the flash, creating bright highlights. Her gaze is direct and unwavering toward the camera, conveying confidence and attitude.The image quality shows the telltale signs of early digital camera technology - slightly pixelated edges, compressed color gradients, and that particular harsh contrast between flash-lit subjects and shadowed backgrounds. The hallway's linoleum or carpet flooring reflects some of the flash, while the walls show the typical texture of apartment building construction. The color palette is anchored by the deep black of her dress against the neutral tones of the hallway, with warm skin tones highlighted by the flash's cool-white illumination.",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "otros": {
-        "platform": "opensourcegen",
-        "dimensions": "1024 × 1024",
-        "scheduler": "simple",
-        "generated with": "opensourcegen"
-      },
-      "seed": "361166702",
-      "steps": 14,
-      "sampler": "res_multistep"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T12:20:23.187Z",
-    "tags": [
-      "built-in",
-      "blown-out",
-      "bright",
-      "flash-lit",
-      "warm",
-      "cool-white",
-      "captures",
-      "positioned",
-      "apartment",
-      "hallway"
-    ]
-  },
-  {
     "id": "img-1772022023319-nn729bpzq",
     "hash": "36ed445af3548bd7b76f0f73406da898",
     "url": "images/img-034.png",
@@ -1798,116 +1762,6 @@
     ]
   },
   {
-    "id": "img-1772022401507-yuhen5k1c",
-    "hash": "856820b3e3b7815c223863395e139f06",
-    "url": "images/img-065.png",
-    "thumbnail": "images/img-065.png",
-    "filename": "img-065.png",
-    "prompt": "A wide-angle view captures two friends standing on a flat rooftop during the blue hour of dusk, when the sky transitions from deep orange near the horizon to rich purple overhead. The composition is framed from ground level on the rooftop, placing both figures against the expansive urban skyline that stretches into the distnce. The framing is slightly off-center and imperfect, suggesting a candid moment rather than a posed photograph.One person stands with their weight shifted to one leg, looking down at a smartphone held in both hands, their face illuminated by the device's screen glow. The other figure stands several feet away, hands in pockets, gazing out toward the city lights that are beginning to twinkle on in windows and streetlights below. Both wear casual clothing - hoodies or jackets that move slightly in the evening breeze, the fabric showing natural wrinkles and the way wind catches loose material.The rooftop surface is covered in weathered concrete or asphalt with visible cracks, small debris, and the accumulated grime of urban exposure. A low parapet wall runs along the edge, its concrete surface showing stains and wear. Scattered across the rooftop are typical urban detritus - perhaps an empty bottle, cigarette butts, or small pieces of litter that catch the ambient light.he lighting creates a complex interplay between the warm artificial lights beginning to illuminate the city below and the cool natural light of the darkening sky. Street lights create small points of warm yellow light that dot the urban landscape, while office building windows glow with fluorescent white light. The sky itself provides soft, even illumination that gradually fades to deeper blue overhead.The atmosphere is thick with urban haze and the particular quality of evening air that diffuses light sources into soft halos. The image quality exhibits the grainy, low-light characteristics of digital photography pushed to its limits - visible noise in the darker areas, slight color bleeding around bright light sources, and the authentic imperfection of handheld photography in challenging conditions. The overall mood captures the contemplative isolation possible even in friendship, set against the vast anonymity of the urban environment.",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "otros": {
-        "platform": "opensourcegen",
-        "dimensions": "1024 × 1024",
-        "scheduler": "simple",
-        "generated with": "opensourcegen"
-      },
-      "seed": "576360951",
-      "steps": 14,
-      "sampler": "res_multistep"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T12:26:41.507Z",
-    "tags": [
-      "wide-angle",
-      "off-center",
-      "natural",
-      "light",
-      "complex",
-      "warm",
-      "artificial",
-      "cool",
-      "soft",
-      "grainy"
-    ]
-  },
-  {
-    "id": "img-1772022401623-naxapeyw7",
-    "hash": "62ac1261c25ee6ea7e6fd740af39101d",
-    "url": "images/img-066.png",
-    "thumbnail": "images/img-066.png",
-    "filename": "img-066.png",
-    "prompt": "A close-up view shows a person standing in a cramped bathroom taking a mirror selfie, the composition tightly framed by the small space and creating an intimate, almost claustrophobic perspective. The mirror dominates the frame, its surface marred by a spider web crack radiating from one corner, water spots, and the accumulated residue of daily use. The reflection captures both the person and the cluttered reality of the bathroom space behind them.The person holds an early digital camera or basic smartphone at arm's length, their face partially visible in the mirror's reflection. The harsh overhead lighting from a single bare bulb or basic fixture creates unflattering shadows under their eyes and nose, while casting a yellowish, institutional quality light throughout the small space. Their expression appears tired or contemplative, caught in an unguarded moment of self-examination.The bathroom sink area is crowded with the authentic chaos of daily life: a toothbrush stands in a plastic cup, tubes of toothpaste with squeezed and rolled ends, small bottles of medication or toiletries, and various personal care items scattered across the limited counter space. The sink itself shows water stains and the particular wear patterns of frequent use, with mineral deposits around the faucet base.The walls are covered in basic bathroom tile or painted drywall, showing slight discoloration from humidity and age. The lighting fixture above casts harsh, uneven illumination that creates stark shadows and highlights the texture of every surface - from the person's skin to the porcelain fixtures. The mirror's crack catches and refracts the light, creating small prismatic effects along its length.The image quality reflects the limitations of early consumer digital photography - slight overexposure from the harsh bathroom lighting, digital noise in the darker areas, and the particular color cast of fluorescent or incandescent bulbs. The framing is imperfect and utilitarian, cropped by the physical constraints of the small space rather than artistic intention. The overall atmosphere captures the raw honesty of private moments, when people confront themselves in the harsh reality of bathroom lighting, stripped of flattering conditions or careful composition.",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "otros": {
-        "platform": "opensourcegen",
-        "a close-up view shows a person standing in a cramped bathroom taking a mirror selfie, the composition tightly framed by the small space and creating an intimate, almost claustrophobic perspective. the mirror dominates the frame, its surface marred by a spider web crack radiating from one corner, water spots, and the accumulated residue of daily use. the reflection captures both the person and the cluttered reality of the bathroom space behind them.the person holds an early digital camera or basic smartphone at arm's length, their face partially visible in the mirror's reflection. the harsh overhead lighting from a single bare bulb or basic fixture creates unflattering shadows under their eyes and nose, while casting a yellowish, institutional quality light throughout the small space. their expression appears tired or contemplative, caught in an unguarded moment of self-examination.the bathroom sink area is crowded with the authentic chaos of daily life": "a toothbrush stands in a plastic cup, tubes of toothpaste with squeezed and rolled ends, small bottles of medication or toiletries, and various personal care items scattered across the limited counter space. The sink itself shows water stains and the particular wear patterns of frequent use, with mineral deposits around the faucet base.The walls are covered in basic bathroom tile or painted drywall, showing slight discoloration from humidity and age. The lighting fixture above casts harsh, uneven illumination that creates stark shadows and highlights the texture of every surface - from the person's skin to the porcelain fixtures. The mirror's crack catches and refracts the light, creating small prismatic effects along its length.The image quality reflects the limitations of early consumer digital photography - slight overexposure from the harsh bathroom lighting, digital noise in the darker areas, and the particular color cast of fluorescent or incandescent bulbs. The framing is imperfect and utilitarian, cropped by the physical constraints of the small space rather than artistic intention. The overall atmosphere captures the raw honesty of private moments, when people confront themselves in the harsh reality of bathroom lighting, stripped of flattering conditions or careful composition.",
-        "dimensions": "1024 × 1024",
-        "scheduler": "simple",
-        "generated with": "opensourcegen"
-      },
-      "seed": "995868799",
-      "steps": 14,
-      "sampler": "res_multistep"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T12:26:41.623Z",
-    "tags": [
-      "close-up",
-      "light",
-      "self-examination",
-      "standing",
-      "cramped",
-      "bathroom",
-      "composition",
-      "tightly",
-      "creating",
-      "intimate"
-    ]
-  },
-  {
-    "id": "img-1772022401774-5v15yvj0z",
-    "hash": "bd485249f991a743d2eb7dd8c18f7c48",
-    "url": "images/img-067.png",
-    "thumbnail": "images/img-067.png",
-    "filename": "img-067.png",
-    "prompt": "A medium-wide shot captures the interior of a small house party from a low angle, as if the camera were held casually at waist level. The composition places a lone figure in the foreground sitting on a worn fabric couch, while the background shows other party-goers dancing and socializing in soft focus blur. The framing is imperfect and spontaneous, cutting off parts of people and furniture in the authentic way of candid social photography.The isolated person sits with shoulders slightly hunched, looking down at a smartphone held in both hands, their face illuminated by the device's blue-white screen glow. They wear casual party attire - perhaps a t-shirt or light sweater - that appears slightly rumpled from sitting. Their posture conveys disconnection from the social energy around them, creating a poignant contrast with the celebration happening just meters away.The coffee table in front of the couch is scattered with the debris of social gathering: empty red plastic cups with visible condensation rings on their surfaces, some tipped over or crushed, creating organic shapes against the table's surface. A few bottles catch the ambient light, their glass surfaces reflecting the warm interior lighting. Napkins, bottle caps, and other small party detritus create realistic clutter.The background figures move in natural, unposed ways - some with arms raised while dancing, others leaning in close conversation, their forms rendered as soft silhouettes due to the shallow depth of field. The lighting comes from multiple sources: warm incandescent bulbs from table lamps create pools of golden light, while cooler light from a television or other electronic device adds blue tones to the mix.The atmosphere is thick with the particular quality of indoor party air - slightly hazy from body heat and conversation, with visible light rays cutting through the space. The room shows the lived-in quality of a real home: furniture with visible wear, walls with personal decorations, and the accumulated patina of daily life. The image quality exhibits the characteristics of casual party photography - slight motion blur from handheld shooting, natural grain from low-light conditions, and the authentic color cast of mixed artificial lighting. The overall mood captures the paradox of social isolation within social gathering, when digital connection becomes a refuge from physical presence.",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "otros": {
-        "platform": "opensourcegen",
-        "a medium-wide shot captures the interior of a small house party from a low angle, as if the camera were held casually at waist level. the composition places a lone figure in the foreground sitting on a worn fabric couch, while the background shows other party-goers dancing and socializing in soft focus blur. the framing is imperfect and spontaneous, cutting off parts of people and furniture in the authentic way of candid social photography.the isolated person sits with shoulders slightly hunched, looking down at a smartphone held in both hands, their face illuminated by the device's blue-white screen glow. they wear casual party attire - perhaps a t-shirt or light sweater - that appears slightly rumpled from sitting. their posture conveys disconnection from the social energy around them, creating a poignant contrast with the celebration happening just meters away.the coffee table in front of the couch is scattered with the debris of social gathering": "empty red plastic cups with visible condensation rings on their surfaces, some tipped over or crushed, creating organic shapes against the table's surface. A few bottles catch the ambient light, their glass surfaces reflecting the warm interior lighting. Napkins, bottle caps, and other small party detritus create realistic clutter.The background figures move in natural, unposed ways - some with arms raised while dancing, others leaning in close conversation, their forms rendered as soft silhouettes due to the shallow depth of field. The lighting comes from multiple sources: warm incandescent bulbs from table lamps create pools of golden light, while cooler light from a television or other electronic device adds blue tones to the mix.The atmosphere is thick with the particular quality of indoor party air - slightly hazy from body heat and conversation, with visible light rays cutting through the space. The room shows the lived-in quality of a real home: furniture with visible wear, walls with personal decorations, and the accumulated patina of daily life. The image quality exhibits the characteristics of casual party photography - slight motion blur from handheld shooting, natural grain from low-light conditions, and the authentic color cast of mixed artificial lighting. The overall mood captures the paradox of social isolation within social gathering, when digital connection becomes a refuge from physical presence.",
-        "dimensions": "1024 × 1024",
-        "scheduler": "simple",
-        "generated with": "opensourcegen"
-      },
-      "seed": "283719845",
-      "steps": 14,
-      "sampler": "res_multistep"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T12:26:41.774Z",
-    "tags": [
-      "medium-wide",
-      "party-goers",
-      "soft",
-      "blue-white",
-      "t-shirt",
-      "light",
-      "warm",
-      "realistic",
-      "natural",
-      "lived-in"
-    ]
-  },
-  {
     "id": "img-1772022401907-it3u5iwv4",
     "hash": "bd97b474722674488dcb4cb32556881a",
     "url": "images/img-068.png",
@@ -1981,43 +1835,6 @@
     ]
   },
   {
-    "id": "img-1772022402140-9h2t8b5z1",
-    "hash": "cff15c82680f445193f834303436dab5",
-    "url": "images/img-070.png",
-    "thumbnail": "images/img-070.png",
-    "filename": "img-070.png",
-    "prompt": "A wide-angle view captures a person standing alone in a residential kitchen during the deep hours of night, the scene lit by the harsh white glow of an open refrigerator door and the softer ambient light from under-cabinet fixtures or a small appliance display. The composition is framed from across the kitchen, creating a sense of domestic intimacy while emphasizing the solitude of the late-night moment.The person stands directly in front of the open refrigerator, their silhouette backlit by the bright interior light that spills across the kitchen floor in a rectangular pool. They hold a cereal box in both hands, eating directly from the container in the casual, unguarded way of someone who believes they are unobserved. Their posture is relaxed and slightly slouched, wearing comfortable sleepwear or casual clothes - perhaps an oversized t-shirt and shorts or pajama pants.The refrigerator's interior light creates dramatic chiaroscuro lighting, casting the person's face in bright illumination while their back remains in shadow. The light reveals the kitchen's details: countertops with their particular surface texture - whether laminate, granite, or tile - showing the accumulated patina of daily use. Small appliances sit in their designated spots, their LED displays or indicator lights adding small points of colored illumination to the scene.On the kitchen table or counter, a smartphone lies face-up, its screen either dark or glowing softly with notifications, creating a small pool of blue-white light on the surface. The device appears abandoned temporarily, suggesting this is a brief interruption in late-night digital activity. Around it, the surface shows the authentic clutter of daily life - perhaps a glass with water rings, keys, or other small personal items.The kitchen itself shows the lived-in quality of a real home: cabinet doors with visible wear around the handles, a dish towel draped over the oven handle, small appliances positioned for convenience rather than aesthetics. The flooring - whether tile, hardwood, or linoleum - reflects the refrigerator light in realistic patterns that show its texture and any accumulated wear.The lighting creates a complex interplay between the cold, bright white of the refrigerator interior, the warm yellow glow of under-cabinet lighting, and the cool blue light from the phone screen. This mixed lighting creates authentic color temperature variations across different surfaces and adds to the intimate, unguarded quality of the scene. The overall atmosphere captures the particular solitude of late-night domestic moments, when hunger or restlessness drives people to wander their own homes in the quiet hours, creating small rituals of comfort in familiar spaces.",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "otros": {
-        "platform": "opensourcegen",
-        "a wide-angle view captures a person standing alone in a residential kitchen during the deep hours of night, the scene lit by the harsh white glow of an open refrigerator door and the softer ambient light from under-cabinet fixtures or a small appliance display. the composition is framed from across the kitchen, creating a sense of domestic intimacy while emphasizing the solitude of the late-night moment.the person stands directly in front of the open refrigerator, their silhouette backlit by the bright interior light that spills across the kitchen floor in a rectangular pool. they hold a cereal box in both hands, eating directly from the container in the casual, unguarded way of someone who believes they are unobserved. their posture is relaxed and slightly slouched, wearing comfortable sleepwear or casual clothes - perhaps an oversized t-shirt and shorts or pajama pants.the refrigerator's interior light creates dramatic chiaroscuro lighting, casting the person's face in bright illumination while their back remains in shadow. the light reveals the kitchen's details": "countertops with their particular surface texture - whether laminate, granite, or tile - showing the accumulated patina of daily use. Small appliances sit in their designated spots, their LED displays or indicator lights adding small points of colored illumination to the scene.On the kitchen table or counter, a smartphone lies face-up, its screen either dark or glowing softly with notifications, creating a small pool of blue-white light on the surface. The device appears abandoned temporarily, suggesting this is a brief interruption in late-night digital activity. Around it, the surface shows the authentic clutter of daily life - perhaps a glass with water rings, keys, or other small personal items.The kitchen itself shows the lived-in quality of a real home: cabinet doors with visible wear around the handles, a dish towel draped over the oven handle, small appliances positioned for convenience rather than aesthetics. The flooring - whether tile, hardwood, or linoleum - reflects the refrigerator light in realistic patterns that show its texture and any accumulated wear.The lighting creates a complex interplay between the cold, bright white of the refrigerator interior, the warm yellow glow of under-cabinet lighting, and the cool blue light from the phone screen. This mixed lighting creates authentic color temperature variations across different surfaces and adds to the intimate, unguarded quality of the scene. The overall atmosphere captures the particular solitude of late-night domestic moments, when hunger or restlessness drives people to wander their own homes in the quiet hours, creating small rituals of comfort in familiar spaces.",
-        "dimensions": "1024 × 1024",
-        "scheduler": "simple",
-        "generated with": "opensourcegen"
-      },
-      "seed": "832411855",
-      "steps": 14,
-      "sampler": "res_multistep"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T12:26:42.14Z",
-    "tags": [
-      "wide-angle",
-      "light",
-      "under-cabinet",
-      "late-night",
-      "bright",
-      "t-shirt",
-      "dramatic",
-      "face-up",
-      "dark",
-      "blue-white"
-    ]
-  },
-  {
     "id": "img-1772022402293-7eon00w0c",
     "hash": "9585c1415a7e914f8e16dc628d70d523",
     "url": "images/img-071.png",
@@ -2088,42 +1905,6 @@
       "bright",
       "everyday",
       "clothing"
-    ]
-  },
-  {
-    "id": "img-1772022448368-gbezq36gq",
-    "hash": "c5b8575b7ab17df4a329f7628e129418",
-    "url": "images/img-073.png",
-    "thumbnail": "images/img-073.png",
-    "filename": "img-073.png",
-    "prompt": "A close-up shot captures a young woman in her early twenties positioned in front of a bedroom mirror, holding a compact digital camera at arm's length. The composition is framed from a slightly tilted angle, creating an off-kilter snapshot aesthetic typical of early 2000s photography. Her pose is deliberately exaggerated with one hip cocked and head tilted, embodying the confident yet amateur influencer style of the era. The camera's built-in flash fires directly at her face, creating harsh overexposure across her forehead and cheeks while casting deep shadows beneath her chin and around her eyes.The bedroom environment reveals authentic lived-in chaos with clothes draped over a wooden chair, band posters taped to cream-colored walls, and personal items scattered across surfaces. The mirror itself shows slight distortion and water spots, adding to the candid authenticity. The lighting is dominated by the camera's harsh white flash, which flattens facial features and creates stark contrast between illuminated and shadowed areas. The background falls into relative darkness beyond the flash's reach, with only hints of the messy room visible in the periphery.The image quality exhibits the characteristic limitations of early digital cameras including visible JPEG compression artifacts, slight motion blur from handheld shooting, and the distinctive harsh flash falloff. Colors appear slightly oversaturated in the flash-lit areas while maintaining the authentic amateur photography aesthetic that defined early social media culture.",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "otros": {
-        "platform": "opensourcegen",
-        "dimensions": "1024 × 1024",
-        "scheduler": "simple",
-        "generated with": "opensourcegen"
-      },
-      "seed": "118783404",
-      "steps": 14,
-      "sampler": "res_multistep"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T12:27:28.368Z",
-    "tags": [
-      "close-up",
-      "off-kilter",
-      "built-in",
-      "lived-in",
-      "cream-colored",
-      "flash-lit",
-      "captures",
-      "twenties",
-      "positioned",
-      "bedroom"
     ]
   },
   {
@@ -2560,42 +2341,6 @@
     ]
   },
   {
-    "id": "img-1772022484285-plbce1920",
-    "hash": "28475b64e9019aaebc18f8be102d8a29",
-    "url": "images/img-086.png",
-    "thumbnail": "images/img-086.png",
-    "filename": "img-086.png",
-    "prompt": "A three-quarter view portrait captures a young woman posing against a plain interior wall, photographed with a compact digital camera positioned at chest level to create a slightly upward angle. The composition places her centrally in the frame with careful attention to posing - one shoulder angled toward the camera, head tilted slightly, and hands positioned naturally at her sides or gently touching the wall behind her. She wears a simple, fitted outfit consisting of a solid-colored top and dark jeans, representing the understated fashion choices that characterized early influencer aesthetics before brand partnerships became prevalent.The lighting comes from a nearby window, creating soft, directional illumination that produces gentle shadows and natural contrast without the harshness of flash photography. This natural light setup results in the even, flattering illumination that early content creators learned to seek out, though the camera's limited dynamic range still produces some blown highlights near the light source. The wall behind serves as a clean, neutral backdrop with subtle texture from paint or wallpaper, showing minor imperfections and lived-in character.The image quality demonstrates the characteristic low contrast and soft focus of mid-2000s consumer digital cameras, with slight motion blur from the camera's slower autofocus system and the subject's natural micro-movements during the shot. Colors appear naturally muted rather than enhanced, with the camera's automatic processing creating the slightly flat, desaturated look that defined pre-filter photography. The overall aesthetic captures the transitional moment between casual snapshot photography and the more polished content that would emerge later, showing both intentional composition and the technical limitations that created an accidentally authentic visual style. The color palette consists of soft, muted tones - neutral wall colors, natural skin tones, and the subdued fabric colors of simple clothing, all rendered with the gentle, unprocessed quality of early digital photography.",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "otros": {
-        "platform": "opensourcegen",
-        "dimensions": "1024 × 1024",
-        "scheduler": "simple",
-        "generated with": "opensourcegen"
-      },
-      "seed": "161161811",
-      "steps": 14,
-      "sampler": "res_multistep"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T12:28:04.285Z",
-    "tags": [
-      "three-quarter",
-      "simple",
-      "solid-colored",
-      "dark",
-      "soft",
-      "natural",
-      "light",
-      "lived-in",
-      "mid-",
-      "micro-movements"
-    ]
-  },
-  {
     "id": "img-1772022484431-9f2vkrk42",
     "hash": "9bbaf02935c0009b047e446314782ff6",
     "url": "images/img-087.png",
@@ -2628,42 +2373,6 @@
       "cool-white",
       "warm",
       "intimate",
-      "captures"
-    ]
-  },
-  {
-    "id": "img-1772022484556-0g4052pf0",
-    "hash": "946e15f2c5d269bb09795ed5c5ad0b94",
-    "url": "images/img-088.png",
-    "thumbnail": "images/img-088.png",
-    "filename": "img-088.png",
-    "prompt": "A wide-angle group shot captures friends gathered in a house party setting, photographed with a compact digital camera held at arm's length by one of the participants. The composition is chaotic and energetic, with multiple people crowded into the frame at various distances from the camera, some faces partially cut off by the frame edges due to the spontaneous, handheld nature of the shot. The camera's built-in flash illuminates the immediate foreground while creating dramatic falloff toward the background, producing the characteristic uneven lighting of early party photography.The indoor environment shows typical house party elements - a living room or kitchen space with furniture pushed aside, drinks and party supplies visible on surfaces, and the casual disorder of social gathering. Some subjects pose deliberately while others are caught mid-conversation or movement, creating natural motion blur that adds to the authentic, candid atmosphere. The flash creates harsh shadows behind people and overexposes faces closest to the camera while leaving background figures in relative darkness.The image quality displays all the hallmarks of early 2000s consumer digital photography - low resolution, compression artifacts, and the slightly blurred edges from camera shake and subject movement. Colors appear warm and saturated due to the tungsten indoor lighting mixed with the camera's daylight-balanced flash, creating the golden-orange color cast typical of this era's party photography. The overall aesthetic captures the spontaneous, unguarded joy of social gatherings before smartphones made photography ubiquitous, when taking pictures required deliberate action and created more precious, memorable moments. The color palette combines warm interior lighting tones with the cool flash illumination, creating a nostalgic mix of golden yellows and cool whites that defined early social media party documentation.",
-    "model": "Z-Image-Turbo",
-    "category": "Otros",
-    "achievement": false,
-    "settings": {
-      "otros": {
-        "platform": "opensourcegen",
-        "dimensions": "1024 × 1024",
-        "scheduler": "simple",
-        "generated with": "opensourcegen"
-      },
-      "seed": "585172826",
-      "steps": 14,
-      "sampler": "res_multistep"
-    },
-    "notes": "",
-    "created_at": "2026-02-25T12:28:04.556Z",
-    "tags": [
-      "wide-angle",
-      "built-in",
-      "dramatic",
-      "mid-conversation",
-      "natural",
-      "warm",
-      "daylight-balanced",
-      "golden-orange",
-      "cool",
       "captures"
     ]
   },
@@ -4296,6 +4005,557 @@
         "thumbnail": "images/img-098.webp",
         "model": "Nano Banana Pro 2",
         "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-img-033",
+    "variant_group": "img-033",
+    "prompt": "A medium shot captures a young woman positioned in a narrow apartment hallway, framed from a slightly low angle that emphasizes her confident stance. She stands with one leg bent at the knee, creating an asymmetrical pose that adds dynamic energy to",
+    "category": "Otros",
+    "tags": [
+      "medium",
+      "captures",
+      "young",
+      "woman",
+      "positioned",
+      "narrow",
+      "apartment",
+      "hallway",
+      "framed",
+      "slightly"
+    ],
+    "created_at": "2026-02-28T01:47:54.358Z",
+    "variants": [
+      {
+        "id": "img-1772022023187-2h2qovfhn",
+        "hash": "44248a2bbb2e270aa80aebfa8e28e401",
+        "url": "images/img-033.png",
+        "thumbnail": "images/img-033.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "otros": {
+            "platform": "opensourcegen",
+            "dimensions": "1024 × 1024",
+            "scheduler": "simple",
+            "generated with": "opensourcegen"
+          },
+          "seed": "361166702",
+          "steps": 14,
+          "sampler": "res_multistep"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772243274358-2k913d5eu",
+        "hash": "948a6257322d1008813aed4c4b2ee818",
+        "url": "images/img-097.jpg",
+        "thumbnail": "images/img-097.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281301-gvf8r6pnq",
+        "hash": "d65104c1b2888b86438cbe4c4779e297",
+        "url": "images/img-107.png",
+        "thumbnail": "images/img-107.png",
+        "model": "ImageFX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281649-jfkgdsytt",
+        "hash": "b4ba53af940f1e7d2d70d8aab3d82e18",
+        "url": "images/img-111.jpeg",
+        "thumbnail": "images/img-111.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243285182-94dfn3byb",
+        "hash": "bb3f91a424a1ab13b7f20a36c49eeaee",
+        "url": "images/img-116.jpeg",
+        "thumbnail": "images/img-116.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-img-065",
+    "variant_group": "img-065",
+    "prompt": "A wide-angle view captures two friends standing on a flat rooftop during the blue hour of dusk, when the sky transitions from deep orange near the horizon to rich purple overhead. The composition is framed from ground level on the rooftop, placing both figures against the expansive urban skyline tha",
+    "category": "Otros",
+    "tags": [
+      "wide-angle",
+      "captures",
+      "friends",
+      "standing",
+      "flat",
+      "rooftop",
+      "blue",
+      "hour",
+      "dusk",
+      "sky"
+    ],
+    "created_at": "2026-02-28T01:47:54.428Z",
+    "variants": [
+      {
+        "id": "img-1772022401507-yuhen5k1c",
+        "hash": "856820b3e3b7815c223863395e139f06",
+        "url": "images/img-065.png",
+        "thumbnail": "images/img-065.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "otros": {
+            "platform": "opensourcegen",
+            "dimensions": "1024 × 1024",
+            "scheduler": "simple",
+            "generated with": "opensourcegen"
+          },
+          "seed": "576360951",
+          "steps": 14,
+          "sampler": "res_multistep"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772243274428-2zh1kqerj",
+        "hash": "956d007d38ac94e4fe0b00cb93b0e60c",
+        "url": "images/img-098.jpg",
+        "thumbnail": "images/img-098.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281349-ft13jbe5v",
+        "hash": "b3890427d3094d12e7413e268473ed05",
+        "url": "images/img-108.png",
+        "thumbnail": "images/img-108.png",
+        "model": "Unknown",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281747-pu9giqa0p",
+        "hash": "235fe27126e67e9051cb19aff631af20",
+        "url": "images/img-112.jpeg",
+        "thumbnail": "images/img-112.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243283371-po0v6xmhn",
+        "hash": "20c7116a4b73c811c04d6012420a3b79",
+        "url": "images/img-114.webp",
+        "thumbnail": "images/img-114.webp",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-img-073",
+    "variant_group": "img-073",
+    "prompt": "A close-up shot captures a young woman in her early twenties positioned in front of a bedroom mirror, holding a compact digital camera at arm's length. The composition is framed from a slightly tilted angle, creating an off-kilter snapshot aesthetic typical of early 2000s photography. Her pose is de",
+    "category": "Otros",
+    "tags": [
+      "close-up",
+      "captures",
+      "young",
+      "woman",
+      "her",
+      "early",
+      "twenties",
+      "positioned",
+      "bedroom",
+      "mirror"
+    ],
+    "created_at": "2026-02-28T01:47:54.516Z",
+    "variants": [
+      {
+        "id": "img-1772022448368-gbezq36gq",
+        "hash": "c5b8575b7ab17df4a329f7628e129418",
+        "url": "images/img-073.png",
+        "thumbnail": "images/img-073.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "otros": {
+            "platform": "opensourcegen",
+            "dimensions": "1024 × 1024",
+            "scheduler": "simple",
+            "generated with": "opensourcegen"
+          },
+          "seed": "118783404",
+          "steps": 14,
+          "sampler": "res_multistep"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772243274516-x6ql629s3",
+        "hash": "4f8e2ac061a510e5341d213c00df9b4d",
+        "url": "images/img-099.jpg",
+        "thumbnail": "images/img-099.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281111-r6va67kpx",
+        "hash": "b2436d8f5be35fe84ce5bfcefc959630",
+        "url": "images/img-104.png",
+        "thumbnail": "images/img-104.png",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243287176-f0mybm5o6",
+        "hash": "04c1ab4e4c1eee6d31efafe728e39a8a",
+        "url": "images/img-118.jpg",
+        "thumbnail": "images/img-118.jpg",
+        "model": "Unknown",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-img-066",
+    "variant_group": "img-066",
+    "prompt": "A close-up view shows a person standing in a cramped bathroom taking a mirror selfie, the composition tightly framed by the small space and creating an intimate, almost claustrophobic perspective. The mirror dominates the frame, its surface marred by a spider web crack radiating from one corner, wat",
+    "category": "Otros",
+    "tags": [
+      "close-up",
+      "shows",
+      "person",
+      "standing",
+      "cramped",
+      "bathroom",
+      "taking",
+      "mirror",
+      "selfie",
+      "composition"
+    ],
+    "created_at": "2026-02-28T01:47:57.191Z",
+    "variants": [
+      {
+        "id": "img-1772022401623-naxapeyw7",
+        "hash": "62ac1261c25ee6ea7e6fd740af39101d",
+        "url": "images/img-066.png",
+        "thumbnail": "images/img-066.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "otros": {
+            "platform": "opensourcegen",
+            "a close-up view shows a person standing in a cramped bathroom taking a mirror selfie, the composition tightly framed by the small space and creating an intimate, almost claustrophobic perspective. the mirror dominates the frame, its surface marred by a spider web crack radiating from one corner, water spots, and the accumulated residue of daily use. the reflection captures both the person and the cluttered reality of the bathroom space behind them.the person holds an early digital camera or basic smartphone at arm's length, their face partially visible in the mirror's reflection. the harsh overhead lighting from a single bare bulb or basic fixture creates unflattering shadows under their eyes and nose, while casting a yellowish, institutional quality light throughout the small space. their expression appears tired or contemplative, caught in an unguarded moment of self-examination.the bathroom sink area is crowded with the authentic chaos of daily life": "a toothbrush stands in a plastic cup, tubes of toothpaste with squeezed and rolled ends, small bottles of medication or toiletries, and various personal care items scattered across the limited counter space. The sink itself shows water stains and the particular wear patterns of frequent use, with mineral deposits around the faucet base.The walls are covered in basic bathroom tile or painted drywall, showing slight discoloration from humidity and age. The lighting fixture above casts harsh, uneven illumination that creates stark shadows and highlights the texture of every surface - from the person's skin to the porcelain fixtures. The mirror's crack catches and refracts the light, creating small prismatic effects along its length.The image quality reflects the limitations of early consumer digital photography - slight overexposure from the harsh bathroom lighting, digital noise in the darker areas, and the particular color cast of fluorescent or incandescent bulbs. The framing is imperfect and utilitarian, cropped by the physical constraints of the small space rather than artistic intention. The overall atmosphere captures the raw honesty of private moments, when people confront themselves in the harsh reality of bathroom lighting, stripped of flattering conditions or careful composition.",
+            "dimensions": "1024 × 1024",
+            "scheduler": "simple",
+            "generated with": "opensourcegen"
+          },
+          "seed": "995868799",
+          "steps": 14,
+          "sampler": "res_multistep"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772243277191-sq2zzl0a8",
+        "hash": "a3bc1717531c30dedce1af5de284f48f",
+        "url": "images/img-100.webp",
+        "thumbnail": "images/img-100.webp",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281581-ljiosmwtw",
+        "hash": "0d07cc4b2be1f17ded9db58599b8ef9f",
+        "url": "images/img-110.png",
+        "thumbnail": "images/img-110.png",
+        "model": "Unknown",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-img-067",
+    "variant_group": "img-067",
+    "prompt": "A medium-wide shot captures the interior of a small house party from a low angle, as if the camera were held casually at waist level. The composition places a lone figure in the foreground sitting on a worn fabric couch, while the background shows other party-goers dancing and socializing in soft fo",
+    "category": "Otros",
+    "tags": [
+      "medium-wide",
+      "captures",
+      "interior",
+      "small",
+      "house",
+      "party",
+      "low",
+      "angle",
+      "held",
+      "casually"
+    ],
+    "created_at": "2026-02-28T01:47:59.086Z",
+    "variants": [
+      {
+        "id": "img-1772022401774-5v15yvj0z",
+        "hash": "bd485249f991a743d2eb7dd8c18f7c48",
+        "url": "images/img-067.png",
+        "thumbnail": "images/img-067.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "otros": {
+            "platform": "opensourcegen",
+            "a medium-wide shot captures the interior of a small house party from a low angle, as if the camera were held casually at waist level. the composition places a lone figure in the foreground sitting on a worn fabric couch, while the background shows other party-goers dancing and socializing in soft focus blur. the framing is imperfect and spontaneous, cutting off parts of people and furniture in the authentic way of candid social photography.the isolated person sits with shoulders slightly hunched, looking down at a smartphone held in both hands, their face illuminated by the device's blue-white screen glow. they wear casual party attire - perhaps a t-shirt or light sweater - that appears slightly rumpled from sitting. their posture conveys disconnection from the social energy around them, creating a poignant contrast with the celebration happening just meters away.the coffee table in front of the couch is scattered with the debris of social gathering": "empty red plastic cups with visible condensation rings on their surfaces, some tipped over or crushed, creating organic shapes against the table's surface. A few bottles catch the ambient light, their glass surfaces reflecting the warm interior lighting. Napkins, bottle caps, and other small party detritus create realistic clutter.The background figures move in natural, unposed ways - some with arms raised while dancing, others leaning in close conversation, their forms rendered as soft silhouettes due to the shallow depth of field. The lighting comes from multiple sources: warm incandescent bulbs from table lamps create pools of golden light, while cooler light from a television or other electronic device adds blue tones to the mix.The atmosphere is thick with the particular quality of indoor party air - slightly hazy from body heat and conversation, with visible light rays cutting through the space. The room shows the lived-in quality of a real home: furniture with visible wear, walls with personal decorations, and the accumulated patina of daily life. The image quality exhibits the characteristics of casual party photography - slight motion blur from handheld shooting, natural grain from low-light conditions, and the authentic color cast of mixed artificial lighting. The overall mood captures the paradox of social isolation within social gathering, when digital connection becomes a refuge from physical presence.",
+            "dimensions": "1024 × 1024",
+            "scheduler": "simple",
+            "generated with": "opensourcegen"
+          },
+          "seed": "283719845",
+          "steps": 14,
+          "sampler": "res_multistep"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772243279086-kzci1vf1h",
+        "hash": "670a4f0b9e4fb8eaab9b2b9364706318",
+        "url": "images/img-101.webp",
+        "thumbnail": "images/img-101.webp",
+        "model": "Unknown",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281010-mh0d5eww8",
+        "hash": "11f211b8939a7047fc0ae11a81788ac9",
+        "url": "images/img-103.png",
+        "thumbnail": "images/img-103.png",
+        "model": "Unknown",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-img-070",
+    "variant_group": "img-070",
+    "prompt": "A wide-angle view captures a person standing alone in a residential kitchen during the deep hours of night, the scene lit by the harsh white glow of an open refrigerator door and the softer ambient light from under-cabinet fixtures or a small appliance display. The composition is framed from across",
+    "category": "Otros",
+    "tags": [
+      "wide-angle",
+      "captures",
+      "person",
+      "standing",
+      "alone",
+      "residential",
+      "kitchen",
+      "deep",
+      "hours",
+      "night"
+    ],
+    "created_at": "2026-02-28T01:48:00.862Z",
+    "variants": [
+      {
+        "id": "img-1772022402140-9h2t8b5z1",
+        "hash": "cff15c82680f445193f834303436dab5",
+        "url": "images/img-070.png",
+        "thumbnail": "images/img-070.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "otros": {
+            "platform": "opensourcegen",
+            "a wide-angle view captures a person standing alone in a residential kitchen during the deep hours of night, the scene lit by the harsh white glow of an open refrigerator door and the softer ambient light from under-cabinet fixtures or a small appliance display. the composition is framed from across the kitchen, creating a sense of domestic intimacy while emphasizing the solitude of the late-night moment.the person stands directly in front of the open refrigerator, their silhouette backlit by the bright interior light that spills across the kitchen floor in a rectangular pool. they hold a cereal box in both hands, eating directly from the container in the casual, unguarded way of someone who believes they are unobserved. their posture is relaxed and slightly slouched, wearing comfortable sleepwear or casual clothes - perhaps an oversized t-shirt and shorts or pajama pants.the refrigerator's interior light creates dramatic chiaroscuro lighting, casting the person's face in bright illumination while their back remains in shadow. the light reveals the kitchen's details": "countertops with their particular surface texture - whether laminate, granite, or tile - showing the accumulated patina of daily use. Small appliances sit in their designated spots, their LED displays or indicator lights adding small points of colored illumination to the scene.On the kitchen table or counter, a smartphone lies face-up, its screen either dark or glowing softly with notifications, creating a small pool of blue-white light on the surface. The device appears abandoned temporarily, suggesting this is a brief interruption in late-night digital activity. Around it, the surface shows the authentic clutter of daily life - perhaps a glass with water rings, keys, or other small personal items.The kitchen itself shows the lived-in quality of a real home: cabinet doors with visible wear around the handles, a dish towel draped over the oven handle, small appliances positioned for convenience rather than aesthetics. The flooring - whether tile, hardwood, or linoleum - reflects the refrigerator light in realistic patterns that show its texture and any accumulated wear.The lighting creates a complex interplay between the cold, bright white of the refrigerator interior, the warm yellow glow of under-cabinet lighting, and the cool blue light from the phone screen. This mixed lighting creates authentic color temperature variations across different surfaces and adds to the intimate, unguarded quality of the scene. The overall atmosphere captures the particular solitude of late-night domestic moments, when hunger or restlessness drives people to wander their own homes in the quiet hours, creating small rituals of comfort in familiar spaces.",
+            "dimensions": "1024 × 1024",
+            "scheduler": "simple",
+            "generated with": "opensourcegen"
+          },
+          "seed": "832411855",
+          "steps": 14,
+          "sampler": "res_multistep"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772243280862-ynm9te1tl",
+        "hash": "5280cbecc0e8226c77bef89221d2900a",
+        "url": "images/img-102.webp",
+        "thumbnail": "images/img-102.webp",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-img-088",
+    "variant_group": "img-088",
+    "prompt": "A wide-angle group shot captures friends gathered in a house party setting, photographed with a compact digital camera held at arm's length by one of the participants. The composition is chaotic and energetic, with multiple people crowded into the frame at various distances from the camera, some fac",
+    "category": "Otros",
+    "tags": [
+      "wide-angle",
+      "group",
+      "captures",
+      "friends",
+      "gathered",
+      "house",
+      "party",
+      "setting",
+      "photographed",
+      "compact"
+    ],
+    "created_at": "2026-02-28T01:48:01.188Z",
+    "variants": [
+      {
+        "id": "img-1772022484556-0g4052pf0",
+        "hash": "946e15f2c5d269bb09795ed5c5ad0b94",
+        "url": "images/img-088.png",
+        "thumbnail": "images/img-088.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "otros": {
+            "platform": "opensourcegen",
+            "dimensions": "1024 × 1024",
+            "scheduler": "simple",
+            "generated with": "opensourcegen"
+          },
+          "seed": "585172826",
+          "steps": 14,
+          "sampler": "res_multistep"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281188-y29utb2oc",
+        "hash": "65173bb4dd7a9c3c60175616cafa780e",
+        "url": "images/img-105.jpg",
+        "thumbnail": "images/img-105.jpg",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281220-t9wyps08y",
+        "hash": "398463f845f054edd11389cff479c927",
+        "url": "images/img-106.png",
+        "thumbnail": "images/img-106.png",
+        "model": "Grok",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281478-2yfxsz6td",
+        "hash": "f38d503dba124b40134bafc98a3dd3ee",
+        "url": "images/img-109.png",
+        "thumbnail": "images/img-109.png",
+        "model": "Unknown",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243287142-dzizsyhxj",
+        "hash": "ac9e53f483610b5cc74c64a74014c906",
+        "url": "images/img-117.webp",
+        "thumbnail": "images/img-117.webp",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "id": "variant-img-086",
+    "variant_group": "img-086",
+    "prompt": "A three-quarter view portrait captures a young woman posing against a plain interior wall, photographed with a compact digital camera positioned at chest level to create a slightly upward angle. The composition places her centrally in the frame with careful attention to posing - one shoulder angled",
+    "category": "Otros",
+    "tags": [
+      "three-quarter",
+      "captures",
+      "young",
+      "woman",
+      "posing",
+      "plain",
+      "interior",
+      "wall",
+      "photographed",
+      "compact"
+    ],
+    "created_at": "2026-02-28T01:48:01.863Z",
+    "variants": [
+      {
+        "id": "img-1772022484285-plbce1920",
+        "hash": "28475b64e9019aaebc18f8be102d8a29",
+        "url": "images/img-086.png",
+        "thumbnail": "images/img-086.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": 0,
+        "settings": {
+          "otros": {
+            "platform": "opensourcegen",
+            "dimensions": "1024 × 1024",
+            "scheduler": "simple",
+            "generated with": "opensourcegen"
+          },
+          "seed": "161161811",
+          "steps": 14,
+          "sampler": "res_multistep"
+        },
+        "notes": ""
+      },
+      {
+        "id": "img-1772243281863-lukdoceo0",
+        "hash": "ad28d74e2586200593d8636c77b37e21",
+        "url": "images/img-113.png",
+        "thumbnail": "images/img-113.png",
+        "model": "Nano Banana Pro",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772243285078-s7f0n5mfs",
+        "hash": "7e57e3845d8506827607a3aadf232f18",
+        "url": "images/img-115.webp",
+        "thumbnail": "images/img-115.webp",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 4,
         "settings": {},
         "notes": ""
       }
