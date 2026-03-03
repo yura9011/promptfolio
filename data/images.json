@@ -4560,5 +4560,86 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "id": "variant-bone-throne-king",
+    "variant_group": "bone-throne-king",
+    "prompt": "1970s dark fantasy masterpiece, style of Wayne Barlowe and Caravaggio, full bleed edge-to-edge artwork. A regal king sits on a massive throne, but the throne is a living, breathing entity made of polished bone, stretched translucent silk-like skin, and softly glowing blue internal organs. The king himself wears armor crafted from hardened, iridescent insect carapace. The environment is a dark, opulent hall lit by floating, bioluminescent jellyfish-like creatures instead of chandeliers. Oppressive luxury, eerie silence, biological horror mixed with royal elegance. Masterful chiaroscuro lighting, deep shadows, rich burgundy, bone white, and sickly cyan palette. Heavy impasto oil texture. No text, no borders. --ar 9:16",
+    "category": "Dark Fantasy",
+    "tags": [
+      "dark",
+      "fantasy",
+      "masterpiece",
+      "wayne",
+      "barlowe",
+      "caravaggio",
+      "full",
+      "bleed",
+      "edge-to-edge",
+      "regal"
+    ],
+    "created_at": "2026-03-03T17:05:07.136Z",
+    "variants": [
+      {
+        "id": "img-1772557507824-696dwazb5",
+        "hash": "9a8facc5b3edba8d99a170ce125a577f",
+        "url": "images/img-102.png",
+        "thumbnail": "images/img-102.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": "0",
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772557507405-xcy3l682n",
+        "hash": "c6874b39850f28634ec9bd33820b6fa4",
+        "url": "images/img-099.png",
+        "thumbnail": "images/img-099.png",
+        "model": "Krea",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772557507200-niku48vqb",
+        "hash": "191e67f04187cbaa71534b084dc35cab",
+        "url": "images/img-098.jpeg",
+        "thumbnail": "images/img-098.jpeg",
+        "model": "ImageFX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772557507136-xpqtypaes",
+        "hash": "bb0e9f9a4736743eb5b6e8e99860025a",
+        "url": "images/img-097.jpg",
+        "thumbnail": "images/img-097.jpg",
+        "model": "Grok",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772557507499-m6es1030d",
+        "hash": "e8dd01ba8656814ccc2941f79cac4927",
+        "url": "images/img-100.jpeg",
+        "thumbnail": "images/img-100.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772557507664-255dvdh86",
+        "hash": "ea82314ad682147c4cad8f0c63f1976f",
+        "url": "images/img-101.jpeg",
+        "thumbnail": "images/img-101.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      }
+    ]
   }
 ]
