@@ -4722,5 +4722,86 @@
         "notes": ""
       }
     ]
+  },
+  {
+    "id": "variant-infinite-aqueduct",
+    "variant_group": "infinite-aqueduct",
+    "prompt": "Subject: {Type: Architecture, Structure: Infinite Aqueduct};Environment: {Setting: A void of swirling, pastel-colored clouds, Detail: The aqueduct is made of impossibly delicate, almost glass-like white stone. Instead of water, it carries a glowing, liquid silver substance that cascades down into the abyss. Tiny figures in bright red robes balance precariously on the razor-thin arches};Lighting: {Type: Ethereal, Source: The liquid silver, Shadows: Soft, almost non-existent};Mood: {Atmosphere: Dreamlike, Vertiginous, Serene but dangerous, Impossible Geometry};Color Palette: {Primary: Soft peach, Mint green, Pale lavender, Accents: Blinding liquid silver, Bright crimson};Style: {Aesthetic: Surrealism, Moebius inspired, Clean lines, Dreamscape, Masterpiece Illustration};Action: {Process: Flow, Ascend, Disorient};Negative: {Avoid: Realistic gravity, Text, Borders, Mundane architecture};Technical: {Resolution: 8k, Detail: Crisp, Wide Angle Perspective};10000steps~",
+    "category": "Surrealismo",
+    "tags": [
+      "subject",
+      "architecture",
+      "structure",
+      "infinite",
+      "aqueduct",
+      "environment",
+      "setting",
+      "void",
+      "swirling",
+      "pastel-colored"
+    ],
+    "created_at": "2026-03-03T17:12:45.510Z",
+    "variants": [
+      {
+        "id": "img-1772557965510-hlgvfih1j",
+        "hash": "19cef95724908650789caee7e0d8041e",
+        "url": "images/img-099.png",
+        "thumbnail": "images/img-099.png",
+        "model": "Z-Image-Turbo",
+        "variant_index": "0",
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772557965807-kh7j0w5s3",
+        "hash": "feed5f1cf3a981a245b50355789f8fbf",
+        "url": "images/img-102.png",
+        "thumbnail": "images/img-102.png",
+        "model": "Krea",
+        "variant_index": 1,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772557965647-eoy7cahzb",
+        "hash": "1beff5fd8ed495645fb2fc96cff9d523",
+        "url": "images/img-101.jpeg",
+        "thumbnail": "images/img-101.jpeg",
+        "model": "ImageFX",
+        "variant_index": 2,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772557965574-ul3wb3g2r",
+        "hash": "d8c212af820ac6af3294ab77541b44dc",
+        "url": "images/img-100.jpg",
+        "thumbnail": "images/img-100.jpg",
+        "model": "Grok",
+        "variant_index": 3,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772557965891-ah1fo4lc0",
+        "hash": "1e9f4fb31608bbcba4c228cc839cba9d",
+        "url": "images/img-103.jpeg",
+        "thumbnail": "images/img-103.jpeg",
+        "model": "Nano Banana Pro",
+        "variant_index": 4,
+        "settings": {},
+        "notes": ""
+      },
+      {
+        "id": "img-1772557965960-tj0b8k9xr",
+        "hash": "9c9647e6fe99d870a84c92d0f85bfc5b",
+        "url": "images/img-104.jpeg",
+        "thumbnail": "images/img-104.jpeg",
+        "model": "Nano Banana Pro 2",
+        "variant_index": 5,
+        "settings": {},
+        "notes": ""
+      }
+    ]
   }
 ]
