@@ -6,9 +6,12 @@ export class Search {
       search: '',
       category: 'all',
       achievementsOnly: false,
+      likesOnly: false,
+      likedIds: [],
       sort: 'date-desc',
       activeTag: null
     };
+    this.currentFiltered = null;
     this.debounceTimer = null;
     this.tagsContainer = document.getElementById('popularTags');
     this.searchInput = document.getElementById('searchInput');
@@ -47,6 +50,12 @@ export class Search {
     this.updateTagStyles();
   }
 
+  handleLikesFilter(enabled, likedIds) {
+    this.filters.likesOnly = enabled;
+    this.filters.likedIds = likedIds || [];
+    this.applyFilters();
+  }
+
   updateTagStyles() {
     if (!this.tagsContainer) return;
     const chips = this.tagsContainer.querySelectorAll('.tag-chip');
@@ -64,23 +73,23 @@ export class Search {
 
     if (this.filters.search || this.filters.activeTag) {
       const searchText = this.filters.search.toLowerCase();
-      
+
       filtered = filtered.filter(img => {
-        const tagsMatch = img.tags && img.tags.some(tag => 
+        const tagsMatch = img.tags && img.tags.some(tag =>
           tag.toLowerCase().includes(searchText)
         );
-        
-        const promptMatch = img.prompt && 
+
+        const promptMatch = img.prompt &&
           img.prompt.toLowerCase().includes(searchText);
-        
-        const modelMatch = img.model && 
+
+        const modelMatch = img.model &&
           img.model.toLowerCase().includes(searchText);
-        
-        const categoryMatch = img.category && 
+
+        const categoryMatch = img.category &&
           img.category.toLowerCase().includes(searchText);
-        
-        const tagFilterMatch = this.filters.activeTag ? 
-          (img.tags && img.tags.some(tag => 
+
+        const tagFilterMatch = this.filters.activeTag ?
+          (img.tags && img.tags.some(tag =>
             tag.toLowerCase() === this.filters.activeTag.toLowerCase()
           )) : true;
 
@@ -96,9 +105,24 @@ export class Search {
       filtered = filtered.filter(img => img.achievement === true);
     }
 
+    if (this.filters.likesOnly && this.filters.likedIds) {
+      filtered = filtered.filter(img => this.filters.likedIds.includes(img.id));
+    }
+
     filtered = this.sortImages(filtered, this.filters.sort);
 
+    this.currentFiltered = filtered;
     this.gallery.render(filtered);
+  }
+
+  getCurrentFiltered() {
+    return this.currentFiltered || this.allImages;
+  }
+
+  shuffleCurrent() {
+    const list = [...this.getCurrentFiltered()];
+    list.sort(() => 0.5 - Math.random());
+    this.gallery.render(list);
   }
 
   sortImages(images, sortOrder) {
@@ -125,7 +149,7 @@ export class Search {
 
   renderPopularTags() {
     if (!this.tagsContainer) return;
-    
+
     const tagCounts = {};
     this.allImages.forEach(image => {
       if (image.tags) {
@@ -142,7 +166,7 @@ export class Search {
 
     this.popularTags = sortedTags;
 
-    this.tagsContainer.innerHTML = sortedTags.map(tag => 
+    this.tagsContainer.innerHTML = sortedTags.map(tag =>
       `<span class="tag-chip" data-tag="${tag}">#${tag}</span>`
     ).join('');
 

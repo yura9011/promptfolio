@@ -119,6 +119,18 @@ export class Gallery {
 
     card.appendChild(img);
 
+    // Heart badge (Likes)
+    let likes = [];
+    try {
+      likes = JSON.parse(localStorage.getItem('promptfolio_likes') || '[]');
+    } catch(e) {}
+    
+    const isLiked = likes.includes(image.id);
+    const heartBtn = document.createElement('div');
+    heartBtn.className = `gallery__card-heart ${isLiked ? 'liked' : ''}`;
+    heartBtn.innerHTML = `<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>`;
+    card.appendChild(heartBtn);
+
     // Add dots for variants
     if (isVariant && image.variants.length > 1) {
       const dotsContainer = document.createElement('div');
