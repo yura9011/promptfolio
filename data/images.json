@@ -2605,16 +2605,6 @@
     "created_at": "2026-02-27T04:48:06.445Z",
     "variants": [
       {
-        "id": "img-1772167688084-ckf1rkof5",
-        "hash": "fcdfce601a8b51cbb0a5bd94d0f0ed01",
-        "url": "images/img-100.jpg",
-        "thumbnail": "images/img-100.jpg",
-        "model": "Grok",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
         "id": "img-1772167690319-erikz2ljq",
         "hash": "a9404f2a9a63208df141da06351531fb",
         "url": "images/img-119.png",
@@ -2878,16 +2868,6 @@
         "notes": ""
       },
       {
-        "id": "img-1772167687615-rldsf3i3t",
-        "hash": "702d5bbaf3fdc58723027ecd8182728d",
-        "url": "images/img-097.jpeg",
-        "thumbnail": "images/img-097.jpeg",
-        "model": "NanoBananaPro2",
-        "variant_index": 4,
-        "settings": {},
-        "notes": ""
-      },
-      {
         "id": "img-1772167686817-ahe2yk1dd",
         "hash": "b95d4512db567cdef46a9508db257429",
         "url": "images/img-091.jpeg",
@@ -2928,16 +2908,6 @@
     ],
     "created_at": "2026-02-27T04:48:06.950Z",
     "variants": [
-      {
-        "id": "img-1772167688840-ncs54wt8c",
-        "hash": "048040d396c5586b200b150c2ef25d81",
-        "url": "images/img-105.jpg",
-        "thumbnail": "images/img-105.jpg",
-        "model": "Grok",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
       {
         "id": "img-1772167692927-6qkpoek4s",
         "hash": "cd9ee934422d345c312f0c095f7ae128",
@@ -2999,16 +2969,6 @@
     ],
     "created_at": "2026-02-27T04:48:07.888Z",
     "variants": [
-      {
-        "id": "img-1772167687888-76nt9gtmq",
-        "hash": "8fe8fb521f52434c8c86d356378145cc",
-        "url": "images/img-099.jpg",
-        "thumbnail": "images/img-099.jpg",
-        "model": "Grok",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
       {
         "id": "img-1772167690091-gjf31fwwp",
         "hash": "1aaaa58ab5eed5038bbe2fd6c32f7340",
@@ -3087,16 +3047,6 @@
         "thumbnail": "images/img-104.jpg",
         "model": "Grok",
         "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772167689698-ocrn83y9z",
-        "hash": "91e3230520f79a1cf722ea3a690a6ed6",
-        "url": "images/img-113.png",
-        "thumbnail": "images/img-113.png",
-        "model": "ImageFX",
-        "variant_index": 2,
         "settings": {},
         "notes": ""
       },
@@ -3411,36 +3361,6 @@
         "notes": ""
       },
       {
-        "id": "img-1772169532836-m6hw9qggf",
-        "hash": "dab68499ff65883c6efb81757db7a1d5",
-        "url": "images/img-100.png",
-        "thumbnail": "images/img-100.png",
-        "model": "Krea",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772169532696-du3mpaggt",
-        "hash": "fe969064186eb25022642ae169a4b8bc",
-        "url": "images/img-099.png",
-        "thumbnail": "images/img-099.png",
-        "model": "ImageFX",
-        "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772169532551-ksyyh97jk",
-        "hash": "aa3b74eac8741a48ed610f170f6d2075",
-        "url": "images/img-098.jpeg",
-        "thumbnail": "images/img-098.jpeg",
-        "model": "BananaPro",
-        "variant_index": 3,
-        "settings": {},
-        "notes": ""
-      },
-      {
         "id": "img-1772169532414-w1zdpzf9k",
         "hash": "eb665be5768112d051caeb533f9eee96",
         "url": "images/img-097.jpeg",
@@ -3492,32 +3412,12 @@
         "notes": ""
       },
       {
-        "id": "img-1772220199183-fowv4ecjo",
-        "hash": "dbe2542174cc980f0f434cd1aea89466",
-        "url": "images/img-099.png",
-        "thumbnail": "images/img-099.png",
-        "model": "Krea",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
         "id": "img-1772220199029-wsemu40h7",
         "hash": "78a3e20553f89861ac1fa2ba21ac6e86",
         "url": "images/img-098.png",
         "thumbnail": "images/img-098.png",
         "model": "ImageFX",
         "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772220198956-cx1kjb58u",
-        "hash": "011339c538f35bcff0d1ded56f952c7c",
-        "url": "images/img-097.jpg",
-        "thumbnail": "images/img-097.jpg",
-        "model": "Grok",
-        "variant_index": 3,
         "settings": {},
         "notes": ""
       },
@@ -3569,40 +3469,12 @@
         "notes": ""
       },
       {
-        "id": "img-1772221324086-yzun9xpos",
-        "hash": "e264e7ad1e839e673b277cb43e283d7b",
-        "url": "images/img-099.png",
-        "thumbnail": "images/img-099.png",
-        "model": "Krea",
-        "variant_index": 1,
-        "settings": {
-          "otros": {
-            "<?xml version": "\"1.0\" encoding=\"UTF-8\"?>"
-          }
-        },
-        "notes": ""
-      },
-      {
         "id": "img-1772221323954-binof3xea",
         "hash": "1fff565adc90c2a061490be2f8fa78cd",
         "url": "images/img-098.png",
         "thumbnail": "images/img-098.png",
         "model": "ImageFX",
         "variant_index": 2,
-        "settings": {
-          "otros": {
-            "<?xml version": "\"1.0\" encoding=\"UTF-8\"?>"
-          }
-        },
-        "notes": ""
-      },
-      {
-        "id": "img-1772221323915-89olqyeec",
-        "hash": "ecbce4cbde7771de56f0cd75012ebf3d",
-        "url": "images/img-097.jpg",
-        "thumbnail": "images/img-097.jpg",
-        "model": "Grok",
-        "variant_index": 3,
         "settings": {
           "otros": {
             "<?xml version": "\"1.0\" encoding=\"UTF-8\"?>"
@@ -3666,32 +3538,12 @@
         "notes": ""
       },
       {
-        "id": "img-1772221580937-5y2gjl71c",
-        "hash": "3d129e725e78f8f67c99ce305d34803a",
-        "url": "images/img-099.png",
-        "thumbnail": "images/img-099.png",
-        "model": "Krea",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
         "id": "img-1772221580724-lfoy95khk",
         "hash": "d3b297f3f037cfc21cda4289ba8a0fa3",
         "url": "images/img-098.png",
         "thumbnail": "images/img-098.png",
         "model": "ImageFX",
         "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772221580642-m8k47m4ro",
-        "hash": "e3d6069e302b51c95ff2a627ed7aa5b8",
-        "url": "images/img-097.jpg",
-        "thumbnail": "images/img-097.jpg",
-        "model": "Grok",
-        "variant_index": 3,
         "settings": {},
         "notes": ""
       },
@@ -3747,42 +3599,12 @@
         "notes": ""
       },
       {
-        "id": "img-1772221822903-oa6cjnvyx",
-        "hash": "e8236ac8fd44aa53b2318221b8e92ec5",
-        "url": "images/img-099.png",
-        "thumbnail": "images/img-099.png",
-        "model": "Krea",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
         "id": "img-1772221822119-jvq2ddrcw",
         "hash": "3c4c7e32a86f9eeeaa5b5f2270141fa6",
         "url": "images/img-098.png",
         "thumbnail": "images/img-098.png",
         "model": "ImageFX",
         "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772221821751-khboxj9wl",
-        "hash": "0857e042fdcf63df5b200efb24f1eb3f",
-        "url": "images/img-097.jpg",
-        "thumbnail": "images/img-097.jpg",
-        "model": "Grok",
-        "variant_index": 3,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772221826736-ii8te947x",
-        "hash": "37d190e9fed4223180186629453cb875",
-        "url": "images/img-100.webp",
-        "thumbnail": "images/img-100.webp",
-        "model": "Nano Banana Pro 2",
-        "variant_index": 4,
         "settings": {},
         "notes": ""
       }
@@ -3824,40 +3646,12 @@
         "notes": ""
       },
       {
-        "id": "img-1772222074807-0qoc289dq",
-        "hash": "89eb23683463ea1f7e994e0561ea9c94",
-        "url": "images/img-099.png",
-        "thumbnail": "images/img-099.png",
-        "model": "Krea",
-        "variant_index": 1,
-        "settings": {
-          "otros": {
-            "<?xml version": "\"1.0\" encoding=\"UTF-8\"?>"
-          }
-        },
-        "notes": ""
-      },
-      {
         "id": "img-1772222074694-p7ejxckwx",
         "hash": "d334f12f35a30f5ef6b1c4481300a45b",
         "url": "images/img-098.png",
         "thumbnail": "images/img-098.png",
         "model": "ImageFX",
         "variant_index": 2,
-        "settings": {
-          "otros": {
-            "<?xml version": "\"1.0\" encoding=\"UTF-8\"?>"
-          }
-        },
-        "notes": ""
-      },
-      {
-        "id": "img-1772222074660-xibcm2glw",
-        "hash": "8b88ab1f4895a2070e1f62edccf3bdb7",
-        "url": "images/img-097.jpg",
-        "thumbnail": "images/img-097.jpg",
-        "model": "Grok",
-        "variant_index": 3,
         "settings": {
           "otros": {
             "<?xml version": "\"1.0\" encoding=\"UTF-8\"?>"
@@ -3923,16 +3717,6 @@
         "thumbnail": "images/img-098.png",
         "model": "ImageFX",
         "variant_index": 2,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772222270443-b6li5f36i",
-        "hash": "5d6b1eb81098c890169329ec82a2fcec",
-        "url": "images/img-097.jpg",
-        "thumbnail": "images/img-097.jpg",
-        "model": "Grok",
-        "variant_index": 3,
         "settings": {},
         "notes": ""
       },
@@ -4047,26 +3831,6 @@
           "steps": 14,
           "sampler": "res_multistep"
         },
-        "notes": ""
-      },
-      {
-        "id": "img-1772243274358-2k913d5eu",
-        "hash": "948a6257322d1008813aed4c4b2ee818",
-        "url": "images/img-097.jpg",
-        "thumbnail": "images/img-097.jpg",
-        "model": "Grok",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772243281301-gvf8r6pnq",
-        "hash": "d65104c1b2888b86438cbe4c4779e297",
-        "url": "images/img-107.png",
-        "thumbnail": "images/img-107.png",
-        "model": "ImageFX",
-        "variant_index": 2,
-        "settings": {},
         "notes": ""
       },
       {
@@ -4344,26 +4108,6 @@
           "sampler": "res_multistep"
         },
         "notes": ""
-      },
-      {
-        "id": "img-1772243279086-kzci1vf1h",
-        "hash": "670a4f0b9e4fb8eaab9b2b9364706318",
-        "url": "images/img-101.webp",
-        "thumbnail": "images/img-101.webp",
-        "model": "Unknown",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772243281010-mh0d5eww8",
-        "hash": "11f211b8939a7047fc0ae11a81788ac9",
-        "url": "images/img-103.png",
-        "thumbnail": "images/img-103.png",
-        "model": "Unknown",
-        "variant_index": 2,
-        "settings": {},
-        "notes": ""
       }
     ]
   },
@@ -4405,16 +4149,6 @@
           "steps": 14,
           "sampler": "res_multistep"
         },
-        "notes": ""
-      },
-      {
-        "id": "img-1772243280862-ynm9te1tl",
-        "hash": "5280cbecc0e8226c77bef89221d2900a",
-        "url": "images/img-102.webp",
-        "thumbnail": "images/img-102.webp",
-        "model": "Nano Banana Pro 2",
-        "variant_index": 1,
-        "settings": {},
         "notes": ""
       }
     ]
@@ -4581,26 +4315,6 @@
     "created_at": "2026-03-03T17:05:07.136Z",
     "variants": [
       {
-        "id": "img-1772557507824-696dwazb5",
-        "hash": "9a8facc5b3edba8d99a170ce125a577f",
-        "url": "images/img-102.png",
-        "thumbnail": "images/img-102.png",
-        "model": "Z-Image-Turbo",
-        "variant_index": "0",
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772557507405-xcy3l682n",
-        "hash": "c6874b39850f28634ec9bd33820b6fa4",
-        "url": "images/img-099.png",
-        "thumbnail": "images/img-099.png",
-        "model": "Krea",
-        "variant_index": 1,
-        "settings": {},
-        "notes": ""
-      },
-      {
         "id": "img-1772557507200-niku48vqb",
         "hash": "191e67f04187cbaa71534b084dc35cab",
         "url": "images/img-098.jpeg",
@@ -4627,16 +4341,6 @@
         "thumbnail": "images/img-100.jpeg",
         "model": "Nano Banana Pro",
         "variant_index": 4,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772557507664-255dvdh86",
-        "hash": "ea82314ad682147c4cad8f0c63f1976f",
-        "url": "images/img-101.jpeg",
-        "thumbnail": "images/img-101.jpeg",
-        "model": "Nano Banana Pro 2",
-        "variant_index": 5,
         "settings": {},
         "notes": ""
       }
@@ -4698,16 +4402,6 @@
         "thumbnail": "images/img-098.jpg",
         "model": "Grok",
         "variant_index": 3,
-        "settings": {},
-        "notes": ""
-      },
-      {
-        "id": "img-1772557690251-773ep3n8l",
-        "hash": "8251a9a6b120954f8c746e0f1b7ab57c",
-        "url": "images/img-101.jpeg",
-        "thumbnail": "images/img-101.jpeg",
-        "model": "Nano Banana Pro",
-        "variant_index": 4,
         "settings": {},
         "notes": ""
       },

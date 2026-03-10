@@ -2,6 +2,7 @@
 import { Gallery } from './gallery.js';
 import { Modal } from './modal.js';
 import { Search } from './search.js';
+import { DataLoader } from './data-loader.js';
 
 class App {
   constructor() {
@@ -9,10 +10,14 @@ class App {
     this.modal = null;
     this.search = null;
     this.images = [];
+    this.dataLoader = new DataLoader();
   }
 
   async init() {
     try {
+      // Initialize data loader
+      await this.dataLoader.init();
+      
       // Load images data
       this.images = await this.loadImages();
 
@@ -38,11 +43,8 @@ class App {
   }
 
   async loadImages() {
-    const response = await fetch('data/images.json');
-    if (!response.ok) {
-      throw new Error('Failed to load images');
-    }
-    const data = await response.json();
+    // Use DataLoader to get all images
+    const data = await this.dataLoader.getAllImages();
     return data;
   }
 

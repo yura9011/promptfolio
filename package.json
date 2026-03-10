@@ -8,7 +8,9 @@
     "upload": "node scripts/upload-local.js",
     "upload-cloudinary": "node scripts/upload-images.js",
     "validate": "node scripts/validate-data.js",
-    "test": "node scripts/upload-local.js --dry-run"
+    "test": "node scripts/upload-local.js --dry-run",
+    "build": "node scripts/build-split-json.js",
+    "predeploy": "npm run build"
   },
   "keywords": [
     "ai",
