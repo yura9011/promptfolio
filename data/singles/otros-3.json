@@ -1,0 +1,727 @@
+[
+  {
+    "id": "img-1772022367232-z0qdt2upr",
+    "hash": "fce7ffe30bc5f1c45ad086583938fb6f",
+    "url": "images/img-059.png",
+    "thumbnail": "images/img-059.png",
+    "filename": "img-059.png",
+    "prompt": "A medium shot captures a woman in a dressing room, photographed from a natural eye-level angle that emphasizes the intimate, behind-the-scenes quality of the moment. She sits on a small bench with one black pump on her foot while the other shoe lies on the floor beside her. Her gaze is directed downward, creating a sense of private contemplation. The dressing room features the classic setup of mirror lights creating bright, even illumination.The lighting comes from a series of incandescent bulbs arranged around a large mirror, providing the bright, shadowless illumination typical of theatrical dressing rooms. The light has a warm, slightly harsh quality that reveals natural skin texture and creates subtle shadows in the room's corners. The space includes typical dressing room elements - a makeup counter, clothing hooks, and a cushioned bench.The foreground shows the discarded shoe and the textured floor of the dressing room. The midground features her partially dressed figure as she pauses in her routine. The background includes the mirror with its surrounding lights and hints of hanging garments. The color palette consists of warm whites and golds from the mirror lights, with neutral tones from the room's fixtures and the black accent of her shoes. The unposed quality of the moment creates authenticity within the polished environment of the dressing room.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "240492828",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:07.232Z",
+    "tags": [
+      "natural",
+      "eye-level",
+      "behind-the-scenes",
+      "classic",
+      "bright",
+      "light",
+      "warm",
+      "textured",
+      "captures",
+      "dressing"
+    ]
+  },
+  {
+    "id": "img-1772022367336-3ke4jj9u3",
+    "hash": "e8b931440b52de75d4fbca59e634c0ff",
+    "url": "images/img-060.png",
+    "thumbnail": "images/img-060.png",
+    "filename": "img-060.png",
+    "prompt": "A soft, natural light photograph captures a woman sitting on the edge of an unmade bed, shot from a medium distance that shows both her relaxed posture and the bedroom environment. She wears an oversized white cotton shirt that drapes loosely over her form, the fabric catching and diffusing the gentle daylight. Her hair appears naturally tousled, suggesting she has just awakened or is in a state of casual undress. Her expression is calm and neutral, eyes focused on something beyond the camera's view.Daylight streams through a nearby window, creating soft, diffused illumination that fills the room with gentle brightness. The light has the clean, cool quality of morning or early afternoon sun, creating minimal shadows and even exposure across the scene. The bedroom features simple, elegant furnishings with white bedding, natural wood furniture, and minimal decoration that emphasizes cleanliness and simplicity.The foreground includes the rumpled bed linens with their natural texture and soft shadows. The midground centers on her seated figure against the bed's white sheets. The background shows hints of the bedroom's minimal decor and the light-filled window. The color palette is dominated by soft whites and creams, with warm wood tones providing natural contrast. The overall atmosphere suggests peaceful morning light and the quiet intimacy of private space, captured with the clarity and composition of professional fashion photography.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "117131528",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:07.336Z",
+    "tags": [
+      "soft",
+      "natural",
+      "light",
+      "cool",
+      "minimal",
+      "simple",
+      "light-filled",
+      "warm",
+      "captures",
+      "sitting"
+    ]
+  },
+  {
+    "id": "img-1772022367415-em2jh7yf6",
+    "hash": "3677092b4507a73db0b48b639a8142a8",
+    "url": "images/img-061.png",
+    "thumbnail": "images/img-061.png",
+    "filename": "img-061.png",
+    "prompt": "A wide shot captures a woman standing on a balcony at night, photographed from inside the room looking out through glass doors. She wears a flowing silk dress that catches the subtle night breeze, the fabric moving gently around her form. Her arms rest naturally on the balcony railing as she gazes out at the distant city lights that twinkle like scattered stars across the urban landscape. The composition uses shallow depth of field to keep her in sharp focus while the background lights blur into soft bokeh.The lighting is minimal and natural, coming primarily from the ambient city glow and perhaps a subtle interior light source behind the camera. The night atmosphere creates a romantic, cinematic quality with deep blues and purples dominating the color palette. The distant city lights provide warm points of gold and white that contrast beautifully with the cooler night tones.The foreground includes the interior space with hints of the room's furnishings visible at the frame's edges. The midground features her silhouetted figure against the night sky and city vista. The background shows the sprawling urban landscape with its pattern of lights extending to the horizon. The color palette combines deep midnight blues with warm golden points of light, while the silk dress catches subtle highlights that define its flowing movement. The overall mood suggests contemplative solitude and urban romance, captured with the cinematic realism of professional night photography.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "807007571",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:07.415Z",
+    "tags": [
+      "soft",
+      "minimal",
+      "natural",
+      "light",
+      "cinematic",
+      "warm",
+      "captures",
+      "standing",
+      "balcony",
+      "photographed"
+    ]
+  },
+  {
+    "id": "img-1772022401247-4k58nfiar",
+    "hash": "a1c02acfcb185c675f9f30a1442fc1d4",
+    "url": "images/img-063.png",
+    "thumbnail": "images/img-063.png",
+    "filename": "img-063.png",
+    "prompt": "An eye-level view shows a person seated at a cluttered computer desk in complete darkness, illuminated only by the cold blue glow of a CRT monitor and the harsh white light of a webcam mounted above the screen. The composition places the viewer directly in front of the setup, creating an intimate documentary-style frame that captures the isolation of late-night digital communication.The webcam's LED creates dramatic uplighting on the person's face, casting deep shadows in their eye sockets and under their cheekbones while creating an unnatural pallor on their skin. Their eyes appear tired with visible dark circles, and their posture shows the slouched exhaustion of someone who has been sitting too long. They wear a rumpled t-shirt or hoodie, the fabric catching the monitor's blue glow in uneven patches.he desk surface is a landscape of technological chaos: tangled cables snake between devices in black and gray coils, creating organic curves against the geometric shapes of computer equipment. The CRT monitor dominates the scene with its characteristic curved screen displaying bright content that creates a blue-white wash across the immediate area. The screen's glow reveals dust particles floating in the air and highlights the texture of accumulated grime on the monitor's plastic housing.Behind the person, the room disappears into complete darkness, with only the faintest suggestion of furniture shapes - perhaps a bed or chair - barely visible at the edge of the light's reach. The atmosphere is thick with the particular quality of stagnant indoor air and electronic heat.The lighting creates a stark contrast between the harshly lit face and the void-like darkness surrounding it.The image quality exhibits the characteristic low-light digital noise of early webcam technology - visible grain throughout the darker areas, slight color bleeding around high-contrast edges, and the particular compression artifacts of streaming video. The framing is imperfect and utilitarian, cropped awkwardly as if captured during an actual video call rather than posed for artistic effect.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "an eye-level view shows a person seated at a cluttered computer desk in complete darkness, illuminated only by the cold blue glow of a crt monitor and the harsh white light of a webcam mounted above the screen. the composition places the viewer directly in front of the setup, creating an intimate documentary-style frame that captures the isolation of late-night digital communication.the webcam's led creates dramatic uplighting on the person's face, casting deep shadows in their eye sockets and under their cheekbones while creating an unnatural pallor on their skin. their eyes appear tired with visible dark circles, and their posture shows the slouched exhaustion of someone who has been sitting too long. they wear a rumpled t-shirt or hoodie, the fabric catching the monitor's blue glow in uneven patches.he desk surface is a landscape of technological chaos": "tangled cables snake between devices in black and gray coils, creating organic curves against the geometric shapes of computer equipment. The CRT monitor dominates the scene with its characteristic curved screen displaying bright content that creates a blue-white wash across the immediate area. The screen's glow reveals dust particles floating in the air and highlights the texture of accumulated grime on the monitor's plastic housing.Behind the person, the room disappears into complete darkness, with only the faintest suggestion of furniture shapes - perhaps a bed or chair - barely visible at the edge of the light's reach. The atmosphere is thick with the particular quality of stagnant indoor air and electronic heat.The lighting creates a stark contrast between the harshly lit face and the void-like darkness surrounding it.The image quality exhibits the characteristic low-light digital noise of early webcam technology - visible grain throughout the darker areas, slight color bleeding around high-contrast edges, and the particular compression artifacts of streaming video. The framing is imperfect and utilitarian, cropped awkwardly as if captured during an actual video call rather than posed for artistic effect.",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "258259961",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:41.247Z",
+    "tags": [
+      "eye-level",
+      "light",
+      "documentary-style",
+      "late-night",
+      "dramatic",
+      "dark",
+      "t-shirt",
+      "bright",
+      "blue-white",
+      "void-like"
+    ]
+  },
+  {
+    "id": "img-1772022401374-g4us6bkvj",
+    "hash": "04fff8e317ca55ebe6efa9a43b4122ae",
+    "url": "images/img-064.png",
+    "thumbnail": "images/img-064.png",
+    "filename": "img-064.png",
+    "prompt": "A medium shot captures a young person sitting cross-legged on a carpeted bedroom floor, their back resting against the side of an unmade bed. The composition is framed from a slightly elevated angle, as if the camera were placed on the bed looking down, creating an intimate and vulnerable perspective that emphasizes the subject's emotional state.The person holds a basic smartphone in both hands, the device's screen casting a cool blue glow upward onto their face in the dim room. Their expression is contemplative and slightly melancholic, eyes focused on the screen with the particular intensity of someone absorbed in digital communication. They wear comfortable, casual clothing - an oversized sweatshirt and loose-fitting pants that suggest this is a private, unguarded moment.Scattered around them on the carpet are the artifacts of teenage introspection: a spiral notebook lies open with handwritten text visible on the pages, the ink appearing dark blue or black against the white paper. Tangled earphone wires create organic curves across the floor, their white or black cables catching small highlights from the ambient light. A pen or pencil rests nearby, suggesting recent writing activity.The lighting comes primarily from a small desk lamp positioned somewhere off-frame, creating warm, golden illumination that pools unevenly across the scene. This warm light contrasts with the cool blue glow from the phone screen, creating a color temperature split that adds emotional depth to the image. The bed behind shows rumpled sheets and pillows in natural disarray, their fabric textures visible in the soft light.he shallow depth of field keeps the person in sharp focus while allowing background elements to fall into gentle blur, creating visual separation and emphasizing the isolation of the moment. The carpet shows realistic texture with visible fibers and slight wear patterns. The overall atmosphere captures the particular loneliness and introspection of early social media culture, when digital connection often emphasized rather than alleviated feelings of isolation. The image quality suggests the aesthetic of early smartphone cameras - slightly soft focus, natural grain, and the authentic imperfection of candid photography.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "a medium shot captures a young person sitting cross-legged on a carpeted bedroom floor, their back resting against the side of an unmade bed. the composition is framed from a slightly elevated angle, as if the camera were placed on the bed looking down, creating an intimate and vulnerable perspective that emphasizes the subject's emotional state.the person holds a basic smartphone in both hands, the device's screen casting a cool blue glow upward onto their face in the dim room. their expression is contemplative and slightly melancholic, eyes focused on the screen with the particular intensity of someone absorbed in digital communication. they wear comfortable, casual clothing - an oversized sweatshirt and loose-fitting pants that suggest this is a private, unguarded moment.scattered around them on the carpet are the artifacts of teenage introspection": "a spiral notebook lies open with handwritten text visible on the pages, the ink appearing dark blue or black against the white paper. Tangled earphone wires create organic curves across the floor, their white or black cables catching small highlights from the ambient light. A pen or pencil rests nearby, suggesting recent writing activity.The lighting comes primarily from a small desk lamp positioned somewhere off-frame, creating warm, golden illumination that pools unevenly across the scene. This warm light contrasts with the cool blue glow from the phone screen, creating a color temperature split that adds emotional depth to the image. The bed behind shows rumpled sheets and pillows in natural disarray, their fabric textures visible in the soft light.he shallow depth of field keeps the person in sharp focus while allowing background elements to fall into gentle blur, creating visual separation and emphasizing the isolation of the moment. The carpet shows realistic texture with visible fibers and slight wear patterns. The overall atmosphere captures the particular loneliness and introspection of early social media culture, when digital connection often emphasized rather than alleviated feelings of isolation. The image quality suggests the aesthetic of early smartphone cameras - slightly soft focus, natural grain, and the authentic imperfection of candid photography.",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "52527152",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:41.374Z",
+    "tags": [
+      "cross-legged",
+      "cool",
+      "loose-fitting",
+      "dark",
+      "light",
+      "off-frame",
+      "warm",
+      "natural",
+      "soft",
+      "realistic"
+    ]
+  },
+  {
+    "id": "img-1772022401907-it3u5iwv4",
+    "hash": "bd97b474722674488dcb4cb32556881a",
+    "url": "images/img-068.png",
+    "thumbnail": "images/img-068.png",
+    "filename": "img-068.png",
+    "prompt": "A close-up view captures the interior of a city bus at night, framed through the perspective of someone sitting by a window and photographing their own reflection in the glass. The composition is tightly cropped around the window area, creating an intimate frame that emphasizes the layered reflections and the urban landscape beyond.The person's face appears as a ghostly double exposure in the window glass - partially transparent and overlaid with the moving city lights outside. They hold an early smartphone or basic digital camera close to the window, the device visible as a dark rectangular shape in their hands. Their features are softly lit by the bus's interior fluorescent lighting, which creates a cool, institutional glow that mixes with the warm colors of the city lights streaming past.The window glass itself becomes a complex surface of layered imagery: the person's reflection mingles with streaks of light from passing cars, neon signs, and streetlights that create long horizontal trails due to the bus's motion. These light trails appear as golden, red, and white streaks that blur and distort across the glass surface, creating abstract patterns that intersect with the human reflection.The bus interior visible in the reflection shows typical public transit details: metal handrails with worn grip surfaces, plastic seats with visible scuff marks, and the particular lighting quality of fluorescent tubes that creates slight flicker and uneven illumination. Other passengers may be barely visible as dark silhouettes in the background, their forms blurred by motion and the complex reflections.The motion blur is authentic and organic - not perfectly horizontal but slightly irregular due to the natural vibration and movement of the bus over city streets. The city lights outside create a tapestry of warm and cool colors: amber streetlights, red taillights, blue-white LED signs, and the occasional green traffic signal, all stretched into abstract forms by the vehicle's movement.The image quality exhibits the characteristic limitations of early mobile photography in challenging conditions - visible digital noise throughout, slight color bleeding around bright light sources, and the particular compression artifacts of low-light photography. The overall aesthetic captures the contemplative isolation of urban transit, when the journey becomes a moment of reflection literally and figuratively, suspended between departure and destination in the anonymous flow of city life.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "a close-up view captures the interior of a city bus at night, framed through the perspective of someone sitting by a window and photographing their own reflection in the glass. the composition is tightly cropped around the window area, creating an intimate frame that emphasizes the layered reflections and the urban landscape beyond.the person's face appears as a ghostly double exposure in the window glass - partially transparent and overlaid with the moving city lights outside. they hold an early smartphone or basic digital camera close to the window, the device visible as a dark rectangular shape in their hands. their features are softly lit by the bus's interior fluorescent lighting, which creates a cool, institutional glow that mixes with the warm colors of the city lights streaming past.the window glass itself becomes a complex surface of layered imagery": "the person's reflection mingles with streaks of light from passing cars, neon signs, and streetlights that create long horizontal trails due to the bus's motion. These light trails appear as golden, red, and white streaks that blur and distort across the glass surface, creating abstract patterns that intersect with the human reflection.The bus interior visible in the reflection shows typical public transit details: metal handrails with worn grip surfaces, plastic seats with visible scuff marks, and the particular lighting quality of fluorescent tubes that creates slight flicker and uneven illumination. Other passengers may be barely visible as dark silhouettes in the background, their forms blurred by motion and the complex reflections.The motion blur is authentic and organic - not perfectly horizontal but slightly irregular due to the natural vibration and movement of the bus over city streets. The city lights outside create a tapestry of warm and cool colors: amber streetlights, red taillights, blue-white LED signs, and the occasional green traffic signal, all stretched into abstract forms by the vehicle's movement.The image quality exhibits the characteristic limitations of early mobile photography in challenging conditions - visible digital noise throughout, slight color bleeding around bright light sources, and the particular compression artifacts of low-light photography. The overall aesthetic captures the contemplative isolation of urban transit, when the journey becomes a moment of reflection literally and figuratively, suspended between departure and destination in the anonymous flow of city life.",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "590228041",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:41.907Z",
+    "tags": [
+      "close-up",
+      "dark",
+      "cool",
+      "warm",
+      "complex",
+      "light",
+      "neon",
+      "abstract",
+      "natural",
+      "blue-white"
+    ]
+  },
+  {
+    "id": "img-1772022402029-ke1377slc",
+    "hash": "413662f221d9460eaeaa024c6d722d36",
+    "url": "images/img-069.png",
+    "thumbnail": "images/img-069.png",
+    "filename": "img-069.png",
+    "prompt": "A medium shot captures a teenager lying on their back on an unmade bed, photographed from a slightly elevated angle that looks down at their prone figure. The composition places them diagonally across the frame, their body relaxed in the natural sprawl of someone lost in thought. Their gaze is directed upward toward the ceiling, eyes unfocused in the particular way of deep contemplation or daydreaming.The person wears comfortable, casual clothing - an oversized t-shirt or hoodie that has ridden up slightly from their position, and loose-fitting pants or shorts. A smartphone rests on their chest, rising and falling gently with their breathing, its dark screen reflecting the ambient room light. Their arms lie naturally at their sides, one hand perhaps touching the phone, the other resting on the rumpled bedding.The wall above and around the bed is decorated with handwritten quotes and phrases taped directly to the surface using clear tape or small pieces of masking tape. The papers are various sizes - some torn from notebooks with visible spiral binding holes, others cut from larger sheets. The handwriting is authentic teenage script, with varying pen colors and the natural imperfections of casual writing. Some papers show slight curling at the edges where the tape has begun to lose adhesion.The bedding consists of rumpled sheets and blankets in natural disarray, their fabric textures clearly visible in the soft lighting. Pillows are positioned haphazardly, some still bearing the impression of recent use. The bed surface shows the authentic landscape of someone who spends significant time there - slight depressions in the mattress, wrinkles in the fabric that catch and hold shadows.The lighting comes primarily from a small desk lamp positioned somewhere off-frame, creating warm, golden illumination that pools unevenly across the scene. This creates areas of bright highlight and deep shadow, with the light quality suggesting an incandescent bulb rather than harsh fluorescent lighting. The shallow depth of field keeps the person in sharp focus while allowing background elements to fall into gentle blur.The overall atmosphere captures the particular melancholy and introspection of adolescence, when bedrooms become sanctuaries for processing complex emotions and when handwritten words on walls serve as both decoration and emotional anchor. The image quality suggests the aesthetic of early social media photography - natural grain, authentic color temperature, and the unposed honesty of private moments.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "844162090",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:42.029Z",
+    "tags": [
+      "natural",
+      "t-shirt",
+      "loose-fitting",
+      "dark",
+      "light",
+      "soft",
+      "off-frame",
+      "warm",
+      "bright",
+      "complex"
+    ]
+  },
+  {
+    "id": "img-1772022402293-7eon00w0c",
+    "hash": "9585c1415a7e914f8e16dc628d70d523",
+    "url": "images/img-071.png",
+    "thumbnail": "images/img-071.png",
+    "filename": "img-071.png",
+    "prompt": "A medium shot captures a person sitting on concrete apartment building stairs, photographed from a slightly elevated angle that looks down the stairwell. The composition places them on one of the middle steps, their body positioned naturally with knees drawn up slightly and feet planted on the step below. They hold an early digital camera in both hands, looking down at its small LCD screen with the focused attention of someone reviewing photos or adjusting settings.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "62718990",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:42.293Z",
+    "tags": [
+      "captures",
+      "sitting",
+      "concrete",
+      "apartment",
+      "building",
+      "photographed",
+      "slightly",
+      "elevated",
+      "stairwell",
+      "composition"
+    ]
+  },
+  {
+    "id": "img-1772022402405-1wcrt83iv",
+    "hash": "3e45af5fe9a78859d46437e047939463",
+    "url": "images/img-072.png",
+    "thumbnail": "images/img-072.png",
+    "filename": "img-072.png",
+    "prompt": "The person wears casual, everyday clothing that shows the natural wrinkles and wear of being lived in - perhaps jeans and a hoodie or t-shirt. Their posture conveys a moment of pause or contemplation, as if they've stopped during their journey up or down the stairs to check their camera or simply rest. The way they hold the device suggests familiarity with its weight and controls, their fingers positioned naturally on its surface.The stairwell around them shows the institutional architecture typical of apartment buildings: concrete steps with metal safety strips along the edges, their surfaces showing scuff marks and the accumulated wear of countless footsteps. The handrail, likely metal painted in a utilitarian color, shows signs of frequent use with worn spots where hands naturally grip. The walls are painted in neutral, institutional colors - perhaps beige, gray, or off-white - with visible scuff marks and the occasional small crack or imperfection.The lighting comes from a single overhead fixture typical of apartment building common areas - likely fluorescent or a basic incandescent bulb that creates harsh, yellow-tinted illumination. This institutional lighting casts strong shadows in the stairwell's corners and creates the particular quality of light found in transitional spaces - neither warm nor welcoming, but functional and slightly harsh.The camera's LCD screen provides a small source of blue-white light that illuminates the person's face from below, creating subtle uplighting that contrasts with the overhead fixture. The screen's glow is authentic to early digital cameras - small, bright, and slightly pixelated when viewed closely.The stairwell extends both above and below the frame, creating a sense of vertical space and the particular acoustics of enclosed concrete spaces. The atmosphere carries the institutional quality of shared residential spaces - neither private nor fully public, but existing in the liminal zone of apartment building common areas. The image quality reflects the aesthetic of casual photography from the early digital era - natural grain, authentic color temperature from mixed lighting sources, and the unposed honesty of someone captured in a transitional moment between destinations.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "the person wears casual, everyday clothing that shows the natural wrinkles and wear of being lived in - perhaps jeans and a hoodie or t-shirt. their posture conveys a moment of pause or contemplation, as if they've stopped during their journey up or down the stairs to check their camera or simply rest. the way they hold the device suggests familiarity with its weight and controls, their fingers positioned naturally on its surface.the stairwell around them shows the institutional architecture typical of apartment buildings": "concrete steps with metal safety strips along the edges, their surfaces showing scuff marks and the accumulated wear of countless footsteps. The handrail, likely metal painted in a utilitarian color, shows signs of frequent use with worn spots where hands naturally grip. The walls are painted in neutral, institutional colors - perhaps beige, gray, or off-white - with visible scuff marks and the occasional small crack or imperfection.The lighting comes from a single overhead fixture typical of apartment building common areas - likely fluorescent or a basic incandescent bulb that creates harsh, yellow-tinted illumination. This institutional lighting casts strong shadows in the stairwell's corners and creates the particular quality of light found in transitional spaces - neither warm nor welcoming, but functional and slightly harsh.The camera's LCD screen provides a small source of blue-white light that illuminates the person's face from below, creating subtle uplighting that contrasts with the overhead fixture. The screen's glow is authentic to early digital cameras - small, bright, and slightly pixelated when viewed closely.The stairwell extends both above and below the frame, creating a sense of vertical space and the particular acoustics of enclosed concrete spaces. The atmosphere carries the institutional quality of shared residential spaces - neither private nor fully public, but existing in the liminal zone of apartment building common areas. The image quality reflects the aesthetic of casual photography from the early digital era - natural grain, authentic color temperature from mixed lighting sources, and the unposed honesty of someone captured in a transitional moment between destinations.",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "227152083",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:26:42.405Z",
+    "tags": [
+      "natural",
+      "t-shirt",
+      "off-white",
+      "yellow-tinted",
+      "light",
+      "warm",
+      "blue-white",
+      "bright",
+      "everyday",
+      "clothing"
+    ]
+  },
+  {
+    "id": "img-1772022448462-mlu02glyk",
+    "hash": "104602e6be21c72e898cd1fe86389949",
+    "url": "images/img-074.png",
+    "thumbnail": "images/img-074.png",
+    "filename": "img-074.png",
+    "prompt": "A medium shot frames a teenager positioned in front of a small bathroom mirror, the composition capturing both the subject and the cramped domestic space. The viewpoint is straight-on at chest height, showing the figure from waist up with confident posture and direct eye contact with the camera. A single yellow incandescent bulb mounted above the mirror provides the primary ambient lighting, casting warm but unflattering shadows under the eyes and nose. The camera's flash fires simultaneously, creating a harsh white light that competes with the yellow ambient illumination.The bathroom setting reveals authentic details including a cracked corner of the mirror with spider-web fractures, a cluttered sink counter with toothbrush, soap dispenser, and various personal care items scattered about. The walls appear to be standard apartment bathroom tile in neutral tones, showing signs of age and water stains. The mirror surface has water spots and fingerprint smudges that catch the light.The photographic quality deliberately mimics early digital camera limitations with soft focus areas, digital noise in shadow regions, and the characteristic harsh contrast created by direct flash photography. The color temperature shifts between the warm yellow ambient light and cool white flash create an uneven lighting scenario typical of amateur photography. The overall aesthetic captures the raw, unpolished quality of early social media self-portraits with their technical imperfections and authentic domestic settings.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "766772559",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.463Z",
+    "tags": [
+      "straight-on",
+      "warm",
+      "light",
+      "spider-web",
+      "soft",
+      "cool",
+      "self-portraits",
+      "teenager",
+      "positioned",
+      "bathroom"
+    ]
+  },
+  {
+    "id": "img-1772022448566-rxr1js2zh",
+    "hash": "012c1e8f4a964b05dc0859de597d4c31",
+    "url": "images/img-075.png",
+    "thumbnail": "images/img-075.png",
+    "filename": "img-075.png",
+    "prompt": "A low-angle shot captures a young person seated at a computer desk in a darkened room, the primary light source being the blue-white glow emanating from a computer monitor positioned just out of frame. The composition places the subject slightly off-center, creating an asymmetrical framing that suggests amateur webcam photography. Their pose is deliberately dramatic with chin raised and eyes gazing directly into the camera lens, embodying the confident yet awkward aesthetic of early internet culture.The desk environment reveals the chaos of digital life with tangled cables, a mechanical keyboard with visible wear on frequently used keys, and various electronic devices creating silhouettes in the dim lighting. The room beyond falls into deep shadow with only hints of furniture and personal items visible as dark shapes. The monitor's glow creates strong upward lighting on the subject's face, casting unusual shadows that hollow out eye sockets and emphasize facial structure in an unflattering but authentic way.The image quality exhibits the characteristic limitations of early webcam technology including visible digital noise throughout darker areas, compression artifacts, and the distinctive low-resolution aesthetic that defined early streaming and social media content. The color palette is dominated by cool blue tones from the screen with deep blacks in the unlit areas, creating high contrast that emphasizes the dramatic lighting setup typical of amateur digital photography from the early internet era.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "474857841",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.566Z",
+    "tags": [
+      "low-angle",
+      "light",
+      "blue-white",
+      "off-center",
+      "dramatic",
+      "dark",
+      "low-resolution",
+      "cool",
+      "captures",
+      "computer"
+    ]
+  },
+  {
+    "id": "img-1772022448722-dkzpdmqvl",
+    "hash": "d88493305ad92c927c5bc6918ac19fcb",
+    "url": "images/img-076.png",
+    "thumbnail": "images/img-076.png",
+    "filename": "img-076.png",
+    "prompt": "A wide-angle shot captures two friends positioned on a rooftop during the golden hour, with the urban skyline creating a dramatic backdrop of silhouetted buildings against the orange-pink sunset sky. The composition is slightly tilted, giving the image a casual snapshot quality. One figure stands confidently in the center frame making direct eye contact with the camera, while the second person is partially cropped at the frame edge, suggesting the spontaneous nature of the photograph.The rooftop setting shows weathered concrete surfaces with visible cracks and stains, metal ventilation equipment, and safety railings that catch the warm evening light. The city background reveals multiple layers of buildings receding into atmospheric haze, with scattered windows beginning to glow with interior lighting as evening approaches. The lighting combines the warm golden hour sun positioned low on the horizon with the cooler blue tones of the approaching twilight sky.The photographic quality deliberately mimics the limitations of early digital cameras in low-light conditions, showing visible grain and digital noise throughout the image, particularly in shadow areas. The dynamic range struggles to capture both the bright sky and darker foreground details, creating areas of blown-out highlights and crushed shadows. Colors appear slightly oversaturated with the characteristic digital camera processing of the era, while the overall sharpness varies across the frame due to the challenging lighting conditions and handheld camera movement.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "953958740",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.722Z",
+    "tags": [
+      "wide-angle",
+      "dramatic",
+      "orange-pink",
+      "warm",
+      "light",
+      "atmospheric",
+      "low-light",
+      "bright",
+      "blown-out",
+      "captures"
+    ]
+  },
+  {
+    "id": "img-1772022448838-mwp3vy5hq",
+    "hash": "26b6d88de84816fd07a1ecaabcf230b8",
+    "url": "images/img-077.png",
+    "thumbnail": "images/img-077.png",
+    "filename": "img-077.png",
+    "prompt": "A medium shot frames a teenager standing in their bedroom with arms crossed in a confident pose, the composition captured from slightly below eye level to emphasize their assertive stance. The viewpoint is straight-on, showing the figure from mid-thigh up against the backdrop of a typical adolescent bedroom. The camera's built-in flash provides harsh, direct illumination that flattens facial features and creates stark shadows behind the subject, while simultaneously overexposing areas closest to the camera.The bedroom environment authentically represents teenage living space with band posters taped to painted walls showing slight peeling at corners, an unmade bed with rumpled sheets and pillows, and personal items scattered across surfaces. The walls appear to be standard apartment paint in neutral tones, with visible nail holes and tape marks from frequently changed decorations. Clothing items are draped over furniture and the floor shows the casual disorder of daily life.The lighting is dominated by the camera's harsh white flash which creates the characteristic flat, overexposed look of early digital photography. The flash illumination drops off rapidly, leaving the room's corners in relative darkness and creating an uneven exposure typical of amateur photography. The image quality exhibits early digital camera limitations including visible JPEG compression artifacts, slight color fringing around high-contrast edges, and the distinctive harsh shadow patterns created by direct flash photography. The overall aesthetic captures the raw, unpolished quality of early social media self-portraits with their technical imperfections and authentic domestic settings.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "270683678",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.838Z",
+    "tags": [
+      "straight-on",
+      "mid-thigh",
+      "built-in",
+      "high-contrast",
+      "self-portraits",
+      "teenager",
+      "standing",
+      "bedroom",
+      "crossed",
+      "confident"
+    ]
+  },
+  {
+    "id": "img-1772022448931-08eiu451t",
+    "hash": "2f04e93c11a23f099cc10ee3a8871c1d",
+    "url": "images/img-078.png",
+    "thumbnail": "images/img-078.png",
+    "filename": "img-078.png",
+    "prompt": "A close-up shot captures a young person positioned in a small party bathroom, the composition framed to show them from chest up with confident posture despite visible fatigue in their expression. The viewpoint is at eye level, creating direct engagement with the camera while the bathroom's cramped quarters force an intimate framing. Colored light spills in from the hallway beyond, creating a mixture of artificial lighting that competes with the camera's harsh flash.The bathroom setting reveals the aftermath of social gathering with empty plastic cups scattered on the sink counter, paper towels unrolled, and general disarray typical of party environments. The mirror surface shows water spots, fingerprints, and reflects both the subject and the camera's flash creating a bright white hotspot. The walls appear to be standard rental property fixtures with basic tile work and standard bathroom hardware showing signs of heavy use.The lighting combines the camera's direct flash with ambient colored light filtering from the party space beyond, creating an uneven color temperature that shifts between cool white flash illumination and warmer party lighting. The flash reflection in the mirror creates a secondary light source that adds to the overall harsh contrast. The photographic quality exhibits the limitations of early digital cameras including compressed dynamic range, visible digital noise in shadow areas, and JPEG compression artifacts that were characteristic of early social media photography. The overall aesthetic captures the spontaneous, unpolished quality of candid party documentation with authentic environmental details and technical imperfections.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "718187012",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:28.932Z",
+    "tags": [
+      "close-up",
+      "light",
+      "artificial",
+      "bright",
+      "cool",
+      "captures",
+      "positioned",
+      "bathroom",
+      "composition",
+      "confident"
+    ]
+  },
+  {
+    "id": "img-1772022449081-95u5wrqtf",
+    "hash": "3448a749ae538ecd751a73847ac8b11a",
+    "url": "images/img-079.png",
+    "thumbnail": "images/img-079.png",
+    "filename": "img-079.png",
+    "prompt": "A low-angle shot frames a person seated on concrete apartment staircase steps, the composition capturing them from a slightly below perspective that emphasizes their relaxed but posed positioning. The viewpoint looks up the stairwell, showing institutional architecture with painted concrete walls, metal handrails, and the geometric patterns created by the stair structure. The subject sits casually but deliberately, aware of being photographed and adopting a confident pose despite the mundane setting.The stairwell environment reveals authentic apartment building details including scratched and scuffed wall paint, worn concrete steps with visible chips and stains, and fluorescent lighting fixtures mounted in the ceiling. The walls show the accumulated wear of daily use with scuff marks, nail holes, and areas where paint has been touched up in slightly different shades. Metal handrails display surface rust and wear patterns from countless hands.The lighting is provided by overhead fluorescent tubes that cast even but unflattering illumination throughout the space, supplemented by the camera's direct flash which creates additional harsh shadows and overexposed areas on the subject. The fluorescent lighting creates a slight green color cast that competes with the flash's cooler white light. The photographic quality exhibits early digital camera characteristics including visible grain in shadow areas, slight motion blur from handheld shooting, and the tilted framing that suggests casual snapshot photography. The overall aesthetic captures the authentic urban environment with its institutional architecture and the unpolished quality of early social media documentation.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "917846942",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:29.081Z",
+    "tags": [
+      "low-angle",
+      "light",
+      "concrete",
+      "apartment",
+      "staircase",
+      "composition",
+      "slightly",
+      "perspective",
+      "emphasizes",
+      "relaxed"
+    ]
+  },
+  {
+    "id": "img-1772022449195-75gyubudf",
+    "hash": "bd4fe1ee019f06a2bf35c5648c05af6f",
+    "url": "images/img-080.png",
+    "thumbnail": "images/img-080.png",
+    "filename": "img-080.png",
+    "prompt": "A close-up shot captures a teenager photographing their own reflection in a large window at night, the composition showing the layered reflections and transparency that create a complex visual interplay. The viewpoint is from inside looking toward the window, with the subject's face partially visible through reflections while city lights create bokeh patterns in the background beyond the glass. The pose suggests self-documentation with the camera held at arm's length, creating the characteristic perspective of early selfie photography.The window setting reveals an urban nighttime environment with scattered lights from buildings, street lamps, and vehicles creating points of illumination against the dark cityscape. The glass surface shows fingerprints, water spots, and dust that catch and scatter light, adding texture to the reflective surface. Interior lighting from the room creates additional reflections that layer over the exterior view, creating a complex interplay of transparent and reflective elements.The lighting combines multiple sources including the camera's flash which creates harsh reflection directly back from the glass surface, ambient interior lighting that illuminates the subject from behind, and the scattered city lights that provide background illumination. This creates an uneven and challenging lighting scenario that results in motion blur, digital noise, and the characteristic harsh flash reflection that obscures portions of the image. The photographic quality exhibits early digital camera limitations including difficulty with mixed lighting conditions, visible compression artifacts, and the authentic amateur aesthetic of early social media self-portraiture with its technical imperfections and spontaneous composition.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "349687785",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:29.195Z",
+    "tags": [
+      "close-up",
+      "complex",
+      "self-documentation",
+      "dark",
+      "light",
+      "self-portraiture",
+      "captures",
+      "teenager",
+      "photographing",
+      "reflection"
+    ]
+  },
+  {
+    "id": "img-1772022449317-b84irogk4",
+    "hash": "7335521018b70a7074cf073540702e92",
+    "url": "images/img-081.png",
+    "thumbnail": "images/img-081.png",
+    "filename": "img-081.png",
+    "prompt": "A medium shot frames a young woman standing in a residential kitchen at night, holding a colorful cereal box as an improvised prop with both hands positioned as if presenting a product. The composition is captured from chest height, showing her from waist up against the backdrop of a typical apartment kitchen with standard appliances and countertops. Her pose combines confidence with playful absurdity, embodying the experimental nature of early social media content creation where everyday objects became performance props.The kitchen environment reveals authentic late-night domestic life with the refrigerator door standing open, casting cool white LED light across nearby surfaces and creating secondary illumination. The countertop shows the casual disorder of daily living with dishes, utensils, and food items scattered about, while cabinet doors display fingerprints and wear marks typical of frequently used spaces. The refrigerator interior is partially visible, showing shelves stocked with typical household items and condiment bottles.The lighting combines the camera's harsh direct flash with the cool white illumination from the open refrigerator, creating competing color temperatures and uneven exposure across the scene. The flash dominates the subject's illumination, creating the characteristic overexposed areas and harsh shadows, while the refrigerator light provides fill illumination and adds visual interest to the background. The photographic quality exhibits early digital camera limitations including visible noise in shadow areas, JPEG compression artifacts, and the imperfect framing that suggests handheld amateur photography. The overall aesthetic captures the spontaneous, experimental quality of early influencer culture with its blend of confidence and technical imperfection.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "598466811",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:29.317Z",
+    "tags": [
+      "colorful",
+      "late-night",
+      "cool",
+      "light",
+      "standing",
+      "residential",
+      "kitchen",
+      "holding",
+      "improvised",
+      "positioned"
+    ]
+  },
+  {
+    "id": "img-1772022449444-p0x4nshz3",
+    "hash": "5c56a3e83ed9a6afd5f4628f24170a67",
+    "url": "images/img-082.png",
+    "thumbnail": "images/img-082.png",
+    "filename": "img-082.png",
+    "prompt": "A low-angle shot captures a teenager seated cross-legged on a bedroom floor, the composition framed from floor level looking slightly upward to emphasize their contemplative pose. Headphones rest around their neck like a casual accessory, while a spiral notebook with visible handwritten scribbles lies open beside them, suggesting creative or academic pursuits. The pose is deliberately dramatic with head tilted and eyes gazing pensively toward the camera, embodying the introspective aesthetic popular in early social media self-expression.The bedroom floor setting shows authentic teenage living space with carpet that displays wear patterns and scattered personal items including books, pens, and electronic devices. A desk lamp positioned nearby provides warm incandescent lighting that creates atmospheric mood lighting, while the camera's flash adds harsh white illumination that competes with the ambient warmth. The walls visible in the background show typical bedroom decorations and the casual disorder of adolescent personal space.The lighting combines the soft warm glow from the desk lamp with the camera's direct flash, creating an uneven mixture of color temperatures that shifts between golden ambient light and cool white flash illumination. This creates complex shadow patterns and highlights that emphasize the dramatic pose while maintaining the authentic amateur photography aesthetic. The photographic quality exhibits early digital camera characteristics including visible grain throughout the image, slight motion blur from handheld shooting, and the compressed dynamic range that struggles to balance the mixed lighting conditions. The overall aesthetic captures the authentic introspective quality of early social media self-documentation with its blend of artistic aspiration and technical limitation.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "735535742",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:27:29.444Z",
+    "tags": [
+      "low-angle",
+      "cross-legged",
+      "dramatic",
+      "self-expression",
+      "warm",
+      "atmospheric",
+      "soft",
+      "light",
+      "cool",
+      "complex"
+    ]
+  },
+  {
+    "id": "img-1772022484001-t8dqagxqq",
+    "hash": "613413903c4e880a0fbce3289c201132",
+    "url": "images/img-083.png",
+    "thumbnail": "images/img-083.png",
+    "filename": "img-083.png",
+    "prompt": "An eye-level street photography shot captures a young woman sitting casually on concrete urban stairs, photographed with an early digital camera that produces the soft, slightly blurred quality characteristic of 2007-era consumer electronics. The composition places her off-center in the frame, with the camera positioned at a comfortable social distance to create an intimate yet respectful documentary feel. She sits with one leg crossed over the other, wearing a simple fitted cardigan over dark jeans, her posture relaxed and natural as she gazes to the side with a subtle, genuine expression.The lighting is entirely natural, coming from overcast daylight that creates soft, even illumination without harsh shadows. This diffused light produces the gentle contrast and muted tones typical of early digital photography before advanced processing became standard. The urban environment shows weathered concrete steps with visible wear patterns, metal handrails with surface oxidation, and background elements that fade into soft focus due to the camera's limited depth of field capabilities.The image quality displays the characteristic soft noise and slight motion blur of compact digital cameras from this era, with colors that appear naturally desaturated rather than artificially filtered. The overall aesthetic captures the candid-yet-conscious posing style that emerged in early social media, where subjects appeared natural while still being aware of the camera. The color palette consists of muted earth tones - grey concrete, faded denim blue, and warm beige from her cardigan - all rendered with the slightly washed-out quality that defined pre-smartphone digital photography.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "988870251",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.002Z",
+    "tags": [
+      "eye-level",
+      "soft",
+      "-era",
+      "off-center",
+      "simple",
+      "dark",
+      "natural",
+      "light",
+      "muted",
+      "candid-yet-conscious"
+    ]
+  },
+  {
+    "id": "img-1772022484105-jgp1ts04j",
+    "hash": "2527e1f73971490065be7f51464462e0",
+    "url": "images/img-084.png",
+    "thumbnail": "images/img-084.png",
+    "filename": "img-084.png",
+    "prompt": "A direct frontal portrait taken at night on an urban street, shot with a compact digital camera's built-in flash creating the harsh, unforgiving lighting characteristic of early 2000s street photography. The composition is straightforward and confrontational, with the subject positioned centrally in the frame, looking directly into the camera lens with an unguarded expression. The flash creates a dramatic chiaroscuro effect, with the subject's face and upper body brightly illuminated against the deep black background of the nighttime street.The harsh lighting produces strong, defined shadows that fall sharply behind the subject, while reflective surfaces like wet pavement and metal street fixtures create bright specular highlights. The subject wears casual urban clothing - a dark hoodie or jacket - with fabric textures clearly visible under the direct flash illumination. The background reveals fragments of the street environment: portions of storefronts, street signs, and urban infrastructure, all rendered in deep shadows with occasional bright spots where the flash catches reflective elements.The image quality shows the low megapixel resolution typical of early consumer digital cameras, with visible compression artifacts and the slightly pixelated edges that characterized this era of photography. The color palette is dominated by stark contrasts between the bright white-blue flash illumination and the deep black shadows, with occasional warm yellow tones from distant street lighting. This raw, unprocessed aesthetic captures the authentic grittiness of early social media photography, where technical limitations created an accidentally artistic documentary style that defined a generation's visual language.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "a direct frontal portrait taken at night on an urban street, shot with a compact digital camera's built-in flash creating the harsh, unforgiving lighting characteristic of early 2000s street photography. the composition is straightforward and confrontational, with the subject positioned centrally in the frame, looking directly into the camera lens with an unguarded expression. the flash creates a dramatic chiaroscuro effect, with the subject's face and upper body brightly illuminated against the deep black background of the nighttime street.the harsh lighting produces strong, defined shadows that fall sharply behind the subject, while reflective surfaces like wet pavement and metal street fixtures create bright specular highlights. the subject wears casual urban clothing - a dark hoodie or jacket - with fabric textures clearly visible under the direct flash illumination. the background reveals fragments of the street environment": "portions of storefronts, street signs, and urban infrastructure, all rendered in deep shadows with occasional bright spots where the flash catches reflective elements.The image quality shows the low megapixel resolution typical of early consumer digital cameras, with visible compression artifacts and the slightly pixelated edges that characterized this era of photography. The color palette is dominated by stark contrasts between the bright white-blue flash illumination and the deep black shadows, with occasional warm yellow tones from distant street lighting. This raw, unprocessed aesthetic captures the authentic grittiness of early social media photography, where technical limitations created an accidentally artistic documentary style that defined a generation's visual language.",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "527573111",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.105Z",
+    "tags": [
+      "built-in",
+      "dramatic",
+      "bright",
+      "dark",
+      "white-blue",
+      "warm",
+      "frontal",
+      "compact",
+      "creating",
+      "unforgiving"
+    ]
+  }
+]

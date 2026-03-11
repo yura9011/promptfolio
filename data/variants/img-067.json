@@ -1,0 +1,42 @@
+{
+  "id": "variant-img-067",
+  "variant_group": "img-067",
+  "prompt": "A medium-wide shot captures the interior of a small house party from a low angle, as if the camera were held casually at waist level. The composition places a lone figure in the foreground sitting on a worn fabric couch, while the background shows other party-goers dancing and socializing in soft fo",
+  "category": "Otros",
+  "tags": [
+    "medium-wide",
+    "captures",
+    "interior",
+    "small",
+    "house",
+    "party",
+    "low",
+    "angle",
+    "held",
+    "casually"
+  ],
+  "created_at": "2026-02-28T01:47:59.086Z",
+  "variants": [
+    {
+      "id": "img-1772022401774-5v15yvj0z",
+      "hash": "bd485249f991a743d2eb7dd8c18f7c48",
+      "url": "images/img-067.png",
+      "thumbnail": "images/img-067.png",
+      "model": "Z-Image-Turbo",
+      "variant_index": 0,
+      "settings": {
+        "otros": {
+          "platform": "opensourcegen",
+          "a medium-wide shot captures the interior of a small house party from a low angle, as if the camera were held casually at waist level. the composition places a lone figure in the foreground sitting on a worn fabric couch, while the background shows other party-goers dancing and socializing in soft focus blur. the framing is imperfect and spontaneous, cutting off parts of people and furniture in the authentic way of candid social photography.the isolated person sits with shoulders slightly hunched, looking down at a smartphone held in both hands, their face illuminated by the device's blue-white screen glow. they wear casual party attire - perhaps a t-shirt or light sweater - that appears slightly rumpled from sitting. their posture conveys disconnection from the social energy around them, creating a poignant contrast with the celebration happening just meters away.the coffee table in front of the couch is scattered with the debris of social gathering": "empty red plastic cups with visible condensation rings on their surfaces, some tipped over or crushed, creating organic shapes against the table's surface. A few bottles catch the ambient light, their glass surfaces reflecting the warm interior lighting. Napkins, bottle caps, and other small party detritus create realistic clutter.The background figures move in natural, unposed ways - some with arms raised while dancing, others leaning in close conversation, their forms rendered as soft silhouettes due to the shallow depth of field. The lighting comes from multiple sources: warm incandescent bulbs from table lamps create pools of golden light, while cooler light from a television or other electronic device adds blue tones to the mix.The atmosphere is thick with the particular quality of indoor party air - slightly hazy from body heat and conversation, with visible light rays cutting through the space. The room shows the lived-in quality of a real home: furniture with visible wear, walls with personal decorations, and the accumulated patina of daily life. The image quality exhibits the characteristics of casual party photography - slight motion blur from handheld shooting, natural grain from low-light conditions, and the authentic color cast of mixed artificial lighting. The overall mood captures the paradox of social isolation within social gathering, when digital connection becomes a refuge from physical presence.",
+          "dimensions": "1024 × 1024",
+          "scheduler": "simple",
+          "generated with": "opensourcegen"
+        },
+        "seed": "283719845",
+        "steps": 14,
+        "sampler": "res_multistep"
+      },
+      "notes": ""
+    }
+  ]
+}

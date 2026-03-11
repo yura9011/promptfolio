@@ -1,0 +1,51 @@
+{
+  "id": "variant-library-intellectual",
+  "variant_group": "library-intellectual",
+  "prompt": "Cinematic Instagram photo of a 38-year-old Argentine woman, straight black hair in low messy bun, sharp cheekbones, wearing vintage brown cardigan unbuttoned over black corset top, thick glasses, sitting in old library with books everywhere, golden window light, intellectual seductive alt vibe",
+  "category": "Otros",
+  "tags": [
+    "cinematic",
+    "instagram",
+    "argentine",
+    "woman",
+    "straight",
+    "black",
+    "hair",
+    "low",
+    "messy",
+    "bun"
+  ],
+  "created_at": "2026-02-27T19:50:21.751Z",
+  "variants": [
+    {
+      "id": "img-1772021690630-01gbfveaw",
+      "hash": "913619e163c5fc4efc6219edc8dd308a",
+      "url": "images/img-013.png",
+      "thumbnail": "images/img-013.png",
+      "model": "Z-Image-Turbo",
+      "variant_index": 0,
+      "settings": {
+        "otros": {
+          "platform": "opensourcegen",
+          "dimensions": "1024 × 1024",
+          "scheduler": "simple",
+          "generated with": "opensourcegen"
+        },
+        "seed": "957624150",
+        "steps": 14,
+        "sampler": "res_multistep"
+      },
+      "notes": ""
+    },
+    {
+      "id": "img-1772221822119-jvq2ddrcw",
+      "hash": "3c4c7e32a86f9eeeaa5b5f2270141fa6",
+      "url": "images/img-098.png",
+      "thumbnail": "images/img-098.png",
+      "model": "ImageFX",
+      "variant_index": 2,
+      "settings": {},
+      "notes": ""
+    }
+  ]
+}

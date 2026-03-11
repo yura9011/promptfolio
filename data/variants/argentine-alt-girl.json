@@ -1,0 +1,61 @@
+{
+  "id": "variant-argentine-alt-girl",
+  "variant_group": "argentine-alt-girl",
+  "prompt": "Raw vertical Instagram photo of a 29-year-old Argentine alt girl , shoulder-length black hair with blunt bangs and red streaks, freckles across nose, dark lined eyes, slim athletic build, wearing oversized black hoodie half-zipped showing black lace bralette, fishnet sleeves, sitting on concrete stairs in Buenos Aires at dusk, looking at camera with bored-sexy expression, film grain, soft purple street light, indie sleaze aesthetic",
+  "category": "Otros",
+  "tags": [
+    "raw",
+    "vertical",
+    "instagram",
+    "argentine",
+    "alt",
+    "girl",
+    "shoulder-length",
+    "black",
+    "hair",
+    "blunt"
+  ],
+  "created_at": "2026-02-27T19:23:18.956Z",
+  "variants": [
+    {
+      "id": "img-1772021690413-a89il134f",
+      "hash": "05238994c1432d1c5180c15f70519671",
+      "url": "images/img-011.png",
+      "thumbnail": "images/img-011.png",
+      "model": "Z-Image-Turbo",
+      "variant_index": 0,
+      "settings": {
+        "otros": {
+          "platform": "opensourcegen",
+          "dimensions": "1024 × 1024",
+          "scheduler": "simple",
+          "generated with": "opensourcegen"
+        },
+        "seed": "995904705",
+        "steps": 14,
+        "sampler": "res_multistep"
+      },
+      "notes": ""
+    },
+    {
+      "id": "img-1772220199029-wsemu40h7",
+      "hash": "78a3e20553f89861ac1fa2ba21ac6e86",
+      "url": "images/img-098.png",
+      "thumbnail": "images/img-098.png",
+      "model": "ImageFX",
+      "variant_index": 2,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772220200813-3bfti1u90",
+      "hash": "d4710544f78111848147b048cb08eafd",
+      "url": "images/img-100.webp",
+      "thumbnail": "images/img-100.webp",
+      "model": "Nano Banana Pro 2",
+      "variant_index": 4,
+      "settings": {},
+      "notes": ""
+    }
+  ]
+}

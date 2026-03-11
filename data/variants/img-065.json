@@ -1,0 +1,81 @@
+{
+  "id": "variant-img-065",
+  "variant_group": "img-065",
+  "prompt": "A wide-angle view captures two friends standing on a flat rooftop during the blue hour of dusk, when the sky transitions from deep orange near the horizon to rich purple overhead. The composition is framed from ground level on the rooftop, placing both figures against the expansive urban skyline tha",
+  "category": "Otros",
+  "tags": [
+    "wide-angle",
+    "captures",
+    "friends",
+    "standing",
+    "flat",
+    "rooftop",
+    "blue",
+    "hour",
+    "dusk",
+    "sky"
+  ],
+  "created_at": "2026-02-28T01:47:54.428Z",
+  "variants": [
+    {
+      "id": "img-1772022401507-yuhen5k1c",
+      "hash": "856820b3e3b7815c223863395e139f06",
+      "url": "images/img-065.png",
+      "thumbnail": "images/img-065.png",
+      "model": "Z-Image-Turbo",
+      "variant_index": 0,
+      "settings": {
+        "otros": {
+          "platform": "opensourcegen",
+          "dimensions": "1024 × 1024",
+          "scheduler": "simple",
+          "generated with": "opensourcegen"
+        },
+        "seed": "576360951",
+        "steps": 14,
+        "sampler": "res_multistep"
+      },
+      "notes": ""
+    },
+    {
+      "id": "img-1772243274428-2zh1kqerj",
+      "hash": "956d007d38ac94e4fe0b00cb93b0e60c",
+      "url": "images/img-098.jpg",
+      "thumbnail": "images/img-098.jpg",
+      "model": "Grok",
+      "variant_index": 1,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772243281349-ft13jbe5v",
+      "hash": "b3890427d3094d12e7413e268473ed05",
+      "url": "images/img-108.png",
+      "thumbnail": "images/img-108.png",
+      "model": "Unknown",
+      "variant_index": 2,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772243281747-pu9giqa0p",
+      "hash": "235fe27126e67e9051cb19aff631af20",
+      "url": "images/img-112.jpeg",
+      "thumbnail": "images/img-112.jpeg",
+      "model": "Nano Banana Pro",
+      "variant_index": 3,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772243283371-po0v6xmhn",
+      "hash": "20c7116a4b73c811c04d6012420a3b79",
+      "url": "images/img-114.webp",
+      "thumbnail": "images/img-114.webp",
+      "model": "Nano Banana Pro 2",
+      "variant_index": 4,
+      "settings": {},
+      "notes": ""
+    }
+  ]
+}

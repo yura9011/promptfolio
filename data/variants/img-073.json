@@ -1,0 +1,71 @@
+{
+  "id": "variant-img-073",
+  "variant_group": "img-073",
+  "prompt": "A close-up shot captures a young woman in her early twenties positioned in front of a bedroom mirror, holding a compact digital camera at arm's length. The composition is framed from a slightly tilted angle, creating an off-kilter snapshot aesthetic typical of early 2000s photography. Her pose is de",
+  "category": "Otros",
+  "tags": [
+    "close-up",
+    "captures",
+    "young",
+    "woman",
+    "her",
+    "early",
+    "twenties",
+    "positioned",
+    "bedroom",
+    "mirror"
+  ],
+  "created_at": "2026-02-28T01:47:54.516Z",
+  "variants": [
+    {
+      "id": "img-1772022448368-gbezq36gq",
+      "hash": "c5b8575b7ab17df4a329f7628e129418",
+      "url": "images/img-073.png",
+      "thumbnail": "images/img-073.png",
+      "model": "Z-Image-Turbo",
+      "variant_index": 0,
+      "settings": {
+        "otros": {
+          "platform": "opensourcegen",
+          "dimensions": "1024 × 1024",
+          "scheduler": "simple",
+          "generated with": "opensourcegen"
+        },
+        "seed": "118783404",
+        "steps": 14,
+        "sampler": "res_multistep"
+      },
+      "notes": ""
+    },
+    {
+      "id": "img-1772243274516-x6ql629s3",
+      "hash": "4f8e2ac061a510e5341d213c00df9b4d",
+      "url": "images/img-099.jpg",
+      "thumbnail": "images/img-099.jpg",
+      "model": "Grok",
+      "variant_index": 1,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772243281111-r6va67kpx",
+      "hash": "b2436d8f5be35fe84ce5bfcefc959630",
+      "url": "images/img-104.png",
+      "thumbnail": "images/img-104.png",
+      "model": "Nano Banana Pro 2",
+      "variant_index": 2,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772243287176-f0mybm5o6",
+      "hash": "04c1ab4e4c1eee6d31efafe728e39a8a",
+      "url": "images/img-118.jpg",
+      "thumbnail": "images/img-118.jpg",
+      "model": "Unknown",
+      "variant_index": 4,
+      "settings": {},
+      "notes": ""
+    }
+  ]
+}

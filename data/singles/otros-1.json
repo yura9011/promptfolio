@@ -1,0 +1,718 @@
+[
+  {
+    "id": "img-1772006218143-eozzdeyvg",
+    "hash": "dba1a4dd46b1659992522ee7fcab3baa",
+    "url": "images/img-004.png",
+    "thumbnail": "images/img-004.png",
+    "filename": "img-004.png",
+    "prompt": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<Master_Blueprint>\r\n<Global_Concept>\r\n<Theme>Urban Solitude - Contrarian Movement Against the Tide</Theme>\r\n<Atmosphere>Melancholic disconnection within densely populated environment. Psychological isolation amplified by surrounding human density. Sense of purposeful nonconformity or internal preoccupation creating invisible barrier between subject and crowd. Quiet introspection amid chaotic public transit. Existential loneliness underscored by anonymity of urban masses.</Atmosphere>\r\n<Lighting_Style>Neutral daylight; overcast or diffused midday sun creating flat, directional illumination without dramatic shadows. Consistent ambient light across entire scene without strong contrast zones. Slight directional quality suggesting sun position but softened by atmospheric haze or cloud cover. No artificial supplemental lighting. Even exposure with minimal shadow depth, characteristic of cloudy urban conditions or shaded street corridor. Muted light quality preserving subdued emotional tone.</Lighting_Style>\r\n<Art_Style>Observational street photography; candid documentary aesthetic emphasizing authentic human behavior captured unguarded. Raw aesthetic with honest imperfections: natural grain structure, slight focus inconsistency, compositional asymmetry, lens character. Photojournalistic approach prioritizing psychological truth over technical perfection. Influenced by social documentary and urban anthropology photography traditions.</Art_Style>\r\n</Global_Concept>\r\n<Composition>\r\n<Shot_Type>Medium-wide street shot capturing subject figure amid surrounding crowd; environmental context essential to convey isolation within density. Framed to show subject's solitary trajectory against multidirectional pedestrian flow.</Shot_Type>\r\n<Camera_Angle>Slightly elevated eye level, approximately 5-10 degrees above horizontal; positioned at human chest height suggesting observer perspective within crowd. Angle allows simultaneous view of subject's downturned head and surrounding pedestrians at varied depths.</Camera_Angle>\r\n<Focus>Selective focus on main subject's head, shoulders, and upper body; sharp enough to register emotional bearing despite downturned gaze. Crowd figures surrounding and behind subject rendered progressively out of focus with increasing distance. Background pedestrians soft-focus bokeh with directional motion blur indicating active movement. Focus depth sufficient to maintain subject clarity while emphasizing environmental blur.</Focus>\r\n<Framing_Guide>Off-center composition with subject positioned slightly left or right of frame center, creating tension suggesting movement against crowd flow. Subject positioned in middle ground depth rather than frame foreground, emphasizing immersion within crowd rather than heroic prominence. Pedestrians distributed asymmetrically around subject; more crowd density on one side, creating visual counterweight to isolated figure. Natural, unbalanced framing suggesting spontaneous observation rather than deliberate compositional arrangement.</Framing_Guide>\r\n</Composition>\r\n<Region_Map>\r\n<Region id=\"background_crowd_left\">\r\n<Coordinates>x=0, y=0, w=40, h=100</Coordinates>\r\n<Content>Blurred pedestrian crowd occupying left portion of frame; multiple figures moving at various angles creating complex directional flow. Heavy motion blur on background figures suggesting camera movement and pedestrian velocity. Silhouettes and partial body fragments (shoulders, heads, arms) in soft focus. Muted neutral tones—grays, blacks, beiges, dull blues of typical urban clothing. No individual faces sharp or clearly resolved; crowd rendered as collective mass rather than discrete persons. Depth layering with foreground figures slightly sharper, background figures increasingly diffuse.</Content>\r\n</Region>\r\n<Region id=\"background_crowd_right\">\r\n<Coordinates>x=60, y=0, w=40, h=100</Coordinates>\r\n<Content>Right-side crowd continuation; pedestrians flowing in divergent directions creating visual chaos. Strong motion blur on moving figures; some pedestrians crossing frame horizontally, others moving diagonally. Darker tones where bodies block ambient light; lighter tones where exposed to neutral daylight. Overlapping silhouettes creating visual density. Background architecture or street infrastructure suggested but unfocused—building facades, storefronts, urban fixtures rendered as soft geometric shapes and color fields rather than distinct details.</Content>\r\n</Region>\r\n<Region id=\"foreground_passing_figure_left\">\r\n<Coordinates>x=5, y=35, w=20, h=40</Coordinates>\r\n<Content>One or two pedestrians passing in immediate foreground on left side; partially blurred suggesting motion and proximity to camera. Arm, shoulder, or partial torso visible; face not visible or severely out of focus. Clothing detail suggests winter or cool-weather urban wear—coat sleeve, scarf edge, hat. Motion blur streaking effect on figure edges. Creates layering depth perception; this figure closer to camera than main subject.</Content>\r\n</Region>\r\n<Region id=\"main_subject_figure\">\r\n<Coordinates>x=35, y=30, w=30, h=50</Coordinates>\r\n<Content>Primary subject: solitary pedestrian walking in opposite direction to surrounding crowd flow. Head bowed or slightly downturned, gaze directed downward or into internal space; facial expression neutral, contemplative, or emotionally withdrawn. Shoulders slightly rounded inward suggesting introspection or self-directed focus. Upper body, head, and arms visible with sharp focus clarity contrasting blurred surroundings. Realistic human proportions and natural posture. Clothing suggests urban casual wear—neutral-colored jacket, shirt, or sweater in muted tones (gray, black, navy, taupe, olive). Hair rendered with fine detail showing natural texture and color. Visible skin shows realistic tone and texture. Solitary presence emphasized by immediate surrounding blur and crowd figures moving perpendicular or parallel to subject's trajectory.</Content>\r\n</Region>\r\n<Region id=\"midground_transitional_figures\">\r\n<Coordinates>x=25, y=20, w=50, h=30</Coordinates>\r\n<Content>Pedestrians in immediate vicinity of subject at middle-depth focus transition. Varying degrees of blur indicating depth layering; figures closest to subject's depth plane slightly sharper, others progressively softer. Multiple overlapping figures moving in different directions creating visual complexity and crowd density. Some figures partially occluded by others. Motion blur evident on moving limbs and torsos. Clothing colors in muted palette: gray, black, white, beige, navy, brown. Postures suggest natural walking mechanics—some figures turning heads, some looking down at phones (suggested by slight head tilt without visible screens), various arm positions.</Content>\r\n</Region>\r\n<Region id=\"street_level_ground_plane\">\r\n<Coordinates>x=0, y=80, w=100, h=20</Coordinates>\r\n<Content>Pavement, sidewalk, or street surface at ground level; neutral gray concrete or asphalt tones. Minimal detail visible due to human figures occupying majority of frame; ground surface mostly obscured by feet, legs, and lower body portions of crowd. Subtle perspective line suggesting vanishing point in subject's direction of travel. Realistic surface texture suggesting worn urban pavement without exaggeration. Shadows from pedestrians creating patterns on ground surface; shadows softened by diffuse overcast lighting.</Content>\r\n</Region>\r\n</Region_Map>\r\n<Visual_Description>\r\n<Main_Subject>\r\n<Description>Individual person, indeterminate age range (appearing young adult to middle-aged), rendered with authentic human proportions and natural bearing. Head positioned in slight downward tilt suggesting introspection, distraction, or deliberate avoidance of eye contact with surrounding crowd. Facial features visible but not emphasized; expression neutral or contemplative, not dramatized. Realistic skin texture with natural color variation; no cosmetic enhancement or glamorization. Natural hair texture and color rendered with photographic fidelity. Eyes visible but directed downward, not meeting viewer's gaze. Overall presentation conveys psychological inward focus despite physical presence within populated space.</Description>\r\n<Action>Walking; body mechanics suggest purposeful but unhurried forward motion. Trajectory perpendicular or opposite to predominant crowd flow direction, creating visual conflict. Posture slightly inward-turned with shoulders not fully open; suggests self-protective or withdrawn body language. Arm positioning natural and functional to walking motion, not gestured for emphasis. Head consistently downturned rather than scanning environment or engaging with surroundings. Overall movement suggests determined progress toward specific destination despite contrary crowd momentum.</Action>\r\n<Clothing>Urban casual wear in muted neutral tones; no bright colors or fashion-forward styling. Realistic garment fit suggesting everyday wear rather than curated appearance. Jacket, sweater, or shirt in gray, black, navy, taupe, or subtle earth tones. Visible sleeve and torso detail showing fabric texture and natural drape. Clothing appears aged slightly—not pristine or unworn but genuinely used and fitted to body. No visible designer labels, logos, or conspicuous branding. Presentation authentically utilitarian and unconsidered, consistent with candid documentation rather than styled editorial appearance.</Clothing>\r\n</Main_Subject>\r\n<Background>\r\n<Setting>Urban street or crowded public thoroughfare; sidewalk, pedestrian mall, transit station platform, or densely populated commercial district. Neutral daylight condition—overcast sky or shaded urban canyon creating consistent ambient illumination. Architecture and infrastructure suggested but unfocused: building facades, storefront windows, structural elements rendered as soft shapes and color fields rather than sharp architectural detail. Street level features—pavement, curbing, ground-level signage—minimally visible. Atmosphere suggests mid-latitude temperate climate during cool season; clothing styles consistent with autumn or winter conditions.</Setting>\r\n<Details>Crowd density creating visual chaos and competing directional flows; multiple pedestrians moving in various trajectories creating complex visual pattern. Individual crowd members rendered with motion blur indicating active movement; blur streaks following direction of pedestrian motion. Overlapping figures creating layered depth and visual density emphasizing crowd mass rather than individual persons. Clothing colors in realistic urban palette: blacks, grays, whites, navy, muted earth tones creating low-saturation visual environment. Some pedestrians with phones visible in hand or attention directed downward suggesting smartphone usage—realistic contemporary urban behavior. Weather conditions hinted through clothing choices and lighting quality but not dramatized. Sound and sensory crowding implied through visual density despite photograph's silence. No visible storefronts, signage, or location-identifying landmarks in focus.</Details>\r\n</Background>\r\n<Color_Palette>\r\n<Primary>Neutral gray-black tones dominant; overcast daylight creating subdued color environment. Muted blacks, charcoals, and warm grays forming majority of visual information. Subject's clothing in neutral warm grays, navy, or taupe tones.</Primary>\r\n<Secondary>Cool neutral tones—pale grays, cool whites, muted blues—from overcast sky and architectural surfaces. Occasional warmer gray-beiges in pavement and aged building surfaces. Overall desaturated palette minimizing chromatic distraction.</Secondary>\r\n<Accent>Subtle warm undertones in human skin tones and aged textile colors; occasional deeper shadow blacks creating modest tonal contrast without brightness extremes. Minimal color saturation throughout; any color present rendered in muted, subdued manifestation. No vibrant or saturated hues; palette remains consistently neutral and emotionally restrained.</Accent>\r\n</Color_Palette>\r\n</Visual_Description>\r\n<Technical_Specs>\r\n<Spec>4K to 6K resolution; sufficient detail for realistic human figure rendering and crowd texture without excessive sharpness amplifying documentary aesthetic</Spec>\r\n<Spec>Moderate depth of field; f/2.8 to f/4.0 equivalent aperture providing selective focus on subject while allowing surrounding crowd to fall into progressive soft focus and motion blur</Spec>\r\n<Spec>Significant motion blur applied to background pedestrians and crowd figures; blur direction and intensity varying based on directional flow and distance from camera. Subject figure motion blur minimized to preserve clarity and emotional expression.</Spec>\r\n<Spec>Natural film grain and realistic digital noise simulating ISO 400-800 equivalent; grain structure organic and non-uniform, varying slightly with exposure and lighting zones. Grain visible particularly in shadow regions and muted color zones.</Spec>\r\n<Spec>Chromatic aberration subtle and organic; minimal chromatic fringing except at extreme high-contrast edges (dark clothing silhouettes against bright sky). Rendering suggests real lens optics rather than digital artifact.</Spec>\r\n<Spec>Lens vignetting moderate; frame edges slightly darkened creating gentle focus direction toward center where subject positioned. Vignetting effect consistent across frame without artificial radial falloff.</Spec>\r\n<Spec>Neutral color temperature white balance; neither warm nor cool dominant. Gray tones rendered truthfully without color cast. Slight cool bias acceptable (5500-6000K) consistent with overcast daylight conditions without requiring artificial color correction.</Spec>\r\n<Spec>Natural shallow depth of field bokeh; background crowd figures rendered with organic blur shapes corresponding to actual optical bokeh rather than radial blur overlay. Bokeh retains edge definition characteristic of real lenses.</Spec>\r\n<Spec>Global illumination from diffuse overcast sky creating directional softness; no strong shadow definition or high-contrast lighting. Shadow edges soft and feathered, consistent with overcast conditions.</Spec>\r\n<Spec>Material realism for human skin showing natural color variation, pore texture detail, and translucency in areas of light exposure. Fabric rendering shows weave texture and natural drape properties. Pavement shows worn surface character without excessive detail.</Spec>\r\n<Spec>Post-processing restraint; avoid saturation enhancement, clarity boosting, or artificial sharpening. Maintain muted, emotionally restrained aesthetic consistent with documentary street photography. Accept natural focus imperfections and subtle focus softness.</Spec>\r\n<Spec>No visible watermarks, logos, text, signatures, or digital identifiers anywhere in frame composition</Spec>\r\n<Spec>Realistic crowd physics; pedestrian positions and spacing consistent with actual urban crowd behavior. No artificial perfect symmetry or aligned formations. Natural chaos and overlapping of figures.</Spec>\r\n</Technical_Specs>\r\n</Master_Blueprint>",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "size": "1024 × 1024",
+      "seed": "478242446",
+      "steps": 9,
+      "sampler": "res_multistep",
+      "scheduler": "simple"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T07:56:58.143Z",
+    "tags": [
+      "dramatic",
+      "light",
+      "atmospheric",
+      "artificial",
+      "minimal",
+      "muted",
+      "natural",
+      "medium-wide",
+      "soft-focus",
+      "off-center"
+    ]
+  },
+  {
+    "id": "img-1772021690722-l4snqidyi",
+    "hash": "0f06912e68f68dfd7665970d5b1a09d2",
+    "url": "images/img-014.png",
+    "thumbnail": "images/img-014.png",
+    "filename": "img-014.png",
+    "prompt": "Vibrant vertical shot of 21-year-old slim Argentine girl, long wavy hair half neon-pink half black, multiple ear piercings, wearing crochet halter top and cargo pants low on hips, dancing lightly at sunset desert rave, colorful lights in background, indie festival aesthetic, glowing skin with glitter",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "281378060",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:14:50.722Z",
+    "tags": [
+      "vibrant",
+      "-year-old",
+      "neon-pink",
+      "colorful",
+      "vertical",
+      "argentine",
+      "multiple",
+      "piercings",
+      "wearing",
+      "crochet"
+    ]
+  },
+  {
+    "id": "img-1772021690823-ys5dz8i8t",
+    "hash": "cc5f016812dda44b8860b1a3509658c0",
+    "url": "images/img-015.png",
+    "thumbnail": "images/img-015.png",
+    "filename": "img-015.png",
+    "prompt": "Moody Instagram photo of a 32-year-old Argentine alt woman with sun-kissed caramel skin, short wavy dark bob with silver streaks, visible arm and rib tattoos, wearing black slip dress with thin straps, standing on rooftop smoking a cigarette, city night lights behind, confident powerful gaze, sophisticated indie vibe",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "791942928",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:14:50.823Z",
+    "tags": [
+      "moody",
+      "-year-old",
+      "sun-kissed",
+      "dark",
+      "instagram",
+      "argentine",
+      "caramel",
+      "streaks",
+      "visible",
+      "tattoos"
+    ]
+  },
+  {
+    "id": "img-1772021690936-q96e5x7wo",
+    "hash": "2341313753f41550228163fb9e6061ce",
+    "url": "images/img-016.png",
+    "thumbnail": "images/img-016.png",
+    "filename": "img-016.png",
+    "prompt": "Candid flash photo of 25-year-old Buenos Aires girl with fair olive skin, messy dark curly hair, heavy eyeliner, wearing low-rise baggy jeans and tiny baby tee that says “problem”, leaning against graffiti wall at night, holding a beer, playful tongue-out expression, raw 2000s indie sleaze aesthetic",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "262090073",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:14:50.936Z",
+    "tags": [
+      "-year-old",
+      "dark",
+      "low-rise",
+      "tongue-out",
+      "eyeliner",
+      "wearing",
+      "problem",
+      "leaning",
+      "graffiti",
+      "holding"
+    ]
+  },
+  {
+    "id": "img-1772021691210-47u1wtr9p",
+    "hash": "adfe8f1f59bce4caa461c9529ee2ce13",
+    "url": "images/img-018.png",
+    "thumbnail": "images/img-018.png",
+    "filename": "img-018.png",
+    "prompt": "Street-style Instagram shot of 27-year-old tall Argentine woman with warm tan skin, shaved side + long top dark hair, wearing oversized leather jacket over sports bra, baggy cargo pants, standing against subway wall in Buenos Aires, hands in pockets, cool detached expression, raw urban indie",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "105851186",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:14:51.21Z",
+    "tags": [
+      "street-style",
+      "-year-old",
+      "warm",
+      "dark",
+      "cool",
+      "instagram",
+      "argentine",
+      "wearing",
+      "oversized",
+      "leather"
+    ]
+  },
+  {
+    "id": "img-1772021836799-bxza5vvyj",
+    "hash": "65084deddd88c6b568c2ecd462878f96",
+    "url": "images/img-020.png",
+    "thumbnail": "images/img-020.png",
+    "filename": "img-020.png",
+    "prompt": "Professional Instagram shot of gorgeous 24-year-old Argentine influencer on luxury yacht bow in turquoise water, sun-kissed tan skin, long wavy dark hair, wearing metallic bronze bikini with cover-up shirt open and sliding off shoulders, sitting cross-legged looking at camera with relaxed smile, Santorini-style white cliffs in background, bright daylight, luxury travel vibe, high engagement pose",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "299508350",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:16.799Z",
+    "tags": [
+      "-year-old",
+      "sun-kissed",
+      "dark",
+      "cover-up",
+      "cross-legged",
+      "santorini-style",
+      "bright",
+      "professional",
+      "instagram",
+      "gorgeous"
+    ]
+  },
+  {
+    "id": "img-1772021836902-k3wa56d1z",
+    "hash": "f748f5f97573fe8a38e7f809174f51cb",
+    "url": "images/img-021.png",
+    "thumbnail": "images/img-021.png",
+    "filename": "img-021.png",
+    "prompt": "Vertical Instagram photo of beautiful 22-year-old Buenos Aires influencer on 5-star hotel balcony overlooking ocean, wearing silky cream slip dress with thin straps falling off one shoulder, long dark wavy hair, leaning on railing looking at camera with soft seductive smile, soft morning light, tropical plants around, luxury travel aesthetic",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "941992743",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:16.902Z",
+    "tags": [
+      "-year-old",
+      "-star",
+      "dark",
+      "soft",
+      "light",
+      "vertical",
+      "instagram",
+      "beautiful",
+      "influencer",
+      "balcony"
+    ]
+  },
+  {
+    "id": "img-1772021837013-n1jx9yzr0",
+    "hash": "419a3aa54f64661fd310772479d9281e",
+    "url": "images/img-022.png",
+    "thumbnail": "images/img-022.png",
+    "filename": "img-022.png",
+    "prompt": "Candid Instagram photo of gorgeous Argentine influencer sitting at outdoor table in Palermo Soho, tan olive skin, long dark messy hair, wearing oversized white shirt unbuttoned showing lace bralette underneath, holding iced coffee, looking up at camera with playful smirk, sunny afternoon, European café vibe, lifestyle content",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "298636488",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.013Z",
+    "tags": [
+      "dark",
+      "instagram",
+      "gorgeous",
+      "argentine",
+      "influencer",
+      "sitting",
+      "outdoor",
+      "palermo",
+      "wearing",
+      "oversized"
+    ]
+  },
+  {
+    "id": "img-1772021837122-j3jcbqwor",
+    "hash": "34e0233a40ac6ed38d059a96b034261f",
+    "url": "images/img-023.png",
+    "thumbnail": "images/img-023.png",
+    "filename": "img-023.png",
+    "prompt": "Professional shot of 24-year-old Latina influencer walking on beach at golden hour, long wavy dark hair flowing, wearing white bikini and open linen shirt blowing in wind, hand in hair, confident smile to camera, warm sunset light reflecting on wet sand, Maldives-style water behind, travel influencer aesthetic",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "620295670",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.122Z",
+    "tags": [
+      "-year-old",
+      "dark",
+      "warm",
+      "light",
+      "maldives-style",
+      "professional",
+      "influencer",
+      "walking",
+      "flowing",
+      "wearing"
+    ]
+  },
+  {
+    "id": "img-1772021837210-e5w8dn8l6",
+    "hash": "2f35e4654b094fff5e71b2c045352070",
+    "url": "images/img-024.png",
+    "thumbnail": "images/img-024.png",
+    "filename": "img-024.png",
+    "prompt": "Glam Instagram photo of stunning morena influencer on rooftop at night, wearing tight black mini dress with deep neckline, long dark hair with soft waves, standing with city lights bokeh behind, one leg slightly bent, looking at camera with intense confident gaze, neon + city glow lighting, high fashion vibe",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "298912237",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.21Z",
+    "tags": [
+      "dark",
+      "soft",
+      "neon",
+      "instagram",
+      "stunning",
+      "influencer",
+      "rooftop",
+      "wearing",
+      "neckline",
+      "standing"
+    ]
+  },
+  {
+    "id": "img-1772021837323-hxfgkbj7d",
+    "hash": "73775be7812635da20743f50ee3928b1",
+    "url": "images/img-025.png",
+    "thumbnail": "images/img-025.png",
+    "filename": "img-025.png",
+    "prompt": "Vertical Instagram photo of Argentine influencer by infinity pool on cliff, tan skin glistening, long dark wet hair, wearing emerald green micro bikini, sitting on edge with legs in water, leaning back on hands, looking at camera with relaxed sexy smile, turquoise water and cliffs behind, luxury resort aesthetic",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "450897040",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.323Z",
+    "tags": [
+      "dark",
+      "vertical",
+      "instagram",
+      "argentine",
+      "influencer",
+      "infinity",
+      "glistening",
+      "wearing",
+      "emerald",
+      "sitting"
+    ]
+  },
+  {
+    "id": "img-1772021837433-m1yl9dslh",
+    "hash": "a2b4415a307cee887d89ed93af4d7aab",
+    "url": "images/img-026.png",
+    "thumbnail": "images/img-026.png",
+    "filename": "img-026.png",
+    "prompt": "Professional travel influencer shot of beautiful 23-year-old Argentine morena in narrow red-rock canyon like Lake Powell, wearing metallic copper bikini top + denim shorts, sitting on rock with legs crossed, wind in long dark wavy hair, looking at camera with adventurous confident smile, soft overcast light, epic scale, adventure content",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "65112339",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.433Z",
+    "tags": [
+      "-year-old",
+      "red-rock",
+      "dark",
+      "soft",
+      "light",
+      "professional",
+      "influencer",
+      "beautiful",
+      "argentine",
+      "wearing"
+    ]
+  },
+  {
+    "id": "img-1772021837567-h6h2reu1t",
+    "hash": "f79004c36b45aa0fd70d9c7c6d354007",
+    "url": "images/img-027.png",
+    "thumbnail": "images/img-027.png",
+    "filename": "img-027.png",
+    "prompt": "Cozy Instagram photo of stunning Latina influencer in modern apartment, morning light through big windows, wearing oversized boyfriend shirt only (nothing underneath visible but teasing), sitting on kitchen counter with coffee, long dark hair messy, smiling softly at camera, warm natural light, relatable luxury lifestyle vibe",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "723857619",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:17:17.567Z",
+    "tags": [
+      "modern",
+      "light",
+      "dark",
+      "warm",
+      "natural",
+      "instagram",
+      "stunning",
+      "influencer",
+      "apartment",
+      "morning"
+    ]
+  },
+  {
+    "id": "img-1772021920600-aky1jn95n",
+    "hash": "a2e5ba8f5ba33abeee851bee5d2c550e",
+    "url": "images/img-029.png",
+    "thumbnail": "images/img-029.png",
+    "filename": "img-029.png",
+    "prompt": "Stunning 24-year-old Latina woman of Argentine descent lying on white beach towel, sun-kissed caramel tan skin glistening with oil, long dark wavy hair spread out, wearing sheer black bikini top slipping off, toned stomach and cleavage visible, legs slightly bent seductively, looking at camera with bedroom eyes, soft morning sunlight, realistic skin details, tan lines, detailed fabric, erotic glamour shot, 8k, avoid pale Asian skin or straight hair",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "311659544",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:18:40.6Z",
+    "tags": [
+      "-year-old",
+      "sun-kissed",
+      "dark",
+      "soft",
+      "realistic",
+      "detailed",
+      "stunning",
+      "argentine",
+      "descent",
+      "caramel"
+    ]
+  },
+  {
+    "id": "img-1772021920908-ev7ifzal3",
+    "hash": "007b31d7618bbe5f388f74fa166d913a",
+    "url": "images/img-032.png",
+    "thumbnail": "images/img-032.png",
+    "filename": "img-032.png",
+    "prompt": "Voluptuous 26-year-old Colombian-Latina woman with deep bronze skin, thick dark wavy hair, curvaceous body, full breasts and hips, posing seated on edge of bed in lingerie, sultry expression biting lip, soft indoor lighting, realistic skin texture with natural stretch marks subtle, detailed lace, erotic intimate portrait, hyper-detailed, no pale or Asian appearance",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "478282818",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:18:40.908Z",
+    "tags": [
+      "-year-old",
+      "colombian-latina",
+      "dark",
+      "soft",
+      "realistic",
+      "natural",
+      "detailed",
+      "hyper-detailed",
+      "voluptuous",
+      "curvaceous"
+    ]
+  },
+  {
+    "id": "img-1772022023319-nn729bpzq",
+    "hash": "36ed445af3548bd7b76f0f73406da898",
+    "url": "images/img-034.png",
+    "thumbnail": "images/img-034.png",
+    "filename": "img-034.png",
+    "prompt": "An eye-level shot frames a woman seated on a kitchen counter, her legs dangling with red high heels visible in the foreground. She wears a vibrant red mini dress that contrasts sharply with the typical kitchen environment behind her. The composition is deliberately imperfect, with her positioned slightly off-center and the framing cutting off parts of the kitchen cabinets and appliances in the background. Her playful expression includes a genuine smile as she looks directly into the camera lens.The harsh camera flash dominates the lighting, creating that unmistakable early social media photography aesthetic with overexposed highlights on her face and dress, while casting deep shadows behind her against the kitchen cabinets. The flash reflects off the glossy surfaces of kitchen appliances - a refrigerator, microwave, and countertop materials show bright reflective spots. Her skin appears slightly washed out from the direct flash, typical of the retro digital camera look.The kitchen setting includes standard residential elements - white or light-colored cabinets, stainless steel appliances, and a tiled or laminate countertop surface. The woman's red dress appears almost luminous under the flash, while her heels add a bold fashion element against the domestic backdrop. The image shows the characteristic grain and compression artifacts of early digital photography, with slightly blown-out highlights and the particular color saturation that comes from direct flash photography. The overall mood captures that spontaneous, casual glamour typical of early 2000s social media posts.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "192779146",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.319Z",
+    "tags": [
+      "eye-level",
+      "vibrant",
+      "off-center",
+      "bright",
+      "retro",
+      "light-colored",
+      "blown-out",
+      "kitchen",
+      "counter",
+      "dangling"
+    ]
+  },
+  {
+    "id": "img-1772022023444-memq3to1r",
+    "hash": "76479891d02b9a6722235a37e84b3ba6",
+    "url": "images/img-035.png",
+    "thumbnail": "images/img-035.png",
+    "filename": "img-035.png",
+    "prompt": "A horizontal composition captures a woman lying on her side across a bed, positioned in the foreground with the camera at bed level. She wears a flowing silk dress that drapes naturally across her body and the bedding. The pose is relaxed yet deliberately seductive, with her body creating elegant curves against the rumpled sheets and pillows. Her head is propped up slightly, and her gaze meets the camera with a sultry, confident expression.The lighting combines the harsh camera flash in the foreground with the ambient glow of city lights streaming through a large window in the background. The flash illuminates her face and the silk fabric of her dress, creating bright highlights and deep shadows that emphasize the texture of both the silk and the bedding. Through the window, blurred city lights create bokeh effects - points of warm yellow and cool white light that suggest a high-rise urban setting at night.The bedroom setting includes rumpled bedsheets and pillows in neutral tones, while the window reveals the geometric patterns of illuminated building windows in the distance. The silk dress catches the flash with a subtle sheen, and the fabric appears to flow naturally around her form. The image quality shows the grainy, slightly overexposed characteristics of early digital camera flash photography, with compressed shadows and that particular harsh contrast between the flash-lit subject and the darker room. The color palette balances the cool tones of the city lights with the warm highlights from the camera flash, while the silk dress adds textural interest through its reflective properties.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "37607101",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.444Z",
+    "tags": [
+      "bright",
+      "warm",
+      "cool",
+      "light",
+      "high-rise",
+      "grainy",
+      "flash-lit",
+      "horizontal",
+      "composition",
+      "captures"
+    ]
+  },
+  {
+    "id": "img-1772022023529-9k60kikpc",
+    "hash": "33d0a5447da965bd5acd43c8fd47ea92",
+    "url": "images/img-036.png",
+    "thumbnail": "images/img-036.png",
+    "filename": "img-036.png",
+    "prompt": "A straight-on view captures a woman standing directly in front of a bathroom mirror, with the camera positioned to show both her reflection and her actual figure. She wears a form-fitting party dress that hugs her silhouette, and one hand is raised to touch her hair in a casual, confident gesture. Her expression conveys self-assurance as she looks directly at the camera through the mirror. The bathroom setting is clearly visible with typical fixtures and surfaces.The camera flash creates a complex lighting situation with the mirror, producing a visible flash reflection that appears as a bright circular spot in the mirror surface. This creates the authentic early Tumblr aesthetic where flash reflections were common and often left uncorrected. The harsh flash illuminates her face and dress while casting shadows behind her against the bathroom wall. The mirror reflects additional light around the room, creating secondary illumination on bathroom fixtures.The bathroom environment includes standard elements - a medicine cabinet or mirror with visible edges, bathroom tiles or painted walls, and glimpses of typical bathroom accessories. The party dress appears sleek under the flash lighting, while her hair shows individual strands highlighted by the direct illumination. The image captures that characteristic early social media photography look with its imperfect technical execution, visible flash artifacts, and the particular grain and color compression of early digital cameras. The color palette is dominated by the neutral tones of the bathroom setting, the color of her dress, and the cool-white flash illumination that creates stark highlights and shadows.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "589823984",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.529Z",
+    "tags": [
+      "straight-on",
+      "form-fitting",
+      "self-assurance",
+      "complex",
+      "bright",
+      "light",
+      "cool-white",
+      "captures",
+      "standing",
+      "directly"
+    ]
+  },
+  {
+    "id": "img-1772022023651-j59vsqh0u",
+    "hash": "7392450948053a6ce4c4c6c9cf4a644a",
+    "url": "images/img-037.png",
+    "thumbnail": "images/img-037.png",
+    "filename": "img-037.png",
+    "prompt": "A low-angle shot captures a woman seated on the floor, positioned so the camera looks up at her from ground level. She wears a black leather jacket over a mini skirt, with her legs crossed in front of her creating geometric lines in the composition. Her posture is relaxed yet confident as she looks down at the camera with a bold, direct expression. The floor setting appears to be indoors, possibly a living room or bedroom with carpet or hardwood flooring visible.The camera flash provides stark, direct illumination from below, creating dramatic upward lighting that emphasizes her facial features and the texture of the leather jacket. The flash reflects off the leather surface, creating bright highlights and deep creases that show the material's worn, authentic character. Her skin appears slightly overexposed in the typical early digital camera fashion, while shadows fall upward behind her against furniture or walls in the background.The indoor setting includes glimpses of residential furniture - possibly a couch, coffee table, or other living space elements partially visible in the background shadows. The leather jacket shows realistic wear patterns and texture under the flash, while the mini skirt creates a strong silhouette against the floor. The casual glamour aesthetic is enhanced by the particular grain and color compression of early digital photography, with that characteristic harsh contrast between flash-lit subjects and shadowed backgrounds. The color palette centers on the black leather and dark tones of her outfit against the neutral colors of the indoor setting, with the cool-white flash creating stark highlights and deep shadows.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "542945875",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.651Z",
+    "tags": [
+      "low-angle",
+      "dramatic",
+      "bright",
+      "realistic",
+      "flash-lit",
+      "dark",
+      "cool-white",
+      "captures",
+      "positioned",
+      "leather"
+    ]
+  },
+  {
+    "id": "img-1772022023778-mz9sxgb0v",
+    "hash": "a9db59598fb213e4b4518a490eee2cc5",
+    "url": "images/img-038.png",
+    "thumbnail": "images/img-038.png",
+    "filename": "img-038.png",
+    "prompt": "A wide shot captures a woman standing on an apartment or hotel balcony at night, with the sprawling city lights creating a dramatic backdrop behind her. She wears a glitter dress that catches and reflects the camera flash, creating sparkles across the fabric surface. Her confident body language includes a straight posture and direct gaze toward the camera, embodying the early influencer photography style where urban nighttime settings were popular backdrops.The lighting combines the harsh camera flash in the foreground with the ambient glow of the city lights behind her. The flash illuminates her face and the glitter dress, causing the sequins or metallic elements to create bright reflective points across the fabric. The city lights in the background appear as warm yellow and cool white points of light, creating depth and urban atmosphere. The balcony railing and any outdoor furniture catch some of the flash illumination while remaining secondary to the main subject.The urban nighttime setting shows the geometric patterns of illuminated building windows, street lights, and possibly moving vehicle lights in the distance. The glitter dress appears almost luminous under the direct flash, with individual sparkles creating texture and visual interest. The balcony setting includes typical outdoor elements - metal or concrete railings, outdoor flooring, and the open night air. The image quality shows the characteristic early digital camera look with slightly blown-out highlights from the flash and the particular grain pattern of compressed digital files. The color palette balances the warm tones of city lights with the cool flash illumination, while the glitter dress adds dynamic reflective elements throughout the composition.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "796521170",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:20:23.778Z",
+    "tags": [
+      "dramatic",
+      "bright",
+      "warm",
+      "cool",
+      "light",
+      "blown-out",
+      "captures",
+      "standing",
+      "apartment",
+      "balcony"
+    ]
+  }
+]

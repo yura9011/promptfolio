@@ -40,11 +40,6 @@ data/audit-report.json
 data/audit-report.html
 data/cleanup-manifest.json
 
-# Split JSON files (generated from images.json)
-data/index.json
-data/variants/
-data/singles/
-
 # Project documentation (keep private)
 .gsd/
 .planning/

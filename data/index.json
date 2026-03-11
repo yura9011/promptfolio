@@ -1,0 +1,243 @@
+{
+  "version": "2.0",
+  "total_images": 99,
+  "total_variant_groups": 31,
+  "total_singles": 68,
+  "variant_groups": [
+    {
+      "name": "glass-desert-nomads",
+      "file": "variants/glass-desert-nomads.json",
+      "count": 5,
+      "category": "Otros",
+      "prompt_preview": "1970s sci-fantasy illustration, Heavy Metal magazine aesthetic, style of Moebius, full bleed edge-to..."
+    },
+    {
+      "name": "necromancer-mutation",
+      "file": "variants/necromancer-mutation.json",
+      "count": 5,
+      "category": "Otros",
+      "prompt_preview": "1970s dark fantasy illustration, traditional heavy oil painting in the style of Frank Frazetta and B..."
+    },
+    {
+      "name": "dead-god-scavengers",
+      "file": "variants/dead-god-scavengers.json",
+      "count": 5,
+      "category": "Otros",
+      "prompt_preview": "1970s dark science fantasy illustration, style of Moebius and Zdzisław Beksiński. A colossal, decayi..."
+    },
+    {
+      "name": "shattered-moon",
+      "file": "variants/shattered-moon.json",
+      "count": 6,
+      "category": "Otros",
+      "prompt_preview": "1970s vintage science fantasy illustration, airbrush art style of Moebius and Heavy Metal magazine. ..."
+    },
+    {
+      "name": "skull-castle",
+      "file": "variants/skull-castle.json",
+      "count": 6,
+      "category": "Otros",
+      "prompt_preview": "Subject: {Type: Castle, Feature: Skull, Material: Stone}; Environment: {Detail: Lava, Fire, Ruins}; ..."
+    },
+    {
+      "name": "pre-rendered-knight",
+      "file": "variants/pre-rendered-knight.json",
+      "count": 5,
+      "category": "Otros",
+      "prompt_preview": "The Pre-Rendered Knight: Fantasy knight in overly complex, slightly bulky armor with unnecessary spi..."
+    },
+    {
+      "name": "necromancer-graveyard",
+      "file": "variants/necromancer-graveyard.json",
+      "count": 4,
+      "category": "Otros",
+      "prompt_preview": "Subject: {Type: Scene, Action: Spellcasting}; Characters: {Primary: Necromancer (hooded, gaunt), Sec..."
+    },
+    {
+      "name": "hand-labyrinth",
+      "file": "variants/hand-labyrinth.json",
+      "count": 5,
+      "category": "Otros",
+      "prompt_preview": "1970s surreal dark fantasy painting, style of Michael Whelan and Boris Vallejo. A lone, heavily armo..."
+    },
+    {
+      "name": "neo-gothic-y2k",
+      "file": "variants/neo-gothic-y2k.json",
+      "count": 5,
+      "category": "Otros",
+      "prompt_preview": "Neo-Gothic Cityscape (Millennium Bug Mix): Sprawling gothic city fused with clunky, Y2K-era technolo..."
+    },
+    {
+      "name": "anglerfish-sky",
+      "file": "variants/anglerfish-sky.json",
+      "count": 6,
+      "category": "Otros",
+      "prompt_preview": "1970s vintage dark fantasy illustration, style of Frank Frazetta and John Harris. A nightmarish, col..."
+    },
+    {
+      "name": "cosmic-ring-sun",
+      "file": "variants/cosmic-ring-sun.json",
+      "count": 6,
+      "category": "Otros",
+      "prompt_preview": "1970s dark cosmic fantasy illustration, vintage paperback cover art, full bleed edge-to-edge artwork..."
+    },
+    {
+      "name": "cathedral-leviathan",
+      "file": "variants/cathedral-leviathan.json",
+      "count": 5,
+      "category": "Otros",
+      "prompt_preview": "1970s surreal dark fantasy illustration, masterpiece, full bleed edge-to-edge artwork, no frames, no..."
+    },
+    {
+      "name": "domestic-interruption",
+      "file": "variants/domestic-interruption.json",
+      "count": 2,
+      "category": "Otros",
+      "prompt_preview": "<Master_Blueprint> <Global_Concept> <Theme>Domestic Interruption - A Candid Moment of Distraction</T..."
+    },
+    {
+      "name": "argentine-alt-girl",
+      "file": "variants/argentine-alt-girl.json",
+      "count": 3,
+      "category": "Otros",
+      "prompt_preview": "Raw vertical Instagram photo of a 29-year-old Argentine alt girl , shoulder-length black hair with b..."
+    },
+    {
+      "name": "urban-solitude",
+      "file": "variants/urban-solitude.json",
+      "count": 3,
+      "category": "Otros",
+      "prompt_preview": "<Master_Blueprint> <Global_Concept> <Theme>Urban Solitude and Emotional Depletion - A Moment of Ungu..."
+    },
+    {
+      "name": "waterfall-morena",
+      "file": "variants/waterfall-morena.json",
+      "count": 3,
+      "category": "Otros",
+      "prompt_preview": "Authentic Instagram shot of 34-year-old curvy Argentine morena with warm bronze skin, long messy wav..."
+    },
+    {
+      "name": "library-intellectual",
+      "file": "variants/library-intellectual.json",
+      "count": 2,
+      "category": "Otros",
+      "prompt_preview": "Cinematic Instagram photo of a 38-year-old Argentine woman, straight black hair in low messy bun, sh..."
+    },
+    {
+      "name": "solitary-introspection",
+      "file": "variants/solitary-introspection.json",
+      "count": 2,
+      "category": "Otros",
+      "prompt_preview": "<Master_Blueprint> <Global_Concept> <Theme>Solitary Introspection - Moment of Private Contemplation ..."
+    },
+    {
+      "name": "cottagecore-morena",
+      "file": "variants/cottagecore-morena.json",
+      "count": 4,
+      "category": "Otros",
+      "prompt_preview": "Soft natural light Instagram shot of 30-year-old curvy Argentine morena with golden bronze skin, lon..."
+    },
+    {
+      "name": "mirror-selfie-teen",
+      "file": "variants/mirror-selfie-teen.json",
+      "count": 3,
+      "category": "Otros",
+      "prompt_preview": "A close-up view captures a teenager taking a mirror selfie in a cluttered bedroom, shot from a sligh..."
+    },
+    {
+      "name": "img-033",
+      "file": "variants/img-033.json",
+      "count": 3,
+      "category": "Otros",
+      "prompt_preview": "A medium shot captures a young woman positioned in a narrow apartment hallway, framed from a slightl..."
+    },
+    {
+      "name": "img-065",
+      "file": "variants/img-065.json",
+      "count": 5,
+      "category": "Otros",
+      "prompt_preview": "A wide-angle view captures two friends standing on a flat rooftop during the blue hour of dusk, when..."
+    },
+    {
+      "name": "img-073",
+      "file": "variants/img-073.json",
+      "count": 4,
+      "category": "Otros",
+      "prompt_preview": "A close-up shot captures a young woman in her early twenties positioned in front of a bedroom mirror..."
+    },
+    {
+      "name": "img-066",
+      "file": "variants/img-066.json",
+      "count": 3,
+      "category": "Otros",
+      "prompt_preview": "A close-up view shows a person standing in a cramped bathroom taking a mirror selfie, the compositio..."
+    },
+    {
+      "name": "img-067",
+      "file": "variants/img-067.json",
+      "count": 1,
+      "category": "Otros",
+      "prompt_preview": "A medium-wide shot captures the interior of a small house party from a low angle, as if the camera w..."
+    },
+    {
+      "name": "img-070",
+      "file": "variants/img-070.json",
+      "count": 1,
+      "category": "Otros",
+      "prompt_preview": "A wide-angle view captures a person standing alone in a residential kitchen during the deep hours of..."
+    },
+    {
+      "name": "img-088",
+      "file": "variants/img-088.json",
+      "count": 5,
+      "category": "Otros",
+      "prompt_preview": "A wide-angle group shot captures friends gathered in a house party setting, photographed with a comp..."
+    },
+    {
+      "name": "img-086",
+      "file": "variants/img-086.json",
+      "count": 3,
+      "category": "Otros",
+      "prompt_preview": "A three-quarter view portrait captures a young woman posing against a plain interior wall, photograp..."
+    },
+    {
+      "name": "bone-throne-king",
+      "file": "variants/bone-throne-king.json",
+      "count": 3,
+      "category": "Dark Fantasy",
+      "prompt_preview": "1970s dark fantasy masterpiece, style of Wayne Barlowe and Caravaggio, full bleed edge-to-edge artwo..."
+    },
+    {
+      "name": "ribcage-library",
+      "file": "variants/ribcage-library.json",
+      "count": 5,
+      "category": "Dark Fantasy",
+      "prompt_preview": "1970s surreal dark fantasy painting, style of Zdzisław Beksiński. An ancient library where the books..."
+    },
+    {
+      "name": "infinite-aqueduct",
+      "file": "variants/infinite-aqueduct.json",
+      "count": 6,
+      "category": "Surrealismo",
+      "prompt_preview": "Subject: {Type: Architecture, Structure: Infinite Aqueduct};Environment: {Setting: A void of swirlin..."
+    }
+  ],
+  "singles_by_category": {
+    "Otros": {
+      "files": [
+        "singles/otros-1.json",
+        "singles/otros-2.json",
+        "singles/otros-3.json",
+        "singles/otros-4.json"
+      ],
+      "count": 64
+    },
+    "Fotorealismo": {
+      "files": [
+        "singles/fotorealismo.json"
+      ],
+      "count": 4
+    }
+  },
+  "last_updated": "2026-03-10T23:25:14.282Z"
+}

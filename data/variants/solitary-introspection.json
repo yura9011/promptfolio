@@ -1,0 +1,51 @@
+{
+  "id": "variant-solitary-introspection",
+  "variant_group": "solitary-introspection",
+  "prompt": "<Master_Blueprint> <Global_Concept> <Theme>Solitary Introspection - Moment of Private Contemplation in Public Space</Theme> <Atmosphere>Pensive, meditative, quietly observant; a fleeting moment of personal reflection within the everyday urban landscape.</Atmosphere> </Global_Concept> </Master_Blueprint>",
+  "category": "Otros",
+  "tags": [
+    "solitary",
+    "introspection",
+    "moment",
+    "private",
+    "contemplation",
+    "public",
+    "space",
+    "pensive",
+    "meditative",
+    "quietly"
+  ],
+  "created_at": "2026-02-27T19:54:34.660Z",
+  "variants": [
+    {
+      "id": "img-1772006078768-c7zrjm6r0",
+      "hash": "0189505020d0fe50f798f8ed15a17488",
+      "url": "images/img-003.png",
+      "thumbnail": "images/img-003.png",
+      "model": "Z-Image-Turbo",
+      "variant_index": 0,
+      "settings": {
+        "size": "1024 × 1024",
+        "seed": "913382112",
+        "steps": 9,
+        "sampler": "res_multistep",
+        "scheduler": "simple"
+      },
+      "notes": ""
+    },
+    {
+      "id": "img-1772222074694-p7ejxckwx",
+      "hash": "d334f12f35a30f5ef6b1c4481300a45b",
+      "url": "images/img-098.png",
+      "thumbnail": "images/img-098.png",
+      "model": "ImageFX",
+      "variant_index": 2,
+      "settings": {
+        "otros": {
+          "<?xml version": "\"1.0\" encoding=\"UTF-8\"?>"
+        }
+      },
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "variant-img-088",
+  "variant_group": "img-088",
+  "prompt": "A wide-angle group shot captures friends gathered in a house party setting, photographed with a compact digital camera held at arm's length by one of the participants. The composition is chaotic and energetic, with multiple people crowded into the frame at various distances from the camera, some fac",
+  "category": "Otros",
+  "tags": [
+    "wide-angle",
+    "group",
+    "captures",
+    "friends",
+    "gathered",
+    "house",
+    "party",
+    "setting",
+    "photographed",
+    "compact"
+  ],
+  "created_at": "2026-02-28T01:48:01.188Z",
+  "variants": [
+    {
+      "id": "img-1772022484556-0g4052pf0",
+      "hash": "946e15f2c5d269bb09795ed5c5ad0b94",
+      "url": "images/img-088.png",
+      "thumbnail": "images/img-088.png",
+      "model": "Z-Image-Turbo",
+      "variant_index": 0,
+      "settings": {
+        "otros": {
+          "platform": "opensourcegen",
+          "dimensions": "1024 × 1024",
+          "scheduler": "simple",
+          "generated with": "opensourcegen"
+        },
+        "seed": "585172826",
+        "steps": 14,
+        "sampler": "res_multistep"
+      },
+      "notes": ""
+    },
+    {
+      "id": "img-1772243281188-y29utb2oc",
+      "hash": "65173bb4dd7a9c3c60175616cafa780e",
+      "url": "images/img-105.jpg",
+      "thumbnail": "images/img-105.jpg",
+      "model": "Grok",
+      "variant_index": 1,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772243281220-t9wyps08y",
+      "hash": "398463f845f054edd11389cff479c927",
+      "url": "images/img-106.png",
+      "thumbnail": "images/img-106.png",
+      "model": "Grok",
+      "variant_index": 1,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772243281478-2yfxsz6td",
+      "hash": "f38d503dba124b40134bafc98a3dd3ee",
+      "url": "images/img-109.png",
+      "thumbnail": "images/img-109.png",
+      "model": "Unknown",
+      "variant_index": 3,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772243287142-dzizsyhxj",
+      "hash": "ac9e53f483610b5cc74c64a74014c906",
+      "url": "images/img-117.webp",
+      "thumbnail": "images/img-117.webp",
+      "model": "Nano Banana Pro 2",
+      "variant_index": 4,
+      "settings": {},
+      "notes": ""
+    }
+  ]
+}

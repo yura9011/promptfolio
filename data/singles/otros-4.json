@@ -1,0 +1,141 @@
+[
+  {
+    "id": "img-1772022484191-d0t63cc5w",
+    "hash": "1cf43a8fc1992fe202cfda597745d2dd",
+    "url": "images/img-085.png",
+    "thumbnail": "images/img-085.png",
+    "filename": "img-085.png",
+    "prompt": "A bathroom mirror selfie captured with an early 2000s compact digital camera, framed from chest level as the subject holds the camera at arm's length toward the medicine cabinet mirror. The composition shows the classic bathroom selfie setup with the camera's built-in flash creating a bright circular reflection in the mirror's center, partially obscuring the subject's face with overexposed white light. The subject poses casually with one hand holding the small silver camera while maintaining a relaxed, everyday expression.The bathroom environment is authentically lived-in, with a cluttered sink counter displaying various toiletries, bottles, and personal care items scattered across the surface. A towel hangs from a hook or bar in the background, showing natural wrinkles and casual placement. The mirror itself shows typical wear with slight water spots and the accumulated patina of daily use. The lighting is entirely from the camera's direct flash, creating the harsh, flat illumination that washes out skin tones and creates stark shadows behind objects.The image quality displays the characteristic soft blur and low resolution of early consumer digital cameras, with visible compression artifacts and the slightly washed-out colors typical of automatic white balance systems from this era. The overall aesthetic captures the intimate, unguarded quality of private space photography that became central to early social media culture. The color palette consists of neutral bathroom tones - white fixtures, beige or pale blue walls, and the warm skin tones rendered with typical digital camera color processing, all unified by the cool-white flash illumination that defines the nostalgic internet photo aesthetic.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "248149211",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.191Z",
+    "tags": [
+      "classic",
+      "built-in",
+      "bright",
+      "light",
+      "lived-in",
+      "natural",
+      "soft",
+      "washed-out",
+      "warm",
+      "cool-white"
+    ]
+  },
+  {
+    "id": "img-1772022484431-9f2vkrk42",
+    "hash": "9bbaf02935c0009b047e446314782ff6",
+    "url": "images/img-087.png",
+    "thumbnail": "images/img-087.png",
+    "filename": "img-087.png",
+    "prompt": "An intimate medium shot captures a person sitting on the edge of an unmade bed, holding a handwritten note or letter toward the camera, photographed with an early digital camera's built-in flash creating dramatic, emotional lighting. The composition is centered but slightly unstable, suggesting the handheld, spontaneous nature of the moment. The subject's posture conveys vulnerability - shoulders slightly hunched, head tilted downward, with the paper held prominently in the foreground as a key narrative element.The bedroom environment appears personal and lived-in, with rumpled bedding in dark colors, personal items scattered on nearby surfaces, and the intimate clutter of private space. The lighting is dominated by the camera's direct flash, creating the harsh contrast between bright illumination on the subject and deep shadows in the room's corners. This dramatic lighting emphasizes the emotional weight of the scene while producing the technical characteristics of early digital photography - overexposed highlights on skin and paper, with the flash creating a slight red-eye effect or unnatural skin tones.The image quality shows the low resolution and compression artifacts typical of early 2000s consumer cameras, with visible noise in darker areas and the slightly pixelated edges that characterized this technology. The handwritten text on the paper remains partially legible, showing personal handwriting in blue or black ink. The overall aesthetic captures the raw, unfiltered emotional expression that defined early social media culture, where technical imperfection enhanced rather than detracted from authentic human moments. The color palette is dominated by the cool-white flash illumination against warm bedroom tones, with the white paper serving as a bright focal point that draws attention to the written message and the emotional narrative it represents.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "351989505",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.431Z",
+    "tags": [
+      "built-in",
+      "dramatic",
+      "lived-in",
+      "dark",
+      "bright",
+      "red-eye",
+      "cool-white",
+      "warm",
+      "intimate",
+      "captures"
+    ]
+  },
+  {
+    "id": "img-1772022484655-x49xilglk",
+    "hash": "9917f5a87eeca11a24fdc4227482f31e",
+    "url": "images/img-089.png",
+    "thumbnail": "images/img-089.png",
+    "filename": "img-089.png",
+    "prompt": "A moody portrait captures a solitary figure positioned near a window in a dimly lit room, photographed with an early digital camera that struggles with the low-light conditions, producing the characteristic noise and soft focus of consumer electronics pushed beyond their optimal range. The composition places the subject off-center, with the window serving as the primary light source creating dramatic side lighting that illuminates half the face while leaving the other half in deep shadow. The subject's pose suggests contemplation or melancholy, with their gaze directed toward the window or slightly away from the camera.The room environment appears deliberately atmospheric - dark walls, minimal lighting, and personal items that suggest an artistic or alternative lifestyle. Posters, books, or creative materials may be visible in the shadowed areas, though the camera's limited dynamic range renders these details as dark, mysterious shapes. The window light creates a strong contrast between the bright exterior and the dim interior, producing the kind of dramatic chiaroscuro effect that early internet artists sought to achieve with basic equipment.The image quality shows significant digital noise in the shadow areas, with the camera's automatic settings struggling to balance the extreme contrast between light and dark areas. Colors appear desaturated and slightly shifted due to the mixed lighting conditions and the camera's limited color processing capabilities. The overall aesthetic captures the experimental, artistic ambitions of early internet photography communities like DeviantArt, where technical limitations were embraced as part of the creative process. The color palette is dominated by cool blue-grey tones from the window light contrasted against warm, muted colors in the shadowed interior spaces, creating the melancholic, introspective mood that defined early digital art photography and alternative online communities.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "otros": {
+        "platform": "opensourcegen",
+        "dimensions": "1024 × 1024",
+        "scheduler": "simple",
+        "generated with": "opensourcegen"
+      },
+      "seed": "204202597",
+      "steps": 14,
+      "sampler": "res_multistep"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T12:28:04.655Z",
+    "tags": [
+      "moody",
+      "low-light",
+      "soft",
+      "off-center",
+      "light",
+      "dramatic",
+      "atmospheric",
+      "dark",
+      "minimal",
+      "bright"
+    ]
+  },
+  {
+    "id": "img-1772027774415-xdn70vlko",
+    "hash": "2974c76a7872ce4169246c5d0e6ff9d4",
+    "url": "images/img-099.jpeg",
+    "thumbnail": "images/img-099.jpeg",
+    "filename": "img-099.jpeg",
+    "prompt": "Digitally painted sorceress portrait. A mystical female character with glowing eyes and magical aura. Dark fantasy aesthetic with intricate details and dramatic lighting. High detail illustration style.",
+    "model": "Z-Image-Turbo",
+    "category": "Otros",
+    "achievement": false,
+    "settings": {
+      "size": "1024 × 1024",
+      "steps": 9,
+      "sampler": "res_multistep",
+      "scheduler": "simple"
+    },
+    "notes": "",
+    "created_at": "2026-02-25T13:56:14.415Z",
+    "tags": [
+      "dark",
+      "dramatic",
+      "digitally",
+      "painted",
+      "sorceress",
+      "mystical",
+      "character",
+      "glowing",
+      "magical",
+      "fantasy"
+    ]
+  }
+]

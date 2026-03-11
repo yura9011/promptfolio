@@ -1,0 +1,42 @@
+{
+  "id": "variant-img-070",
+  "variant_group": "img-070",
+  "prompt": "A wide-angle view captures a person standing alone in a residential kitchen during the deep hours of night, the scene lit by the harsh white glow of an open refrigerator door and the softer ambient light from under-cabinet fixtures or a small appliance display. The composition is framed from across",
+  "category": "Otros",
+  "tags": [
+    "wide-angle",
+    "captures",
+    "person",
+    "standing",
+    "alone",
+    "residential",
+    "kitchen",
+    "deep",
+    "hours",
+    "night"
+  ],
+  "created_at": "2026-02-28T01:48:00.862Z",
+  "variants": [
+    {
+      "id": "img-1772022402140-9h2t8b5z1",
+      "hash": "cff15c82680f445193f834303436dab5",
+      "url": "images/img-070.png",
+      "thumbnail": "images/img-070.png",
+      "model": "Z-Image-Turbo",
+      "variant_index": 0,
+      "settings": {
+        "otros": {
+          "platform": "opensourcegen",
+          "a wide-angle view captures a person standing alone in a residential kitchen during the deep hours of night, the scene lit by the harsh white glow of an open refrigerator door and the softer ambient light from under-cabinet fixtures or a small appliance display. the composition is framed from across the kitchen, creating a sense of domestic intimacy while emphasizing the solitude of the late-night moment.the person stands directly in front of the open refrigerator, their silhouette backlit by the bright interior light that spills across the kitchen floor in a rectangular pool. they hold a cereal box in both hands, eating directly from the container in the casual, unguarded way of someone who believes they are unobserved. their posture is relaxed and slightly slouched, wearing comfortable sleepwear or casual clothes - perhaps an oversized t-shirt and shorts or pajama pants.the refrigerator's interior light creates dramatic chiaroscuro lighting, casting the person's face in bright illumination while their back remains in shadow. the light reveals the kitchen's details": "countertops with their particular surface texture - whether laminate, granite, or tile - showing the accumulated patina of daily use. Small appliances sit in their designated spots, their LED displays or indicator lights adding small points of colored illumination to the scene.On the kitchen table or counter, a smartphone lies face-up, its screen either dark or glowing softly with notifications, creating a small pool of blue-white light on the surface. The device appears abandoned temporarily, suggesting this is a brief interruption in late-night digital activity. Around it, the surface shows the authentic clutter of daily life - perhaps a glass with water rings, keys, or other small personal items.The kitchen itself shows the lived-in quality of a real home: cabinet doors with visible wear around the handles, a dish towel draped over the oven handle, small appliances positioned for convenience rather than aesthetics. The flooring - whether tile, hardwood, or linoleum - reflects the refrigerator light in realistic patterns that show its texture and any accumulated wear.The lighting creates a complex interplay between the cold, bright white of the refrigerator interior, the warm yellow glow of under-cabinet lighting, and the cool blue light from the phone screen. This mixed lighting creates authentic color temperature variations across different surfaces and adds to the intimate, unguarded quality of the scene. The overall atmosphere captures the particular solitude of late-night domestic moments, when hunger or restlessness drives people to wander their own homes in the quiet hours, creating small rituals of comfort in familiar spaces.",
+          "dimensions": "1024 × 1024",
+          "scheduler": "simple",
+          "generated with": "opensourcegen"
+        },
+        "seed": "832411855",
+        "steps": 14,
+        "sampler": "res_multistep"
+      },
+      "notes": ""
+    }
+  ]
+}

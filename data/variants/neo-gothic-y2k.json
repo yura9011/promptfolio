@@ -1,0 +1,71 @@
+{
+  "id": "variant-neo-gothic-y2k",
+  "variant_group": "neo-gothic-y2k",
+  "prompt": "Neo-Gothic Cityscape (Millennium Bug Mix): Sprawling gothic city fused with clunky, Y2K-era technology. Cables snake across ancient stone, flickering CRT monitors embedded in walls display arcane symbols, neon lights buzz alongside gargoyles. Dark, oppressive atmosphere. Mix of medieval and retro-futuristic tech. --ar 16:9 --s 700 --chaos 5 --v 5.2",
+  "category": "Otros",
+  "tags": [
+    "neo-gothic",
+    "cityscape",
+    "millennium",
+    "bug",
+    "mix",
+    "sprawling",
+    "gothic",
+    "city",
+    "fused",
+    "clunky"
+  ],
+  "created_at": "2026-02-27T04:48:08.640Z",
+  "variants": [
+    {
+      "id": "img-1772167688640-juz6qygb5",
+      "hash": "00f51db909fdd2678d814de8bc1a7006",
+      "url": "images/img-104.jpg",
+      "thumbnail": "images/img-104.jpg",
+      "model": "Grok",
+      "variant_index": 1,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772167692510-lojeu7fnt",
+      "hash": "68e0357a4a8687742cc2603cdebb17ac",
+      "url": "images/img-128.png",
+      "thumbnail": "images/img-128.png",
+      "model": "Krea",
+      "variant_index": 3,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772167696096-f7pc80tr9",
+      "hash": "2c820b3b538282729b79354ea0890c2c",
+      "url": "images/img-140.jpeg",
+      "thumbnail": "images/img-140.jpeg",
+      "model": "NanoBananaPro2",
+      "variant_index": 4,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772167695731-6g6u9nh49",
+      "hash": "41be407d7e3668427d29bbf9d3c5dbed",
+      "url": "images/img-137.jpeg",
+      "thumbnail": "images/img-137.jpeg",
+      "model": "NanoBananaPro",
+      "variant_index": 5,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772167697797-2r2urxpfk",
+      "hash": "84aea6e1c25a45ecf777f20d70451620",
+      "url": "images/img-149.png",
+      "thumbnail": "images/img-149.png",
+      "model": "Z-Image",
+      "variant_index": 6,
+      "settings": {},
+      "notes": ""
+    }
+  ]
+}

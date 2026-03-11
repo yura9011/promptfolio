@@ -1,0 +1,61 @@
+{
+  "id": "variant-img-033",
+  "variant_group": "img-033",
+  "prompt": "A medium shot captures a young woman positioned in a narrow apartment hallway, framed from a slightly low angle that emphasizes her confident stance. She stands with one leg bent at the knee, creating an asymmetrical pose that adds dynamic energy to",
+  "category": "Otros",
+  "tags": [
+    "medium",
+    "captures",
+    "young",
+    "woman",
+    "positioned",
+    "narrow",
+    "apartment",
+    "hallway",
+    "framed",
+    "slightly"
+  ],
+  "created_at": "2026-02-28T01:47:54.358Z",
+  "variants": [
+    {
+      "id": "img-1772022023187-2h2qovfhn",
+      "hash": "44248a2bbb2e270aa80aebfa8e28e401",
+      "url": "images/img-033.png",
+      "thumbnail": "images/img-033.png",
+      "model": "Z-Image-Turbo",
+      "variant_index": 0,
+      "settings": {
+        "otros": {
+          "platform": "opensourcegen",
+          "dimensions": "1024 × 1024",
+          "scheduler": "simple",
+          "generated with": "opensourcegen"
+        },
+        "seed": "361166702",
+        "steps": 14,
+        "sampler": "res_multistep"
+      },
+      "notes": ""
+    },
+    {
+      "id": "img-1772243281649-jfkgdsytt",
+      "hash": "b4ba53af940f1e7d2d70d8aab3d82e18",
+      "url": "images/img-111.jpeg",
+      "thumbnail": "images/img-111.jpeg",
+      "model": "Nano Banana Pro",
+      "variant_index": 3,
+      "settings": {},
+      "notes": ""
+    },
+    {
+      "id": "img-1772243285182-94dfn3byb",
+      "hash": "bb3f91a424a1ab13b7f20a36c49eeaee",
+      "url": "images/img-116.jpeg",
+      "thumbnail": "images/img-116.jpeg",
+      "model": "Nano Banana Pro 2",
+      "variant_index": 4,
+      "settings": {},
+      "notes": ""
+    }
+  ]
+}
