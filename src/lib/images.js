@@ -24,7 +24,7 @@ function formatDateLabel(date) {
   };
 }
 
-export function getAllImages() {
+export function getAllImages(base = '') {
   if (!fs.existsSync(IMAGES_DIR)) return [];
 
   const files = fs.readdirSync(IMAGES_DIR);
@@ -47,7 +47,7 @@ export function getAllImages() {
       .replace(/\b\w/g, c => c.toUpperCase());
 
     images.push({
-      src: `/images/${f}`,
+      src: `${base}/images/${f}`,
       date,
       dayKey: `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`,
       title,

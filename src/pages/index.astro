@@ -3,7 +3,8 @@ import Layout from '../layouts/Layout.astro';
 import Gallery from '../components/Gallery.astro';
 import { getAllImages, groupByDay } from '../lib/images';
 
-const images = getAllImages();
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const images = getAllImages(base);
 const groups = groupByDay(images);
 ---
 
