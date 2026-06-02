@@ -1,0 +1,89 @@
+---
+import DayDivider from './DayDivider.astro';
+import ImageCard from './ImageCard.astro';
+
+const { groups } = Astro.props;
+---
+
+{
+  groups.map((group) => (
+    <section class="day-section">
+      <DayDivider
+        title={group.dayKey}
+        day={group.day}
+        month={group.month}
+        year={group.year}
+        dayName={group.dayName}
+      />
+      <div class="grid">
+        {group.images.map((img, i) => (
+          <div class="grid__item" style={`--card-index: ${i}`}>
+            <ImageCard src={img.src} title={img.title} />
+          </div>
+        ))}
+      </div>
+    </section>
+  ))
+}
+
+<style>
+  .day-section {
+    padding-bottom: 2rem;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+    padding: 0 4rem;
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+  .grid__item {
+    width: 100%;
+  }
+
+  .grid__item:nth-child(4n+1),
+  .grid__item:nth-child(4n+4) {
+    grid-column: span 2;
+  }
+
+  .grid__item:nth-child(4n+2),
+  .grid__item:nth-child(4n+3) {
+    grid-column: span 1;
+  }
+
+  @media (max-width: 1024px) {
+    .grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1rem;
+      padding: 0 2rem;
+    }
+
+    .grid__item:nth-child(4n+1),
+    .grid__item:nth-child(4n+4),
+    .grid__item:nth-child(4n+2),
+    .grid__item:nth-child(4n+3) {
+      grid-column: span 1;
+    }
+
+    .grid__item:first-child {
+      grid-column: span 2;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .grid {
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+      padding: 0 1rem;
+    }
+
+    .grid__item:first-child,
+    .grid__item:nth-child(4n+1),
+    .grid__item:nth-child(4n+4) {
+      grid-column: span 1;
+    }
+  }
+</style>
