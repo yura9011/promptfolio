@@ -1,13 +1,15 @@
 // Service Worker for PWA
-const CACHE_NAME = 'promptfolio-v4';
+const CACHE_NAME = 'promptfolio-v5';
 const urlsToCache = [
   '/promptfolio/',
   '/promptfolio/index.html',
   '/promptfolio/css/main.css',
   '/promptfolio/css/responsive.css',
   '/promptfolio/js/app.js',
+  '/promptfolio/js/data-loader.js',
   '/promptfolio/js/gallery.js',
   '/promptfolio/js/modal.js',
+  '/promptfolio/js/search.js',
   '/promptfolio/favicon.svg'
 ];
 
@@ -25,8 +27,8 @@ self.addEventListener('install', event => {
 self.addEventListener('fetch', event => {
   const url = new URL(event.request.url);
   
-  // Always fetch fresh data for images.json
-  if (url.pathname.includes('images.json')) {
+  // Always fetch fresh data for JSON files
+  if (url.pathname.includes('images.json') || url.pathname.includes('data/')) {
     event.respondWith(
       fetch(event.request)
         .catch(() => caches.match(event.request))
