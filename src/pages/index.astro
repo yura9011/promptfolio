@@ -9,5 +9,33 @@ const groups = groupByDay(images);
 ---
 
 <Layout title="promptfolio">
+  <header class="frame">
+    <h1 class="frame__title">promptfolio</h1>
+  </header>
   <Gallery groups={groups} />
 </Layout>
+
+<style>
+  .frame {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
+    pointer-events: none;
+    mix-blend-mode: difference;
+    color: #fff;
+    font-family: var(--font-serif);
+  }
+
+  .frame__title {
+    font-size: clamp(1.2rem, 3vw, 2rem);
+    font-weight: 400;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+  }
+</style>

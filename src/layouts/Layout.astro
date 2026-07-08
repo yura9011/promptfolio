@@ -13,13 +13,21 @@ const { title = 'promptfolio' } = Astro.props;
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>◊</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Asul:wght@400;700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="grain"></div>
-  <div class="smoke"></div>
+  <div class="overlay" id="loader">
+    <div class="loader-bar">
+      <div class="loader-bar__fill" id="loader-fill"></div>
+    </div>
+  </div>
+
   <main>
     <slot />
   </main>
+
   <div class="lightbox" id="lightbox" role="dialog" aria-hidden="true">
     <button class="lightbox__close" id="lb-close" aria-label="Cerrar">&times;</button>
     <button class="lightbox__nav lightbox__nav--prev" id="lb-prev" aria-label="Anterior">&larr;</button>
@@ -85,6 +93,44 @@ const { title = 'promptfolio' } = Astro.props;
       lb.addEventListener('click', (e) => {
         if (e.target === lb) close();
       });
+
+      // Loader: hide when images are ready
+      const imgs = document.querySelectorAll('.card__image');
+      let loaded = 0;
+      const total = imgs.length;
+
+      function updateLoader() {
+        const pct = total ? Math.min(loaded / total, 1) : 1;
+        const fill = document.getElementById('loader-fill');
+        if (fill) fill.style.transform = `scaleX(${pct})`;
+        if (pct >= 1) {
+          const overlay = document.getElementById('loader');
+          if (overlay) {
+            overlay.classList.add('overlay--hidden');
+            setTimeout(() => { overlay.style.display = 'none'; }, 500);
+          }
+        }
+      }
+
+      if (total === 0) {
+        updateLoader();
+      } else {
+        imgs.forEach(img => {
+          if (img.complete) {
+            loaded++;
+            updateLoader();
+          } else {
+            img.addEventListener('load', () => {
+              loaded++;
+              updateLoader();
+            });
+            img.addEventListener('error', () => {
+              loaded++;
+              updateLoader();
+            });
+          }
+        });
+      }
     })();
   </script>
 </body>
@@ -94,14 +140,17 @@ const { title = 'promptfolio' } = Astro.props;
   *, *::before, *::after { box-sizing: border-box; }
 
   :root {
-    --bg: #0B0B0B;
-    --ink: #D9D3C4;
-    --text-primary: #E8E8E8;
-    --text-muted: #666666;
+    --bg: #000;
+    --text-primary: #fff;
+    --text-muted: #888;
+    --color-link: #fff;
+    --color-link-hover: #fff;
+    --font-sans: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --font-serif: 'Asul', serif;
   }
 
   html {
-    font-size: 16px;
+    font-size: 12px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
@@ -111,34 +160,59 @@ const { title = 'promptfolio' } = Astro.props;
     padding: 0;
     background: var(--bg);
     color: var(--text-primary);
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-family: var(--font-sans);
     font-weight: 300;
     line-height: 1.6;
     min-height: 100vh;
     overflow-x: hidden;
   }
 
-  .grain {
-    position: fixed;
-    inset: 0;
-    z-index: 9998;
-    pointer-events: none;
-    opacity: 0.025;
-    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-    background-repeat: repeat;
-    background-size: 256px 256px;
+  a {
+    text-decoration: none;
+    color: var(--color-link);
+    outline: none;
+    cursor: pointer;
   }
 
-  .smoke {
-    position: fixed;
-    inset: 0;
-    z-index: 0;
-    pointer-events: none;
-    background:
-      radial-gradient(ellipse 90% 60% at 0% 20%, rgba(217, 211, 196, 0.015) 0%, transparent 70%),
-      radial-gradient(ellipse 70% 50% at 100% 80%, rgba(217, 211, 196, 0.01) 0%, transparent 70%);
+  a:hover {
+    text-decoration: underline;
+    color: var(--color-link-hover);
   }
 
+  /* Loader */
+  .overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    transition: opacity 0.5s ease-out;
+  }
+
+  .overlay--hidden {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .loader-bar {
+    width: 200px;
+    background: rgba(101, 82, 60, 0.1);
+    height: 4px;
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .loader-bar__fill {
+    height: 100%;
+    width: 100%;
+    transform-origin: left;
+    background: rgb(101, 82, 60);
+    transform: scaleX(0);
+  }
+
+  /* Lightbox */
   .lightbox {
     position: fixed;
     inset: 0;
