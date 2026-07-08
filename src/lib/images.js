@@ -2,6 +2,17 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const IMAGES_DIR = path.join(process.cwd(), 'public', 'images');
+const CONFIG_PATH = path.join(process.cwd(), 'src', 'lib', 'images.config.json');
+
+function getExcludedSet() {
+  try {
+    const raw = fs.readFileSync(CONFIG_PATH, 'utf-8');
+    const { exclude } = JSON.parse(raw);
+    return new Set(exclude || []);
+  } catch {
+    return new Set();
+  }
+}
 
 function parseTimestamp(str) {
   const year = str.slice(0, 4);
@@ -28,10 +39,12 @@ export function getAllImages(base = '') {
   if (!fs.existsSync(IMAGES_DIR)) return [];
 
   const files = fs.readdirSync(IMAGES_DIR);
+  const excluded = getExcludedSet();
   const images = [];
 
   for (const f of files) {
     if (!/\.(jpe?g|png|webp|gif|avif)$/i.test(f)) continue;
+    if (excluded.has(f)) continue;
 
     const stats = fs.statSync(path.join(IMAGES_DIR, f));
     const tsMatch = f.match(/(\d{12})/);
