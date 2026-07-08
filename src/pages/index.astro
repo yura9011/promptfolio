@@ -1,18 +1,18 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Gallery from '../components/Gallery.astro';
-import { getAllImages, groupByDay } from '../lib/images';
+import InfiniteCanvas from '../components/InfiniteCanvas';
+import { getAllImages } from '../lib/images';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const images = getAllImages(base);
-const groups = groupByDay(images);
+const imageSrcs = images.map(i => i.src);
 ---
 
 <Layout title="promptfolio">
   <header class="frame">
     <h1 class="frame__title">promptfolio</h1>
   </header>
-  <Gallery groups={groups} />
+  <InfiniteCanvas images={imageSrcs} client:only="react" />
 </Layout>
 
 <style>
