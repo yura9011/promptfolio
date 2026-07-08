@@ -2,29 +2,140 @@
 import ImageCard from './ImageCard.astro';
 
 const { groups } = Astro.props;
+
+const allImages = [];
+for (const group of groups) {
+  for (const img of group.images) {
+    allImages.push(img);
+  }
+}
 ---
 
-{
-  groups.map((group) => (
-    <section class="day-section">
-      {group.images.map((img, i) => (
-        <ImageCard src={img.src} title={img.title} index={i} />
-      ))}
-    </section>
-  ))
-}
+<div class="gallery-controls">
+  <nav class="size-controls">
+    <button data-cols="10" aria-label="10 columnas">▫▫▫</button>
+    <button data-cols="8" class="active" aria-label="8 columnas">▫▫▫</button>
+    <button data-cols="6" aria-label="6 columnas">▫▫▫</button>
+    <button data-cols="4" aria-label="4 columnas">▫▫▫</button>
+  </nav>
+</div>
+
+<div class="grid" id="gallery-grid" data-columns="8">
+  {allImages.map((img, i) => (
+    <ImageCard src={img.src} title={img.title} index={i} />
+  ))}
+</div>
+
+<script>
+  import gsap from 'gsap';
+  import { Flip } from 'gsap/Flip';
+
+  gsap.registerPlugin(Flip);
+
+  const grid = document.getElementById('gallery-grid');
+  if (!grid) throw new Error('gallery-grid not found');
+
+  const buttons = document.querySelectorAll('.size-controls button');
+  let animated = false;
+
+  buttons.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      if (animated) return;
+      const cols = btn.dataset.cols;
+      if (cols === grid.dataset.columns) return;
+
+      const items = grid.querySelectorAll('.card');
+      if (!items.length) return;
+
+      animated = true;
+      const state = Flip.getState(items);
+
+      grid.dataset.columns = cols;
+      buttons.forEach((b) => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      Flip.from(state, {
+        duration: 0.6,
+        ease: 'expo.inOut',
+        onComplete: () => {
+          animated = false;
+        },
+      });
+    });
+  });
+
+  // Double-click to expand/collapse image in grid
+  grid.addEventListener('dblclick', (e) => {
+    const card = e.target.closest('.card');
+    if (!card) return;
+
+    const items = grid.querySelectorAll('.card');
+    const state = Flip.getState(items);
+
+    card.classList.toggle('expanded');
+
+    Flip.from(state, {
+      duration: 0.5,
+      ease: 'power2.inOut',
+    });
+  });
+</script>
 
 <style>
-  .day-section {
+  .gallery-controls {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: linear-gradient(to bottom, var(--bg) 60%, transparent);
+  }
+
+  .size-controls {
+    display: flex;
+    gap: 1px;
+    background: #333;
+    border: 1px solid #333;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+
+  .size-controls button {
+    background: #000;
+    color: #666;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.65rem;
+    letter-spacing: 0.15em;
+    transition: background 0.2s, color 0.2s;
+  }
+
+  .size-controls button.active {
+    background: #444;
+    color: var(--text-primary);
+  }
+
+  .size-controls button:not(.active):hover {
+    background: #1a1a1a;
+    color: #999;
+  }
+
+  .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 0;
+    gap: 2px;
     width: 100%;
   }
 
-  @media (max-width: 640px) {
-    .day-section {
-      grid-template-columns: 1fr;
-    }
+  .grid[data-columns="4"] { grid-template-columns: repeat(4, 1fr); }
+  .grid[data-columns="6"] { grid-template-columns: repeat(6, 1fr); }
+  .grid[data-columns="8"] { grid-template-columns: repeat(8, 1fr); }
+  .grid[data-columns="10"] { grid-template-columns: repeat(10, 1fr); }
+
+  @media (max-width: 768px) {
+    .grid[data-columns] { grid-template-columns: repeat(2, 1fr); }
+    .size-controls { display: none; }
   }
 </style>
