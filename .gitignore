@@ -47,14 +47,11 @@ data/cleanup-manifest.json
 .planning/
 .summaries/
 docs/
-SPEC.md
-ROADMAP.md
-STATE.md
-COMMANDS.md
-DEPLOY.md
+*.md
+!README.md
 DEPLOY-NOW.txt
-ENHANCEMENTS.md
-MILESTONE-TAGS.md
-PROJECT-COMPLETE.md
-QUICKSTART.md
 uploads/
+
+# Temp / generated
+cleanup-manifest.json
+data/images.json.backup
