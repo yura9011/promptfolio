@@ -13,11 +13,11 @@ export default function InfiniteCanvas({ images }: Props) {
   const deactivate = useCallback(() => setActive(false), [])
 
   useEffect(() => {
-    (window as any).__activateCanvas = activate
-    (window as any).__deactivateCanvas = deactivate
+    (window as any).__activateCanvas = activate;
+    (window as any).__deactivateCanvas = deactivate;
     return () => {
-      delete (window as any).__activateCanvas
-      delete (window as any).__deactivateCanvas
+      delete (window as any).__activateCanvas;
+      delete (window as any).__deactivateCanvas;
     }
   }, [activate, deactivate])
 
