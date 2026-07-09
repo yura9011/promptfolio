@@ -1,19 +1,52 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Gallery from '../components/Gallery.astro';
 import InfiniteCanvas from '../components/InfiniteCanvas';
-import { getAllImages } from '../lib/images';
+import { getAllImages, groupByDay } from '../lib/images';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const images = getAllImages(base);
+const groups = groupByDay(images);
 const imageSrcs = images.map(i => i.src);
 ---
 
 <Layout title="promptfolio">
   <header class="frame">
     <h1 class="frame__title">promptfolio</h1>
+    <button class="frame__toggle" id="view-toggle" aria-label="Cambiar vista">🌐 3D</button>
   </header>
-  <InfiniteCanvas images={imageSrcs} client:only="react" />
+
+  <div id="view-grid">
+    <Gallery groups={groups} />
+  </div>
+
+  <div id="view-canvas" style="display:none">
+    <InfiniteCanvas images={imageSrcs} client:only="react" />
+  </div>
 </Layout>
+
+<script>
+  const toggle = document.getElementById('view-toggle');
+  const grid = document.getElementById('view-grid');
+  const canvas = document.getElementById('view-canvas');
+
+  let is3D = false;
+
+  toggle?.addEventListener('click', () => {
+    is3D = !is3D;
+    if (is3D) {
+      grid.style.display = 'none';
+      canvas.style.display = 'block';
+      toggle.textContent = '▣ Grid';
+      (window as any).__activateCanvas?.();
+    } else {
+      grid.style.display = '';
+      canvas.style.display = 'none';
+      toggle.textContent = '🌐 3D';
+      (window as any).__deactivateCanvas?.();
+    }
+  });
+</script>
 
 <style>
   .frame {
@@ -22,9 +55,10 @@ const imageSrcs = images.map(i => i.src);
     left: 0;
     width: 100%;
     z-index: 1000;
-    padding: 1.5rem;
+    padding: 1.5rem 2rem;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
     pointer-events: none;
     mix-blend-mode: difference;
     color: #fff;
@@ -37,5 +71,24 @@ const imageSrcs = images.map(i => i.src);
     margin: 0;
     text-transform: uppercase;
     letter-spacing: 0.15em;
+  }
+
+  .frame__toggle {
+    pointer-events: auto;
+    background: none;
+    border: 1px solid rgba(255,255,255,0.3);
+    color: #fff;
+    font-family: var(--font-sans);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 0.4rem 0.8rem;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: border-color 0.2s;
+  }
+
+  .frame__toggle:hover {
+    border-color: #fff;
   }
 </style>
